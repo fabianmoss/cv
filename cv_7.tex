@@ -1,0 +1,306 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% "ModernCV" CV and Cover Letter
+% LaTeX Template
+% Version 1.3 (29/10/16)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Xavier Danaux (xdanaux@gmail.com) with modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template requires the moderncv.cls and .sty files to be in the same 
+% directory as this .tex file. These files provide the resume style and themes 
+% used for structuring the document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[10pt,a4paper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+
+\moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{red} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+\usepackage{multicol}
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+\usepackage[hyperref]{}
+\usepackage[scale=0.8]{geometry} % Reduce document margins
+%\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
+% \setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Fabian C.} % Your first name
+\familyname{Moss} % Your last name
+
+% All information in this block is optional, comment out any lines you don't need
+%\title{Curriculum Vitae}
+\address{Chemin de Renens 18}{CH-1004 Lausanne}
+\mobile{(+41) 78 700 8485}
+%\phone{(000) 111 1112}
+%\fax{(000) 111 1113}
+\email{fabian.moss@epfl.ch}
+% \email{asinha@mt.iitr.ac.in}
+\homepage{fabian-moss.de}{www.fabian-moss.de} % The first argument is the url for the clickable link, the second argument is the url displayed in the template - this allows special characters to be displayed such as the tilde in this example
+% \extrainfo{\href{https://twitter.com/fabianmoss}{Twitter: {@}fabianmoss}}
+% \photo[70pt][0.4pt]{pictures/picture} % The first bracket is the picture height, the second is the thickness of the frame around the picture (0pt for no frame)
+% \quote{"A witty and playful quotation" - John Smith}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	COVER LETTER
+%----------------------------------------------------------------------------------------
+
+% To remove the cover letter, comment out this entire block
+
+%\recipient{HR Department}{Corporation\\123 Pleasant Lane\\12345 City, State} % Letter recipient
+%\date{\today} % Letter date
+%\opening{Dear Sir or Madam,} % Opening greeting
+%\closing{Sincerely yours,} % Closing phrase
+%\enclosure[Attached]{curriculum vit\ae{}} % List of enclosed documents
+%
+%\makelettertitle % Print letter title
+%
+%\lipsum[1-2] % Dummy text
+%\lipsum[4] % Dummy text
+%
+%\makeletterclosing % Print letter signature
+%
+%\newpage
+
+%----------------------------------------------------------------------------------------
+%	CURRICULUM VITAE
+%----------------------------------------------------------------------------------------
+
+\makecvtitle % Print the CV title
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Education}
+
+\cventry{2017--2019}{{\'E}cole Polytechnique F{\'e}d{\'e}rale de Lausanne (EPFL)}{\newline Digital and Cognitive Musicology Lab (DCML)}{Doctoral Assistant}{}{}  % Arguments not required can be left empty
+
+\cventry{2015--2017}{Technische Univserit{\"a}t Dresden (TUD)}{\newline Dresden Music Cognition Lab (DMCL)}{Doctoral Assistant}{}{}  % Arguments not required can be left empty
+
+\cventry{2011--2013}{Hochschule f{\"u}r Musik und Tanz K{\"o}ln (HfMT)}{\newline Musicology}{Master of Arts}{}{}  % Arguments not required can be left empty
+
+\cventry{2008--2013}{Hochschule f{\"u}r Musik und Tanz K{\"o}ln (HfMT)}{\newline Music Education}{Staatexamen (State Examination)}{}{}  % Arguments not required can be left empty
+
+\cventry{2006--2016}{Univserit{\"a}t zu K{\"o}ln (UK)}{\newline Mathematics and Educational Sciences}{Staatexamen (State Examination)}{}{}  % Arguments not required can be left empty
+
+\cventry{2002--2005}{Friedrich-Wilhelm-Gymnasium K{\"o}ln (FWG)}{}{\newline Abitur}{}{}  % Arguments not required can be left empty
+
+% \cventry{2016}{D.A.V. Public School, Bistupur}{\newline Mathematics and Computer Science}{Class 12}{}{GPA -- 94.00\%}  % 
+%\cventry{2014}{A.D.L.S. Sunshine School, Sakchi}{\newline Mathematics and Computer Science}{Class 10}{}{GPA -- 95.20\%}  %
+
+%----------------------------------------------------------------------------------------
+%	THESIS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Theses}
+\subsection{PhD}
+\cvitem{Title}{\emph{Transitions of Tonality: A Model-Based Corpus Study}~(2013)}
+\cvitem{Supervisors}{Martin Rohrmeier \& Markus Neuwirth, DCML, EPFL}
+
+\subsection{Master}
+\cvitem{Title}{\emph{``Theorie der Tonfelder'' nach Simon und ``Neo-Riemannian Theory'': 
+\newline Systematik, historische Bez{\"u}ge und analytische Praxis im Vergleich}~(2012)}
+\cvitem{Supervisor}{Hans Neuhoff, HfMT}
+% \cvitem{Description}{This thesis explored the idea that money has been the cause of untold anguish and suffering in the world. I found that it has, in fact, not.}
+
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATIONS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Publications}
+
+\cvitem{submitted}{Harasim, D., \textbf{Moss, F. C.}, Ramirez, M., \& Rohrmeier, M. Cognitive modeling
+reveals history of major and minor in Western classical music.}
+
+\cvitem{under review}{\textbf{Moss, F. C.}, de Souza, W. F., \& Rohrmeier, M. Harmony and Form in Brazilian Choro: A Corpus-Driven Approach to Musical Style Analysis.}
+
+\cvitem{2019}{Popescu, T., Neuser, M. P., Neuwirth, M., Bravo, F., Mende, W., Boneh, O., \textbf{Moss, F. C.}, \& Rohrmeier, M. (2019). The pleasantness of sensory dissonance is mediated by musical style and expertise. \emph{Scientific} Reports, 9(1), 1070. \url{https://doi.org/10.1038/s41598-018-35873-8}}
+
+\cvitem{}{\textbf{Moss, F. C.}, Neuwirth, M., Harasim, D., \& Rohrmeier, M. (2019). Statistical characteristics of tonal harmony: A corpus study of Beethoven's string quartets. \emph{PLOS ONE}, 14(6), e0217242. https://doi.org/10.1371/journal.pone.0217242}
+
+\cvitem{}{Landnes, K., Mehrabyan, L., Wiklund, V., Lieck, R., \textbf{Moss, F. C.}, \& Rohrmeier, M. (2019). A
+Model Comparison for Chord Prediction on the Annotated Beethoven Corpus. In I.
+Barbancho, L. J. Tard{\'o}n, A. Peinado, \& A. M. Barbancho (Eds.), \emph{Proceedings of the 16th
+Sound and Music Computing Conference (SMC 2019)} (pp. 250--254). M{\'a}laga, Spain.}
+
+\cvitem{2018}{Neuwirth, M., Harasim, D., \textbf{Moss, F. C.}, \& Rohrmeier, M. (2018). The Annotated Beethoven Corpus~(ABC): A Dataset of Harmonic Analyses of All Beethoven String Quartets. \emph{Frontiers in Digital Humanities}, 5(July), 1--5. \url{https://doi.org/10.3389/fdigh.2018.00016}}
+
+\cvitem{}{\textbf{Moss, F. C.}, de Souza, W. F., \& Rohrmeier, M.. (2018). Choro Songbook Corpus (Version 1.0) [Data set]. \emph{Zenodo}. http://doi.org/10.5281/zenodo.1442765.}
+
+\cvitem{2017}{\textbf{Moss, F. C.} (2017). [Review of David Huron. Voice Leading: The Science behind a Musical Art]. Music Theory \& Analysis, 4(1), 1--12. \url{https://doi.org/https://doi.org/10.11116/MTA.4.1.7 1}}
+
+\cvitem{2014}{\textbf{Moss, F. C.} (2014). Tonality and functional equivalence: A multi-level model for the cognition of triadic progressions in 19th century music. In \emph{International Conference of Students of Systematic Musicology -- Proceedings} (pp. 1--8). London. \url{http://ojs.gold.ac.uk/index.php/sysmus14/article/view/243}}
+
+%----------------------------------------------------------------------------------------
+%	TALKS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Talks, Conference Presentations, and Posters}
+
+% 2019
+\cvitem{2019}{\textbf{Moss, F. C.} \emph{Tracing the History of Tonality with Note Distributions}. ``Corpus Research as a Means of Unlocking Musical Grammar'' International Research Workshop, July 1--4, 2019, Tel-Aviv, Israel.}
+\cvitem{}{\textbf{Moss, F. C.} \emph{Inferring Tonality from Note Distributions -- Why Models Matter (Poster)}. SEMPRE Graduate Conference 2019, Cambridge, UK.}
+\cvitem{}{\textbf{Moss, F. C.} \emph{Analyzing Tonality with Note Distributions}. First Swiss Digital Humanities Student Exchange DHX2019, Basel, Switzerland. }
+
+% 2018
+\cvitem{2018}{\textbf{Moss, F. C.}, Souza, W. F. \& Rohrmeier, M. \emph{Harmony and Form in Brazilian Choro: A Corpus Study}. 15th International Conference on Music Perception and Cognition \& 10th triennial conference of the European Society for the Cognitive Sciences of Music, Graz, Austria. }
+\cvitem{}{Aitken, C., O'Donnell, T. \& Rohrmeier, M. [Poster presented by \textbf{Moss, F. C.}]. \emph{A Maximum Likelihood Model for the Harmonic Analysis of Symbolic Music}. 15th Sound and Music Computing Conference ``Sonic Crossings''. Limassol, Cyprus.}
+\cvitem{}{\textbf{Moss, F. C.} \emph{Corpus Research in Digital Musicology} (Talk and Tutorial). Seminar ``Willkommen in der Matrix: Digitale Anwendungen f{\"u}r die Musikanalyse in Theorie und Praxis'', University of Basel, Basel, Switzerland.}
+\cvitem{}{Harasim, D., \textbf{Moss, F. C.} \& Ramirez, M. \emph{A Brief History of Tonality} (Poster). Applied Machine Learning Days, EPFL, Switzerland.}
+
+% 2017
+\cvitem{2017}{\textbf{Moss, F. C.} \emph{Formal Grammars and Ambiguity in Extended Tonality}. Workshop and Symposium on Schenkerian Analysis ``Wege der Kreativit{\"a}t -- Zwischen Erfindung und Rekonstruktion'', Universit{\"a}t der K{\"u}nste, Berlin, Germany.}
+\cvitem{}{\textbf{Moss, F. C.}, Souza, W. F. \& Rohrmeier, M. \emph{Brazilian Choro: A New Data Set of Chord Transcriptions and Analyses of Harmonic and Formal Features}. 17. Jahreskongress der Gesellschaft f{\"u}r Musiktheorie (GMTH) \& 27. Arbeitstagung der Gesellschaft f{\"u}r Popularmusikforschung (GfPM) ``Popul{\"a}re Musik und ihre Theorien: Begegnungen -- Perspektivwechsel -- Transfers'', Graz, Austria. }
+\cvitem{}{\textbf{Moss, F. C.}, Harasim, D., Neuwirth, M. \& Rohrmeier, M. \emph{Beethovens Streichquartette -- ein XML-basierter Korpus harmonischer Analysen in einem neuen Annotationssystem}. Jahrestagung der Gesellschaft f{\"u}r Musikforschung, Kassel, Germany.}
+\cvitem{}{\textbf{Moss, F. C.}, Rohrmeier, M. \emph{Integrating Transformational and Hierarchical Models of Extended Tonality}. 9th European Music Analysis Conference (EuroMAC), Strasbourg, France.}
+\cvitem{}{Rom, U., Je\ss ulat, A., \textbf{Moss, F. C.} \& Guter, I. \emph{Ambiguity, Illusion \& Timelessness in Late and Post-Tonal Harmony}. Panel discussion at the 9th European Music Analysis Conference (EuroMAC), Strasbourg, France.}
+\cvitem{}{\textbf{Moss, F. C.} \emph{Musik und Sprache}. Talk for Student Association ``Denkzettel'', TUD, Dresden, Germany.}
+\cvitem{}{\textbf{Moss, F. C.}, Rohrmeier, M. \& Bravo, F. \emph{Emotional Associations Evoked by Structural Properties of Musical Scales and Abstract Visual Shapes}. KOSMOS Dialogue ``Music, Emotion, and Visual Imagery'', Berlin, Germany.}
+\cvitem{}{Harasim, D., \textbf{Moss, F. C.}, Neuwirth, M. \& Rohrmeier M. \emph{Beethoven's String Quartets: Introducing an XML-Based Corpus of Harmonic Labels Using a New Annotation System}. Music Encoding Conference, Tours, France.}
+
+% 2016
+\cvitem{2016}{\textbf{Moss, F. C.} \emph{Extended Tonality: Theoretical Challenges and their Relation to the Neuroscientific Study of Musical Syntax}. Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. }
+\cvitem{}{\textbf{Moss, F. C.}, Rohrmeier, M. \emph{Structural Ambiguities in Language and Music} (Poster). Helsinki Summer School for Cognitive Neuroscience 2016 (HSSCN 2016).}
+\cvitem{}{\textbf{Moss, F. C.}, Rohrmeier, M.  \emph{A grammatical approach to tension-resolution patterns in extended tonal harmony}. Meeting of the Computational Cognitive Science Group, Massachusetts Institute of Technology, Department of Brain and Cognitive Sciences, Cambridge, USA.}
+\cvitem{}{\textbf{Moss, F. C.}, Rohrmeier, M. \emph{Towards a syntactic account for harmonic sequences in extended tonality}. Syntax Square Meeting, Massachusetts Institute of Technology, Department of Linguistics and Philosophy, Cambridge, USA.}
+\cvitem{}{\textbf{Moss, F. C.} \emph{Syntax of Extended Tonality: Towards a Grammar of Generalized Harmonic Functions}. Music Theory Colloquium, Boston University, College of Fine Arts, School of Music, Boston, USA.}
+\cvitem{}{\textbf{Moss, F. C.} \emph{Generalizing Harmonic Functions: A Grammatical Approach to Extended Tonality}. Yale University, Department of Music, New Haven, USA.}
+\cvitem{}{\textbf{Moss, F. C.} \& Harasim, D. \emph{Extended Tonality and Music Cognition}. Symposium ``Towards a World Music Theory'', University of Hamburg, Institute for Systematic Musicology, Hamburg, Germany.}
+\cvitem{}{\textbf{Moss, F. C.} \emph{Music Cognition and Extended Tonality: Theoretical Challenges and Empirical Implications}. Research Colloquium, University of Cologne, Cologne, Germany.}
+
+% 2015
+\cvitem{2015}{\textbf{Moss, F. C.} \emph{On generative modelling of musical form}. Seminar ``Mathematics and Music'', TUD, Dresden, Germany.}
+\cvitem{}{\textbf{Moss, F. C.} \emph{`The terror of sanctity.' Tonal cues for resolving dramatic ambiguities in Wagner's Parsifal}. Seminar ``Understanding Musical Structures'', TUD, Dresden Germany.}
+
+% 2014
+
+\cvitem{2014}{\textbf{Moss, F. C.} \emph{Tonality and functional equivalence: A multi-level model for the cognition of triadic progressions in 19th century music}. International conference of Students of Systematic Musicology, Goldsmiths University, London, UK.}
+\cvitem{}{\textbf{Moss, F. C.} \emph{Language, music and the brain: a resource-sharing framework (Patel, 2012)}. Seminar ``Cognitive Neuroscience of Music'', Institut for Musicology, University of Cologne, Cologne, Germany.}
+
+%----------------------------------------------------------------------------------------
+%	AWARDS EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Awards and Scholarships}
+
+\cventry{2016--2107}{Konrad Adenauer Foundation}{PhD Scholarship}{}{}{}
+\cventry{Aug 2016}{TUD Graduate Academy}{Travel Award}{}{}{Summer School in Cognitive Neuroscience of Music, University of Helsinki}
+\cventry{Jan--Mar 2016}{Deutscher Akademischer Austauschdienst (DAAD)}{great!\,(group to group exchange for academic talents}{}{}{Visiting Student at Massachusetts Institute of Technology (MIT), Department of Linguistics and Philosophy.}%supervision: Martin Rohrmeier \& David Pesetsky.}
+\cventry{Sep 2014}{Society for Education and Music Psychology (SEMPRE)}{Travel Award}{}{}{International Conference of Students of Systematic Musicology, Goldsmith University, London, UK.}
+\cventry{Jan--Apr 2012}{European Union (EU)}{ERASMUS Scholarship}{}{}{Exchange semester at Escola Superior de Musica de Catalunya (ESMUC) in Barcelona, Spain.}
+\cventry{2008--2013}{Konrad Adenauer Foundation}{Student Scholarship}{}{}{}
+
+
+\section{Teaching and Supervision}
+
+\cvitem{2018}{Teaching Assistant, ``Digital Musicology'' (MSc; tutorials and excercises), EPFL.}
+\cvitem{}{Supervision of three MSc student projects for ``Machine Learning'' course, EPFL.}
+\cvitem{}{Supervision of four MSc student projects for ``Digital Musicology'' course, EPFL.}
+\cvitem{2017}{Peer-mentoring visiting PhD student in music theory/composition, TUD.}
+\cvitem{2016--2017}{``Reading Class Musicology'', (BA; with Christoph Wald), TUD.}
+\cvitem{2015--2016}{``Introduction to Musicology'', (BA; with Christoph Wald), TUD.}
+\cvitem{2015}{Joint supervision of interdisciplinary project of technical design undergraduate.}
+\cvitem{2013}{``Academic Writing and Research Techniques'' (MA), HfMT.}
+
+\section{Relevant Courses}
+
+\subsection{Workshops and Summer Schools}
+
+\cvitem{2018}{Workshop ``Voice-leading schemata in theory, corpus research, and practical composition (Compose your own Chopin!)'', EPFL, Switzerland, September 18--20, 2018}
+\cvitem{}{Symposium ``Archiving Intangible Cultural Heritage \& Performing Arts: A Symposium and Summer School for Living Traditions'', EPFL, Switzerland, August 6--7, 2018}
+\cvitem{2017}{Workshop ``Meaning in Music: Bridging Musicological, Linguistic, and Neuroscientific Perspectives'', EPFL, Switzerland, December 4--6, 2017.}
+\cvitem{}{Summer School ``Exploring Edges: An International Colloquium between the Digital Humanities, Architecture, Artistic Research, and Critical Technical Practice'', EPFL, Switzerland, July 11--14, 2017.}
+\cvitem{2016}{Summer School ``Cognitive Neuroscience of Music'', University of Helsinki, August 11--17, 2016}
+
+\subsection{University Courses}
+
+\cvitem{2017}{``Applied Data Analysis'' (Robert West), EPFL.}
+\cvitem{2016}{
+``Introduction to Schenkerian Theory'' (Oliver Schwab-Felisch), TUD;
+``Cognitive Science'' (P. Sinha, J. Tenenbaum, E. Gibson), MIT;
+``Computational Modeling of Phonology and Morphology'' (T. O'Donnell, A. Albright), MIT.
+}
+\cvitem{2015}{
+``Generative Modeling'' (T. O'Donnell), TUD;
+``Introduction to Quantitative Methods for the Social Sciences'' (TUD Graduate Academy), TUD.
+}
+\cvitem{2012-13}{``Cognitive Neuroscience of Music'', ``Cognitive Musicology: Theoretical Foundations'', ``Cognitive Modeling'' (Uwe Seifert), University of Cologne.}
+
+
+%----------------------------------------------------------------------------------------
+%	ADMIN SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Organization and Administration}
+
+\cvitem{since 2019}{Member of the UNIL-EPFL Centre for Digital Humanities (dhCenter)}
+\cvitem{Nov 2019}{Workshop ``Hierarchical Music Analysis'', DCML, EPFL.}
+\cvitem{since 2018}{Assessor in examinations, DCML, EPFL.}
+\cvitem{since 2018}{Co-founder and vice-president of the Digital Humanities Student Association \emph{dhelta} at EPFL.}
+\cvitem{since 2017}{Member of the Gesellschaft f{\"u}r Musiktheorie (GMTH)}
+\cvitem{since 2016}{Reviewer for the International Conference of Students of Systematic Musicology}
+\cvitem{2015--2017}{Assessor in examinations, DMCL, TUD, Dresden, Germany.}
+\cvitem{2015}{Co-organization of lecture series ``Systematic Musicology: Perception and Cognition of Music'', DMCL, TUD, Dresden, Germany.}
+\cvitem{2013}{Co-organization of the international conference “Musical Meter in Comparative Perspective“, HfMT, Cologne, Germany}
+
+%----------------------------------------------------------------------------------------
+%	COMPUTER SKILLS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Skills}
+
+\cvitem{Languages}{Python, HTML/CSS}
+\cvitem{Utilities}{Anaconda, Git, Jupyter Notebook, LaTeX}
+\cvitem{Communication}{German (native), English (fluent), French, Spanish (basic)}
+
+
+
+\section{Extra Curricular Activities}
+\cvitem{Voice}{Classical a-capella octet \emph{Vokalexkursion} (2014--2017); Cologne Cathedral Chamber Choir (2013--2015); Director of several children's choirs at Musikschule Leverkusen (2012--2014); Cologne Conservatory Chamber Choir (2011-2013); Pop a-capella group \emph{gezwungenerma\ss en} (2008--2013)}
+\cvitem{Instruments}{Guitar (since 1994), Piano (since 1993)}
+
+
+%----------------------------------------------------------------------------------------
+%	INTERESTS SECTION
+%----------------------------------------------------------------------------------------
+
+%\section{Interests}
+
+%\renewcommand{\listitemsymbol}{-~} % Changes the symbol used for lists
+
+%\cvlistdoubleitem{Cycling}{Hiking}
+%\cvlistdoubleitem{Sketching}{Gaming}
+%\cvlistitem{Quizzing}
+%----------------------------------------------------------------------------------------
+
+% \section{References}
+
+% \begin{multicols}{2}
+% \cventry{}{K.S Suresh}{\newline Assistant Professor}{\newline Metallurgical and Materials Engg., IIT Roorkee}{\newline suresfmt@iitr.ac.in}{}
+% \columnbreak
+% \cventry{}{Anu Chandra}{\newline CEO}{\newline Ryelore AI}{\newline anu@ryelore.com}{ }
+% \end{multicols}
+% \cventry{}{Arpit Gupta}{\newline VP Engineering}{\newline Antriex IT Services}{\newline arpit.gupta@antmex.com}{}
+
+% \cventry{}{B.S.S Daniel}{\newline Professor}{\newline Metallurgical and Materials Engg., IIT Roorkee}{\newline s4danfmt@iitr.ac.in}{ }
+\end{document}
