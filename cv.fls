@@ -64,8 +64,8 @@ INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\marvosym\u
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\marvosym\umvs.fd
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\marvosym\umvs.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1440.tfm
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\moderncvcolorred.sty
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\moderncvcolorred.sty
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\moderncvcolorblue.sty
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\moderncvcolorblue.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty
@@ -142,9 +142,6 @@ INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-p
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.fd
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.fd
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmss10.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcount.sty
@@ -159,8 +156,8 @@ OUTPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.pdf
 INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.out
 INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.out
 OUTPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.out
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmss9.tfm
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmsso9.tfm
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr9.tfm
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmro9.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr9.tfm
@@ -179,42 +176,44 @@ INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmex10.tfm
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmss17.tfm
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmss17.tfm
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmsso17.tfm
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmsso8.tfm
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmss12.tfm
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr17.tfm
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr17.tfm
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmro17.tfm
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmro8.tfm
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr12.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr10.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr7.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi10.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi7.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy7.tfm
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmssbx10.tfm
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmsso10.tfm
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx10.tfm
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmro10.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmss12.tfm
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmsso10.tfm
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmsso8.tfm
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmri10.tfm
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmro8.tfm
 INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.aux
 INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.out
 INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.out
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ec.enc
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmss10.pfb
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmss10.pfb
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmss12.pfb
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmss12.pfb
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmss17.pfb
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmss17.pfb
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmss9.pfb
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmss9.pfb
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsso10.pfb
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsso10.pfb
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsso17.pfb
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsso17.pfb
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsso8.pfb
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsso8.pfb
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsso9.pfb
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsso9.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr17.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr17.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr9.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr9.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmri10.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmri10.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmro10.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmro10.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmro17.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmro17.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmro8.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmro8.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmro9.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmro9.pfb
