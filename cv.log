@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.27)  7 AUG 2020 12:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.27)  7 AUG 2020 16:24
 entering extended mode
 **c:/Users/fabianmoss/GitHub/fabianmoss/cv/cv.tex
 (c:/Users/fabianmoss/GitHub/fabianmoss/cv/cv.tex
@@ -367,12 +367,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 61.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 61.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\newline' on input line 61.
-
-(c:/Users\fabianmoss\GitHub\fabianmoss\cv\cv.aux)
+ (c:/Users\fabianmoss\GitHub\fabianmoss\cv\cv.aux)
 \openout1 = `cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
@@ -540,10 +535,10 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 2CABD67C67BA5951A38A6657D8255782;2950.
  ) 
 Here is how much of TeX's memory you used:
- 12904 strings out of 480896
- 203742 string characters out of 2895750
- 600716 words of memory out of 3000000
- 28421 multiletter control sequences out of 15000+200000
+ 12903 strings out of 480896
+ 203731 string characters out of 2895750
+ 599715 words of memory out of 3000000
+ 28420 multiletter control sequences out of 15000+200000
  599902 words of font info for 122 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  46i,12n,69p,849b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
