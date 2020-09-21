@@ -158,6 +158,7 @@ INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.out
 OUTPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.out
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr9.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmro9.tfm
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmri9.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr9.tfm
@@ -214,6 +215,8 @@ INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\l
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr9.pfb
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmri10.pfb
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmri10.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmri9.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmri9.pfb
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmro10.pfb
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmro10.pfb
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmro17.pfb
