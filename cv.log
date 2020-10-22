@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.27)  16 OCT 2020 15:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.27)  22 OCT 2020 16:38
 entering extended mode
 **c:/Users/fabianmoss/GitHub/fabianmoss/cv/cv.tex
 (c:/Users/fabianmoss/GitHub/fabianmoss/cv/cv.tex
@@ -430,15 +430,15 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(44.81126pt, 507.88533pt, 44.81128pt)
-* v-part:(T,H,B)=(50.70074pt, 718.29497pt, 76.05113pt)
+* h-part:(L,W,R)=(42.67914pt, 512.1496pt, 42.67914pt)
+* v-part:(T,H,B)=(36.41953pt, 753.99802pt, 54.6293pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=507.88533pt
-* \textheight=718.29497pt
-* \oddsidemargin=-27.45872pt
-* \evensidemargin=-27.45872pt
-* \topmargin=-58.56924pt
+* \textwidth=512.1496pt
+* \textheight=753.99802pt
+* \oddsidemargin=-29.59085pt
+* \evensidemargin=-29.59085pt
+* \topmargin=-72.85046pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -522,7 +522,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  [2] [3] [4]
-Overfull \hbox (10.85951pt too wide) in paragraph at lines 337--337
+Overfull \hbox (6.59525pt too wide) in paragraph at lines 337--337
 []$\T1/lmtt/m/n/7 https : / / www . forbes . com / sites / evaamsen / 2019 / 06 / 06 / a-[]data-[]science-[]analysis-[]finds-[]beethovens-[]style-[]in-[]his-[]string-[]quartets/$[]| 
  []
 
@@ -537,17 +537,17 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: CBBC677A55589BADE266E8ECCCC9D0DA;3332.
  ) 
 Here is how much of TeX's memory you used:
- 12921 strings out of 480896
- 203928 string characters out of 2895750
- 601713 words of memory out of 3000000
- 28429 multiletter control sequences out of 15000+200000
- 604544 words of font info for 125 fonts, out of 3000000 for 9000
+ 12902 strings out of 480896
+ 203699 string characters out of 2895750
+ 601555 words of memory out of 3000000
+ 28427 multiletter control sequences out of 15000+200000
+ 600787 words of font info for 116 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  46i,13n,69p,809b,366s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr7.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr9.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmri9.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmro10.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmro17.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmro8.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmro9.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt8.pfb>
-Output written on c:/Users\fabianmoss\GitHub\fabianmoss\cv\cv.pdf (6 pages, 425818 bytes).
+{C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr7.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr9.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmri9.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmro10.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmro17.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmro9.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt8.pfb>
+Output written on c:/Users\fabianmoss\GitHub\fabianmoss\cv\cv.pdf (6 pages, 397867 bytes).
 PDF statistics:
- 223 PDF objects out of 1000 (max. 8388607)
+ 219 PDF objects out of 1000 (max. 8388607)
  31 named destinations out of 1000 (max. 500000)
- 26305 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 24257 words of extra memory for PDF output out of 24883 (max. 10000000)
 
