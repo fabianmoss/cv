@@ -1,0 +1,135 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% "ModernCV" CV and Cover Letter
+% LaTeX Template
+% Version 1.3 (29/10/16)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Xavier Danaux (xdanaux@gmail.com) with modifications by:
+% Original author:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template requires the moderncv.cls and .sty files to be in the same
+% directory as this .tex file. These files provide the resume style and themes
+% used for structuring the document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[10pt,a4paper,roman]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+% \nopagenumbers{} % suppress page numbers
+
+\moderncvstyle{banking} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{black} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+\usepackage{multicol}
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+\usepackage[hyperref]{}
+\usepackage[scale=.85]{geometry} % Reduce document margins % scale=0.88
+\setlength{\hintscolumnwidth}{2.2cm} % Uncomment to change the width of the dates column
+
+\newcommand{\OA}{\textcolor{color2}{[OA]} }
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Fabian C.} % Your first name
+\familyname{Moss} % Your last name
+
+% All information in this block is optional, comment out any lines you don't need
+\title{Curriculum Vitae}
+\address{Chemin de Renens 18}{CH-1004 Lausanne}
+\mobile{(+41) 78 700 8485}
+% \phone{(000) 111 1112}
+%\fax{(000) 111 1113}
+\email{fabian.moss@epfl.ch}
+% \email{asinha@mt.iitr.ac.in}
+\homepage{fabian-moss.de}{fabian-moss.de} % The first argument is the url for the clickable link, the second argument is the url displayed in the template - this allows special characters to be displayed such as the tilde in this example
+\extrainfo{\href{https://twitter.com/fabianmoss}{{@}fabianmoss}}
+% \photo[70pt][0.4pt]{pictures/picture} % The first bracket is the picture height, the second is the thickness of the frame around the picture (0pt for no frame)
+% \quote{"A witty and playful quotation" - John Smith}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\makecvtitle
+
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATIONS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Publications} %  \textcolor{black}{\small(\OA = Open Access)}
+
+\subsection{Theses}
+
+\cvitem{PhD, 2019}{
+    \emph{Transitions of Tonality: A Model-Based Corpus Study}, %\newline
+    supervisors: Martin Rohrmeier \& Markus Neuwirth}
+
+\cvitem{MA, 2012}{
+    \emph{``Theorie der Tonfelder'' nach Simon und ``Neo-Riemannian Theory'': 
+    Systematik, historische Bez{\"u}ge und analytische Praxis im Vergleich}, 
+    supervisor: Hans Neuhoff}
+
+\subsection{Journal Articles and Conference Papers}
+
+%% In Press
+
+%% Submitted
+\cvitem{}{\textbf{Moss, F. C.}, \& Rohrmeier, M. (submitted). Discovering Tonal Profiles Using Latent Dirichlet Allocation.}
+\cvitem{}{\textbf{Moss, F. C.}, \& Rohrmeier, M. (submitted). The Line of Fifths and the Co-Evolution of Tonal Pitch-Classes.}
+
+%% In Review
+\cvitem{}{Harasim, D., \textbf{Moss, F. C.}, Ramirez, M., \& Rohrmeier, M. (in review). Exploring the foundations of tonality: Statistical cognitive modeling of modes in the history of Western classical music.}
+\cvitem{}{Viaccoz, C., Harasim, D., \textbf{Moss, F. C.}, \& Rohrmeier, M. (in review). Wavescapes: A Visual Hierarchical Analysis of Tonality Using the Discrete Fourier Transformation.}
+
+%% In Preparation
+% \cvitem{in prep.}{\OA \textbf{Moss, F. C.}, Noll, T., \& Rohrmeier, M. Surfing the Chromatic Waves: Detecting Tone Fields Using Discrete Fourier Analysis.}
+% \cvitem{}{\textbf{Moss, F. C.}, Herff, S., \& Rohrmeier, M. The Perception of Tonal Relations in Extended Tonality.}
+% \cvitem{}{\textbf{Moss, F. C.}, Lieck, R., \& Rohrmeier, M. Tracing Historical Changes in Tonality with the Tonal Diffusion Model.}
+
+%% 2020
+\cvitem{}{Lieck, R., \textbf{Moss, F. C.}, \& Rohrmeier, M. (2020). The Tonal Diffusion Model. \emph{Transactions of the Inter\-national Society of Music Information Retrieval}, 3(1), 153--164. \url{https://doi.org/10.5334/tismir.46}}
+\cvitem{}{\textbf{Moss, F. C.}, de Souza, W. F., \& Rohrmeier, M. (2020). Harmony and Form in Brazilian Choro: A Corpus-Driven Approach to Musical Style Analysis. \emph{Journal of New Music Research},  49(5), 416--437. \url{https://doi.org/10.1080/09298215.2020.1797109}}
+
+%% 2019
+\cvitem{}{\textbf{Moss, F. C.} (2019). \emph{{Transitions of {Tonality}: {A} {Model}-{Based} {Corpus} {Study}}}. Doctoral dissertation. École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland. \url{https://doi.org/10.5075/epfl-thesis-9808}}
+\cvitem{}{\textbf{Moss, F. C.}, Neuwirth, M., Harasim, D., \& Rohrmeier, M. (2019). Statistical characteristics of tonal harmony: A corpus study of Beethoven's string quartets. \emph{PLOS ONE}, 14(6), e0217242. \url{https://doi.org/10.1371/journal.pone.0217242}}
+\cvitem{}{Landnes, K., Mehrabyan, L., Wiklund, V., Lieck, R., \textbf{Moss, F. C.}, \& Rohrmeier, M. (2019). A
+Model Comparison for Chord Prediction on the Annotated Beethoven Corpus. In I.
+Barbancho, L. J. Tard{\'o}n, A. Peinado, \& A. M. Barbancho (Eds.), \emph{Proceedings of the 16th Sound and Music Computing Conference (SMC 2019)} (pp. 250--254). M{\'a}laga, Spain.}
+\cvitem{}{Popescu, T., Neuser, M. P., Neuwirth, M., Bravo, F., Mende, W., Boneh, O., \textbf{Moss, F. C.}, \& Rohrmeier, M. (2019). The pleasantness of sensory dissonance is mediated by musical style and expertise. \emph{Scientific Reports}, 9(1), 1070. \url{https://doi.org/10.1038/s41598-018-35873-8}}
+
+%% 2018
+\cvitem{}{Neuwirth, M., Harasim, D., \textbf{Moss, F. C.}, \& Rohrmeier, M. (2018). The Annotated Beethoven Corpus~(ABC): A Dataset of Harmonic Analyses of All Beethoven String Quartets. \emph{Frontiers in Digital Humanities}, 5(July), 1--5. \url{https://doi.org/10.3389/fdigh.2018.00016}}
+
+%% Earlier
+\cvitem{}{\textbf{Moss, F. C.} (2017). [Review of David Huron. Voice Leading: The Science behind a Musical Art]. Music Theory \& Analysis, 4(1), 119--130. \url{https://doi.org/10.11116/MTA.4.1.7}}
+\cvitem{}{\textbf{Moss, F. C.} (2014). Tonality and functional equivalence: A multi-level model for the cognition of triadic progressions in 19th century music. In \emph{International Conference of Students of Systematic Musicology -- Proceedings} (pp. 1--8). London, UK.}
+\cvitem{}{\textbf{Moss, F. C.} \emph{Albert Simons \emph{Theorie der Tonfelder} und John Cloughs \emph{Flip-Flop Circles} im Vergleich}. Zenodo. \url{http://doi.org/10.5281/zenodo.3944462}}
+
+\subsection{As editor}
+\cvitem{forthcoming}{Special Issue on ``Open Science in Musicology'' in \emph{Empirical Musicology Review}, with Markus Neuwirth.}
+
+\subsection{Datasets and Code}
+
+\cvitem{2020}{\OA \textbf{Moss, F. C.}, Neuwirth, M., \& Rohrmeier, M. (2020). Tonal Pitch-Class Counts Corpus (TP3C) [Data set]. \emph{Zenodo}. \url{https://doi.org/10.5281/zenodo.3600080}}
+\cvitem{2019}{\OA \textbf{Moss, F. C.}, Loayza, T., \& Rohrmeier, M. (2019). pitchplots. \emph{Zenodo}. \url{https://doi.org/10.5281/zenodo.3265392}}
+\cvitem{2018}{\OA \textbf{Moss, F. C.}, de Souza, W. F., \& Rohrmeier, M. (2018). Choro Songbook Corpus [Data set]. \emph{Zenodo}. \url{https://doi.org/10.5281/zenodo.1442764}}
+
+% \subsection{Blogposts}
+
+% \cvitem{2020}{``A computational model for note distributions in musical pieces'': \url{https://www.epfl.ch/labs/dcml/computational-model-note-dists/}}
+% \cvitem{}{``Tracing historical changes in the exploration of tonal space'': \url{https://www.epfl.ch/labs/dcml/tracing-historical-changes/}}
+
+\end{document}
