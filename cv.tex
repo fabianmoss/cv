@@ -36,6 +36,8 @@
 \setlength{\hintscolumnwidth}{2.2cm} % Uncomment to change the width of the dates column
 % \setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
 
+\usepackage{hanging}
+
 % \usepackage[
 %     backend=biber,
 %     style=apa,
@@ -56,7 +58,7 @@
 %     {#1}
 % }
 
-\newcommand{\OA}{\textcolor{color2}{[OA]} }
+\newcommand{\OA}{\textcolor{color2}{\textbf{*}}}
 
 %----------------------------------------------------------------------------------------
 %	NAME AND CONTACT INFORMATION SECTION
@@ -140,6 +142,150 @@
 % \newpage
 
 %----------------------------------------------------------------------------------------
+%	PUBLICATIONS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Publications \textcolor{black}{\small(\OA = Open Access)}} 
+
+\subsection{Theses}
+
+\cvitem{PhD, 2019}{
+    \emph{Transitions of Tonality: A Model-Based Corpus Study}, %\newline
+    supervisors: Martin Rohrmeier \& Markus Neuwirth}
+
+\cvitem{MA, 2012}{
+    \emph{``Theorie der Tonfelder'' nach Simon und ``Neo-Riemannian Theory'': 
+    Systematik, historische Bez{\"u}ge und analytische Praxis im Vergleich}, 
+    supervisor: Hans Neuhoff}
+
+\subsection{Journal Articles and Conference Papers}
+
+% indentation solution from: https://tex.stackexchange.com/questions/478286/class-moderncv-cvitem-indent-from-second-line
+\newcommand*{\mycvitem}[3][.25em]{%
+  \begin{description}
+    \item[\ifthenelse{\equal{#2}{}}{}{\hintstyle{#2}: }] #3
+  \end{description}% 
+  \par\addvspace{#1}}
+
+%% In Press
+
+%% Submitted
+\mycvitem{submitted}{\OA \textbf{Moss, F. C.}, \& Rohrmeier, M. (submitted). Discovering Tonal Profiles Using Latent Dirichlet Allocation.}
+\mycvitem{}{\OA \textbf{Moss, F. C.}, \& Rohrmeier, M. (submitted). The Line of Fifths and the Co-Evolution of Tonal Pitch-Classes.}
+
+%% In Review
+\mycvitem{in review}{\OA Harasim, D., \textbf{Moss, F. C.}, Ramirez, M., \& Rohrmeier, M. (in review). Exploring the foundations of tonality: Statistical cognitive modeling of modes in the history of Western classical music.}
+\mycvitem{}{\OA Viaccoz, C., Harasim, D., \textbf{Moss, F. C.}, \& Rohrmeier, M. (in review). Wavescapes: A Visual Hierarchical Analysis of Tonality Using the Discrete Fourier Transformation.}
+
+%% In Preparation
+% \cvitem{in prep.}{\OA \textbf{Moss, F. C.}, Noll, T., \& Rohrmeier, M. Surfing the Chromatic Waves: Detecting Tone Fields Using Discrete Fourier Analysis.}
+% \cvitem{}{\textbf{Moss, F. C.}, Herff, S., \& Rohrmeier, M. The Perception of Tonal Relations in Extended Tonality.}
+% \cvitem{}{\textbf{Moss, F. C.}, Lieck, R., \& Rohrmeier, M. Tracing Historical Changes in Tonality with the Tonal Diffusion Model.}
+
+%% 2020
+\mycvitem{2020}{\OA Lieck, R., \textbf{Moss, F. C.}, \& Rohrmeier, M. (2020). The Tonal Diffusion Model. \emph{Transactions of the Inter\-national Society of Music Information Retrieval}, 3(1), 153--164. \url{https://doi.org/10.5334/tismir.46}}
+\mycvitem{}{\OA \textbf{Moss, F. C.}, de Souza, W. F., \& Rohrmeier, M. (2020). Harmony and Form in Brazilian Choro: A Corpus-Driven Approach to Musical Style Analysis. \emph{Journal of New Music Research},  49(5), 416--437. \url{https://doi.org/10.1080/09298215.2020.1797109}}
+
+%% 2019
+\mycvitem{2019}{\OA \textbf{Moss, F. C.} (2019). \emph{{Transitions of {Tonality}: {A} {Model}-{Based} {Corpus} {Study}}}. Doctoral dissertation. École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland. \url{https://doi.org/10.5075/epfl-thesis-9808}}
+\mycvitem{}{\OA \textbf{Moss, F. C.}, Neuwirth, M., Harasim, D., \& Rohrmeier, M. (2019). Statistical characteristics of tonal harmony: A corpus study of Beethoven's string quartets. \emph{PLOS ONE}, 14(6), e0217242. \url{https://doi.org/10.1371/journal.pone.0217242}}
+\mycvitem{}{\OA Landnes, K., Mehrabyan, L., Wiklund, V., Lieck, R., \textbf{Moss, F. C.}, \& Rohrmeier, M. (2019). A
+Model Comparison for Chord Prediction on the Annotated Beethoven Corpus. In I.
+Barbancho, L. J. Tard{\'o}n, A. Peinado, \& A. M. Barbancho (Eds.), \emph{Proceedings of the 16th Sound and Music Computing Conference (SMC 2019)} (pp. 250--254). M{\'a}laga, Spain.}
+\mycvitem{}{\OA Popescu, T., Neuser, M. P., Neuwirth, M., Bravo, F., Mende, W., Boneh, O., \textbf{Moss, F. C.}, \& Rohrmeier, M. (2019). The pleasantness of sensory dissonance is mediated by musical style and expertise. \emph{Scientific Reports}, 9(1), 1070. \url{https://doi.org/10.1038/s41598-018-35873-8}}
+
+%% 2018
+\mycvitem{2018}{\OA Neuwirth, M., Harasim, D., \textbf{Moss, F. C.}, \& Rohrmeier, M. (2018). The Annotated Beethoven Corpus~(ABC): A Dataset of Harmonic Analyses of All Beethoven String Quartets. \emph{Frontiers in Digital Humanities}, 5(July), 1--5. \url{https://doi.org/10.3389/fdigh.2018.00016}}
+
+%% Earlier
+\mycvitem{earlier}{\textbf{Moss, F. C.} (2017). [Review of David Huron. Voice Leading: The Science behind a Musical Art]. Music Theory \& Analysis, 4(1), 119--130. \url{https://doi.org/10.11116/MTA.4.1.7}}
+\mycvitem{}{\OA \textbf{Moss, F. C.} (2014). Tonality and functional equivalence: A multi-level model for the cognition of triadic progressions in 19th century music. In \emph{International Conference of Students of Systematic Musicology -- Proceedings} (pp. 1--8). London, UK.}
+\mycvitem{}{\OA \textbf{Moss, F. C.} \emph{Albert Simons \emph{Theorie der Tonfelder} und John Cloughs \emph{Flip-Flop Circles} im Vergleich}. Zenodo. \url{http://doi.org/10.5281/zenodo.3944462}}
+
+\subsection{As editor}
+\mycvitem{forthcoming}{Special Issue on ``Open Science in Musicology'' in \emph{Empirical Musicology Review}, with Markus Neuwirth.}
+
+\subsection{Datasets and Code}
+
+\mycvitem{2020}{\OA \textbf{Moss, F. C.}, Neuwirth, M., \& Rohrmeier, M. (2020). Tonal Pitch-Class Counts Corpus (TP3C) [Data set]. \emph{Zenodo}. \url{https://doi.org/10.5281/zenodo.3600080}}
+\mycvitem{2019}{\OA \textbf{Moss, F. C.}, Loayza, T., \& Rohrmeier, M. (2019). pitchplots. \emph{Zenodo}. \url{https://doi.org/10.5281/zenodo.3265392}}
+\mycvitem{2018}{\OA \textbf{Moss, F. C.}, de Souza, W. F., \& Rohrmeier, M. (2018). Choro Songbook Corpus [Data set]. \emph{Zenodo}. \url{https://doi.org/10.5281/zenodo.1442764}}
+
+% \subsection{Blogposts}
+
+% \cvitem{2020}{``A computational model for note distributions in musical pieces'': \url{https://www.epfl.ch/labs/dcml/computational-model-note-dists/}}
+% \cvitem{}{``Tracing historical changes in the exploration of tonal space'': \url{https://www.epfl.ch/labs/dcml/tracing-historical-changes/}}
+
+%----------------------------------------------------------------------------------------
+%	TALKS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Talks, Conference Presentations, Posters, and Workshops}
+
+\subsection{Workshops}
+
+%% 2020
+\mycvitem{2020}{\textbf{Moss, F. C.} \emph{Data-Driven Music History}. International Conference of Students of Systematic Musicology, York University, September 14, 2020, York, UK [online].}
+
+%% 2018
+\mycvitem{2018}{\textbf{Moss, F. C.} \emph{Corpus Research in Digital Musicology}. Seminar ``Willkommen in der Matrix: Digitale Anwendungen f{\"u}r die Musikanalyse in Theorie und Praxis'', University of Basel, Basel, Switzerland.}
+
+\subsection{Talks}
+
+%2021
+% \cvitem{2021}{\textbf{Moss, F. C.} \& Markus Neuwirth. \emph{Die Entwicklung der tonalen Sprache in Beethovens Streichquartetten: Eine vergleichende Korpusstudie der Schaffensphasen}. XVII. Internationaler Kongress der Gesellschaft für Musikforschung, Universität Bonn, Abteilung für Musikwissenschaft/Sound Studies und Beethoven-Archiv des Beethoven-Hauses Bonn
+% Bonn, Germany, September 28 -- October 1 2021, Bonn, Germany.}
+% \cvitem{}{\textbf{Moss, F. C.} \emph{Discovering the line of fifths in a large historical corpus}. Future Directions of Music Cognition, The Ohio State University, May 10--14, 2020, Columbus, OH.}
+
+% 2020
+% \cvitem{2020}{\textbf{Moss, F. C.} \emph{TITLE} Round-table on ``Probability and Music'', 5th International Congress of Music and Mathematics (MusMat 2020) -- Perspectives and Applications of Mathematics in Post-Tonal Theories («Homage to Jamary Oliveira»),
+% December 8--12, Rio de Janeiro, Brazil [online].}
+\mycvitem{2020}{\textbf{Moss, F. C.} \emph{Analyzing musical pieces on the Tonnetz using the \emph{pitchplots} Python library}. 20. Jahreskongress der Gesellschaft für Musiktheorie
+(GMTH), Hochschule für Musik Detmold, October 1--4, 2020, Detmold, Germany [online].}
+\mycvitem{}{\textbf{Moss, F. C.} \emph{Computational Musicology and the Digital Humanities: Problems, Practices, and Prospects}. CRETA-Werkstatt \#9, Center for Reflected Text Analytics, University of Stuttgart, February 18, 2020, Stuttgart, Germany.}
+
+% 2019
+\mycvitem{2019}{\textbf{Moss, F. C.} \emph{Transitions of Tonality: Perspectives on the Historical Changes of Tonal Pitch Relations from Computational Musicology, Music Theory, and the Digital Humanities}. University of Cologne, November 29, 2019, Cologne, Germany.}
+\mycvitem{}{\textbf{Moss, F. C.} \emph{Tracing the History of Tonality with Note Distributions}. ``Corpus Research as a Means of Unlocking Musical Grammar'' International Research Workshop, July 1--4, 2019, Tel-Aviv, Israel.}
+\mycvitem{}{\textbf{Moss, F. C.} \emph{Inferring Tonality from Note Distributions -- Why Models Matter (Poster)}. SEMPRE Graduate Conference 2019, Cambridge, UK.}
+\mycvitem{}{\textbf{Moss, F. C.} \emph{Analyzing Tonality with Note Distributions}. First Swiss Digital Humanities Student Exchange DHX2019, Basel, Switzerland. }
+
+% 2018
+\mycvitem{2018}{\textbf{Moss, F. C.}, Souza, W. F. \& Rohrmeier, M. \emph{Harmony and Form in Brazilian Choro: A Corpus Study}. 15th International Conference on Music Perception and Cognition \& 10th triennial conference of the European Society for the Cognitive Sciences of Music, Graz, Austria. }
+\mycvitem{}{Aitken, C., O'Donnell, T. \& Rohrmeier, M. [Poster presented by \textbf{Moss, F. C.}]. \emph{A Maximum Likelihood Model for the Harmonic Analysis of Symbolic Music}. 15th Sound and Music Computing Conference ``Sonic Crossings''. Limassol, Cyprus.}
+\mycvitem{}{\textbf{Moss, F. C.} \emph{Corpus Research in Digital Musicology}. Seminar ``Willkommen in der Matrix: Digitale Anwendungen f{\"u}r die Musikanalyse in Theorie und Praxis'', University of Basel, Basel, Switzerland.}
+\mycvitem{}{Harasim, D., \textbf{Moss, F. C.} \& Ramirez, M. \emph{A Brief History of Tonality} (Poster). Applied Machine Learning Days, EPFL, Switzerland.}
+
+% 2017
+\mycvitem{2017}{\textbf{Moss, F. C.} \emph{Formal Grammars and Ambiguity in Extended Tonality}. Workshop and Symposium on Schenkerian Analysis ``Wege der Kreativit{\"a}t -- Zwischen Erfindung und Rekonstruktion'', Universit{\"a}t der K{\"u}nste, Berlin, Germany.}
+\mycvitem{}{\textbf{Moss, F. C.}, Souza, W. F. \& Rohrmeier, M. \emph{Brazilian Choro: A New Data Set of Chord Transcriptions and Analyses of Harmonic and Formal Features}. 17. Jahreskongress der Gesellschaft f{\"u}r Musiktheorie (GMTH) \& 27. Arbeitstagung der Gesellschaft f{\"u}r Popularmusikforschung (GfPM) ``Popul{\"a}re Musik und ihre Theorien: Begegnungen -- Perspektivwechsel -- Transfers'', Graz, Austria. }
+\mycvitem{}{\textbf{Moss, F. C.}, Harasim, D., Neuwirth, M. \& Rohrmeier, M. \emph{Beethovens Streichquartette -- ein XML-basierter Korpus harmonischer Analysen in einem neuen Annotationssystem}. Jahrestagung der Gesellschaft f{\"u}r Musikforschung, Kassel, Germany.}
+\mycvitem{}{\textbf{Moss, F. C.}, Rohrmeier, M. \emph{Integrating Transformational and Hierarchical Models of Extended Tonality}. 9th European Music Analysis Conference (EuroMAC), Strasbourg, France.}
+\mycvitem{}{Rom, U., Je\ss ulat, A., \textbf{Moss, F. C.} \& Guter, I. \emph{Ambiguity, Illusion \& Timelessness in Late and Post-Tonal Harmony}. Panel discussion at the 9th European Music Analysis Conference (EuroMAC), Strasbourg, France.}
+\mycvitem{}{\textbf{Moss, F. C.} \emph{Musik und Sprache}. Talk for Student Association ``Denkzettel'', TUD, Dresden, Germany.}
+\mycvitem{}{\textbf{Moss, F. C.}, Rohrmeier, M. \& Bravo, F. \emph{Emotional Associations Evoked by Structural Properties of Musical Scales and Abstract Visual Shapes}. KOSMOS Dialogue ``Music, Emotion, and Visual Imagery'', Berlin, Germany.}
+\mycvitem{}{Harasim, D., \textbf{Moss, F. C.}, Neuwirth, M. \& Rohrmeier M. \emph{Beethoven's String Quartets: Introducing an XML-Based Corpus of Harmonic Labels Using a New Annotation System}. Music Encoding Conference, Tours, France.}
+
+% 2016
+\mycvitem{2016}{\textbf{Moss, F. C.} \emph{Extended Tonality: Theoretical Challenges and their Relation to the Neuroscientific Study of Musical Syntax}. Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. }
+\mycvitem{}{\textbf{Moss, F. C.}, Rohrmeier, M. \emph{Structural Ambiguities in Language and Music} (Poster). Helsinki Summer School for Cognitive Neuroscience 2016 (HSSCN 2016).}
+\mycvitem{}{\textbf{Moss, F. C.}, Rohrmeier, M.  \emph{A grammatical approach to tension-resolution patterns in extended tonal harmony}. Meeting of the Computational Cognitive Science Group, Massachusetts Institute of Technology, Department of Brain and Cognitive Sciences, Cambridge, USA.}
+\mycvitem{}{\textbf{Moss, F. C.}, Rohrmeier, M. \emph{Towards a syntactic account for harmonic sequences in extended tonality}. Syntax Square Meeting, Massachusetts Institute of Technology, Department of Linguistics and Philosophy, Cambridge, USA.}
+\mycvitem{}{\textbf{Moss, F. C.} \emph{Syntax of Extended Tonality: Towards a Grammar of Generalized Harmonic Functions}. Music Theory Colloquium, Boston University, College of Fine Arts, School of Music, Boston, USA.}
+\mycvitem{}{\textbf{Moss, F. C.} \emph{Generalizing Harmonic Functions: A Grammatical Approach to Extended Tonality}. Yale University, Department of Music, New Haven, USA.}
+\mycvitem{}{\textbf{Moss, F. C.} \& Harasim, D. \emph{Extended Tonality and Music Cognition}. Symposium ``Towards a World Music Theory'', University of Hamburg, Institute for Systematic Musicology, Hamburg, Germany.}
+\mycvitem{}{\textbf{Moss, F. C.} \emph{Music Cognition and Extended Tonality: Theoretical Challenges and Empirical Implications}. Research Colloquium, University of Cologne, Cologne, Germany.}
+
+% 2015
+\mycvitem{2015}{\textbf{Moss, F. C.} \emph{On generative modelling of musical form}. Seminar ``Mathematics and Music'', TUD, Dresden, Germany.}
+\mycvitem{}{\textbf{Moss, F. C.} \emph{`The terror of sanctity.' Tonal cues for resolving dramatic ambiguities in Wagner's Parsifal}. Seminar ``Understanding Musical Structures'', TUD, Dresden Germany.}
+
+% 2014
+
+\mycvitem{2014}{\textbf{Moss, F. C.} \emph{Tonality and functional equivalence: A multi-level model for the cognition of triadic progressions in 19th century music}. International conference of Students of Systematic Musicology, Goldsmiths University, London, UK.}
+\mycvitem{}{\textbf{Moss, F. C.} \emph{Language, music and the brain: a resource-sharing framework (Patel, 2012)}. Seminar ``Cognitive Neuroscience of Music'', Institut for Musicology, University of Cologne, Cologne, Germany.}
+
+%----------------------------------------------------------------------------------------
 %	AWARDS EXPERIENCE SECTION
 %----------------------------------------------------------------------------------------
 
@@ -164,11 +310,9 @@
 
 \subsection{Project grants}
 
-\cventry{2021}{
-    Digitizing the Dualism Debate: A Case Study in the Computational Analysis of Historical Music Theory Sources
-}{
-    Collaborative Research on Science and Society (CROSS)
-    }{}{}{
+\cventry{2021}{%
+Digitizing the Dualism Debate: A Case Study in the Computational Analysis of Historical Music Theory Sources
+}{Collaborative Research on Science and Society (CROSS)}{}{}{
     PIs: Fabian C. Moss, François Bavaud (Université de Lausanne), CHF 59'565}
 
 \subsection{Awards and scholarships}
@@ -187,11 +331,13 @@
 %----------------------------------------------------------------------------------------
 
 \section{Administration}
+
 \subsection{Organization}
-\cvitem{2019}{Workshop ``Schenkerian and Tonfeld Theory for Music Analysis'', EPFL.}
-\cvitem{}{First Swiss Digital Humanities Exchange, in collaboration with University of Basel.}
-\cvitem{2015}{Co-organization of lecture series ``Systematic Musicology: Perception and Cognition of Music'', TUD.}
-\cvitem{2013}{Co-organization of the international conference ``Musical Meter in Comparative Perspective'', HfMT.}
+
+\mycvitem{2019}{Workshop ``Schenkerian and Tonfeld Theory for Music Analysis'', EPFL.}
+\mycvitem{}{First Swiss Digital Humanities Exchange, in collaboration with University of Basel.}
+\mycvitem{2015}{Co-organization of lecture series ``Systematic Musicology: Perception and Cognition of Music'', TUD.}
+\mycvitem{2013}{Co-organization of the international conference ``Musical Meter in Comparative Perspective'', HfMT.}
 
 \subsection{Reviewer activity}
 \cvitem{}{
@@ -205,23 +351,23 @@
     }
 
 \subsection{Responsibilities and memberships}
-\cvitem{since 2020}{Co-Chair of the Music Analysis Interest Group of the \emph{Music Encoding Initiative} (MEI).}
-\cvitem{since 2019}{UNIL-EPFL Centre for Digital Humanities (dhCenter); EPFL Data Champions Community;
+\mycvitem{since 2020}{Co-Chair of the Music Analysis Interest Group of the \emph{Music Encoding Initiative} (MEI).}
+\mycvitem{since 2019}{UNIL-EPFL Centre for Digital Humanities (dhCenter); EPFL Data Champions Community;
     Gesellschaft f{\"u}r Musikforschung (GfM).}
-\cvitem{2018--2019}{Co-founder and vice-president of the Digital Humanities Student Association \emph{dhelta} at EPFL.}
-\cvitem{since 2017}{Gesellschaft f{\"u}r Musiktheorie (GMTH).}
-\cvitem{2012--2013}{Financial officer for General Students' Commitee [Finanzreferent AStA], HfMT.}
+\mycvitem{2018--2019}{Co-founder and vice-president of the Digital Humanities Student Association \emph{dhelta} at EPFL.}
+\mycvitem{since 2017}{Gesellschaft f{\"u}r Musiktheorie (GMTH).}
+\mycvitem{2012--2013}{Financial officer for General Students' Commitee [Finanzreferent AStA], HfMT.}
 
 %----------------------------------------------------------------------------------------
 %	MEDIA SECTION
 %----------------------------------------------------------------------------------------
 
-% \section{Media coverage}
+\section{Media coverage}
 
-% \cvitem{Aug 2020}{``Bringing computational music analysis beyond the traditional canon'' \newline\scriptsize\url{https://actu.epfl.ch/news/bringing-computational-music-analysis-beyond-the-t/}}
-% \cvitem{Jun 2019}{``A Data Science Analysis Finds Beethoven's Style In His String Quartets'' \newline\scriptsize\url{https://www.forbes.com/sites/evaamsen/2019/06/06/a-data-science-analysis-finds-beethovens-style-in-his-string-quartets/}}
-% \cvitem{}{``Decoding Beethoven's music style using data science'' \newline\scriptsize\url{https://actu.epfl.ch/news/decoding-beethoven-s-music-style-using-data-scienc/}}
-% \cvitem{Mar 2019}{``Creating connections in a growing digital humanities community''\newline\scriptsize\url{https://actu.epfl.ch/news/creating-connections-in-a-growing-digital-humani-2/}}
+\cvitem{Aug 2020}{``Bringing computational music analysis beyond the traditional canon'' \newline\scriptsize\url{https://actu.epfl.ch/news/bringing-computational-music-analysis-beyond-the-t/}}
+\cvitem{Jun 2019}{``A Data Science Analysis Finds Beethoven's Style In His String Quartets'' \newline\scriptsize\url{https://www.forbes.com/sites/evaamsen/2019/06/06/a-data-science-analysis-finds-beethovens-style-in-his-string-quartets/}}
+\cvitem{}{``Decoding Beethoven's music style using data science'' \newline\scriptsize\url{https://actu.epfl.ch/news/decoding-beethoven-s-music-style-using-data-scienc/}}
+\cvitem{Mar 2019}{``Creating connections in a growing digital humanities community''\newline\scriptsize\url{https://actu.epfl.ch/news/creating-connections-in-a-growing-digital-humani-2/}}
 
 %----------------------------------------------------------------------------------------
 %	COURSES / SUMMER SCHOOLS SECTION
@@ -231,14 +377,14 @@
 
 % \subsection{Workshops and Summer Schools}
 % \cvitem{2020}{Workshop ``Transcribing -- Encoding -- Annotating: New Approaches of Technology and Methodology for Historical Sources in Crowd Sourcing and Citizen Science''. Forschungsbibliothek Gotha der Universität Erfurt, November 26--27 [online].}
-\cvitem{2020}{Workshop ``Musikalische Schrift und Digitalität'', Basel, Switzerland, September 22--23.}
-\cvitem{}{\emph{edirom} summer school (text and music encoding). Universtity of Paderborn. Paderborn, Germany, August 31--September 4 [online].}
-\cvitem{2019}{Workshop ``Research Data Management: introduction'', EPFL Library, October 10.}
-\cvitem{2018}{Workshop ``Voice-leading schemata in theory, corpus research, and practical composition (Compose your own Chopin!)'', EPFL, September 18--20.}
-\cvitem{}{Symposium ``Archiving Intangible Cultural Heritage \& Performing Arts: A Symposium and Summer School for Living Traditions'', EPFL, August 6--7.}
-\cvitem{2017}{Workshop ``Meaning in Music: Bridging Musicological, Linguistic, and Neuroscientific Perspectives'', EPFL, December 4--6.}
-\cvitem{}{Summer School ``Exploring Edges: An International Colloquium between the Digital Humanities, Architecture, Artistic Research, and Critical Technical Practice'', EPFL, July 11--14.}
-\cvitem{2016}{Summer School ``Cognitive Neuroscience of Music'', University of Helsinki, August 11--17.}
+\mycvitem{2020}{Workshop ``Musikalische Schrift und Digitalität'', Basel, Switzerland, September 22--23.}
+\mycvitem{}{\emph{edirom} summer school (text and music encoding). Universtity of Paderborn. Paderborn, Germany, August 31--September 4 [online].}
+\mycvitem{2019}{Workshop ``Research Data Management: introduction'', EPFL Library, October 10.}
+\mycvitem{2018}{Workshop ``Voice-leading schemata in theory, corpus research, and practical composition (Compose your own Chopin!)'', EPFL, September 18--20.}
+\mycvitem{}{Symposium ``Archiving Intangible Cultural Heritage \& Performing Arts: A Symposium and Summer School for Living Traditions'', EPFL, August 6--7.}
+\mycvitem{2017}{Workshop ``Meaning in Music: Bridging Musicological, Linguistic, and Neuroscientific Perspectives'', EPFL, December 4--6.}
+\mycvitem{}{Summer School ``Exploring Edges: An International Colloquium between the Digital Humanities, Architecture, Artistic Research, and Critical Technical Practice'', EPFL, July 11--14.}
+\mycvitem{2016}{Summer School ``Cognitive Neuroscience of Music'', University of Helsinki, August 11--17.}
 
 % \subsection{University Courses}
 % \cvitem{2017}{``Applied Data Analysis'' (Robert West), EPFL.}
@@ -258,18 +404,18 @@
 %	COMPUTER SKILLS SECTION
 %----------------------------------------------------------------------------------------
 
-% \section{Skills}
+\section{Skills}
 
-% \cvitem{Languages}{
-%     Python, Latex, HTML/CSS \newline
-%     German (native), English (fluent), French (conversational), Spanish (basic)}
-% \cvitem{Utilities}{Git, GitHub, Jupyter Notebook/Lab}
+\cvitem{Languages}{
+    Python, Latex, HTML/CSS \newline
+    German (native), English (fluent), French (conversational), Spanish (basic)}
+\cvitem{Utilities}{Git, GitHub, Jupyter Notebook/Lab}
 
-% \section{Musical activities}
+\section{Musical activities}
 
-% \cvdoubleitem{2014--2017}{Classical vocal octet \emph{Vokalexkursion}}{2008--2013}{Pop a-capella group \emph{gezwungenerma\ss en}}
-% \cvdoubleitem{2013--2015}{Cologne Cathedral Chamber Choir}{since 1994}{Guitar}
-% \cvdoubleitem{2011--2013}{Cologne Conservatory Chamber Choir}{since 1993}{Piano}
+\cvdoubleitem{2014--2017}{Classical vocal octet \emph{Vokalexkursion}}{2008--2013}{Pop a-capella group \emph{gezwungenerma\ss en}}
+\cvdoubleitem{2013--2015}{Cologne Cathedral Chamber Choir}{since 1994}{Guitar}
+\cvdoubleitem{2011--2013}{Cologne Conservatory Chamber Choir}{since 1993}{Piano}
 
 
 %----------------------------------------------------------------------------------------

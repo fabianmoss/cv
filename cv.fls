@@ -1,9 +1,9 @@
-PWD c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv
+PWD c:\Users\fabianmoss\GitHub\fabianmoss\cv
 INPUT C:\Users\fabianmoss\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\cv.tex
-OUTPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\cv.log
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\moderncv.cls
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\moderncv.cls
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.tex
+OUTPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.log
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\moderncv.cls
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\moderncv.cls
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
@@ -51,14 +51,14 @@ INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\microtype.cfg
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\microtype.cfg
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\microtype.cfg
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\moderncvcompatibility.sty
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\moderncvcompatibility.sty
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\moderncvcompatibility.sty
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\moderncvcompatibility.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\bigfoot\suffix.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\bigfoot\suffix.sty
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\tweaklist.sty
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\tweaklist.sty
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\moderncvstylebanking.sty
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\moderncvstylebanking.sty
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\tweaklist.sty
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\tweaklist.sty
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\moderncvstylebanking.sty
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\moderncvstylebanking.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tex-gyre\tgpagella.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tex-gyre\tgpagella.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tex-gyre\tgpagella.sty
@@ -71,8 +71,8 @@ INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\generic\kvsetkey
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\marvosym\umvs.fd
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\marvosym\umvs.fd
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\marvosym\umvs.tfm
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\moderncvcolorblue.sty
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\moderncvcolorblue.sty
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\moderncvcolorblue.sty
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\moderncvcolorblue.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty
@@ -93,6 +93,8 @@ INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\if
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hanging\hanging.sty
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hanging\hanging.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftexcmds\pdftexcmds.sty
@@ -131,9 +133,9 @@ INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\rerunfilec
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\generic\uniquecounter\uniquecounter.sty
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\cv.aux
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\cv.aux
-OUTPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\cv.aux
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.aux
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.aux
+OUTPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.aux
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tex-gyre\t1qpl.fd
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tex-gyre\t1qpl.fd
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\tex-gyre\ec-qplr.tfm
@@ -149,14 +151,14 @@ INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\r
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcount.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\cv.out
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\cv.out
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\cv.out
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\cv.out
-OUTPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\cv.pdf
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\cv.out
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\cv.out
-OUTPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\cv.out
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.out
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.out
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.out
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.out
+OUTPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.pdf
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.out
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.out
+OUTPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.out
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\tex-gyre\ec-qplri.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\tex-gyre\ec-qplr.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\tex-gyre\ec-qplb.tfm
@@ -189,16 +191,26 @@ INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmex10.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\tex-gyre\ec-qplb.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\tex-gyre\ec-qplb.tfm
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\tex-gyre\ec-qplb.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\tex-gyre\ec-qplr.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\tex-gyre\ec-qplb.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\tex-gyre\ec-qplr.tfm
-INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\tex-gyre\ec-qplr.tfm
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmtt10.tfm
 INPUT C:\Users\fabianmoss\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\cv.aux
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\cv.out
-INPUT c:\Users\fabianmoss\GitHub\fabianmoss\2020_doctorate_award\cv\cv.out
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\tex-gyre\ec-qplr.tfm
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmtt8.tfm
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.aux
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.out
+INPUT c:\Users\fabianmoss\GitHub\fabianmoss\cv\cv.out
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ec.enc
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\tex-gyre\q-ec.enc
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\tex-gyre\q-ts1.enc
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmtt10.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmtt10.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmtt8.pfb
+INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmtt8.pfb
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\marvosym\marvosym.pfb
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\marvosym\marvosym.pfb
 INPUT C:\Users\fabianmoss\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\tex-gyre\qplb.pfb
