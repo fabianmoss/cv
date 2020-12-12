@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.27)  10 DEC 2020 11:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.27)  11 DEC 2020 20:12
 entering extended mode
 **c:/Users/fabianmoss/GitHub/fabianmoss/cv/cv.tex
 (c:/Users/fabianmoss/GitHub/fabianmoss/cv/cv.tex
@@ -553,6 +553,11 @@ Underfull \hbox (badness 10000) detected at line 167
 \T1/qpl/m/n/7 .
  []
 
+
+Overfull \hbox (4.8379pt too wide) in paragraph at lines 186--186
+\T1/qpl/m/n/10 (-20) cog-ni-tive mod-el-ing of modes in the his-tory of West-ern clas-si-cal mu-sic. []$\T1/lmtt/m/n/10 https : / / doi . org / 10 . 1057 / s41599-[]020-[]00678-[]6$[] 
+ []
+
 [1
 
 {C:/Users/fabianmoss/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
@@ -692,17 +697,17 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 13D4450C11C91A7FAE53DC6D3EDF63C8;3396.
  ) 
 Here is how much of TeX's memory you used:
- 13077 strings out of 480896
- 206877 string characters out of 2895750
+ 13079 strings out of 480896
+ 206895 string characters out of 2895750
  594697 words of memory out of 3000000
  28615 multiletter control sequences out of 15000+200000
- 594545 words of font info for 105 fonts, out of 3000000 for 9000
+ 594685 words of font info for 106 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  46i,13n,69p,809b,389s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/tex-gyre/q-ec.enc}{C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/tex-gyre/q-ts1.enc}<C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi6.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi7.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt8.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/marvosym/marvosym.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/tex-gyre/qplb.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/tex-gyre/qplr.pfb><C:/Users/fabianmoss/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on c:/Users\fabianmoss\GitHub\fabianmoss\cv\cv.pdf (5 pages, 306265 bytes).
+Output written on c:/Users\fabianmoss\GitHub\fabianmoss\cv\cv.pdf (5 pages, 306523 bytes).
 PDF statistics:
- 199 PDF objects out of 1000 (max. 8388607)
+ 200 PDF objects out of 1000 (max. 8388607)
  30 named destinations out of 1000 (max. 500000)
  16577 words of extra memory for PDF output out of 17280 (max. 10000000)
 
