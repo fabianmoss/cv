@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.1.3)  11 JAN 2021 09:12
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.1.3)  12 JAN 2021 14:08
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -668,136 +668,136 @@ Underfull \hbox (badness 10000) detected at line 167
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 207.
+(Font)              using `T1/qpl/b/n' instead on input line 208.
 
 
-Underfull \hbox (badness 10000) detected at line 207
+Underfull \hbox (badness 10000) detected at line 208
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 210.
+(Font)              using `T1/qpl/b/n' instead on input line 211.
 
 
-Underfull \hbox (badness 10000) detected at line 210
+Underfull \hbox (badness 10000) detected at line 211
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 216.
+(Font)              using `T1/qpl/b/n' instead on input line 217.
 
 
-Underfull \hbox (badness 10000) detected at line 216
+Underfull \hbox (badness 10000) detected at line 217
 \T1/qpl/m/n/7 .
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 225.
+(hyperref)                removing `math shift' on input line 226.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 225.
+(hyperref)                removing `superscript' on input line 226.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 225.
+(hyperref)                removing `math shift' on input line 226.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 225.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 226.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 1.66672pt
-(hyperref)                removed on input line 225.
+(hyperref)                removed on input line 226.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 225.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 226.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 1.66672pt
-(hyperref)                removed on input line 225.
+(hyperref)                removed on input line 226.
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 225.
+(Font)              <9> on input line 226.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 225.
+(Font)              <6> on input line 226.
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 227.
+(Font)              using `T1/qpl/b/n' instead on input line 228.
 
 
-Underfull \hbox (badness 10000) detected at line 227
+Underfull \hbox (badness 10000) detected at line 228
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 235.
+(Font)              using `T1/qpl/b/n' instead on input line 236.
 
 
-Underfull \hbox (badness 10000) detected at line 235
+Underfull \hbox (badness 10000) detected at line 236
 \T1/qpl/m/n/7 .
  []
 
 [2] [3]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 314.
+(Font)              using `T1/qpl/b/n' instead on input line 315.
 
 
-Underfull \hbox (badness 10000) detected at line 314
+Underfull \hbox (badness 10000) detected at line 315
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 321.
+(Font)              using `T1/qpl/b/n' instead on input line 322.
 
 
-Underfull \hbox (badness 10000) detected at line 321
+Underfull \hbox (badness 10000) detected at line 322
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 338.
+(Font)              using `T1/qpl/b/n' instead on input line 339.
 
 
-Underfull \hbox (badness 10000) detected at line 338
+Underfull \hbox (badness 10000) detected at line 339
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 345.
+(Font)              using `T1/qpl/b/n' instead on input line 346.
 
 
-Underfull \hbox (badness 10000) detected at line 345
+Underfull \hbox (badness 10000) detected at line 346
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 356.
+(Font)              using `T1/qpl/b/n' instead on input line 357.
 
 
-Underfull \hbox (badness 10000) detected at line 356
+Underfull \hbox (badness 10000) detected at line 357
 \T1/qpl/m/n/7 .
  []
 
 [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 454.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 455.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 454.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 455.
  (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 454.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 454.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 455.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 455.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 13D4450C11C91A7FAE53DC6D3EDF63C8;3396.
 )
@@ -805,13 +805,13 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 Here is how much of LuaTeX's memory you used:
  13628 strings out of 481365
  125171,662416 words of node,token memory allocated
- 1804 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 256 kern, 72 glue_spec, 1 write, 6 pdf_acti
+ 1794 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 254 kern, 72 glue_spec, 1 write, 6 pdf_acti
 on nodes
-   avail lists: 2:24,3:245,4:153,5:517,6:52,7:5915,8:130,9:258,10:4,11:492
+   avail lists: 2:24,3:246,4:153,5:517,6:52,7:5910,8:129,9:263,10:4,11:495
  30137 multiletter control sequences out of 65536+600000
  62 fonts using 4698191 bytes
- 46i,13n,69p,767b,430s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 46i,13n,69p,767b,432s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips
 /lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/shar
 e/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}</usr/share/texmf/fonts/type1/public/
@@ -821,7 +821,7 @@ pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></us
 r/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1
 /public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pf
 b>
-Output written on cv.pdf (5 pages, 283349 bytes).
+Output written on cv.pdf (5 pages, 283232 bytes).
 
 PDF statistics: 203 PDF objects out of 1000 (max. 8388607)
  185 compressed objects within 2 object streams
