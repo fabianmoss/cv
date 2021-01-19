@@ -37,6 +37,8 @@
 % \setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
 
 \usepackage{hanging}
+\usepackage{lmodern}
+\usepackage{amsmath}
 
 % \usepackage[
 %     backend=biber,
@@ -58,9 +60,9 @@
 %     {#1}
 % }
 
-\newcommand{\OA}{\textbf{*}}
-\newcommand{\inv}{$^i$}
-% \newcommand{\OA}{\textcolor{color2}{\textbf{*}}}
+% \newcommand{\OA}{\textbf{*}}
+\newcommand{\inv}{\textcolor{color2}{$\mathbf{^i}$}}
+\newcommand{\OA}{\textcolor{color2}{\textbf{*}}}
 
 %----------------------------------------------------------------------------------------
 %	NAME AND CONTACT INFORMATION SECTION
@@ -122,7 +124,7 @@
 \cventry{2020--today}{Digital and Cognitive Musicology Lab (DCML), Lausanne, Switzerland}{{\'E}cole Polytechnique F{\'e}d{\'e}rale de Lausanne (EPFL)}{Postdoctoral Researcher}{}{}  % Arguments not required can be left empty
 \cventry{2017--2019}{Digital and Cognitive Musicology Lab (DCML), Lausanne, Switzerland}{{\'E}cole Polytechnique F{\'e}d{\'e}rale de Lausanne (EPFL)}{Doctoral Assistant}{}{}  % Arguments not required can be left empty
 \cventry{2015--2017}{Dresden Music Cognition Lab (DMCL), Dresden, Germany}{Technische Universit{\"a}t Dresden (TUD)}{Doctoral Assistant}{}{}  % Arguments not required can be left empty
-% \cventry{2012--2014}{Conductor and vocal coach for children's choirs}{\newline Musikschule Leverkusen}{Project ``Jedem Kind seine Stimme'' (JEKISS)}{}{Leverkusen, Germany}  % Arguments not required can be left empty
+\cventry{2012--2014}{Project ``Jedem Kind seine Stimme'' (JEKISS), Leverkusen, Germany}{Musikschule Leverkusen}{Conductor and vocal coach}{}{}  % Arguments not required can be left empty
 
 %----------------------------------------------------------------------------------------
 %	EDUCATION SECTION
@@ -137,7 +139,7 @@
 \cventry{2011--2013}{Musicology, Cologne, Germany}{Hochschule f{\"u}r Musik und Tanz K{\"o}ln (HfMT)}{Master of Arts}{}{}  % Arguments not required can be left empty
 \cventry{2008--2013}{Music Education (Piano Major), Cologne, Germany}{Hochschule f{\"u}r Musik und Tanz K{\"o}ln (HfMT)}{Staatexamen [State Examination]}{}{}  % Arguments not required can be left empty
 \cventry{2006--2016}{Mathematics and Educational Sciences, Cologne, Germany}{Universit{\"a}t zu K{\"o}ln (UzK)}{Staatexamen [State Examination]}{}{}  % Arguments not required can be left empty
-% \cventry{2002--2005}{Friedrich-Wilhelm-Gymnasium K{\"o}ln (FWG)}{}{Abitur [German High School Diploma]}{}{Cologne, Germany}  % Arguments not required can be left empty
+\cventry{2005}{Cologne, Germany}{Friedrich-Wilhelm-Gymnasium K{\"o}ln (FWG)}{Abitur [German High School Diploma]}{}{}  % Arguments not required can be left empty
 % \cventry{1996--2002}{Europaschule K{\"o}ln, Gesamtschule Zollstock}{}{}{}{Cologne, Germany}
 % \cventry{1992--1996}{Katholische Grundschule Trierer Stra\ss e}{}{}{}{Cologne, Germany}
 
@@ -151,17 +153,17 @@
 \newcommand*{\mycvitem}[3][.25em]{%
   \begin{description}
     \item[\ifthenelse{\equal{#2}{}}{}{\hintstyle{#2}: }] #3
-  \end{description}% 
+  \end{description}%
   \par\addvspace{#1}}
 
-\section{Publications \textcolor{black}{\small(\OA = Open Access)}} 
+\section{Publications \textcolor{black}{\small(\OA = Open Access)}}
 
 \subsection{Theses}
 
 \mycvitem{PhD}{\OA\textbf{Moss, F. C.} (2019). \emph{Transitions of Tonality: A Model-Based Corpus Study}. Doctoral dissertation. École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland.
     Supervisors: Martin Rohrmeier \& Markus Neuwirth. \url{https://doi.org/10.5075/epfl-thesis-9808}}
 
-\mycvitem{MA}{\textbf{Moss, F. C.} (2012). \emph{``Theorie der Tonfelder'' nach Simon und ``Neo-Riemannian Theory'': 
+\mycvitem{MA}{\textbf{Moss, F. C.} (2012). \emph{``Theorie der Tonfelder'' nach Simon und ``Neo-Riemannian Theory'':
     Systematik, historische Bez{\"u}ge und analytische Praxis im Vergleich}. Supervisor: Hans Neuhoff}
 
 \subsection{Journal Articles and Conference Papers}
@@ -171,7 +173,7 @@
 %% Submitted
 
 %% In Review
-\mycvitem{in review}{\OA Viaccoz, C., Harasim, D., \textbf{Moss, F. C.}, \& Rohrmeier, M. (in review). Wavescapes: A Visual Hierarchical Analysis of Tonality Using the Discrete Fourier Transformation.}
+% \mycvitem{in review}{\OA Viaccoz, C., Harasim, D., \textbf{Moss, F. C.}, \& Rohrmeier, M. (in review). Wavescapes: A Visual Hierarchical Analysis of Tonality Using the Discrete Fourier Transformation.}
 % \mycvitem{}{\textbf{Moss, F. C.} \& Rohrmeier, M. Discovering tonal structures with Latent Dirichlet Allocation. \emph{Music \& Science}.}
 
 %% Accepted
@@ -325,7 +327,7 @@ Digitizing the Dualism Debate: A Case Study in the Computational Analysis of His
 % \cvitem{nominated}{EPFL Doctorate Award}
 \cvitem{2016--2017}{Konrad Adenauer Foundation, PhD Scholarship.}
 \cvitem{Aug 2016}{TUD Graduate Academy, Travel Award.}
-\cvitem{Jan--Mar 2016}{Deutscher Akademischer Austauschdienst (DAAD), 
+\cvitem{Jan--Mar 2016}{Deutscher Akademischer Austauschdienst (DAAD),
     great!\textsubscript{ipid4all} (group2group exchange for academic talents).}
 \cvitem{Sep 2014}{Society for Education and Music Psychology (SEMPRE), Travel Award.}
 \cvitem{Jan--Apr 2012}{European Union (EU), ERASMUS Scholarship.}
@@ -369,6 +371,7 @@ Digitizing the Dualism Debate: A Case Study in the Computational Analysis of His
 
 \section{Media coverage}
 
+\cvitem{Jan 2021}{``Machine learning helps retrace evolution of classical music''\newline\scriptsize\url{https://actu.epfl.ch/news/machine-learning-helps-retrace-evolution-of-clas-2/}}
 \cvitem{Aug 2020}{``Bringing computational music analysis beyond the traditional canon'' \newline\scriptsize\url{https://actu.epfl.ch/news/bringing-computational-music-analysis-beyond-the-t/}}
 \cvitem{Jun 2019}{``A Data Science Analysis Finds Beethoven's Style In His String Quartets'' \newline\scriptsize\url{https://www.forbes.com/sites/evaamsen/2019/06/06/a-data-science-analysis-finds-beethovens-style-in-his-string-quartets/}}
 \cvitem{}{``Decoding Beethoven's music style using data science'' \newline\scriptsize\url{https://actu.epfl.ch/news/decoding-beethoven-s-music-style-using-data-scienc/}}
@@ -380,8 +383,7 @@ Digitizing the Dualism Debate: A Case Study in the Computational Analysis of His
 
 \section{Workshops and summer/winter schools attended}
 
-% \subsection{Workshops and Summer Schools}
-% \mycvitem{2021}{Winter School ``Digitale Editionen - Masterclass''. Bergische Universität Wuppertal, Wuppertal, Germany, 22--26 January [online].}
+\mycvitem{2021}{Winter School ``Digitale Editionen - Masterclass''. Bergische Universität Wuppertal, Wuppertal, Germany, 22--26 January [online].}
 \mycvitem{2020}{Workshop ``Transcribing -- Encoding -- Annotating: New Approaches of Technology and Methodology for Historical Sources in Crowd Sourcing and Citizen Science''. Forschungsbibliothek Gotha der Universität Erfurt, November 26--27 [online].}
 \mycvitem{}{Workshop ``Musikalische Schrift und Digitalität'', Basel, Switzerland, September 22--23.}
 \mycvitem{}{\emph{edirom} summer school (text and music encoding). Universtity of Paderborn. Paderborn, Germany, August 31--September 4 [online].}
