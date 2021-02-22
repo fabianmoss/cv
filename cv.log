@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.1.20)  17 FEB 2021 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.1.20)  22 FEB 2021 11:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -618,157 +618,157 @@ Underfull \hbox (badness 10000) detected at line 169
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 210.
+(Font)              using `T1/qpl/b/n' instead on input line 211.
 
 
-Underfull \hbox (badness 10000) detected at line 210
+Underfull \hbox (badness 10000) detected at line 211
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 213.
+(Font)              using `T1/qpl/b/n' instead on input line 214.
 
 
-Underfull \hbox (badness 10000) detected at line 213
+Underfull \hbox (badness 10000) detected at line 214
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 219.
+(Font)              using `T1/qpl/b/n' instead on input line 220.
 
 
-Underfull \hbox (badness 10000) detected at line 219
+Underfull \hbox (badness 10000) detected at line 220
 \T1/qpl/m/n/7 .
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 228.
+(hyperref)                removing `math shift' on input line 229.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 228.
+(hyperref)                removing `superscript' on input line 229.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 228.
+(hyperref)                removing `math shift' on input line 229.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 228.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 229.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 1.66702pt
-(hyperref)                removed on input line 228.
+(hyperref)                removed on input line 229.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 228.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 229.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 1.66702pt
-(hyperref)                removed on input line 228.
+(hyperref)                removed on input line 229.
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 228.
+(Font)              <9> on input line 229.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 228.
+(Font)              <6> on input line 229.
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 230.
+(Font)              using `T1/qpl/b/n' instead on input line 231.
 
 
-Underfull \hbox (badness 10000) detected at line 230
+Underfull \hbox (badness 10000) detected at line 231
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 238.
+(Font)              using `T1/qpl/b/n' instead on input line 239.
 
 
-Underfull \hbox (badness 10000) detected at line 238
+Underfull \hbox (badness 10000) detected at line 239
 \T1/qpl/m/n/7 .
  []
 
 [2] [3]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 319.
+(Font)              using `T1/qpl/b/n' instead on input line 320.
 
 
-Underfull \hbox (badness 10000) detected at line 319
+Underfull \hbox (badness 10000) detected at line 320
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 326.
+(Font)              using `T1/qpl/b/n' instead on input line 327.
 
 
-Underfull \hbox (badness 10000) detected at line 326
+Underfull \hbox (badness 10000) detected at line 327
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 343.
+(Font)              using `T1/qpl/b/n' instead on input line 344.
 
 
-Underfull \hbox (badness 10000) detected at line 343
+Underfull \hbox (badness 10000) detected at line 344
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 350.
+(Font)              using `T1/qpl/b/n' instead on input line 351.
 
 
-Underfull \hbox (badness 10000) detected at line 350
+Underfull \hbox (badness 10000) detected at line 351
 \T1/qpl/m/n/7 .
  []
 
 
-Overfull \hbox (8.80884pt too wide) in paragraph at lines 365--365
+Overfull \hbox (8.80884pt too wide) in paragraph at lines 366--366
 []\T1/qpl/m/it/10 (-20) International Con-fer-ence of Stu-dents of Sys-tem-atic Mu-si-col-ogy (Sys-Mus)\T1/qpl/m/n/10 (-20) , \T1/qpl/m/it/10 (-20) Com-pu-ta-tional Hu-man-i-ties Re-search (CHR)\T1/qpl/m/n/10 (-20) ,
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 367.
+(Font)              using `T1/qpl/b/n' instead on input line 368.
 
 
-Underfull \hbox (badness 10000) detected at line 367
+Underfull \hbox (badness 10000) detected at line 368
 \T1/qpl/m/n/7 .
  []
 
 [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 466.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 467.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 466.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 467.
  (/home/fmoss/cv/cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 466.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 466.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 467.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 467.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 6632FE011011FE581698CFA09E308B38;3431.
  ) 
 Here is how much of TeX's memory you used:
  13704 strings out of 483183
  208271 string characters out of 5966292
- 598335 words of memory out of 5000000
+ 598479 words of memory out of 5000000
  28338 multiletter control sequences out of 15000+600000
  610101 words of font info for 116 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  46i,13n,69p,783b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx6.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on /home/fmoss/cv/cv.pdf (5 pages, 319995 bytes).
+Output written on /home/fmoss/cv/cv.pdf (5 pages, 320093 bytes).
 PDF statistics:
- 204 PDF objects out of 1000 (max. 8388607)
- 186 compressed objects within 2 object streams
+ 206 PDF objects out of 1000 (max. 8388607)
+ 188 compressed objects within 2 object streams
  30 named destinations out of 1000 (max. 500000)
  19137 words of extra memory for PDF output out of 20736 (max. 10000000)
 
