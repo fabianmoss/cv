@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.3.4)  1 APR 2021 09:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.3.4)  14 APR 2021 11:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -707,52 +707,52 @@ Underfull \hbox (badness 10000) detected at line 329
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 336.
+(Font)              using `T1/qpl/b/n' instead on input line 341.
 
 
-Underfull \hbox (badness 10000) detected at line 336
+Underfull \hbox (badness 10000) detected at line 341
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 353.
+(Font)              using `T1/qpl/b/n' instead on input line 358.
 
 
-Underfull \hbox (badness 10000) detected at line 353
+Underfull \hbox (badness 10000) detected at line 358
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 360.
+(Font)              using `T1/qpl/b/n' instead on input line 365.
 
 
-Underfull \hbox (badness 10000) detected at line 360
+Underfull \hbox (badness 10000) detected at line 365
 \T1/qpl/m/n/7 .
  []
 
 
-Overfull \hbox (8.80884pt too wide) in paragraph at lines 375--375
+Overfull \hbox (8.80884pt too wide) in paragraph at lines 380--380
 []\T1/qpl/m/it/10 (-20) International Con-fer-ence of Stu-dents of Sys-tem-atic Mu-si-col-ogy (Sys-Mus)\T1/qpl/m/n/10 (-20) , \T1/qpl/m/it/10 (-20) Com-pu-ta-tional Hu-man-i-ties Re-search (CHR)\T1/qpl/m/n/10 (-20) ,
  []
 
+[4]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 377.
+(Font)              using `T1/qpl/b/n' instead on input line 382.
 
 
-Underfull \hbox (badness 10000) detected at line 377
+Underfull \hbox (badness 10000) detected at line 382
 \T1/qpl/m/n/7 .
  []
 
-[4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 475.
- [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 475.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 480.
+[5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 480.
  (/home/fmoss/cv/cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 475.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 475.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 480.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 480.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 6632FE011011FE581698CFA09E308B38;3431.
  ) 
@@ -765,7 +765,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  46i,12n,69p,783b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx6.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on /home/fmoss/cv/cv.pdf (5 pages, 320656 bytes).
+Output written on /home/fmoss/cv/cv.pdf (5 pages, 321099 bytes).
 PDF statistics:
  206 PDF objects out of 1000 (max. 8388607)
  188 compressed objects within 2 object streams
