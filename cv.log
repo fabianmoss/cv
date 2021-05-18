@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.3.4)  15 MAY 2021 18:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.3.4)  18 MAY 2021 21:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -549,7 +549,6 @@ LaTeX Info: Redefining \nameref on input line 91.
 \@outlinefile=\write3
 \openout3 = `cv.out'.
 
-\pagenumberwidth=\skip87
  (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
@@ -615,7 +614,7 @@ Underfull \hbox (badness 10000) detected at line 171
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{/home/fmoss/.texlive2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
 (Font)              using `T1/qpl/b/n' instead on input line 219.
@@ -723,6 +722,7 @@ Underfull \hbox (badness 10000) detected at line 365
 \T1/qpl/m/n/7 .
  []
 
+[4]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
 (Font)              using `T1/qpl/b/n' instead on input line 372.
@@ -732,7 +732,6 @@ Underfull \hbox (badness 10000) detected at line 372
 \T1/qpl/m/n/7 .
  []
 
-[4]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
 (Font)              using `T1/qpl/b/n' instead on input line 389.
@@ -752,18 +751,18 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 6632FE011011FE581698CFA09E308B38;3431.
  ) 
 Here is how much of TeX's memory you used:
- 13708 strings out of 483183
- 208313 string characters out of 5966293
- 598293 words of memory out of 5000000
- 28338 multiletter control sequences out of 15000+600000
+ 13707 strings out of 483183
+ 208303 string characters out of 5966293
+ 598252 words of memory out of 5000000
+ 28337 multiletter control sequences out of 15000+600000
  610393 words of font info for 118 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 46i,12n,69p,783b,400s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,11n,69p,783b,392s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx6.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on /home/fmoss/cv/cv.pdf (5 pages, 321233 bytes).
+Output written on /home/fmoss/cv/cv.pdf (5 pages, 317118 bytes).
 PDF statistics:
- 205 PDF objects out of 1000 (max. 8388607)
- 187 compressed objects within 2 object streams
+ 199 PDF objects out of 1000 (max. 8388607)
+ 182 compressed objects within 2 object streams
  30 named destinations out of 1000 (max. 500000)
  19137 words of extra memory for PDF output out of 20736 (max. 10000000)
 

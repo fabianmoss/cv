@@ -173,7 +173,6 @@ OUTPUT /home/fmoss/cv/cv.pdf
 INPUT /home/fmoss/cv/cv.out
 INPUT /home/fmoss/cv/cv.out
 OUTPUT /home/fmoss/cv/cv.out
-INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qplri.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qplr.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qplb.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-mvs.cfg
@@ -205,6 +204,7 @@ INPUT /usr/share/texmf/tex/latex/lm/omxlmex.fd
 INPUT /usr/share/texmf/fonts/tfm/public/lm/lmex10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qplb.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qplb.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qplri.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qplb.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qplr.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qplb.tfm
@@ -212,7 +212,7 @@ INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qplr.tfm
 INPUT /usr/share/texmf/tex/latex/lm/t1lmtt.fd
 INPUT /usr/share/texmf/tex/latex/lm/t1lmtt.fd
 INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmtt10.tfm
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /home/fmoss/.texlive2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmr9.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmr6.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/lmmi9.tfm
