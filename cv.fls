@@ -173,6 +173,7 @@ OUTPUT /home/fmoss/cv/cv.pdf
 INPUT /home/fmoss/cv/cv.out
 INPUT /home/fmoss/cv/cv.out
 OUTPUT /home/fmoss/cv/cv.out
+INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qplri.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qplr.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qplb.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-mvs.cfg
@@ -204,7 +205,6 @@ INPUT /usr/share/texmf/tex/latex/lm/omxlmex.fd
 INPUT /usr/share/texmf/fonts/tfm/public/lm/lmex10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qplb.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qplb.tfm
-INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qplri.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qplb.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qplr.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qplb.tfm
