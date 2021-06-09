@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.3.4)  20 MAY 2021 14:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.3.4)  9 JUN 2021 17:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -505,15 +505,15 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(35.84901pt, 525.80984pt, 35.84901pt)
-* v-part:(T,H,B)=(40.56058pt, 743.64534pt, 60.84093pt)
+* h-part:(L,W,R)=(44.81126pt, 507.88533pt, 44.81128pt)
+* v-part:(T,H,B)=(50.70074pt, 718.29497pt, 76.05113pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=525.80984pt
-* \textheight=743.64534pt
-* \oddsidemargin=-36.42097pt
-* \evensidemargin=-36.42097pt
-* \topmargin=-68.70941pt
+* \textwidth=507.88533pt
+* \textheight=718.29497pt
+* \oddsidemargin=-27.45872pt
+* \evensidemargin=-27.45872pt
+* \topmargin=-58.56924pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -705,6 +705,7 @@ Underfull \hbox (badness 10000) detected at line 336
 \T1/qpl/m/n/7 .
  []
 
+[4]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
 (Font)              using `T1/qpl/b/n' instead on input line 348.
@@ -723,7 +724,6 @@ Underfull \hbox (badness 10000) detected at line 365
 \T1/qpl/m/n/7 .
  []
 
-[4]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
 (Font)              using `T1/qpl/b/n' instead on input line 372.
@@ -753,18 +753,18 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 6632FE011011FE581698CFA09E308B38;3431.
  ) 
 Here is how much of TeX's memory you used:
- 13709 strings out of 483183
- 208319 string characters out of 5966293
- 598343 words of memory out of 5000000
+ 13695 strings out of 483183
+ 208193 string characters out of 5966293
+ 597203 words of memory out of 5000000
  28338 multiletter control sequences out of 15000+600000
- 610393 words of font info for 118 fonts, out of 8000000 for 9000
+ 609389 words of font info for 111 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 46i,13n,69p,783b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,12n,69p,783b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx6.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on /home/fmoss/cv/cv.pdf (6 pages, 322233 bytes).
+Output written on /home/fmoss/cv/cv.pdf (6 pages, 322637 bytes).
 PDF statistics:
- 211 PDF objects out of 1000 (max. 8388607)
- 192 compressed objects within 2 object streams
+ 210 PDF objects out of 1000 (max. 8388607)
+ 191 compressed objects within 2 object streams
  31 named destinations out of 1000 (max. 500000)
  19137 words of extra memory for PDF output out of 20736 (max. 10000000)
 
