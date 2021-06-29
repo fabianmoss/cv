@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.3.4)  17 JUN 2021 15:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.3.4)  29 JUN 2021 12:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -761,10 +761,10 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  46i,12n,69p,783b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx6.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on /home/fmoss/cv/cv.pdf (6 pages, 322629 bytes).
+Output written on /home/fmoss/cv/cv.pdf (6 pages, 323779 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
- 191 compressed objects within 2 object streams
+ 211 PDF objects out of 1000 (max. 8388607)
+ 192 compressed objects within 2 object streams
  31 named destinations out of 1000 (max. 500000)
  19137 words of extra memory for PDF output out of 20736 (max. 10000000)
 
