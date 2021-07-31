@@ -42,13 +42,13 @@
 \usepackage{lmodern}
 \usepackage{amsmath}
 
-% \usepackage[
-%     backend=biber,
-%     style=apa,
-%     natbib=true,
-%     sorting=ydnt
-% ]{biblatex}
-% \addbibresource{bibliography.bib}
+\usepackage[
+    backend=biber,
+    style=apa,
+    natbib=true,
+    sorting=ydnt
+]{biblatex}
+\addbibresource{bibliography.bib}
 
 % Special commands
 \newcommand{\inv}{\textcolor{color2}{$\mathbf{^i}$}}
@@ -63,7 +63,7 @@
 
 % All information in this block is optional, comment out any lines you don't need
 \title{Curriculum Vitae}
-\address{Chemin de Renens 18}{CH-1004 Lausanne}
+% \address{Chemin de Renens 18}{CH-1004 Lausanne}
 \mobile{(+41) 78 700 8485}
 % \phone{(000) 111 1112}
 %\fax{(000) 111 1113}
@@ -152,20 +152,6 @@
 % \cventry{}{B.S.S Daniel}{\newline Professor}{\newline Metallurgical and Materials Engg., IIT Roorkee}{\newline s4danfmt@iitr.ac.in}{ }
 
 
-%% REFS
-%% make my name bold
-% {
-% \renewcommand*{\mkbibnamegiven}[1]{%
-%   \ifitemannotation{me}
-%     {\textbf{#1}}
-%     {#1}}
-% \renewcommand*{\mkbibnamefamily}[1]{%
-%   \ifitemannotation{me}
-%     {\textbf{#1}}
-%     {#1}
-% }
-
-% \nocite{*}
-% \printbibliography
+% \input{bibliography.tex}
 
 \end{document}

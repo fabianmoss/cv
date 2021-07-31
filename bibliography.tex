@@ -1,0 +1,37 @@
+%% REFS
+%% make my name bold
+%% requires items in `bibliography.bib' to have `author+an = {n=me}',
+%% where n is my position in the author list
+{
+\renewcommand*{\mkbibnamegiven}[1]{%
+  \ifitemannotation{me}
+    {\textbf{#1}}
+    {#1}}
+\renewcommand*{\mkbibnamefamily}[1]{%
+  \ifitemannotation{me}
+    {\textbf{#1}}
+    {#1}
+}
+
+\setlength{\bibhang}{1em}
+
+\nocite{*}
+\section{Publications}
+
+\begin{multicols*}{2}
+  \printbibliography[
+  type=thesis,
+  title={Theses},
+  heading=subbibliography
+]
+\printbibliography[
+  type=article,
+  title={Journal articles},
+  heading=subbibliography
+]
+\printbibliography[
+  type=inproceedings,
+  title={Conference papers},
+  heading=subbibliography
+  ]
+\end{multicols*}
