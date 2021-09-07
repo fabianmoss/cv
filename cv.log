@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.7.14)  7 SEP 2021 09:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.7.14)  7 SEP 2021 09:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -875,31 +875,31 @@ Underfull \hbox (badness 10000) detected at line 15
 
 [1
 
-{/home/fmoss/.texlive2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{/home/fmoss/.texlive2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 70.
+(Font)              using `T1/qpl/b/n' instead on input line 86.
 
 
-Underfull \hbox (badness 10000) detected at line 70
+Underfull \hbox (badness 10000) detected at line 86
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 73.
+(Font)              using `T1/qpl/b/n' instead on input line 89.
 
 
-Underfull \hbox (badness 10000) detected at line 73
+Underfull \hbox (badness 10000) detected at line 89
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 79.
+(Font)              using `T1/qpl/b/n' instead on input line 95.
 
 
-Underfull \hbox (badness 10000) detected at line 79
+Underfull \hbox (badness 10000) detected at line 95
 \T1/qpl/m/n/7 .
  []
 
@@ -947,7 +947,6 @@ Underfull \hbox (badness 10000) detected at line 7
 \T1/qpl/m/n/7 .
  []
 
-[2]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
 (Font)              using `T1/qpl/b/n' instead on input line 19.
@@ -957,7 +956,7 @@ Underfull \hbox (badness 10000) detected at line 19
 \T1/qpl/m/n/7 .
  []
 
-[3]) (/home/fmoss/cv/teaching.tex [4]) (/home/fmoss/cv/supervision.tex) (/home/fmoss/cv/funding.tex
+[3] [4]) (/home/fmoss/cv/teaching.tex) (/home/fmoss/cv/supervision.tex) (/home/fmoss/cv/funding.tex
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
 (Font)              using `T1/qpl/b/n' instead on input line 3.
@@ -986,6 +985,7 @@ Underfull \hbox (badness 10000) detected at line 3
 \T1/qpl/m/n/7 .
  []
 
+[5]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
 (Font)              using `T1/qpl/b/n' instead on input line 10.
@@ -1004,9 +1004,9 @@ Underfull \hbox (badness 10000) detected at line 27
 \T1/qpl/m/n/7 .
  []
 
-) (/home/fmoss/cv/media.tex [5]) (/home/fmoss/cv/courses.tex) (/home/fmoss/cv/skills.tex)
+) (/home/fmoss/cv/media.tex) (/home/fmoss/cv/courses.tex) (/home/fmoss/cv/skills.tex [6])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 157.
- [6]
+ [7]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 157.
  (/home/fmoss/cv/cv.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 157.
@@ -1018,18 +1018,18 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20713 strings out of 483183
- 347613 string characters out of 5966292
- 1199805 words of memory out of 5000000
+ 20714 strings out of 483183
+ 347619 string characters out of 5966292
+ 1198805 words of memory out of 5000000
  35266 multiletter control sequences out of 15000+600000
  608895 words of font info for 110 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 64i,12n,101p,783b,4849s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,13n,101p,783b,4849s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx6.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on /home/fmoss/cv/cv.pdf (6 pages, 275689 bytes).
+Output written on /home/fmoss/cv/cv.pdf (7 pages, 278218 bytes).
 PDF statistics:
- 203 PDF objects out of 1000 (max. 8388607)
- 186 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
+ 213 PDF objects out of 1000 (max. 8388607)
+ 195 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
  18113 words of extra memory for PDF output out of 20736 (max. 10000000)
 
