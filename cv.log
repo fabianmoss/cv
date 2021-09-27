@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.7.14)  26 SEP 2021 21:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.7.14)  27 SEP 2021 08:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -995,6 +995,7 @@ Underfull \hbox (badness 10000) detected at line 12
 \T1/qpl/m/n/7 .
  []
 
+[5]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
 (Font)              using `T1/qpl/b/n' instead on input line 29.
@@ -1004,7 +1005,7 @@ Underfull \hbox (badness 10000) detected at line 29
 \T1/qpl/m/n/7 .
  []
 
-[5]) (/home/fmoss/cv/media.tex) (/home/fmoss/cv/courses.tex) (/home/fmoss/cv/skills.tex)
+) (/home/fmoss/cv/media.tex) (/home/fmoss/cv/courses.tex) (/home/fmoss/cv/skills.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 157.
  [6]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 157.
@@ -1018,15 +1019,15 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20719 strings out of 483183
- 347675 string characters out of 5966292
+ 20725 strings out of 483183
+ 347733 string characters out of 5966292
  1199805 words of memory out of 5000000
  35266 multiletter control sequences out of 15000+600000
- 609321 words of font info for 113 fonts, out of 8000000 for 9000
+ 609753 words of font info for 116 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  64i,12n,101p,783b,4849s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx6.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on /home/fmoss/cv/cv.pdf (6 pages, 276536 bytes).
+Output written on /home/fmoss/cv/cv.pdf (6 pages, 276984 bytes).
 PDF statistics:
  204 PDF objects out of 1000 (max. 8388607)
  187 compressed objects within 2 object streams
