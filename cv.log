@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.7.14)  11 OCT 2021 13:49
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.7.14)  15 OCT 2021 13:55
  restricted system commands enabled.
 **/home/fmoss/cv/cv
 (/home/fmoss/cv/cv.tex
@@ -981,10 +981,14 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 1.66702pt
 (hyperref)                removed on input line 5.
 
+[2
+Missing character: There is no – (U+2013) in font ec-qplr!
+]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 5.
+
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
 (Font)              using `T1/qpl/b/n' instead on input line 7.
@@ -994,9 +998,6 @@ Underfull \hbox (badness 10000) detected at line 7
 \T1/qpl/m/n/7 .
  []
 
-[2
-Missing character: There is no – (U+2013) in font ec-qplr!
-]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
 (Font)              using `T1/qpl/b/n' instead on input line 19.
@@ -1078,17 +1079,17 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 Here is how much of LuaTeX's memory you used:
  21444 strings out of 481365
  125171,1373583 words of node,token memory allocated
- 3323 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 366 kern, 1 glyph, 216 attribute, 85 glue_spec, 216 attribute_list, 1 write, 4 pdf_action nodes
-   avail lists: 1:3,2:859,3:306,4:168,5:532,6:52,7:5976,8:124,9:269,10:7,11:499,12:1
+ 3342 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 369 kern, 1 glyph, 217 attribute, 85 glue_spec, 217 attribute_list, 1 write, 4 pdf_action nodes
+   avail lists: 1:3,2:859,3:314,4:156,5:532,6:52,7:5976,8:124,9:269,10:7,11:499,12:1
  37696 multiletter control sequences out of 65536+600000
  62 fonts using 6076115 bytes
- 64i,12n,101p,778b,4847s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 64i,13n,101p,778b,4847s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx6.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on cv.pdf (7 pages, 277613 bytes).
+Output written on cv.pdf (7 pages, 277844 bytes).
 
-PDF statistics: 210 PDF objects out of 1000 (max. 8388607)
- 192 compressed objects within 2 object streams
+PDF statistics: 211 PDF objects out of 1000 (max. 8388607)
+ 193 compressed objects within 2 object streams
  32 named destinations out of 1000 (max. 131072)
  193 words of extra memory for PDF output out of 10000 (max. 100000000)
 
