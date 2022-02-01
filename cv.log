@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2022.1.19)  1 FEB 2022 08:25
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2022.1.19)  1 FEB 2022 11:49
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/cv/cv
@@ -1080,14 +1080,14 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 Here is how much of LuaTeX's memory you used:
  22218 strings out of 477869
  125176,1373583 words of node,token memory allocated
- 3433 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 370 kern, 1 penalty, 3 glyph, 224 attribute, 85 glue_spec, 224 attribute_list, 1 write, 6 pdf_action nodes
-   avail lists: 2:948,3:521,4:290,5:1053,6:100,7:12360,8:127,9:900,10:7,11:981
+ 3456 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 373 kern, 1 penalty, 3 glyph, 226 attribute, 85 glue_spec, 226 attribute_list, 1 write, 6 pdf_action nodes
+   avail lists: 2:934,3:521,4:291,5:1047,6:100,7:12446,8:127,9:900,10:7,11:986
  41893 multiletter control sequences out of 65536+600000
  52 fonts using 3540007 bytes
  70i,13n,102p,1009b,4951s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/home/fmoss/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/home/fmoss/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/home/fmoss/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}</home/fmoss/texmf/fonts/type1/public/lm/lmbx6.pfb></home/fmoss/texmf/fonts/type1/public/lm/lmbx7.pfb></home/fmoss/texmf/fonts/type1/public/marvosym/marvosym.pfb></home/fmoss/texmf/fonts/type1/public/tex-gyre/qplb.pfb></home/fmoss/texmf/fonts/type1/public/tex-gyre/qplr.pfb></home/fmoss/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on cv.pdf (7 pages, 279163 bytes).
+Output written on cv.pdf (7 pages, 279616 bytes).
 
 PDF statistics: 212 PDF objects out of 1000 (max. 8388607)
  194 compressed objects within 2 object streams
