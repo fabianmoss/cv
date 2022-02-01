@@ -1,5 +1,5 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2022.1.14)  17 JAN 2022 10:21
- restricted system commands enabled.
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2022.1.19)  1 FEB 2022 08:24
+ system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/cv/cv
 (/home/fmoss/cv/cv.tex
@@ -63,10 +63,10 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112.
- (/usr/share/texmf/tex/latex/lm/t1lmr.fd
-File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)) (/usr/share/texmf/tex/latex/lm/lmodern.sty
-Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+ (/home/fmoss/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)) (/home/fmoss/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
@@ -185,7 +185,7 @@ Package: suffix 2006/07/15 1.5a Variant command support
 \bibindent=\skip60
  (./tweaklist.sty)) (./moderncvstylebanking.sty
 Package: moderncvstylebanking 2012/10/31 v1.2.0 modern curriculum vitae and letter style scheme: banking
- (/usr/share/texmf/tex/latex/tex-gyre/tgpagella.sty
+ (/home/fmoss/texmf/tex/latex/tex-gyre/tgpagella.sty
 Package: tgpagella 2009/09/27 v1.2 TeX Gyre Pagella as default roman family
  (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
@@ -205,7 +205,7 @@ Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 \doubleitemcolumnwidth=\skip67
 \listitemsymbolwidth=\skip68
 LaTeX Font Info:    Trying to load font information for U+mvs on input line 139.
- (/usr/share/texlive/texmf-dist/tex/latex/marvosym/umvs.fd)
+ (/home/fmoss/texmf/tex/latex/marvosym/umvs.fd)
 \listitemmaincolumnwidth=\skip69
 \listdoubleitemmaincolumnwidth=\skip70
 \cvitemwithcommentmainbox=\box53
@@ -716,7 +716,7 @@ Package hyperref Info: Option `bookmarksopen' set `true' on input line 87.
 \@quotelevel=\count431
 \@quotereset=\count432
 LaTeX Font Info:    Trying to load font information for T1+qpl on input line 87.
- (/usr/share/texmf/tex/latex/tex-gyre/t1qpl.fd
+ (/home/fmoss/texmf/tex/latex/tex-gyre/t1qpl.fd
 File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
 ) (./cv.aux)
 \openout1 = cv.aux
@@ -881,26 +881,26 @@ LaTeX Info: Redefining \nameref on input line 87.
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 114.
- (/usr/share/texmf/tex/latex/tex-gyre/ts1qpl.fd
+ (/home/fmoss/texmf/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 )
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 114.
- (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+ (/home/fmoss/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 114.
- (/usr/share/texmf/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+ (/home/fmoss/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 114.
- (/usr/share/texmf/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+ (/home/fmoss/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 114.
- (/usr/share/texmf/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+ (/home/fmoss/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 114.
@@ -1071,7 +1071,7 @@ Underfull \hbox (badness 10000) detected at line 29
 
 ) (./media.tex) (./skills.tex [6]) [7] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: AB3C91E52277E9DA28DEB2DBC353FEC9;3177.
+(rerunfilecheck)             Checksum: AFC7FC219FE09863B96344263F05F439;3321.
 Package logreq Info: Writing requests to 'cv.run.xml'.
 
 \openout1 = cv.run.xml
@@ -1080,14 +1080,14 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 Here is how much of LuaTeX's memory you used:
  22218 strings out of 477869
  125176,1373583 words of node,token memory allocated
- 3424 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 369 kern, 1 penalty, 3 glyph, 223 attribute, 85 glue_spec, 223 attribute_list, 1 write, 6 pdf_action nodes
-   avail lists: 2:948,3:521,4:290,5:1053,6:100,7:12360,8:127,9:900,10:7,11:981
+ 3476 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 377 kern, 1 penalty, 3 glyph, 226 attribute, 85 glue_spec, 226 attribute_list, 1 write, 6 pdf_action nodes
+   avail lists: 2:934,3:521,4:291,5:1047,6:100,7:12446,8:127,9:900,10:7,11:986
  41893 multiletter control sequences out of 65536+600000
  52 fonts using 3540007 bytes
  70i,13n,102p,1009b,4951s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx6.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on cv.pdf (7 pages, 279166 bytes).
+{/home/fmoss/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/home/fmoss/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/home/fmoss/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}</home/fmoss/texmf/fonts/type1/public/lm/lmbx6.pfb></home/fmoss/texmf/fonts/type1/public/lm/lmbx7.pfb></home/fmoss/texmf/fonts/type1/public/marvosym/marvosym.pfb></home/fmoss/texmf/fonts/type1/public/tex-gyre/qplb.pfb></home/fmoss/texmf/fonts/type1/public/tex-gyre/qplr.pfb></home/fmoss/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
+Output written on cv.pdf (7 pages, 279402 bytes).
 
 PDF statistics: 212 PDF objects out of 1000 (max. 8388607)
  194 compressed objects within 2 object streams
