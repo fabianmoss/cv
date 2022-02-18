@@ -1,9 +1,9 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'cv.blg'
-[70] biber:340> INFO - === Di Feb  1, 2022, 12:00:55
-[83] Biber.pm:415> INFO - Reading 'cv.bcf'
-[150] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[155] Utils.pm:384> WARN - The file 'cv.bcf' does not contain any citations!
-[163] bbl.pm:654> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
-[163] bbl.pm:757> INFO - Output to cv.bbl
-[163] Biber.pm:128> INFO - WARNINGS: 1
+[60] biber:340> INFO - === Fr Feb 18, 2022, 07:32:27
+[72] Biber.pm:415> INFO - Reading 'cv.bcf'
+[135] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[139] Utils.pm:384> WARN - The file 'cv.bcf' does not contain any citations!
+[145] bbl.pm:654> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
+[146] bbl.pm:757> INFO - Output to cv.bbl
+[146] Biber.pm:128> INFO - WARNINGS: 1
