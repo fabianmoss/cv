@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2022.2.7)  18 FEB 2022 11:00
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2022.2.7)  2 MAR 2022 08:41
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/cv/cv
@@ -937,10 +937,10 @@ Underfull \hbox (badness 10000) detected at line 15
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 74.
+(Font)              using `T1/qpl/b/n' instead on input line 75.
 
 
-Underfull \hbox (badness 10000) detected at line 74
+Underfull \hbox (badness 10000) detected at line 75
 \T1/qpl/m/n/7 .
  []
 
@@ -951,28 +951,28 @@ Missing character: There is no – (U+2013) in font ec-qplr!
 ]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 78.
+(Font)              using `T1/qpl/b/n' instead on input line 79.
 
 
-Underfull \hbox (badness 10000) detected at line 78
+Underfull \hbox (badness 10000) detected at line 79
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 82.
+(Font)              using `T1/qpl/b/n' instead on input line 83.
 
 
-Underfull \hbox (badness 10000) detected at line 82
+Underfull \hbox (badness 10000) detected at line 83
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 85.
+(Font)              using `T1/qpl/b/n' instead on input line 86.
 
 
-Underfull \hbox (badness 10000) detected at line 85
+Underfull \hbox (badness 10000) detected at line 86
 \T1/qpl/m/n/7 .
  []
 
@@ -1041,6 +1041,7 @@ Underfull \hbox (badness 10000) detected at line 3
 \T1/qpl/m/n/7 .
  []
 
+[5]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
 (Font)              using `T1/qpl/b/n' instead on input line 15.
@@ -1050,7 +1051,7 @@ Underfull \hbox (badness 10000) detected at line 15
 \T1/qpl/m/n/7 .
  []
 
-[5]) (./admin.tex
+) (./admin.tex
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
 (Font)              using `T1/qpl/b/n' instead on input line 3.
@@ -1078,7 +1079,7 @@ Underfull \hbox (badness 10000) detected at line 29
 \T1/qpl/m/n/7 .
  []
 
-) (./media.tex) (./skills.tex [6]) [7] (./cv.aux)
+) (./media.tex [6]) (./skills.tex) [7] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: C00225D3DBC0E0FF2854642F43554BB7;3423.
 Package logreq Info: Writing requests to 'cv.run.xml'.
@@ -1089,14 +1090,14 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 Here is how much of LuaTeX's memory you used:
  22220 strings out of 477869
  125176,1373583 words of node,token memory allocated
- 3461 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 374 kern, 1 penalty, 3 glyph, 226 attribute, 85 glue_spec, 226 attribute_list, 1 write, 6 pdf_action nodes
-   avail lists: 2:934,3:537,4:291,5:1047,6:101,7:12446,8:127,9:900,10:7,11:986
+ 3513 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 382 kern, 1 penalty, 3 glyph, 229 attribute, 85 glue_spec, 229 attribute_list, 1 write, 6 pdf_action nodes
+   avail lists: 2:935,3:539,4:294,5:1034,6:101,7:12456,8:128,9:902,10:7,11:979
  41894 multiletter control sequences out of 65536+600000
  52 fonts using 3540007 bytes
  70i,13n,102p,1009b,4951s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/home/fmoss/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/home/fmoss/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/home/fmoss/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}</home/fmoss/texmf/fonts/type1/public/lm/lmbx6.pfb></home/fmoss/texmf/fonts/type1/public/lm/lmbx7.pfb></home/fmoss/texmf/fonts/type1/public/marvosym/marvosym.pfb></home/fmoss/texmf/fonts/type1/public/tex-gyre/qplb.pfb></home/fmoss/texmf/fonts/type1/public/tex-gyre/qplr.pfb></home/fmoss/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on cv.pdf (7 pages, 279754 bytes).
+Output written on cv.pdf (7 pages, 280579 bytes).
 
 PDF statistics: 217 PDF objects out of 1000 (max. 8388607)
  199 compressed objects within 2 object streams
