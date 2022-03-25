@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2022.3.18)  25 MAR 2022 09:38
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2022.3.18)  25 MAR 2022 11:21
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/cv/cv
@@ -962,28 +962,19 @@ Missing character: There is no – (U+2013) in font ec-qplr!
 ]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 79.
+(Font)              using `T1/qpl/b/n' instead on input line 80.
 
 
-Underfull \hbox (badness 10000) detected at line 79
+Underfull \hbox (badness 10000) detected at line 80
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 83.
+(Font)              using `T1/qpl/b/n' instead on input line 85.
 
 
-Underfull \hbox (badness 10000) detected at line 83
-\T1/qpl/m/n/7 .
- []
-
-
-LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 87.
-
-
-Underfull \hbox (badness 10000) detected at line 87
+Underfull \hbox (badness 10000) detected at line 85
 \T1/qpl/m/n/7 .
  []
 
@@ -993,6 +984,15 @@ LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
 
 
 Underfull \hbox (badness 10000) detected at line 90
+\T1/qpl/m/n/7 .
+ []
+
+
+LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
+(Font)              using `T1/qpl/b/n' instead on input line 94.
+
+
+Underfull \hbox (badness 10000) detected at line 94
 \T1/qpl/m/n/7 .
  []
 
@@ -1042,10 +1042,10 @@ Underfull \hbox (badness 10000) detected at line 7
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 22.
+(Font)              using `T1/qpl/b/n' instead on input line 23.
 
 
-Underfull \hbox (badness 10000) detected at line 22
+Underfull \hbox (badness 10000) detected at line 23
 \T1/qpl/m/n/7 .
  []
 
@@ -1114,14 +1114,14 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 Here is how much of LuaTeX's memory you used:
  22330 strings out of 477805
  125176,1373583 words of node,token memory allocated
- 3535 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 386 kern, 1 penalty, 3 glyph, 231 attribute, 85 glue_spec, 231 attribute_list, 1 write, 5 pdf_action nodes
-   avail lists: 1:1,2:880,3:527,4:322,5:987,6:102,7:12404,8:123,9:900,10:7,11:973,12:1
+ 3558 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 389 kern, 1 penalty, 3 glyph, 233 attribute, 85 glue_spec, 233 attribute_list, 1 write, 5 pdf_action nodes
+   avail lists: 1:1,2:875,3:527,4:325,5:989,6:102,7:12452,8:123,9:900,10:7,11:971,12:1
  42072 multiletter control sequences out of 65536+600000
  52 fonts using 3540007 bytes
  70i,13n,102p,1009b,5161s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/home/fmoss/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/home/fmoss/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/home/fmoss/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}</home/fmoss/texmf/fonts/type1/public/lm/lmbx6.pfb></home/fmoss/texmf/fonts/type1/public/lm/lmbx7.pfb></home/fmoss/texmf/fonts/type1/public/marvosym/marvosym.pfb></home/fmoss/texmf/fonts/type1/public/tex-gyre/qplb.pfb></home/fmoss/texmf/fonts/type1/public/tex-gyre/qplr.pfb></home/fmoss/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on cv.pdf (7 pages, 282171 bytes).
+Output written on cv.pdf (7 pages, 282397 bytes).
 
 PDF statistics: 225 PDF objects out of 1000 (max. 8388607)
  206 compressed objects within 3 object streams
