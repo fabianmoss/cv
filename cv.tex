@@ -43,9 +43,8 @@
 \usepackage{amsmath}
 
 \usepackage[
-    backend=biber,
+    % backend=biber,
     style=apa,
-    natbib=true,
     sorting=ydnt
 ]{biblatex}
 \addbibresource{bibliography.bib}
@@ -115,14 +114,20 @@
 
 \input{employment.tex}
 \input{education.tex}
-\input{publications.tex}
+
+% \clearpage 
+% \title{Publications}
+% \makecvtitle
+
+\input{bibliography.tex}
+% \input{publications.tex} % publications manually (old!)
 \input{talks.tex}
 \input{teaching.tex}
 \input{supervision.tex}
 \input{funding.tex}
 \input{admin.tex}
 \input{media.tex}
-% \input{courses.tex}
+\input{courses.tex}
 \input{skills.tex}
 
 
@@ -141,7 +146,6 @@
 %----------------------------------------------------------------------------------------
 
 % \section{References}
-
 % \begin{multicols}{2}
 % \cventry{}{K.S Suresh}{\newline Assistant Professor}{\newline Metallurgical and Materials Engg., IIT Roorkee}{\newline suresfmt@iitr.ac.in}{}
 % \columnbreak
@@ -150,8 +154,5 @@
 % \cventry{}{Arpit Gupta}{\newline VP Engineering}{\newline Antriex IT Services}{\newline arpit.gupta@antmex.com}{}
 
 % \cventry{}{B.S.S Daniel}{\newline Professor}{\newline Metallurgical and Materials Engg., IIT Roorkee}{\newline s4danfmt@iitr.ac.in}{ }
-
-
-% \input{bibliography.tex}
 
 \end{document}

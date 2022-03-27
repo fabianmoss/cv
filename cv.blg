@@ -1,9 +1,17 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'cv.blg'
-[62] biber:340> INFO - === Fr Mär 25, 2022, 11:21:38
-[76] Biber.pm:418> INFO - Reading 'cv.bcf'
-[138] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
-[148] bbl.pm:654> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
-[149] bbl.pm:757> INFO - Output to cv.bbl
-[149] Biber.pm:130> WARN - The file 'cv.bcf' does not contain any citations!
-[149] Biber.pm:132> INFO - WARNINGS: 1
+[60] biber:340> INFO - === So Mär 27, 2022, 17:58:56
+[72] Biber.pm:418> INFO - Reading 'cv.bcf'
+[132] Biber.pm:969> INFO - Using all citekeys in bib section 0
+[145] Biber.pm:4383> INFO - Processing section 0
+[155] Biber.pm:4574> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[159] bibtex.pm:1713> INFO - LaTeX decoding ...
+[201] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography.bib'
+[480] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[480] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[480] Biber.pm:4203> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[480] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[512] bbl.pm:654> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
+[547] bbl.pm:757> INFO - Output to cv.bbl
+[548] Biber.pm:130> WARN - legacy year field 'in prep.' in entry 'Mossinprep._TransatlanticTransformationsHow' is not an integer - this will probably not sort properly.
+[548] Biber.pm:132> INFO - WARNINGS: 1

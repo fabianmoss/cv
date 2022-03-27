@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2022.3.18)  25 MAR 2022 11:21
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2022.3.18)  27 MAR 2022 17:58
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/cv/cv
@@ -580,12 +580,6 @@ File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
 \biburllcskip=\muskip21
 \c@smartand=\count418
 )
-Package biblatex Info: Trying to load natbib compatibility...
-Package biblatex Info: ... file 'blx-natbib.def' found.
- (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-natbib.def
-File: blx-natbib.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
-Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
-)
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
  (/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.bbx
@@ -732,40 +726,40 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip108
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 87.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 87.
+Package hyperref Info: Option `breaklinks' set `true' on input line 86.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 86.
 \@quotelevel=\count431
 \@quotereset=\count432
-LaTeX Font Info:    Trying to load font information for T1+qpl on input line 87.
+LaTeX Font Info:    Trying to load font information for T1+qpl on input line 86.
  (/home/fmoss/texmf/tex/latex/tex-gyre/t1qpl.fd
 File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
 ) (./cv.aux)
 \openout1 = cv.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 87.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 87.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 86.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 86.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count433
@@ -785,18 +779,18 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Info: Redefining \microtypecontext on input line 87.
-Package microtype Info: Applying patch `item' on input line 87.
-Package microtype Info: Applying patch `toc' on input line 87.
-Package microtype Info: Applying patch `eqnum' on input line 87.
-Package microtype Info: Applying patch `footnote' on input line 87.
+LaTeX Info: Redefining \microtypecontext on input line 86.
+Package microtype Info: Applying patch `item' on input line 86.
+Package microtype Info: Applying patch `toc' on input line 86.
+Package microtype Info: Applying patch `eqnum' on input line 86.
+Package microtype Info: Applying patch `footnote' on input line 86.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 87.
+LaTeX Info: Redefining \showhyphens on input line 86.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -868,9 +862,9 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'cv.bbl' found.
  (./cv.bbl)
-Package biblatex Info: Reference section=0 on input line 87.
-Package biblatex Info: Reference segment=0 on input line 87.
-Package hyperref Info: Link coloring OFF on input line 87.
+Package biblatex Info: Reference section=0 on input line 86.
+Package biblatex Info: Reference segment=0 on input line 86.
+Package hyperref Info: Link coloring OFF on input line 86.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -880,9 +874,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count439
 )
-LaTeX Info: Redefining \ref on input line 87.
-LaTeX Info: Redefining \pageref on input line 87.
-LaTeX Info: Redefining \nameref on input line 87.
+LaTeX Info: Redefining \ref on input line 86.
+LaTeX Info: Redefining \pageref on input line 86.
+LaTeX Info: Redefining \nameref on input line 86.
  (./cv.out) (./cv.out)
 \@outlinefile=\write4
 
@@ -891,55 +885,55 @@ LaTeX Info: Redefining \nameref on input line 87.
  (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 114.
+LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 113.
  (/home/fmoss/texmf/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 114.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 113.
  (/home/fmoss/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 114.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 113.
  (/home/fmoss/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 114.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 113.
  (/home/fmoss/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 114.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 113.
  (/home/fmoss/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 114.
+(Font)              <10> on input line 113.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 114.
+(Font)              <7> on input line 113.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 114.
+(Font)              <5> on input line 113.
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
 
  []
 
-(./employment.tex) (./education.tex) (./publications.tex
+(./employment.tex) (./education.tex) (./bibliography.tex
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 7.
+(Font)              using `T1/qpl/b/n' instead on input line 26.
 
 
-Underfull \hbox (badness 10000) detected at line 7
+Underfull \hbox (badness 10000) detected at line 30
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 15.
+(Font)              using `T1/qpl/b/n' instead on input line 32.
 
 
-Underfull \hbox (badness 10000) detected at line 15
+Underfull \hbox (badness 10000) detected at line 36
 \T1/qpl/m/n/7 .
  []
 
@@ -948,51 +942,41 @@ Underfull \hbox (badness 10000) detected at line 15
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 64.
+(Font)              using `T1/qpl/b/n' instead on input line 38.
 
 
-Underfull \hbox (badness 10000) detected at line 64
+Underfull \hbox (badness 10000) detected at line 42
+\T1/qpl/m/n/7 .
+ []
+
+
+LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
+(Font)              using `T1/qpl/b/n' instead on input line 44.
+
+
+Underfull \hbox (badness 10000) detected at line 48
+\T1/qpl/m/n/7 .
+ []
+
+
+LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
+(Font)              using `T1/qpl/b/n' instead on input line 54.
+
+
+Underfull \hbox (badness 10000) detected at line 58
 \T1/qpl/m/n/7 .
  []
 
 [2
-Missing character: There is no – (U+2013) in font ec-qplr!
-Missing character: There is no – (U+2013) in font ec-qplr!
-Missing character: There is no – (U+2013) in font ec-qplr!
+Missing character: There is no – (U+2013) in font ec-qplri!
+Missing character: There is no – (U+2013) in font ec-qplri!
 ]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 80.
+(Font)              using `T1/qpl/b/n' instead on input line 60.
 
 
-Underfull \hbox (badness 10000) detected at line 80
-\T1/qpl/m/n/7 .
- []
-
-
-LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 85.
-
-
-Underfull \hbox (badness 10000) detected at line 85
-\T1/qpl/m/n/7 .
- []
-
-
-LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 90.
-
-
-Underfull \hbox (badness 10000) detected at line 90
-\T1/qpl/m/n/7 .
- []
-
-
-LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 94.
-
-
-Underfull \hbox (badness 10000) detected at line 94
+Underfull \hbox (badness 10000) detected at line 64
 \T1/qpl/m/n/7 .
  []
 
@@ -1051,7 +1035,7 @@ Underfull \hbox (badness 10000) detected at line 23
 
 [3
 Missing character: There is no ’ (U+2019) in font ec-qplri!
-] [4]) (./teaching.tex) (./supervision.tex [5]) (./funding.tex
+] [4]) (./teaching.tex) (./supervision.tex) (./funding.tex
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
 (Font)              using `T1/qpl/b/n' instead on input line 3.
@@ -1066,6 +1050,7 @@ Overfull \hbox (2.10463pt too wide) in alignment at lines 18--18
 [] []
  []
 
+[5]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
 (Font)              using `T1/qpl/b/n' instead on input line 20.
@@ -1103,28 +1088,37 @@ Underfull \hbox (badness 10000) detected at line 29
 \T1/qpl/m/n/7 .
  []
 
-[6]) (./media.tex) (./skills.tex) [7] (./cv.aux)
+) (./media.tex [6]) (./courses.tex
+Overfull \hbox (9.31862pt too wide) in paragraph at lines 5--5
+[]\T1/qpl/m/it/10 edirom \T1/qpl/m/n/10 sum-mer school (text and mu-sic en-cod-ing). Uni-ver-stity of Pader-born. Pader-born, Ger-many, Au-gust 31--September
+ []
+
+) (./skills.tex) [7] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: E63588F1996CEE418971E337A105B0D8;3429.
+(rerunfilecheck)             Checksum: 87F69A3FEB568C65D3B99C617677A43E;3563.
 Package logreq Info: Writing requests to 'cv.run.xml'.
 
 \openout1 = cv.run.xml
 )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 8 ({)
+### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 22330 strings out of 477805
- 125176,1373583 words of node,token memory allocated
- 3558 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 389 kern, 1 penalty, 3 glyph, 233 attribute, 85 glue_spec, 233 attribute_list, 1 write, 5 pdf_action nodes
-   avail lists: 1:1,2:875,3:527,4:325,5:989,6:102,7:12452,8:123,9:900,10:7,11:971,12:1
- 42072 multiletter control sequences out of 65536+600000
+ 22838 strings out of 477805
+ 156477,1373583 words of node,token memory allocated
+ 3897 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 406 kern, 1 penalty, 3 glyph, 270 attribute, 90 glue_spec, 270 attribute_list, 1 write, 17 pdf_action nodes
+   avail lists: 1:4,2:2157,3:1144,4:317,5:1014,6:121,7:14172,8:128,9:949,10:16,11:978,12:1
+ 42496 multiletter control sequences out of 65536+600000
  52 fonts using 3540007 bytes
- 70i,13n,102p,1009b,5161s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,13n,102p,2238b,5161s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/home/fmoss/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/home/fmoss/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/home/fmoss/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}</home/fmoss/texmf/fonts/type1/public/lm/lmbx6.pfb></home/fmoss/texmf/fonts/type1/public/lm/lmbx7.pfb></home/fmoss/texmf/fonts/type1/public/marvosym/marvosym.pfb></home/fmoss/texmf/fonts/type1/public/tex-gyre/qplb.pfb></home/fmoss/texmf/fonts/type1/public/tex-gyre/qplr.pfb></home/fmoss/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on cv.pdf (7 pages, 282397 bytes).
+Output written on cv.pdf (7 pages, 285319 bytes).
 
-PDF statistics: 225 PDF objects out of 1000 (max. 8388607)
- 206 compressed objects within 3 object streams
- 33 named destinations out of 1000 (max. 131072)
+PDF statistics: 266 PDF objects out of 1000 (max. 8388607)
+ 247 compressed objects within 3 object streams
+ 61 named destinations out of 1000 (max. 131072)
  201 words of extra memory for PDF output out of 10000 (max. 100000000)
 

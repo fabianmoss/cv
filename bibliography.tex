@@ -1,4 +1,7 @@
 %% REFS
+%% TODO: How to add EMR Special Issue? 
+%% TODO: Boldening my name does not work currently because I don't know to export this from Zotero directly
+%% instead of adding it manually...
 %% make my name bold
 %% requires items in `bibliography.bib' to have `author+an = {n=me}',
 %% where n is my position in the author list
@@ -15,23 +18,48 @@
 
 \setlength{\bibhang}{1em}
 
+% NOTE: Export bibliography as BetterBibLaTeX
 \nocite{*}
 \section{Publications}
 
-\begin{multicols*}{2}
-  \printbibliography[
+\begin{multicols}{2}
+\printbibliography[%
   type=thesis,
   title={Theses},
-  heading=subbibliography
+  heading=subbibliography%
 ]
-\printbibliography[
+
+\printbibliography[%
+  type=misc,
+  title={Preprints},
+  heading=subbibliography%
+]
+
+\printbibliography[%
   type=article,
   title={Journal articles},
-  heading=subbibliography
+  heading=subbibliography%
 ]
-\printbibliography[
-  type=inproceedings,
-  title={Conference papers},
-  heading=subbibliography
+
+\printbibliography[%
+  type=inbook,
+  title={Conference papers \& book chapters},
+  heading=subbibliography%
   ]
-\end{multicols*}
+
+\defbibfilter{code}{
+  type=dataset or
+  type=software
+}
+\printbibliography[%
+filter=code,
+title={Data sets and code},
+heading=subbibliography%
+]
+
+\printbibliography[%
+type=online,
+title={Blog posts},
+heading=subbibliography%
+]
+\end{multicols}
