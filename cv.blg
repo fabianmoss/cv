@@ -1,17 +1,17 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'cv.blg'
-[68] biber:340> INFO - === Mi Mär 30, 2022, 09:32:59
-[81] Biber.pm:418> INFO - Reading 'cv.bcf'
-[142] Biber.pm:969> INFO - Using all citekeys in bib section 0
-[152] Biber.pm:4383> INFO - Processing section 0
-[160] Biber.pm:4574> INFO - Looking for bibtex file 'bibliography.bib' for section 0
-[163] bibtex.pm:1713> INFO - LaTeX decoding ...
-[204] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography.bib'
-[547] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[547] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[547] Biber.pm:4203> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[547] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
-[587] bbl.pm:654> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
-[628] bbl.pm:757> INFO - Output to cv.bbl
-[629] Biber.pm:130> WARN - legacy year field 'in prep.' in entry 'Mossinprep._TransatlanticTransformationsHow' is not an integer - this will probably not sort properly.
-[629] Biber.pm:132> INFO - WARNINGS: 1
+[67] biber:340> INFO - === Di Apr 19, 2022, 07:58:26
+[78] Biber.pm:418> INFO - Reading 'cv.bcf'
+[139] Biber.pm:969> INFO - Using all citekeys in bib section 0
+[150] Biber.pm:4383> INFO - Processing section 0
+[158] Biber.pm:4574> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[161] bibtex.pm:1713> INFO - LaTeX decoding ...
+[201] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography.bib'
+[527] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[527] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[527] Biber.pm:4203> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[527] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[558] bbl.pm:654> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
+[590] bbl.pm:757> INFO - Output to cv.bbl
+[590] Biber.pm:130> WARN - legacy year field 'in prep.' in entry 'Mossinprep._TransatlanticTransformationsHow' is not an integer - this will probably not sort properly.
+[590] Biber.pm:132> INFO - WARNINGS: 1
