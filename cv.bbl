@@ -65,6 +65,52 @@
       \field{year}{in prep.}
       \true{nocite}
     \endentry
+    \entry{Bracks2022_TotoliArtLelegesan}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=615525bb61685addcc4bfb033a3c4270}{%
+           family={Bracks},
+           familyi={B\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {OSF Preprints}%
+      }
+      \strng{namehash}{11770833b5f163063740247c22ca1fa5}
+      \strng{fullhash}{11770833b5f163063740247c22ca1fa5}
+      \strng{bibnamehash}{11770833b5f163063740247c22ca1fa5}
+      \strng{authorbibnamehash}{11770833b5f163063740247c22ca1fa5}
+      \strng{authornamehash}{11770833b5f163063740247c22ca1fa5}
+      \strng{authorfullhash}{11770833b5f163063740247c22ca1fa5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We present the first musicological analysis of a Lelegesan performance, a form of musical expression of the Totoli people in Central Sulawesi. Our preliminary study of this participatory musical practice of an endangered language community describes the overall form of the Lelegesan, consisting of two-part stanzas with improvised lyrics but relatively stable melodic patterns. We report characteristics of a performance's frequency spectrum by drawing on computational methods, enabling us to approximate the underlying musical scale. Our analyses show that different phrase types are clearly distinguishable in terms of their frequency content, and that final tones of opening and closing phrases are generally about a major third apart.}
+      \field{langid}{american}
+      \field{month}{5}
+      \field{shorttitle}{Totoli's {{Art}} of {{Lelegesan}}}
+      \field{title}{Totoli's {{Art}} of {{Lelegesan}}: {{Analyzing Sociocultural Context}} and {{Musical Content}}}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.31219/osf.io/5tsxa
+      \endverb
+      \verb{file}
+      \verb /home/fmoss/Zotero/storage/TU8NPNBU/Bracks and Moss - 2022 - Totoli's Art of Lelegesan Analyzing Sociocultural.pdf
+      \endverb
+      \keyw{and Cultures,Arts and Humanities,Computational music analysis,Digital Humanities,ethnomusicology,Ethnomusicology,Indonesia,Language Description and Documentation,Language documentation,Language endangerment,Lelegesan,Linguistics,Music,Musicology,Other Languages,Social and Behavioral Sciences,Societies,South and Southeast Asian Languages and Societies}
+    \endentry
     \entry{Harasim2022_MidiVERTOWebApplication}{misc}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=6da55031daa5da1803b5ef5b128b85a4}{%
@@ -126,6 +172,87 @@
       \verb http://arxiv.org/abs/2203.13158
       \endverb
       \keyw{Computer Science - Sound}
+    \endentry
+    \entry{Hentschel_2022}{inbook}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=cfbc8f6b5670f470a32ea8f6fab343f6}{%
+           family={Hentschel},
+           familyi={H\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cbef11680ce6124dbe9d8aba9b46e92}{%
+           family={McLeod},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae0464b93a1404dccfd671e036398cc5}{%
+           family={Neuwirth},
+           familyi={N\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=1f24f7a78d5ba0633f65dcf60f60da67}{%
+           family={Münnich},
+           familyi={M\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d702889b35953ac1b2c6943d616bcd90}{%
+           family={Rizo},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Humanities Commons}%
+      }
+      \strng{namehash}{6f2097b8c92c18656bf14d98fb44f014}
+      \strng{fullhash}{a320fca8f8a9536d8374e96bea9b08ea}
+      \strng{bibnamehash}{a320fca8f8a9536d8374e96bea9b08ea}
+      \strng{authorbibnamehash}{a320fca8f8a9536d8374e96bea9b08ea}
+      \strng{authornamehash}{6f2097b8c92c18656bf14d98fb44f014}
+      \strng{authorfullhash}{a320fca8f8a9536d8374e96bea9b08ea}
+      \strng{editorbibnamehash}{410fb40aff369ee7c078750b85bcbcbd}
+      \strng{editornamehash}{410fb40aff369ee7c078750b85bcbcbd}
+      \strng{editorfullhash}{410fb40aff369ee7c078750b85bcbcbd}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Chord-based harmony is an important aspect of many types of Western music, across genres, regions, and historical eras. However, the consistent representation and comparison of harmony across a wide range of styles (e.g., classical music, Jazz, Rock, or Pop) is a challenging task. Moreover, even within a single musical style, multiple theories of harmony exist, each relying on its own (possibly implicit) assumptions and leading to harmonic analyses with a distinct focus (e.g., on the root of a chord vs. its bass note) or representation (e.g., spelled vs. enharmonic pitch classes). Cross-stylistic and cross-theory comparisons are therefore even more difficult, particularly in a large-scale computational setting that requires a common overarching representation. To address these problems, we propose a model which allows for the representation of chords at multiple levels of abstraction: from chord realizations on the score level (if available), to pitch-class collections (including a potential application of different equivalences, such as enharmonic or octave equivalence), to pitch- and chord-level functions and higher-order abstractions. Importantly, our proposed model is also well-defined for theories which do not specify information at each level of abstraction (e.g., some theories make no claims about harmonic function), representing only those harmonic properties that are explicitly included and inducing others where possible (e.g., deriving scale degrees from root and key information). Our model thus represents an important step towards a unified representation of harmony and its various applications.}
+      \field{booktitle}{Music {{Encoding Conference Proceedings}} 2021}
+      \field{isbn}{978-84-13-02173-7}
+      \field{title}{Towards a Unified Model of Chords in {{Western}} Harmony}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{143\bibrangedash 149}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.17613/4crx-fr36
+      \endverb
+      \verb{file}
+      \verb /home/fmoss/Zotero/storage/VW3VCIPC/Hentschel et al. - 2022 - Towards a unified model of chords in Western harmo.pdf
+      \endverb
+      \keyw{mec-proceedings,mec-proceedings-2021}
     \endentry
     \entry{Moss2022_LineFifthsCoevolution}{article}{}
       \name{author}{3}{}{%
@@ -446,81 +573,8 @@
       \verb https://www.nature.com/articles/s41599-020-00678-6
       \endverb
     \endentry
-    \entry{Hentschel2021_UnifiedModelChords}{inbook}{}
-      \name{author}{5}{ul=3}{%
-        {{un=0,uniquepart=base,hash=cfbc8f6b5670f470a32ea8f6fab343f6}{%
-           family={Hentschel},
-           familyi={H\bibinitperiod},
-           given={Johannes},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
-           family={Moss},
-           familyi={M\bibinitperiod},
-           given={Fabian\bibnamedelima C},
-           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5cbef11680ce6124dbe9d8aba9b46e92}{%
-           family={McLeod},
-           familyi={M\bibinitperiod},
-           given={Andrew},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ae0464b93a1404dccfd671e036398cc5}{%
-           family={Neuwirth},
-           familyi={N\bibinitperiod},
-           given={Markus},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
-           family={Rohrmeier},
-           familyi={R\bibinitperiod},
-           given={Martin},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=d702889b35953ac1b2c6943d616bcd90}{%
-           family={Rizo},
-           familyi={R\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-        {{hash=1f24f7a78d5ba0633f65dcf60f60da67}{%
-           family={Münnich},
-           familyi={M\bibinitperiod},
-           given={Stefan},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Alicante, Spain [hybrid]}%
-      }
-      \strng{namehash}{d761a6c68f23b6a5967b4d1ba40ca99b}
-      \strng{fullhash}{a320fca8f8a9536d8374e96bea9b08ea}
-      \strng{bibnamehash}{a320fca8f8a9536d8374e96bea9b08ea}
-      \strng{authorbibnamehash}{a320fca8f8a9536d8374e96bea9b08ea}
-      \strng{authornamehash}{d761a6c68f23b6a5967b4d1ba40ca99b}
-      \strng{authorfullhash}{a320fca8f8a9536d8374e96bea9b08ea}
-      \strng{editorbibnamehash}{499c8e979c3e0264bffc326314d4d895}
-      \strng{editornamehash}{499c8e979c3e0264bffc326314d4d895}
-      \strng{editorfullhash}{499c8e979c3e0264bffc326314d4d895}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Music {{Encoding Conference Proceedings}} 2021}
-      \field{title}{Towards a {{Unified Model}} of {{Chords}} in {{Western Harmony}}}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \true{nocite}
-      \verb{file}
-      \verb /home/fmoss/Zotero/storage/36Z9RVPE/Hentschel et al. - 2021 - Towards a Unified Model of Chords in Western Harmo.pdf
-      \endverb
-    \endentry
     \entry{Hentschel2021_SemiautomatedWorkflowParadigm}{inbook}{}
-      \name{author}{4}{ul=3}{%
+      \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=cfbc8f6b5670f470a32ea8f6fab343f6}{%
            family={Hentschel},
            familyi={H\bibinitperiod},
@@ -585,15 +639,16 @@
            given={Ajay},
            giveni={A\bibinitperiod}}}%
       }
-      \strng{namehash}{804531fc9a5ec0d19c63ecabd026e664}
+      \strng{namehash}{6f2097b8c92c18656bf14d98fb44f014}
       \strng{fullhash}{d9ea5a776cd4aa1658e71f154721382a}
       \strng{bibnamehash}{d9ea5a776cd4aa1658e71f154721382a}
       \strng{authorbibnamehash}{d9ea5a776cd4aa1658e71f154721382a}
-      \strng{authornamehash}{804531fc9a5ec0d19c63ecabd026e664}
+      \strng{authornamehash}{6f2097b8c92c18656bf14d98fb44f014}
       \strng{authorfullhash}{d9ea5a776cd4aa1658e71f154721382a}
       \strng{editorbibnamehash}{c06d21e28205091aacb5fe63776d4bd7}
       \strng{editornamehash}{89ae669211f8ae5d68302f5bd6b226df}
       \strng{editorfullhash}{c06d21e28205091aacb5fe63776d4bd7}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
