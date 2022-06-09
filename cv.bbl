@@ -111,7 +111,7 @@
       \endverb
       \keyw{and Cultures,Arts and Humanities,Computational music analysis,Digital Humanities,ethnomusicology,Ethnomusicology,Indonesia,Language Description and Documentation,Language documentation,Language endangerment,Lelegesan,Linguistics,Music,Musicology,Other Languages,Social and Behavioral Sciences,Societies,South and Southeast Asian Languages and Societies}
     \endentry
-    \entry{Harasim2022_MidiVERTOWebApplication}{misc}{}
+    \entry{Harasim2022_MidiVERTOWebApplicationa}{inbook}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=6da55031daa5da1803b5ef5b128b85a4}{%
            family={Harasim},
@@ -132,46 +132,79 @@
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
+      \name{editor}{6}{}{%
+        {{hash=265e58e6a8fe97175abff1fbcb58622c}{%
+           family={Montiel},
+           familyi={M\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3298d3d5dd0280cb1393593a4a50bcd4}{%
+           family={{Agustín-Aquino}},
+           familyi={A\bibinitperiod},
+           given={Octavio\bibnamedelima A.},
+           giveni={O\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=60553cc87f5961a4b792201f1e5f0f07}{%
+           family={Gómez},
+           familyi={G\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=bb0b6f2c9a763cba483dc60086de0018}{%
+           family={Kastine},
+           familyi={K\bibinitperiod},
+           given={Jeremy},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1dfe66aa502d9dd56c95f7650434c1fb}{%
+           family={{Lluis-Puebla}},
+           familyi={L\bibinitperiod},
+           given={Emilio},
+           giveni={E\bibinitperiod}}}%
+        {{hash=778ea71a7407f78c82cd81117a14fe58}{%
+           family={Milam},
+           familyi={M\bibinitperiod},
+           given={Brent},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
       \strng{namehash}{662077d80a2f9a5c3cdef43330bfad50}
       \strng{fullhash}{59b6278f14665f6e3e9b9202c4e2408e}
       \strng{bibnamehash}{59b6278f14665f6e3e9b9202c4e2408e}
       \strng{authorbibnamehash}{59b6278f14665f6e3e9b9202c4e2408e}
       \strng{authornamehash}{662077d80a2f9a5c3cdef43330bfad50}
       \strng{authorfullhash}{59b6278f14665f6e3e9b9202c4e2408e}
+      \strng{editorbibnamehash}{f80d48224cd4b2ef99743c7dcb75e259}
+      \strng{editornamehash}{784a5a5a688528c98731f917196cf0a1}
+      \strng{editorfullhash}{f80d48224cd4b2ef99743c7dcb75e259}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{This paper presents a web application for visualizing the tonality of a piece of music -- the organization of its chords and scales -- at a high level of abstraction and with coordinated playback. The application applies the discrete Fourier transform to the pitch-class domain of a user-specified segmentation of a MIDI file and visualizes the Fourier coefficients' trajectories. Since the coefficients indicate different musical properties, such as harmonic function, triadicity, and diatonicity, the application isolates aspects of a piece's tonality and shows their development in time. The aim of the application is to bridge a gap between mathematical music theory, musicology, and the general public by making the discrete Fourier transform as applied to the pitch-class domain accessible without requiring advanced mathematical knowledge or programming skills up front.}
-      \field{day}{24}
-      \field{eprinttype}{arxiv}
-      \field{month}{3}
+      \field{abstract}{This paper presents a web application for visualizing the tonality of a piece of music—the organization of its chords and scales—at a high level of abstraction and with coordinated playback. The application applies the discrete Fourier transform to the pitch-class domain of a user-specified segmentation of a MIDI file and visualizes the Fourier coefficients' trajectories. Since the coefficients indicate different musical properties, such as triadicity and diatonicity, the application isolates aspects of a piece's tonality and shows their development in time. The aim of the application is to bridge a gap between mathematical music theory, musicology, and the general public by making the discrete Fourier transform as applied to the pitch-class domain accessible without requiring advanced mathematical knowledge or programming skills up front.}
+      \field{booktitle}{Mathematics and {{Computation}} in {{Music}}}
+      \field{isbn}{978-3-031-07015-0}
+      \field{langid}{english}
+      \field{series}{Lecture {{Notes}} in {{Computer Science}}}
       \field{shorttitle}{{{midiVERTO}}}
       \field{title}{{{midiVERTO}}: {{A Web Application}} to {{Visualize Tonality}} in {{Real Time}}}
-      \field{urlday}{25}
-      \field{urlmonth}{3}
-      \field{urlyear}{2022}
       \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
-      \verb{eprint}
-      \verb 2203.13158
+      \field{pages}{363\bibrangedash 368}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1007/978-3-031-07015-0_31
       \endverb
       \verb{file}
-      \verb /home/fmoss/Zotero/storage/AQ4G7C5R/Harasim et al. - 2022 - midiVERTO A Web Application to Visualize Tonality.pdf;/home/fmoss/Zotero/storage/WZ7K7IXX/2203.html
+      \verb /home/fmoss/Zotero/storage/ZXEHUPFK/Harasim et al. - 2022 - midiVERTO A Web Application to Visualize Tonality.pdf
       \endverb
-      \verb{urlraw}
-      \verb http://arxiv.org/abs/2203.13158
-      \endverb
-      \verb{url}
-      \verb http://arxiv.org/abs/2203.13158
-      \endverb
-      \keyw{Computer Science - Sound}
+      \keyw{Discrete Fourier transform,MIDI,Tonality,Visualization,Web application}
     \endentry
     \entry{Hentschel_2022}{inbook}{}
       \name{author}{5}{}{%
