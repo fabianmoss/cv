@@ -263,7 +263,6 @@
       \strng{editorbibnamehash}{410fb40aff369ee7c078750b85bcbcbd}
       \strng{editornamehash}{410fb40aff369ee7c078750b85bcbcbd}
       \strng{editorfullhash}{410fb40aff369ee7c078750b85bcbcbd}
-      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -318,24 +317,18 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this study, we determine the fundamental role of the line of fifths for the organization of tonal material by applying dimensionality reduction to a large historical corpus of pitch-class counts (ca. 1360–1940). We observe a historically growing trend in the exploitation of the fifths range, i.e. the size of segments that pitch-class distributions cover on the line of fifths. Moreover, we introduce the novel concept of pitch-class (co-)evolution, which traces the changing co-occurrence of pitch classes over time and likewise reaffirms the centrality of this linear tonal space from a historical angle, allowing us also to distinguish between historical periods in terms of the usage of pitch classes.}
-      \field{day}{17}
       \field{issn}{1745-9737}
       \field{journaltitle}{Journal of Mathematics and Music}
       \field{month}{3}
       \field{number}{0}
       \field{title}{The Line of Fifths and the Co-Evolution of Tonal Pitch-Classes}
-      \field{urlday}{18}
-      \field{urlmonth}{3}
-      \field{urlyear}{2022}
       \field{volume}{0}
       \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{1\bibrangedash 25}
       \range{pages}{25}
@@ -344,12 +337,6 @@
       \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/PNN2T73Z/Moss et al. - 2022 - The line of fifths and the co-evolution of tonal p.pdf;/home/fmoss/Zotero/storage/ET79BU43/17459737.2022.html
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1080/17459737.2022.2044927
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1080/17459737.2022.2044927
       \endverb
       \keyw{dimensionality reduction,Line of fifths,pitch-class co-evolution,tonal-pitch classes}
     \endentry
@@ -389,25 +376,18 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Many structural aspects of music, such as tonality, can be expressed using hierarchical representations. In music analysis, so-called keyscapes can be used to map a key estimate (e.g., C major, F minor) to each subsection of a piece of music, thus providing an intuitive visual representation of its tonality, in particular of the hierarchical organization of local and global keys. However, that approach is limited in that the mapping relies on assumptions that are specific to common-practice tonality, such as the existence of 24 major and minor keys. This limitation can be circumvented by applying the discrete Fourier transform (DFT) to the tonal space. The DFT does not rely on style-specific theoretical assumptions but only presupposes an encoding of the music as pitch classes in 12-tone equal temperament. We introduce wavescapes, a novel visualization method for tonal hierarchies that combines the visual representation of keyscapes with music analysis based on the DFT. Since wavescapes produce visual analyses deterministically, a number of potential subjective biases are removed. By concentrating on one or more Fourier coefficients, the role of the analyst is thus focused on the interpretation and contextualization of the results. We illustrate the usefulness of this method for computational music theory by analyzing eight compositions from different historical epochs and composers (Josquin, Bach, Liszt, Chopin, Scriabin, Webern, Coltrane, Ligeti) in terms of the phase and magnitude of several Fourier coefficients. We also provide a Python library that allows such visualizations to be easily generated for any piece of music for which a symbolic score or audio recording is available.}
-      \field{day}{17}
       \field{issn}{1029-8649}
       \field{journaltitle}{Musicae Scientiae}
       \field{langid}{english}
       \field{month}{1}
-      \field{shortjournal}{Musicae Scientiae}
       \field{shorttitle}{Wavescapes}
       \field{title}{Wavescapes: {{A}} Visual Hierarchical Analysis of Tonality Using the Discrete {{Fourier}} Transform}
-      \field{urlday}{17}
-      \field{urlmonth}{1}
-      \field{urlyear}{2022}
       \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{10298649211034906}
       \range{pages}{1}
@@ -416,12 +396,6 @@
       \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/Q653WCHT/Viaccoz et al. - 2022 - Wavescapes A visual hierarchical analysis of tona.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://journals.sagepub.com/doi/abs/10.1177/10298649211034906
-      \endverb
-      \verb{url}
-      \verb https://journals.sagepub.com/doi/abs/10.1177/10298649211034906
       \endverb
       \keyw{Discrete Fourier transform,keyscapes,music analysis,tonal hierarchy,visualization}
     \endentry
@@ -496,23 +470,16 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This study focuses on the exploration of the possibilities arising from the application of an NLP word-embedding method (Word2Vec) to a large corpus of musical chord sequences, spanning multiple musical periods. First, we analyse the clustering of the embedded vectors produced by Word2Vec in order to probe its ability to learn common musical patterns. We then implement an LSTM-based neural network which takes these vectors as input with the goal of predicting a chord given its surrounding context in a chord sequence. We use the variability in prediction accuracy to quantify the stylistic differences among various composers in order to detect idiomatic uses of some chords by some composers. The historical breadth of the corpus used allows us to draw some conclusions about broader patterns of changing chord usage across musical periods from Renaissance to Modernity.}
       \field{booktitle}{Proceedings of the 18th {{Sound}} and {{Music Computing Conference}}}
-      \field{day}{24}
-      \field{endday}{26}
-      \field{endmonth}{6}
-      \field{endyear}{2021}
-      \field{eventtitle}{18th {{Sound}} and {{Music Computing Conference}} ({{SMC}} 2021)}
       \field{langid}{english}
       \field{month}{6}
       \field{title}{A {{Historical Analysis}} of {{Harmonic Progressions Using Chord Embeddings}}}
       \field{year}{2021}
-      \field{enddateera}{ce}
-      \field{dateera}{ce}
       \true{nocite}
       \field{pages}{284\bibrangedash 291}
       \range{pages}{8}
@@ -521,12 +488,6 @@
       \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/LBGPTRYF/Anzuoni et al. - 2021 - A HISTORICAL ANALYSIS OF HARMONIC PROGRESSIONS USI.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.smc2020torino.it/SMC2021_papers/SMC_2021_paper_17.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.smc2020torino.it/SMC2021_papers/SMC_2021_paper_17.pdf
       \endverb
     \endentry
     \entry{Harasim2021_ExploringFoundationsTonality}{article}{}
@@ -569,27 +530,20 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Tonality is one of the most central theoretical concepts for the analysis of Western classical music. This study presents a novel approach for the study of its historical development, exploring in particular the concept of mode. Based on a large dataset of approximately 13,000 musical pieces in MIDI format, we present two models to infer both the number and characteristics of modes of different historical periods from first principles: a geometric model of modes as clusters of musical pieces in a non-Euclidean space, and a cognitively plausible Bayesian model of modes as Dirichlet distributions. We use the geometric model to determine the optimal number of modes for five historical epochs via unsupervised learning and apply the probabilistic model to infer the characteristics of the modes. Our results show that the inference of four modes is most plausible in the Renaissance, that two modes–corresponding to major and minor–are most appropriate in the Baroque and Classical eras, whereas no clear separation into distinct modes is found for the 19th century.}
-      \field{day}{4}
       \field{issn}{2662-9992}
-      \field{issue}{5}
       \field{journaltitle}{Humanities and Social Sciences Communications}
       \field{langid}{english}
       \field{month}{1}
       \field{number}{1}
       \field{shorttitle}{Exploring the Foundations of Tonality}
       \field{title}{Exploring the Foundations of Tonality: Statistical Cognitive Modeling of Modes in the History of {{Western}} Classical Music}
-      \field{urlday}{4}
-      \field{urlmonth}{1}
-      \field{urlyear}{2021}
       \field{volume}{8}
       \field{year}{2021}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{1\bibrangedash 11}
       \range{pages}{11}
@@ -599,15 +553,81 @@
       \verb{file}
       \verb /home/fmoss/Zotero/storage/LXIKEB9R/Harasim et al. - 2021 - Exploring the foundations of tonality statistical.pdf;/home/fmoss/Zotero/storage/JURCU3C3/s41599-020-00678-6.html;/home/fmoss/Zotero/storage/ZHNYDLRV/s41599-020-00678-6.html
       \endverb
-      \verb{urlraw}
-      \verb https://www.nature.com/articles/s41599-020-00678-6
-      \endverb
-      \verb{url}
-      \verb https://www.nature.com/articles/s41599-020-00678-6
+    \endentry
+    \entry{Hentschel2021_UnifiedModelChords}{inbook}{}
+      \name{author}{5}{ul=3}{%
+        {{un=0,uniquepart=base,hash=cfbc8f6b5670f470a32ea8f6fab343f6}{%
+           family={Hentschel},
+           familyi={H\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cbef11680ce6124dbe9d8aba9b46e92}{%
+           family={McLeod},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae0464b93a1404dccfd671e036398cc5}{%
+           family={Neuwirth},
+           familyi={N\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=d702889b35953ac1b2c6943d616bcd90}{%
+           family={Rizo},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1f24f7a78d5ba0633f65dcf60f60da67}{%
+           family={Münnich},
+           familyi={M\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Alicante, Spain [hybrid]}%
+      }
+      \strng{namehash}{d761a6c68f23b6a5967b4d1ba40ca99b}
+      \strng{fullhash}{a320fca8f8a9536d8374e96bea9b08ea}
+      \strng{bibnamehash}{a320fca8f8a9536d8374e96bea9b08ea}
+      \strng{authorbibnamehash}{a320fca8f8a9536d8374e96bea9b08ea}
+      \strng{authornamehash}{d761a6c68f23b6a5967b4d1ba40ca99b}
+      \strng{authorfullhash}{a320fca8f8a9536d8374e96bea9b08ea}
+      \strng{editorbibnamehash}{499c8e979c3e0264bffc326314d4d895}
+      \strng{editornamehash}{499c8e979c3e0264bffc326314d4d895}
+      \strng{editorfullhash}{499c8e979c3e0264bffc326314d4d895}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Music {{Encoding Conference Proceedings}} 2021}
+      \field{title}{Towards a {{Unified Model}} of {{Chords}} in {{Western Harmony}}}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{file}
+      \verb /home/fmoss/Zotero/storage/36Z9RVPE/Hentschel et al. - 2021 - Towards a Unified Model of Chords in Western Harmo.pdf
       \endverb
     \endentry
     \entry{Hentschel2021_SemiautomatedWorkflowParadigm}{inbook}{}
-      \name{author}{4}{}{%
+      \name{author}{4}{ul=3}{%
         {{un=0,uniquepart=base,hash=cfbc8f6b5670f470a32ea8f6fab343f6}{%
            family={Hentschel},
            familyi={H\bibinitperiod},
@@ -672,42 +692,30 @@
            given={Ajay},
            giveni={A\bibinitperiod}}}%
       }
-      \strng{namehash}{6f2097b8c92c18656bf14d98fb44f014}
+      \strng{namehash}{804531fc9a5ec0d19c63ecabd026e664}
       \strng{fullhash}{d9ea5a776cd4aa1658e71f154721382a}
       \strng{bibnamehash}{d9ea5a776cd4aa1658e71f154721382a}
       \strng{authorbibnamehash}{d9ea5a776cd4aa1658e71f154721382a}
-      \strng{authornamehash}{6f2097b8c92c18656bf14d98fb44f014}
+      \strng{authornamehash}{804531fc9a5ec0d19c63ecabd026e664}
       \strng{authorfullhash}{d9ea5a776cd4aa1658e71f154721382a}
       \strng{editorbibnamehash}{c06d21e28205091aacb5fe63776d4bd7}
       \strng{editornamehash}{89ae669211f8ae5d68302f5bd6b226df}
       \strng{editorfullhash}{c06d21e28205091aacb5fe63776d4bd7}
-      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 22nd {{International Society}} for {{Music Information Retrieval Conference}}, {{ISMIR}} 2021, {{Online}}, {{November}} 7-12, 2021}
       \field{title}{A Semi-Automated Workflow Paradigm for the Distributed Creation and Curation of Expert Annotations}
-      \field{urlday}{8}
-      \field{urlmonth}{12}
-      \field{urlyear}{2021}
       \field{year}{2021}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{262\bibrangedash 269}
       \range{pages}{8}
       \verb{file}
       \verb /home/fmoss/Zotero/storage/TIYH8Q8W/Hentschel et al. - 2021 - A semi-automated workflow paradigm for the distrib.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://archives.ismir.net/ismir2021/paper/000032.pdf
-      \endverb
-      \verb{url}
-      \verb https://archives.ismir.net/ismir2021/paper/000032.pdf
       \endverb
     \endentry
     \entry{Herff2021_EvidenceCognitiveTonala}{misc}{}
@@ -743,33 +751,59 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{When listeners hear stimuli drawn from a Western classical context and are asked to rate the perceived fit of subsequent probe tones, a tonal hierarchy emerges that is consistent with several music-theoretical accounts. The perceptual reality underlying tonal hierarchies has seen much empirical support within and beyond Western classical music. However, a recurrent concern is that such hierarchies may be an artifact of the presence or absence of a probe in a given context. Furthermore, it is currently unclear how the perceived fit varies between different idiomatically valid contexts within the same musical style. Here, 40 participants provided fit ratings in a probe-tone paradigm using scalar and cadential Western classical contexts in both the major and minor mode. The ratings are compared with four models of the tonal hierarchy. The first model derives from average listeners' ratings in a prior perceptual study, and another one is a music-theoretically motivated adjustment of it. Additionally, two models derived from pitch-class distributions in musical corpora are tested. Using Bayesian Mixed Effects models and a model-comparison approach, the four models of tonal hierarchy as well as their combinations are used to predict the new behavioral data. The results are compared with a baseline model that encodes if and how often a given probe tone was contained in the context. Our findings reveal that scalar and cadential contexts can induce differences in perceived tonal fit, with the ratings obtained within cadential contexts showing greater resemblance to models of tonal hierarchies. Additionally, while little evidence is observed in scalar contexts that the models of tonal hierarchy carry incremental predictive power over the baseline model, such evidence is abundant in cadential contexts. The results suggest that probe-tone profiles induced by cadential contexts are shaped by cognitive long-term representations of musical structure, while probe-tone profiles induced by scalar contexts are predominantly guided by lower-level short-term sensory priming. *SAH and FCM contributed equally. Hosted on the Open Science Framework}
-      \field{day}{15}
       \field{langid}{english}
       \field{month}{10}
       \field{title}{Evidence for Cognitive Tonal Hierarchies in Cadential but Not Scalar Contexts}
-      \field{urlday}{27}
-      \field{urlmonth}{3}
-      \field{urlyear}{2022}
       \field{year}{2021}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
       \verb{file}
       \verb /home/fmoss/Zotero/storage/KPGUPMI6/yz957.html
       \endverb
-      \verb{urlraw}
-      \verb https://osf.io/yz957/
-      \endverb
-      \verb{url}
-      \verb https://osf.io/yz957/
-      \endverb
     \endentry
-    \entry{Moss2021_Digitizing19thCenturyMusic}{inbook}{useprefix=true}
+    \entry{Moss2021_SpecialIssueOpen}{article}{}
+      \name{editor}{2}{}{%
+        {{un=1,uniquepart=given,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian},
+           giveni={F\bibinitperiod},
+           givenun=1,
+           suffix={C.},
+           suffixi={C\bibinitperiod},
+           suffixun=0}}%
+        {{un=0,uniquepart=base,hash=ae0464b93a1404dccfd671e036398cc5}{%
+           family={Neuwirth},
+           familyi={N\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9149a3a1b56b4042276015b781fd316b}
+      \strng{fullhash}{9149a3a1b56b4042276015b781fd316b}
+      \strng{bibnamehash}{9149a3a1b56b4042276015b781fd316b}
+      \strng{editorbibnamehash}{9149a3a1b56b4042276015b781fd316b}
+      \strng{editornamehash}{9149a3a1b56b4042276015b781fd316b}
+      \strng{editorfullhash}{9149a3a1b56b4042276015b781fd316b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Empirical Musicology Review}
+      \field{number}{1}
+      \field{title}{Special {{Issue}} on {{Open Science}} in {{Musicology}}}
+      \field{volume}{16}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{Moss2021_Digitizing19thCenturyMusic}{inbook}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -843,13 +877,11 @@
            familyi={P\bibinitperiod},
            given={Michael},
            giveni={M\bibinitperiod}}}%
-        {{hash=94b25303e4f4a2b64e4b7f1fdc020abc}{%
-           family={Zundert},
-           familyi={Z\bibinitperiod},
+        {{hash=9ee4205d2e2e89774b1a41e0d1bc54f7}{%
+           family={{van Zundert}},
+           familyi={v\bibinitperiod},
            given={Joris},
-           giveni={J\bibinitperiod},
-           prefix={van},
-           prefixi={v\bibinitperiod}}}%
+           giveni={J\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Amsterdam, The Netherlands}%
@@ -860,34 +892,27 @@
       \strng{authorbibnamehash}{e3f56956027340bf5269a9e1bc7db930}
       \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
       \strng{authorfullhash}{e3f56956027340bf5269a9e1bc7db930}
-      \strng{editorbibnamehash}{bc715556aff6459262828cd23a57a212}
+      \strng{editorbibnamehash}{d6cd53e212b7bdf31846bd7c7646aa11}
       \strng{editornamehash}{0f5718ac33fa58f0570fbce8567a2696}
-      \strng{editorfullhash}{bc715556aff6459262828cd23a57a212}
+      \strng{editorfullhash}{d6cd53e212b7bdf31846bd7c7646aa11}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{We report the progress of the ongoing project “Digitizing the Dualism Debate: a case study in the computational analysis of historical music theory sources”. First, we give a brief introduction to the dualism debate, a central discussion in 19th-century German music theory. We then describe the transcription pipeline with which we process the digitized sources in order to arrive at a corpus of computationally feasible representations, and discuss a number of encountered challenges, e.g. the assignment of structural types and idiosyncratic symbols. Employing text similarity measures and topic modeling, we present some preliminary analyses. Future steps include text annotation, music encoding, and the presentation of the corpus with an online interface.}
+      \field{abstract}{We report the progress of the ongoing project ``Digitizing the Dualism Debate: a case study in the computational analysis of historical music theory sources''. First, we give a brief introduction to the dualism debate, a central discussion in 19th-century German music theory. We then describe the transcription pipeline with which we process the digitized sources in order to arrive at a corpus of computationally feasible representations, and discuss a number of encountered challenges, e.g. the assignment of structural types and idiosyncratic symbols. Employing text similarity measures and topic modeling, we present some preliminary analyses. Future steps include text annotation, music encoding, and the presentation of the corpus with an online interface.}
       \field{booktitle}{{{CHR}} 2021: {{Computational Humanities Research Conference}}, {{November}} 17–19, 2021, {{Amsterdam}}, {{The Netherlands}}}
       \field{langid}{english}
       \field{title}{Digitizing a 19th-{{Century Music Theory Debate}} for {{Computational Analysis}}}
       \field{year}{2021}
-      \field{dateera}{ce}
       \true{nocite}
       \field{pages}{159\bibrangedash 170}
       \range{pages}{12}
       \verb{file}
       \verb /home/fmoss/Zotero/storage/8ZGNK3QW/Moss et al. - Digitizing a 19th-Century Music Theory Debate for .pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://ceur-ws.org/Vol-2989/short_paper31.pdf
-      \endverb
-      \verb{url}
-      \verb http://ceur-ws.org/Vol-2989/short_paper31.pdf
       \endverb
     \endentry
     \entry{Moss2021_FAIROpenLinked}{article}{}
@@ -914,27 +939,20 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{No abstract available.}
-      \field{day}{10}
       \field{issn}{1559-5749}
-      \field{issue}{1}
       \field{journaltitle}{Empirical Musicology Review}
       \field{langid}{english}
       \field{month}{12}
       \field{number}{1}
       \field{shorttitle}{{{FAIR}}, {{Open}}, {{Linked}}}
       \field{title}{{{FAIR}}, {{Open}}, {{Linked}}: {{Introducing}} the {{Special Issue}} on {{Open Science}} in {{Musicology}}}
-      \field{urlday}{27}
-      \field{urlmonth}{3}
-      \field{urlyear}{2022}
       \field{volume}{16}
       \field{year}{2021}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{1\bibrangedash 4}
       \range{pages}{4}
@@ -943,12 +961,6 @@
       \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/DHDKDJH6/Moss and Neuwirth - 2021 - FAIR, Open, Linked Introducing the Special Issue .pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://emusicology.org/article/view/8246
-      \endverb
-      \verb{url}
-      \verb https://emusicology.org/article/view/8246
       \endverb
     \endentry
     \entry{Moss2021_DiscoveringTonalProfiles}{article}{}
@@ -975,25 +987,18 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Music analysis, in particular harmonic analysis, is concerned with the way pitches are organized in pieces of music, and a range of empirical applications have been developed, for example, for chord recognition or key finding. Naturally, these approaches rely on some operationalization of the concepts they aim to investigate. In this study, we take a complementary approach and discover latent tonal structures in an unsupervised manner. We use the topic model Latent Dirichlet Allocation and apply it to a large historical corpus of musical pieces from the Western classical tradition. This method conceives topics as distributions of pitch classes without assuming a priori that they correspond to either chords, keys, or other harmonic phenomena. To illustrate the generative process assumed by the model, we create an artificial corpus with arbitrary parameter settings and compare the sampled pieces to real compositions. The results we obtain by applying the topic model to the musical corpus show that the inferred topics have music-theoretically meaningful interpretations. In particular, topics cover contiguous segments on the line of fifths and mostly correspond to diatonic sets. Moreover, tracing the prominence of topics over the course of music history over ∼∼{$<$}math display="inline" id="mml-inline1" overflow="scroll" altimg="eq-00001.gif"{$><$}mo{$>$}∼{$<$}/mo{$><$}/math{$>$}600 years reflects changes in the ways pitch classes are employed in musical compositions and reveals particularly strong changes at the transition from common-practice to extended tonality in the 19th century.}
-      \field{day}{1}
+      \field{abstract}{Music analysis, in particular harmonic analysis, is concerned with the way pitches are organized in pieces of music, and a range of empirical applications have been developed, for example, for chord recognition or key finding. Naturally, these approaches rely on some operationalization of the concepts they aim to investigate. In this study, we take a complementary approach and discover latent tonal structures in an unsupervised manner. We use the topic model Latent Dirichlet Allocation and apply it to a large historical corpus of musical pieces from the Western classical tradition. This method conceives topics as distributions of pitch classes without assuming a priori that they correspond to either chords, keys, or other harmonic phenomena. To illustrate the generative process assumed by the model, we create an artificial corpus with arbitrary parameter settings and compare the sampled pieces to real compositions. The results we obtain by applying the topic model to the musical corpus show that the inferred topics have music-theoretically meaningful interpretations. In particular, topics cover contiguous segments on the line of fifths and mostly correspond to diatonic sets. Moreover, tracing the prominence of topics over the course of music history over {$\sim\sim<$}math display="inline" id="mml-inline1" overflow="scroll" altimg="eq-00001.gif"{$><$}mo{$>\sim<$}/mo{$><$}/math{$>$}600 years reflects changes in the ways pitch classes are employed in musical compositions and reveals particularly strong changes at the transition from common-practice to extended tonality in the 19th century.}
       \field{issn}{2059-2043}
       \field{journaltitle}{Music \& Science}
       \field{langid}{english}
       \field{month}{1}
-      \field{shortjournal}{Music \& Science}
       \field{title}{Discovering {{Tonal Profiles}} with {{Latent Dirichlet Allocation}}}
-      \field{urlday}{14}
-      \field{urlmonth}{12}
-      \field{urlyear}{2021}
       \field{volume}{4}
       \field{year}{2021}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{20592043211048827}
       \range{pages}{1}
@@ -1002,12 +1007,6 @@
       \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/GYA395ZY/Moss and Rohrmeier - 2021 - Discovering Tonal Profiles with Latent Dirichlet A.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1177/20592043211048827
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1177/20592043211048827
       \endverb
       \keyw{corpus studies,Latent Dirichlet Allocation,tonal pitch classes,tonality,Topic modelling}
     \endentry
@@ -1077,29 +1076,18 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 22nd {{International Society}} for {{Music Information Retrieval Conference}}, {{ISMIR}} 2021, {{Online}}, {{November}} 7-12, 2021}
       \field{title}{A {{Formal Model}} of {{Extended Tonal Harmony}}}
-      \field{urlday}{8}
-      \field{urlmonth}{12}
-      \field{urlyear}{2021}
       \field{year}{2021}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{569\bibrangedash 578}
       \range{pages}{10}
       \verb{file}
       \verb /home/fmoss/Zotero/storage/I7DEHCUP/Rohrmeier and Moss - 2021 - A Formal Model of Extended Tonal Harmony.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://archives.ismir.net/ismir2021/paper/000071.pdf
-      \endverb
-      \verb{url}
-      \verb https://archives.ismir.net/ismir2021/paper/000071.pdf
       \endverb
     \endentry
     \entry{Lieck2020_TonalDiffusionModel}{article}{}
@@ -1135,18 +1123,16 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Pitch-class distributions are of central relevance in music information retrieval, computational musicology and various other fields, such as music perception and cognition. However, despite their structure being closely related to the cognitively and musically relevant properties of a piece, many existing approaches treat pitch-class distributions as fixed templates. In this paper, we introduce the Tonal Diffusion Model, which provides a more structured and interpretable statistical model of pitch-class distributions by incorporating geometric and algebraic structures known from music theory as well as insights from music cognition. Our model explains the pitch-class distributions of musical pieces by assuming tones to be generated through a latent cognitive process on the Tonnetz, a well-established representation for harmonic relations. Specifically, we assume that all tones in a piece are generated by taking a sequence of interval steps on the Tonnetz starting from a unique tonal origin. We provide a description in terms of a Bayesian generative model and show how the latent variables and parameters can be efficiently inferred. The model is quantitatively evaluated on a corpus of 248 pieces from the Baroque, Classical, and Romantic era and describes the empirical pitch-class distributions more accurately than conventional template-based models. On three concrete musical examples, we demonstrate that our model captures relevant harmonic characteristics of the pieces in a compact and interpretable way, also reflecting stylistic aspects of the respective epoch.}
-      \field{issue}{1}
       \field{journaltitle}{Transactions of the International Society for Music Information Retrieval}
       \field{number}{1}
       \field{title}{The {{Tonal Diffusion Model}}}
       \field{volume}{3}
       \field{year}{2020}
-      \field{dateera}{ce}
       \true{nocite}
       \field{pages}{153\bibrangedash 164}
       \range{pages}{12}
@@ -1157,7 +1143,7 @@
       \verb /home/fmoss/Zotero/storage/UYP36LRG/Lieck et al2020.pdf;/home/fmoss/Zotero/storage/MNGFMRDA/tismir.46.html
       \endverb
     \endentry
-    \entry{Moss2020_ChoroSongbookCorpus}{dataset}{}
+    \entry{Moss2020_ChoroSongbookCorpus}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -1180,19 +1166,13 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{6}
       \field{month}{6}
       \field{title}{Choro {{Songbook Corpus}}}
-      \field{urlday}{28}
-      \field{urlmonth}{9}
-      \field{urlyear}{2020}
       \field{year}{2020}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.5281/zenodo.3881347
@@ -1200,14 +1180,8 @@
       \verb{file}
       \verb /home/fmoss/Zotero/storage/7WCWGM4X/3881347.html;/home/fmoss/Zotero/storage/U36R2PDR/3881347.html
       \endverb
-      \verb{urlraw}
-      \verb https://zenodo.org/record/3881347#.X3HNemgzbg4
-      \endverb
-      \verb{url}
-      \verb https://zenodo.org/record/3881347#.X3HNemgzbg4
-      \endverb
     \endentry
-    \entry{Moss2020_ComputationalModelNote}{online}{}
+    \entry{Moss2020_ComputationalModelNote}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -1215,9 +1189,6 @@
            given={Fabian\bibnamedelima C.},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-      }
-      \list{organization}{1}{%
-        {Digital and Cognitive Musicology Lab News Blog}%
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
@@ -1230,25 +1201,18 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{5}
+      \field{journaltitle}{Digital and Cognitive Musicology Lab News Blog}
       \field{langid}{english}
       \field{month}{10}
       \field{title}{A Computational Model for Note Distributions in Musical Pieces}
       \field{year}{2020}
-      \field{dateera}{ce}
       \true{nocite}
-      \verb{urlraw}
-      \verb https://www.epfl.ch/labs/dcml/computational-model-note-dists/
-      \endverb
-      \verb{url}
-      \verb https://www.epfl.ch/labs/dcml/computational-model-note-dists/
-      \endverb
     \endentry
-    \entry{Moss2020_TracingHistoricalChanges}{online}{}
+    \entry{Moss2020_TracingHistoricalChanges}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -1256,9 +1220,6 @@
            given={Fabian\bibnamedelima C.},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-      }
-      \list{organization}{1}{%
-        {Digital and Cognitive Musicology Lab News Blog}%
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
@@ -1271,24 +1232,17 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{3}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{28}
+      \field{journaltitle}{Digital and Cognitive Musicology Lab News Blog}
       \field{month}{9}
       \field{title}{Tracing Historical Changes in the Exploration of Tonal Space}
       \field{year}{2020}
-      \field{dateera}{ce}
       \true{nocite}
-      \verb{urlraw}
-      \verb https://www.epfl.ch/labs/dcml/tracing-historical-changes/
-      \endverb
-      \verb{url}
-      \verb https://www.epfl.ch/labs/dcml/tracing-historical-changes/
-      \endverb
     \endentry
-    \entry{Moss2020_TonalPitchClassCounts}{dataset}{}
+    \entry{Moss2020_TonalPitchClassCounts}{misc}{}
       \name{author}{3}{ul=3}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -1321,29 +1275,18 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Tonal {{Pitch-Class Counts Corpus}} ({{TP3C}}) ({{Version}} v1.0.0)}
-      \field{urlday}{7}
-      \field{urlmonth}{1}
-      \field{urlyear}{2020}
       \field{year}{2020}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.5281/zenodo.3600088
       \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/BYG4HAYG/3600088.html
-      \endverb
-      \verb{urlraw}
-      \verb https://zenodo.org/record/3600088#.XhQ12kdKhjE
-      \endverb
-      \verb{url}
-      \verb https://zenodo.org/record/3600088#.XhQ12kdKhjE
       \endverb
       \keyw{computational musicology; tusic theory; tonality; music; corpus}
     \endentry
@@ -1377,7 +1320,7 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
@@ -1387,13 +1330,8 @@
       \field{number}{5}
       \field{shorttitle}{Harmony and Form in {{Brazilian Choro}}}
       \field{title}{Harmony and Form in {{Brazilian Choro}}: {{A}} Corpus-Driven Approach to Musical Style Analysis}
-      \field{urlday}{4}
-      \field{urlmonth}{8}
-      \field{urlyear}{2020}
       \field{volume}{49}
       \field{year}{2020}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{416\bibrangedash 437}
       \range{pages}{22}
@@ -1402,12 +1340,6 @@
       \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/6LFXXIZG/Moss et al. - 2020 - Harmony and form in Brazilian Choro A corpus-driv.pdf;/home/fmoss/Zotero/storage/GVLG57SL/Moss et al2020.pdf;/home/fmoss/Zotero/storage/9VMPUU3P/09298215.2020.html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.tandfonline.com/doi/abs/10.1080/09298215.2020.1797109
-      \endverb
-      \verb{url}
-      \verb https://www.tandfonline.com/doi/abs/10.1080/09298215.2020.1797109
       \endverb
       \keyw{Choro,corpus study,form,harmony,musical style analysis}
     \endentry
@@ -1487,14 +1419,13 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 16th {{Sound}} \& {{Music Computing Conference}} ({{SMC}} 2019)}
       \field{title}{A {{Model Comparison}} for {{Chord Prediction}} on the {{Annotated Beethoven Corpus}}}
       \field{year}{2019}
-      \field{dateera}{ce}
       \true{nocite}
       \field{pages}{250\bibrangedash 254}
       \range{pages}{5}
@@ -1527,7 +1458,7 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
@@ -1536,7 +1467,6 @@
       \field{title}{Transitions of Tonality: A Model-Based Corpus Study}
       \field{type}{phdthesis}
       \field{year}{2019}
-      \field{dateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.5075/epfl-thesis-9808
@@ -1545,7 +1475,7 @@
       \verb /home/fmoss/Zotero/storage/3X5WIZNY/Moss_2019_Transitions of Tonality.pdf
       \endverb
     \endentry
-    \entry{Moss2019_Pitchplots}{software}{}
+    \entry{Moss2019_Pitchplots}{misc}{}
       \name{author}{3}{ul=2}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -1575,28 +1505,16 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{1}
       \field{month}{7}
       \field{title}{Pitchplots}
-      \field{urlday}{1}
-      \field{urlmonth}{7}
-      \field{urlyear}{2019}
       \field{year}{2019}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.5281/ZENODO.3265393
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.5281/zenodo.3265393#.XRps__wFD5U.mendeley
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.5281/zenodo.3265393#.XRps__wFD5U.mendeley
       \endverb
     \endentry
     \entry{Moss2019_StatisticalCharacteristicsTonal}{article}{}
@@ -1635,7 +1553,7 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1644,7 +1562,6 @@
       \field{title}{Statistical Characteristics of Tonal Harmony: A Corpus Study of {{Beethoven}}'s String Quartets}
       \field{volume}{14}
       \field{year}{2019}
-      \field{dateera}{ce}
       \true{nocite}
       \field{pages}{e0217242}
       \range{pages}{-1}
@@ -1718,24 +1635,18 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Western musical styles use a large variety of chords and vertical sonorities. Based on objective acoustical properties, chords can be situated on a dissonant-consonant continuum. While this might to some extent converge with the unpleasant-pleasant continuum, subjective liking might diverge for various chord forms from music across different styles. Our study aimed to investigate how well appraisals of the roughness and pleasantness dimensions of isolated chords taken from real-world music are predicted by Parncutt’s established model of sensory dissonance. Furthermore, we related these subjective ratings to style of origin and acoustical features of the chords as well as musical sophistication of the raters. Ratings were obtained for chords deemed representative of the harmonic language of three different musical styles (classical, jazz and avant-garde music), plus randomly generated chords. Results indicate that pleasantness and roughness ratings were, on average, mirror opposites; however, their relative distribution differed greatly across styles, reflecting different underlying aesthetic ideals. Parncutt’s model only weakly predicted ratings for all but Classical chords, suggesting that listeners’ appraisal of the dissonance and pleasantness of chords bears not only on stimulus-side but also on listener-side factors. Indeed, we found that levels of musical sophistication negatively predicted listeners’ tendency to rate the consonance and pleasantness of any one chord as coupled measures, suggesting that musical education and expertise may serve to individuate how these musical dimensions are apprehended.}
-      \field{day}{31}
+      \field{abstract}{Western musical styles use a large variety of chords and vertical sonorities. Based on objective acoustical properties, chords can be situated on a dissonant-consonant continuum. While this might to some extent converge with the unpleasant-pleasant continuum, subjective liking might diverge for various chord forms from music across different styles. Our study aimed to investigate how well appraisals of the roughness and pleasantness dimensions of isolated chords taken from real-world music are predicted by Parncutt's established model of sensory dissonance. Furthermore, we related these subjective ratings to style of origin and acoustical features of the chords as well as musical sophistication of the raters. Ratings were obtained for chords deemed representative of the harmonic language of three different musical styles (classical, jazz and avant-garde music), plus randomly generated chords. Results indicate that pleasantness and roughness ratings were, on average, mirror opposites; however, their relative distribution differed greatly across styles, reflecting different underlying aesthetic ideals. Parncutt's model only weakly predicted ratings for all but Classical chords, suggesting that listeners' appraisal of the dissonance and pleasantness of chords bears not only on stimulus-side but also on listener-side factors. Indeed, we found that levels of musical sophistication negatively predicted listeners' tendency to rate the consonance and pleasantness of any one chord as coupled measures, suggesting that musical education and expertise may serve to individuate how these musical dimensions are apprehended.}
       \field{issn}{2045-2322}
       \field{journaltitle}{Scientific Reports}
       \field{month}{12}
       \field{number}{1}
       \field{title}{The Pleasantness of Sensory Dissonance Is Mediated by Musical Style and Expertise}
-      \field{urlday}{5}
-      \field{urlmonth}{2}
-      \field{urlyear}{2019}
       \field{volume}{9}
       \field{year}{2019}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{1070}
       \range{pages}{1}
@@ -1744,12 +1655,6 @@
       \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/R22W7U2C/Popescu et al. - 2019 - The pleasantness of sensory dissonance is mediated by musical style and expertise.pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://www.nature.com/articles/s41598-018-35873-8
-      \endverb
-      \verb{url}
-      \verb http://www.nature.com/articles/s41598-018-35873-8
       \endverb
       \keyw{Cortex,Human behaviour}
     \endentry
@@ -1792,17 +1697,16 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2297-2668}
-      \field{issue}{July}
       \field{journaltitle}{Frontiers in Digital Humanities}
+      \field{number}{July}
       \field{title}{The {{Annotated Beethoven Corpus}} ({{ABC}}): {{A Dataset}} of {{Harmonic Analyses}} of {{All Beethoven String Quartets}}}
       \field{volume}{5}
       \field{year}{2018}
-      \field{dateera}{ce}
       \true{nocite}
       \field{pages}{1\bibrangedash 5}
       \range{pages}{5}
@@ -1811,12 +1715,6 @@
       \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/DLX4QCTV/Neuwirth et al2018.pdf;/home/fmoss/Zotero/storage/K8BG4CWE/Neuwirth et al. - 2018 - The Annotated Beethoven Corpus (ABC) A Dataset of Harmonic Analyses of All Beethoven String Quartets.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.frontiersin.org/article/10.3389/fdigh.2018.00016/full
-      \endverb
-      \verb{url}
-      \verb https://www.frontiersin.org/article/10.3389/fdigh.2018.00016/full
       \endverb
       \keyw{beethoven,Beethoven,corpus research,Corpus research,digital musicology,Digital Musicology,ground truth,Ground truth,harmony,music,Music,music; digital musicology; corpus research; ground,symbolic music data,Symbolic Music Data}
     \endentry
@@ -1842,7 +1740,7 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1852,7 +1750,6 @@
       \field{title}{[{{Review}} of {{David Huron}}. {{Voice Leading}}: {{The Science}} behind a {{Musical Art}}]}
       \field{volume}{4}
       \field{year}{2017}
-      \field{dateera}{ce}
       \true{nocite}
       \field{pages}{119\bibrangedash 130}
       \range{pages}{12}
@@ -1905,27 +1802,19 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The subject of this paper is the cognition of triadic progressions in 19th century tonal music. Music psychological research concerning the cognition of harmonic progressions mainly relies on diatonic music in which triads are easily relatable to a key. Triadic distance is therefore measured in terms of root relationships to the tonal center, the tonic (Krumhansl \&amp; Kessler, 1982). This conception is not directly applicable to chromatic music where musical coherence is not only obtained by common a key. Transformational music theory puts strong emphasis on voice-leading parsimony as a measure of distance. The most efficient transformations between major and minor triads are P (parallel), R (relative) and L (leading-tone exchange), which is also in accordance with empirical findings of diatonic triadic relatedness (Krumhansl, 1998). Notably, P and R generate an octatonic scale containing eight major and minor triads which are claimed to be functionally equivalent. Transformational analyses result in sequential patterns of triadic progressions and an overarching key is not required. Based on an extended notion of function and acknowledging that there are compelling arguments for both hierarchical and sequential representations of the cognition of harmonic progressions a multi-level model is proposed that combines both approaches, adopting features of the generative model by Rohrmeier (2011). The two main components of the model are the concept of functional equivalence and the distinction between the hierarchic-syntactic cognition of functional progressions and the schematic cognition of functional values.}
-      \field{booktitle}{International {{Conference}} of {{Students}} of {{Systematic Musicology}} – {{Proceedings}}}
-      \field{eventtitle}{International {{Conference}} of {{Students}} of {{Systematic Musicology}}}
+      \field{booktitle}{International {{Conference}} of {{Students}} of {{Systematic Musicology}} –{} {{Proceedings}}}
       \field{title}{Tonality and Functional Equivalence: {{A}} Multi-Level Model for the Cognition of Triadic Progressions in 19th Century Music}
       \field{year}{2014}
-      \field{dateera}{ce}
       \true{nocite}
       \field{pages}{1\bibrangedash 8}
       \range{pages}{8}
       \verb{file}
       \verb /home/fmoss/Zotero/storage/53GX3JTF/Moss - 2014 - Tonality and functional equivalence A multi-level model for the cognition of triadic progressions in 19th century music(2).pdf;/home/fmoss/Zotero/storage/DB8AQ3W4/Moss - 2014 - Tonality and functional equivalence A multi-level model for the cognition of triadic progressions in 19th century music.pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://ojs.gold.ac.uk/index.php/sysmus14/article/view/243
-      \endverb
-      \verb{url}
-      \verb http://ojs.gold.ac.uk/index.php/sysmus14/article/view/243
       \endverb
     \endentry
     \entry{Moss2012_TheorieTonfelderNach}{thesis}{}
@@ -1950,34 +1839,22 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{In dieser Arbeit werden zwei Konzeptionen vorgestellt, die für sich in Anspruch nehmen, Musik aus dem vage umschriebenen Zeitraum der ‚Musik des 19. Jahrhunderts‘ theoretisch angemessen zu erfassen: die Theorie der Tonfelder nach Albert Simon und die Neo-Riemannian Theory. Sie beziehen sich beide vorwiegend auf das früh- bis spätromantische Repertoire, es gibt aber auch vereinzelte Beispiele, die diesen Rahmen in beide Richtungen erweitern. Durch diese Überlappung der Interessensgebiete bietet sich ein Vergleich der beiden Theorien an.}
-      \field{day}{2}
+      \field{abstract}{In dieser Arbeit werden zwei Konzeptionen vorgestellt, die für sich in Anspruch nehmen, Musik aus dem vage umschriebenen Zeitraum der ,Musik des 19. Jahrhunderts` theoretisch angemessen zu erfassen: die Theorie der Tonfelder nach Albert Simon und die Neo-Riemannian Theory. Sie beziehen sich beide vorwiegend auf das früh- bis spätromantische Repertoire, es gibt aber auch vereinzelte Beispiele, die diesen Rahmen in beide Richtungen erweitern. Durch diese Überlappung der Interessensgebiete bietet sich ein Vergleich der beiden Theorien an.}
       \field{month}{11}
       \field{shorttitle}{"{{Theorie}} Der {{Tonfelder}}" Nach {{Simon}} Und "{{Neo-Riemannian Theory}}"}
       \field{title}{"{{Theorie}} Der {{Tonfelder}}" Nach {{Simon}} Und "{{Neo-Riemannian Theory}}": {{Systematik}}, Historische {{Bezüge}} Und Analytische {{Praxis}} Im {{Vergleich}}}
       \field{type}{mathesis}
-      \field{urlday}{11}
-      \field{urlmonth}{5}
-      \field{urlyear}{2021}
       \field{year}{2012}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.5281/zenodo.4748512
       \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/B924E25G/Moss - 2012 - Theorie der Tonfelder nach Simon und Neo-Rieman.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://zenodo.org/record/4748512#.YJpFwYQzZ60
-      \endverb
-      \verb{url}
-      \verb https://zenodo.org/record/4748512#.YJpFwYQzZ60
       \endverb
       \keyw{Neo-Riemannian Theory; Theorie der Tonfelder; Albert Simon; Extended Tonality}
     \endentry
@@ -2003,33 +1880,22 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Dass Mathematik und Musik eine ganze Menge gemeinsam haben, ist kein Novum. Hebamme der abendländischen Musik war schließlich kein geringerer als Pythagoras von Samos (ca. 570-510 v. Chr.), der entdeckte, dass Konsonanz von Tönen eine Frage ganzzahliger Schwingungsverhältnisse ist. Die Meister der westlichen Musik hatten ihren Geburtshelfer jedoch~bald schon vergessen, bzw. verdrängt, denn das berühmte pythagoräische Komma, die Differenz von sieben Oktaven und zwölf Quinten, machte ein perfektes, „wohl temperiertes“ System~bewiesenermaßen mathematisch unmöglich. Doch damit konnte und kann man durchaus gut~leben. Vor allem Komponisten der späten Klassik und der Romantik machen schamlos von enharmonischen Verwechslungen Gebrauch und erreichen so ungeahnte Höhen der Musik, die~sich nun nicht mehr im sicheren Hafen der Diatonik bewegt, sondern die gesamte Chromatik~beansprucht. Die Analyse der Musik des späten 18. bis frühen 20. Jahrhunderts steht somit auch vor anderen Herausforderungen als bei Bachschen Chorälen oder Schützschen Motetten. In diesem Artikel wird zunächst John Cloughs (1930-2003) Begriff der Flip-Flip Circles~vorgestellt und deren gruppentheoretische Aspekte erläutert. Eine interessante Anwendung finden sie in der Theorie der Tonfelder von Albert Simon (1926-2000), die dieser auf der Basis harmonischer Analysen entwickelte. Da davon auszugehen ist, dass beide voneinander keine~Kenntnis hatten, ist es umso interessanter, diese beiden völlig unterschiedlichen Zugänge zu~musikalischer Analyse miteinander in Verbindung zu bringen.}
-      \field{day}{27}
+      \field{abstract}{Dass Mathematik und Musik eine ganze Menge gemeinsam haben, ist kein Novum. Hebamme der abendländischen Musik war schließlich kein geringerer als Pythagoras von Samos (ca. 570-510 v. Chr.), der entdeckte, dass Konsonanz von Tönen eine Frage ganzzahliger Schwingungsverhältnisse ist. Die Meister der westlichen Musik hatten ihren Geburtshelfer jedoch~bald schon vergessen, bzw. verdrängt, denn das berühmte pythagoräische Komma, die Differenz von sieben Oktaven und zwölf Quinten, machte ein perfektes, ,,wohl temperiertes`` System~bewiesenermaßen mathematisch unmöglich. Doch damit konnte und kann man durchaus gut~leben. Vor allem Komponisten der späten Klassik und der Romantik machen schamlos von enharmonischen Verwechslungen Gebrauch und erreichen so ungeahnte Höhen der Musik, die~sich nun nicht mehr im sicheren Hafen der Diatonik bewegt, sondern die gesamte Chromatik~beansprucht. Die Analyse der Musik des späten 18. bis frühen 20. Jahrhunderts steht somit auch vor anderen Herausforderungen als bei Bachschen Chorälen oder Schützschen Motetten. In diesem Artikel wird zunächst John Cloughs (1930-2003) Begriff der Flip-Flip Circles~vorgestellt und deren gruppentheoretische Aspekte erläutert. Eine interessante Anwendung finden sie in der Theorie der Tonfelder von Albert Simon (1926-2000), die dieser auf der Basis harmonischer Analysen entwickelte. Da davon auszugehen ist, dass beide voneinander keine~Kenntnis hatten, ist es umso interessanter, diese beiden völlig unterschiedlichen Zugänge zu~musikalischer Analyse miteinander in Verbindung zu bringen.}
       \field{langid}{deu}
       \field{month}{1}
-      \field{title}{Albert Simons Theorie der Tonfelder und John Cloughs Flip-Flop Circles im Vergleich}
-      \field{urlday}{15}
-      \field{urlmonth}{2}
-      \field{urlyear}{2022}
+      \field{title}{{Albert Simons Theorie der Tonfelder und John Cloughs Flip-Flop Circles im Vergleich}}
+      \field{type}{techreport}
       \field{year}{2011}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.5281/zenodo.3944462
       \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/PP9IGEKA/Moss - 2011 - Albert Simons Theorie der Tonfelder und John Cloug.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://zenodo.org/record/3944462
-      \endverb
-      \verb{url}
-      \verb https://zenodo.org/record/3944462
       \endverb
     \endentry
   \enddatalist
