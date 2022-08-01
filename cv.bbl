@@ -286,8 +286,77 @@
       \endverb
       \keyw{mec-proceedings,mec-proceedings-2021}
     \endentry
+    \entry{moss_phantom_2022}{inbook}{}
+      \name{author}{3}{ul=2}{%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b367e074114ad8e67a871f942064d52d}{%
+           family={Affatato},
+           familyi={A\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6da55031daa5da1803b5ef5b128b85a4}{%
+           family={Harasim},
+           familyi={H\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{1a523d2ac2755a6ec72a00efe9649a92}
+      \strng{fullhash}{1cdcd4fc8e48dd536751f0de782aa86e}
+      \strng{bibnamehash}{1cdcd4fc8e48dd536751f0de782aa86e}
+      \strng{authorbibnamehash}{1cdcd4fc8e48dd536751f0de782aa86e}
+      \strng{authornamehash}{1a523d2ac2755a6ec72a00efe9649a92}
+      \strng{authorfullhash}{1cdcd4fc8e48dd536751f0de782aa86e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We introduce phantom curves, a novel music-theoretical concept based on the discrete Fourier transform (DFT), and document the creative process that led to their discovery. In particular, we emphasize the importance of interactive web applications for music visualization and analysis. This is demonstrated using the example of the application midiVERTO which affords interactions with the pitch-class content of musical pieces encoded in MIDI format without requiring in-depth understanding of the underlying mathematics. We illustrate the analytical value of studying families of phantom curves by applying the concept to music from a Broadway musical, a video game, and a Hollywood movie. This process of discovery thus testifies to the fact that digital tools can bridge disciplinary boundaries between music theory and mathematics, and this interaction can generate new scientific knowledge.}
+      \field{booktitle}{9th {International} {Conference} on {Digital} {Libraries} for {Musicology}}
+      \field{isbn}{978-1-4503-9668-4}
+      \field{month}{7}
+      \field{series}{{DLfM2022}}
+      \field{shorttitle}{Phantom {Curves}}
+      \field{title}{Phantom {Curves}: {Scientific} {Discovery} through {Interactive} {Music} {Visualization}}
+      \field{urlday}{1}
+      \field{urlmonth}{8}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{60\bibrangedash 64}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1145/3543882.3543886
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/fmoss/Zotero/storage/FFDAGN6X/Moss et al. - 2022 - Phantom Curves Scientific Discovery through Inter.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3543882.3543886
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3543882.3543886
+      \endverb
+      \keyw{music visualization,discrete Fourier transform,scientific discovery,web application}
+    \endentry
     \entry{Moss2022_LineFifthsCoevolution}{article}{}
-      \name{author}{3}{}{%
+      \name{author}{3}{ul=3}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
            familyi={M\bibinitperiod},
@@ -307,11 +376,11 @@
            giveni={M\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{a5dea51072dc95fd1c91f639c4bf00ae}
+      \strng{namehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{fullhash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{bibnamehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{authorbibnamehash}{eb8460df4d783240a53ca9b4d8cba12d}
-      \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
+      \strng{authornamehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{authorfullhash}{eb8460df4d783240a53ca9b4d8cba12d}
       \field{extraname}{1}
       \field{sortinit}{2}
@@ -895,7 +964,6 @@
       \strng{editorbibnamehash}{d6cd53e212b7bdf31846bd7c7646aa11}
       \strng{editornamehash}{0f5718ac33fa58f0570fbce8567a2696}
       \strng{editorfullhash}{d6cd53e212b7bdf31846bd7c7646aa11}
-      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1272,6 +1340,7 @@
       \strng{authorbibnamehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{authornamehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{authorfullhash}{eb8460df4d783240a53ca9b4d8cba12d}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
