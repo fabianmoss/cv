@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2022.8.2)  2 AUG 2022 17:51
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2022.8.2)  11 AUG 2022 08:36
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/cv/cv
@@ -1089,19 +1089,19 @@ Underfull \hbox (badness 10000) detected at line 3
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 12.
+(Font)              using `T1/qpl/b/n' instead on input line 13.
 
 
-Underfull \hbox (badness 10000) detected at line 12
+Underfull \hbox (badness 10000) detected at line 13
 \T1/qpl/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 30.
+(Font)              using `T1/qpl/b/n' instead on input line 31.
 
 
-Underfull \hbox (badness 10000) detected at line 30
+Underfull \hbox (badness 10000) detected at line 31
 \T1/qpl/m/n/7 .
  []
 
