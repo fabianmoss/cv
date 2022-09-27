@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2022.8.2)  22 SEP 2022 15:32
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2022.8.2)  27 SEP 2022 08:48
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/cv/cv
@@ -1053,7 +1053,7 @@ Underfull \hbox (badness 10000) detected at line 11
 \T1/qpl/m/n/7 .
  []
 
-) (./funding.tex
+) (./funding.tex [5]
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
 (Font)              using `T1/qpl/b/n' instead on input line 3.
@@ -1063,7 +1063,7 @@ Underfull \hbox (badness 10000) detected at line 3
 \T1/qpl/m/n/7 .
  []
 
-[5]
+
 Overfull \hbox (2.10463pt too wide) in alignment at lines 23--23
 [] []
  []
@@ -1109,19 +1109,19 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 22889 strings out of 477805
- 156477,1373583 words of node,token memory allocated
- 3804 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 414 kern, 1 penalty, 3 glyph, 259 attribute, 89 glue_spec, 259 attribute_list, 1 write, 3 pdf_action nodes
-   avail lists: 1:2,2:2119,3:938,4:371,5:1143,6:153,7:13911,8:123,9:825,10:15,11:1102,12:1
- 42542 multiletter control sequences out of 65536+600000
+ 22898 strings out of 477805
+ 156478,1373583 words of node,token memory allocated
+ 3832 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 418 kern, 1 penalty, 3 glyph, 261 attribute, 89 glue_spec, 261 attribute_list, 1 write, 3 pdf_action nodes
+   avail lists: 1:2,2:2094,3:965,4:366,5:1156,6:148,7:14000,8:123,9:821,10:15,11:1106,12:1
+ 42548 multiletter control sequences out of 65536+600000
  52 fonts using 3540007 bytes
  70i,13n,102p,2238b,5161s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/home/fmoss/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/home/fmoss/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/home/fmoss/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}</home/fmoss/texmf/fonts/type1/public/lm/lmbx6.pfb></home/fmoss/texmf/fonts/type1/public/lm/lmbx7.pfb></home/fmoss/texmf/fonts/type1/public/marvosym/marvosym.pfb></home/fmoss/texmf/fonts/type1/public/tex-gyre/qplb.pfb></home/fmoss/texmf/fonts/type1/public/tex-gyre/qplr.pfb></home/fmoss/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on cv.pdf (7 pages, 285800 bytes).
+Output written on cv.pdf (7 pages, 286399 bytes).
 
-PDF statistics: 253 PDF objects out of 1000 (max. 8388607)
- 234 compressed objects within 3 object streams
- 65 named destinations out of 1000 (max. 131072)
+PDF statistics: 255 PDF objects out of 1000 (max. 8388607)
+ 236 compressed objects within 3 object streams
+ 66 named destinations out of 1000 (max. 131072)
  201 words of extra memory for PDF output out of 10000 (max. 100000000)
 
