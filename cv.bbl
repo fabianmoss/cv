@@ -391,8 +391,10 @@
       \strng{authorbibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
       \strng{authornamehash}{84b9812fe3485005a25078d738b227f5}
       \strng{authorfullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
@@ -412,6 +414,57 @@
       \verb{url}
       \verb https://osf.io/qm9z5/
       \endverb
+    \endentry
+    \entry{Moss2022_ChallengingSourcesNew}{inbook}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e11dabf3aef04075c989e936cd40da4b}{%
+           family={Nápoles\bibnamedelima López},
+           familyi={N\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Néstor},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=309da3fec8ccbf6a41dc1704bb8097fc}{%
+           family={Köster},
+           familyi={K\bibinitperiod},
+           given={Maik},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d702889b35953ac1b2c6943d616bcd90}{%
+           family={Rizo},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Online}%
+      }
+      \strng{namehash}{84b9812fe3485005a25078d738b227f5}
+      \strng{fullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{bibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{authorbibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{authornamehash}{84b9812fe3485005a25078d738b227f5}
+      \strng{authorfullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A major limitation of current Optical Music Recognition (OMR) systems is that their performance strongly depends on the variability in the input images. What for human readers seems almost trivial---e.g., reading music in a range of different font types in different contexts---can drastically reduce the output quality of OMR models. This paper introduces the 19MT-OMR corpus that can be used to test OMR models on a diverse set of sources. We illustrate this challenge by discussing several examples from this data set.}
+      \field{booktitle}{Proceedings of the 4th {{International Workshop}} on {{Reading Music Systems}} ({{WoRMS}} 2022)}
+      \field{title}{Challenging Sources: A New Dataset for {{OMR}} of Diverse 19th-Century Music Theory Examples}
+      \field{year}{2022}
+      \true{nocite}
     \endentry
     \entry{Moss2022_LineFifthsCoevolution}{article}{}
       \name{author}{3}{ul=3}{%
@@ -2399,8 +2452,10 @@
       \strng{authorbibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
       \strng{authornamehash}{84b9812fe3485005a25078d738b227f5}
       \strng{authorfullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
@@ -2420,6 +2475,57 @@
       \verb{url}
       \verb https://osf.io/qm9z5/
       \endverb
+    \endentry
+    \entry{Moss2022_ChallengingSourcesNew}{inbook}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e11dabf3aef04075c989e936cd40da4b}{%
+           family={Nápoles\bibnamedelima López},
+           familyi={N\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Néstor},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=309da3fec8ccbf6a41dc1704bb8097fc}{%
+           family={Köster},
+           familyi={K\bibinitperiod},
+           given={Maik},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d702889b35953ac1b2c6943d616bcd90}{%
+           family={Rizo},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Online}%
+      }
+      \strng{namehash}{84b9812fe3485005a25078d738b227f5}
+      \strng{fullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{bibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{authorbibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{authornamehash}{84b9812fe3485005a25078d738b227f5}
+      \strng{authorfullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A major limitation of current Optical Music Recognition (OMR) systems is that their performance strongly depends on the variability in the input images. What for human readers seems almost trivial---e.g., reading music in a range of different font types in different contexts---can drastically reduce the output quality of OMR models. This paper introduces the 19MT-OMR corpus that can be used to test OMR models on a diverse set of sources. We illustrate this challenge by discussing several examples from this data set.}
+      \field{booktitle}{Proceedings of the 4th {{International Workshop}} on {{Reading Music Systems}} ({{WoRMS}} 2022)}
+      \field{title}{Challenging Sources: A New Dataset for {{OMR}} of Diverse 19th-Century Music Theory Examples}
+      \field{year}{2022}
+      \true{nocite}
     \endentry
     \entry{Moss2022_LineFifthsCoevolution}{article}{}
       \name{author}{3}{ul=3}{%
