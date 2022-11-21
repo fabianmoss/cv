@@ -26,7 +26,7 @@
 %	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
 %----------------------------------------------------------------------------------------
 
-\documentclass[10pt,a4paper,roman]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+\documentclass[10pt,a4paper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
 % \nopagenumbers{} % suppress page numbers
 
 \moderncvstyle{banking} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
@@ -39,8 +39,13 @@
 %\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
 
 \usepackage{hanging}
-\usepackage{lmodern}
+% \usepackage{lmodern}
 \usepackage{amsmath}
+
+\usepackage[T1]{fontenc}
+\usepackage[sfdefault]{AlegreyaSans} %% Option 'black' gives heavier bold face
+%% The 'sfdefault' option to make the base font sans serif
+\renewcommand*\oldstylenums[1]{{\AlegreyaSansOsF #1}}
 
 \usepackage[
     % backend=biber,
@@ -66,7 +71,7 @@
 \mobile{(+41) 78 700 8485}
 % \phone{(000) 111 1112}
 %\fax{(000) 111 1113}
-\email{fabian.moss@uva.nl}
+\email{fabian.moss@uni-wuerzburg.de}
 % \email{asinha@mt.iitr.ac.in}
 \homepage{fabian-moss.de}{fabian-moss.de} % The first argument is the url for the clickable link, the second argument is the url displayed in the template - this allows special characters to be displayed such as the tilde in this example
 \extrainfo{\href{https://twitter.com/fabianmoss}{{@}fabianmoss}}
