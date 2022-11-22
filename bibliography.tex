@@ -30,12 +30,6 @@
 ]
 
 \printbibliography[%
-  type=misc,
-  title={Preprints, data sets, \& blog posts},
-  heading=subbibliography%
-]
-
-\printbibliography[%
   type=article,
   title={Journal articles},
   heading=subbibliography%
@@ -47,19 +41,25 @@
   heading=subbibliography%
   ]
 
-\defbibfilter{code}{
-  type=dataset or
-  type=software
-}
 \printbibliography[%
-filter=code,
-title={Data sets and code},
-heading=subbibliography%
+  type=misc,
+  title={Preprints, data sets, \& blog posts},
+  heading=subbibliography%
 ]
 
-\printbibliography[%
-type=online,
-title={Blog posts},
-heading=subbibliography%
-]
+% \defbibfilter{code}{
+%   type=dataset or
+%   type=software
+% }
+% \printbibliography[%
+% filter=code,
+% title={Data sets and code},
+% heading=subbibliography%
+% ]
+
+% \printbibliography[%
+% type=online,
+% title={Blog posts},
+% heading=subbibliography%
+% ]
 \end{multicols}
