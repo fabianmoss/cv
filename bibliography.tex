@@ -1,10 +1,10 @@
 %% REFS
-%% TODO: How to add EMR Special Issue? 
-%% TODO: Boldening my name does not work currently because I don't know to export this from Zotero directly
-%% instead of adding it manually...
 %% make my name bold
 %% requires items in `bibliography.bib' to have `author+an = {n=me}',
 %% where n is my position in the author list
+%% this can be achieved by adding the following to the Extra field in Zotero:
+%% tex.author+an: n=me
+
 {
 \renewcommand*{\mkbibnamegiven}[1]{%
   \ifitemannotation{me}
@@ -18,11 +18,11 @@
 
 \setlength{\bibhang}{1em}
 
-% NOTE: Export bibliography as BetterBibLaTeX
+% NOTE: Export bibliography as BetterBibTeX
 \nocite{*}
 \section{Publications}
 
-% \begin{multicols}{2}
+\begin{multicols}{2}
 \printbibliography[%
   type=thesis,
   title={Theses},
@@ -62,4 +62,4 @@ type=online,
 title={Blog posts},
 heading=subbibliography%
 ]
-% \end{multicols}
+\end{multicols}
