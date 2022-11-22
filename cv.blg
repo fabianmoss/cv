@@ -1,22 +1,22 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'cv.blg'
-[65] biber:340> INFO - === Di Nov 22, 2022, 17:36:00
-[83] Biber.pm:418> INFO - Reading 'cv.bcf'
-[151] Biber.pm:975> INFO - Using all citekeys in bib section 0
-[170] Biber.pm:4401> INFO - Processing section 0
-[179] Biber.pm:4592> INFO - Looking for bibtex file 'bibliography.bib' for section 0
-[185] bibtex.pm:1713> INFO - LaTeX decoding ...
-[250] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography.bib'
-[603] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[604] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[604] Biber.pm:4221> INFO - Sorting list 'ydnt/apasortcite//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[604] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
-[677] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[678] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[678] Biber.pm:4221> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[678] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
-[714] bbl.pm:654> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
-[811] bbl.pm:757> INFO - Output to cv.bbl
-[819] Biber.pm:130> WARN - Duplicate entry key: 'Moss2022_ChallengingSourcesNew' in file 'bibliography.bib', skipping ...
-[819] Biber.pm:130> WARN - legacy year field 'in press' in entry 'Mossinpress_TransatlanticTransformationsHow' is not an integer - this will probably not sort properly.
-[819] Biber.pm:132> INFO - WARNINGS: 2
+[73] biber:340> INFO - === Di Nov 22, 2022, 17:48:29
+[96] Biber.pm:418> INFO - Reading 'cv.bcf'
+[168] Biber.pm:975> INFO - Using all citekeys in bib section 0
+[187] Biber.pm:4401> INFO - Processing section 0
+[195] Biber.pm:4592> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[200] bibtex.pm:1713> INFO - LaTeX decoding ...
+[258] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography.bib'
+[618] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[618] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[618] Biber.pm:4221> INFO - Sorting list 'ydnt/apasortcite//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[618] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[694] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[694] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[694] Biber.pm:4221> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[694] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[734] bbl.pm:654> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
+[865] bbl.pm:757> INFO - Output to cv.bbl
+[866] Biber.pm:130> WARN - Duplicate entry key: 'Moss2022_ChallengingSourcesNew' in file 'bibliography.bib', skipping ...
+[866] Biber.pm:130> WARN - legacy year field 'in press' in entry 'Mossinpress_TransatlanticTransformationsHow' is not an integer - this will probably not sort properly.
+[866] Biber.pm:132> INFO - WARNINGS: 2
