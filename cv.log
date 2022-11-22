@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.10.24)  21 NOV 2022 15:40
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.10.24)  22 NOV 2022 14:55
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/cv/cv
@@ -1080,6 +1080,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 91.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 91.
+Package hyperref Info: Option `colorlinks' set `true' on input line 91.
 \@quotelevel=\count444
 \@quotereset=\count445
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
@@ -1217,7 +1218,7 @@ Package biblatex Info: ... file 'cv.bbl' found.
  (./cv.bbl)
 Package biblatex Info: Reference section=0 on input line 91.
 Package biblatex Info: Reference segment=0 on input line 91.
-Package hyperref Info: Link coloring OFF on input line 91.
+Package hyperref Info: Link coloring ON on input line 91.
  (./cv.out) (./cv.out)
 \@outlinefile=\write4
 
@@ -1321,7 +1322,7 @@ Underfull \hbox (badness 10000) detected at line 48
 
 
 Overfull \hbox (1.11101pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋉/[]󰋎[] 
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋉/[][]󰋎[][] 
  []
 
 [2]
@@ -1396,12 +1397,12 @@ Underfull \hbox (badness 5231) in paragraph at lines 36--36
 
 
 Overfull \hbox (0.5132pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋊/[]󰋎[] 
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋊/[][]󰋎[][] 
  []
 
 [3]
 Overfull \hbox (1.1306pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋋/[]󰋎[] 
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋋/[][]󰋎[][] 
  []
 
 [4]) (./teaching.tex) (./supervision.tex
@@ -1474,7 +1475,7 @@ Underfull \hbox (badness 10000) detected at line 31
 
 ) (./media.tex) (./skills.tex
 Overfull \hbox (0.9052pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋍/[]󰋎[] 
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋍/[][]󰋎[][] 
  []
 
 [6]) [7] (./cv.aux)
@@ -1490,16 +1491,16 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 25378 strings out of 477474
+ 25380 strings out of 477474
  156458,1648299 words of node,token memory allocated
  826 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 3 glyph, 18 attribute, 89 glue_spec, 18 attribute_list, 1 write, 9 pdf_action nodes
-   avail lists: 1:2,2:2737,3:1022,4:385,5:2870,6:148,7:15349,8:128,9:851,10:14,11:1226
- 45350 multiletter control sequences out of 65536+600000
+   avail lists: 1:3,2:2773,3:1022,4:394,5:2870,6:148,7:15349,8:128,9:851,10:14,11:1226
+ 45352 multiletter control sequences out of 65536+600000
  79 fonts using 15729055 bytes
  72i,13n,110p,2238b,5172s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/home/fmoss/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/texmf/fonts/type1/public/lm/lmbx6.pfb></home/fmoss/texmf/fonts/type1/public/lm/lmbx7.pfb></home/fmoss/texmf/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (7 pages, 130419 bytes).
+Output written on cv.pdf (7 pages, 130803 bytes).
 
 PDF statistics: 275 PDF objects out of 1000 (max. 8388607)
  247 compressed objects within 3 object streams

@@ -138,7 +138,11 @@
     pdfauthor     = {\@firstname{}~\@familyname{}},
     pdftitle      = {\@firstname{}~\@familyname{} -- \@title{}},
     pdfsubject    = {Resum\'{e} of \@firstname{}~\@familyname{}},
-    pdfkeywords   = {\@firstname{}~\@familyname{}, curriculum vit\ae{}, resum\'{e}}}}
+    pdfkeywords   = {\@firstname{}~\@familyname{}, curriculum vit\ae{}, resum\'{e}},
+    colorlinks=true,
+    urlcolor=color2
+  }
+}
 
 % graphics
 \RequirePackage{graphicx}
