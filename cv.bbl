@@ -1046,16 +1046,24 @@
       \field{langid}{english}
       \field{month}{1}
       \field{title}{Discovering {{Tonal Profiles}} with {{Latent Dirichlet Allocation}}}
+      \field{urlday}{14}
+      \field{urlmonth}{12}
+      \field{urlyear}{2021}
       \field{volume}{4}
       \field{year}{2021}
+      \field{urldateera}{ce}
       \true{nocite}
-      \field{pages}{20592043211048827}
-      \range{pages}{1}
       \verb{doi}
       \verb 10.1177/20592043211048827
       \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/GYA395ZY/Moss and Rohrmeier - 2021 - Discovering Tonal Profiles with Latent Dirichlet A.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1177/20592043211048827
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1177/20592043211048827
       \endverb
       \keyw{corpus studies,Latent Dirichlet Allocation,tonal pitch classes,tonality,Topic modelling}
       \annotation{item}{author}{default}{1}{}{0}{me}
@@ -3234,16 +3242,24 @@
       \field{langid}{english}
       \field{month}{1}
       \field{title}{Discovering {{Tonal Profiles}} with {{Latent Dirichlet Allocation}}}
+      \field{urlday}{14}
+      \field{urlmonth}{12}
+      \field{urlyear}{2021}
       \field{volume}{4}
       \field{year}{2021}
+      \field{urldateera}{ce}
       \true{nocite}
-      \field{pages}{20592043211048827}
-      \range{pages}{1}
       \verb{doi}
       \verb 10.1177/20592043211048827
       \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/GYA395ZY/Moss and Rohrmeier - 2021 - Discovering Tonal Profiles with Latent Dirichlet A.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1177/20592043211048827
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1177/20592043211048827
       \endverb
       \keyw{corpus studies,Latent Dirichlet Allocation,tonal pitch classes,tonality,Topic modelling}
       \annotation{item}{author}{default}{1}{}{0}{me}
