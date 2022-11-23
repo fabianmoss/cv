@@ -81,7 +81,7 @@
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
-      \list{institution}{1}{%
+      \list{publisher}{1}{%
         {OSF Preprints}%
       }
       \strng{namehash}{11770833b5f163063740247c22ca1fa5}
@@ -102,13 +102,23 @@
       \field{month}{5}
       \field{shorttitle}{Totoli's {{Art}} of {{Lelegesan}}}
       \field{title}{Totoli's {{Art}} of {{Lelegesan}}: {{Analyzing Sociocultural Context}} and {{Musical Content}}}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2022}
       \field{year}{2022}
+      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.31219/osf.io/5tsxa
       \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/TU8NPNBU/Bracks and Moss - 2022 - Totoli's Art of Lelegesan Analyzing Sociocultural.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://osf.io/5tsxa/
+      \endverb
+      \verb{url}
+      \verb https://osf.io/5tsxa/
       \endverb
       \keyw{and Cultures,Arts and Humanities,Computational music analysis,Digital Humanities,ethnomusicology,Ethnomusicology,Indonesia,Language Description and Documentation,Language documentation,Language endangerment,Lelegesan,Linguistics,Music,Musicology,Other Languages,Social and Behavioral Sciences,Societies,South and Southeast Asian Languages and Societies}
       \annotation{item}{author}{default}{2}{}{0}{me}
@@ -889,10 +899,20 @@
       \field{langid}{english}
       \field{month}{10}
       \field{title}{Evidence for Cognitive Tonal Hierarchies in Cadential but Not Scalar Contexts}
+      \field{urlday}{27}
+      \field{urlmonth}{3}
+      \field{urlyear}{2022}
       \field{year}{2021}
+      \field{urldateera}{ce}
       \true{nocite}
       \verb{file}
       \verb /home/fmoss/Zotero/storage/KPGUPMI6/yz957.html
+      \endverb
+      \verb{urlraw}
+      \verb https://osf.io/yz957/
+      \endverb
+      \verb{url}
+      \verb https://osf.io/yz957/
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
@@ -1356,6 +1376,12 @@
       \field{title}{A Computational Model for Note Distributions in Musical Pieces}
       \field{year}{2020}
       \true{nocite}
+      \verb{urlraw}
+      \verb https://www.epfl.ch/labs/dcml/computational-model-note-dists/
+      \endverb
+      \verb{url}
+      \verb https://www.epfl.ch/labs/dcml/computational-model-note-dists/
+      \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
     \entry{Moss2020_TracingHistoricalChanges}{misc}{}
@@ -1387,6 +1413,12 @@
       \field{title}{Tracing Historical Changes in the Exploration of Tonal Space}
       \field{year}{2020}
       \true{nocite}
+      \verb{urlraw}
+      \verb https://www.epfl.ch/labs/dcml/tracing-historical-changes/
+      \endverb
+      \verb{url}
+      \verb https://www.epfl.ch/labs/dcml/tracing-historical-changes/
+      \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
     \entry{Moss2020_TonalPitchClassCounts}{misc}{}
@@ -2125,7 +2157,7 @@
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
-      \list{institution}{1}{%
+      \list{publisher}{1}{%
         {OSF Preprints}%
       }
       \strng{namehash}{11770833b5f163063740247c22ca1fa5}
@@ -2146,13 +2178,23 @@
       \field{month}{5}
       \field{shorttitle}{Totoli's {{Art}} of {{Lelegesan}}}
       \field{title}{Totoli's {{Art}} of {{Lelegesan}}: {{Analyzing Sociocultural Context}} and {{Musical Content}}}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2022}
       \field{year}{2022}
+      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.31219/osf.io/5tsxa
       \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/TU8NPNBU/Bracks and Moss - 2022 - Totoli's Art of Lelegesan Analyzing Sociocultural.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://osf.io/5tsxa/
+      \endverb
+      \verb{url}
+      \verb https://osf.io/5tsxa/
       \endverb
       \keyw{and Cultures,Arts and Humanities,Computational music analysis,Digital Humanities,ethnomusicology,Ethnomusicology,Indonesia,Language Description and Documentation,Language documentation,Language endangerment,Lelegesan,Linguistics,Music,Musicology,Other Languages,Social and Behavioral Sciences,Societies,South and Southeast Asian Languages and Societies}
       \annotation{item}{author}{default}{2}{}{0}{me}
@@ -2933,10 +2975,20 @@
       \field{langid}{english}
       \field{month}{10}
       \field{title}{Evidence for Cognitive Tonal Hierarchies in Cadential but Not Scalar Contexts}
+      \field{urlday}{27}
+      \field{urlmonth}{3}
+      \field{urlyear}{2022}
       \field{year}{2021}
+      \field{urldateera}{ce}
       \true{nocite}
       \verb{file}
       \verb /home/fmoss/Zotero/storage/KPGUPMI6/yz957.html
+      \endverb
+      \verb{urlraw}
+      \verb https://osf.io/yz957/
+      \endverb
+      \verb{url}
+      \verb https://osf.io/yz957/
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
@@ -3400,6 +3452,12 @@
       \field{title}{A Computational Model for Note Distributions in Musical Pieces}
       \field{year}{2020}
       \true{nocite}
+      \verb{urlraw}
+      \verb https://www.epfl.ch/labs/dcml/computational-model-note-dists/
+      \endverb
+      \verb{url}
+      \verb https://www.epfl.ch/labs/dcml/computational-model-note-dists/
+      \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
     \entry{Moss2020_TracingHistoricalChanges}{misc}{}
@@ -3431,6 +3489,12 @@
       \field{title}{Tracing Historical Changes in the Exploration of Tonal Space}
       \field{year}{2020}
       \true{nocite}
+      \verb{urlraw}
+      \verb https://www.epfl.ch/labs/dcml/tracing-historical-changes/
+      \endverb
+      \verb{url}
+      \verb https://www.epfl.ch/labs/dcml/tracing-historical-changes/
+      \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
     \entry{Moss2020_TonalPitchClassCounts}{misc}{}
