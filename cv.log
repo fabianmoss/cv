@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.10.24)  24 NOV 2022 11:20
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.10.24)  24 NOV 2022 12:01
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/cv/cv
@@ -1411,15 +1411,15 @@ Underfull \hbox (badness 10000) detected at line 9
 
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 45.
+(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 48.
 
 
-Underfull \hbox (badness 10000) detected at line 45
+Underfull \hbox (badness 10000) detected at line 48
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
 
-Underfull \hbox (badness 5231) in paragraph at lines 49--49
+Underfull \hbox (badness 5231) in paragraph at lines 52--52
 \TU/AlegreyaSans(0)/m/it/10 Diskur-s-anal-yse\TU/AlegreyaSans(0)/m/n/10 . Jahresta-gung der Gesellscha󰀙t für Musik-
  []
 
