@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.10.24)  24 NOV 2022 12:01
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.10.24)  25 NOV 2022 08:42
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/cv/cv
@@ -1394,12 +1394,12 @@ Underfull \hbox (badness 10000) detected at line 48
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-)
+
 Overfull \hbox (0.5032pt too wide) has occurred while \output is active
 []|\TU/AlegreyaSans(0)/m/it/10 󰋊/[][]󰋍[][] 
  []
 
-[3] (./talks.tex
+[3]) (./talks.tex
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 9.
@@ -1492,19 +1492,19 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 25333 strings out of 477474
+ 25337 strings out of 477474
  305598,1648299 words of node,token memory allocated
- 987 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 5 kern, 1 penalty, 2 margin_kern, 7 glyph, 30 attribute, 89 glue_spec, 30 attribute_list, 1 write, 21 pdf_action nodes
-   avail lists: 1:12,2:2770,3:1794,4:577,5:4797,6:116,7:26513,8:153,9:819,10:15,11:2125
- 45313 multiletter control sequences out of 65536+600000
+ 997 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 5 kern, 1 penalty, 2 margin_kern, 7 glyph, 31 attribute, 89 glue_spec, 31 attribute_list, 1 write, 22 pdf_action nodes
+   avail lists: 1:11,2:2902,3:1879,4:601,5:4797,6:114,7:26513,8:157,9:819,10:15,11:2125
+ 45316 multiletter control sequences out of 65536+600000
  67 fonts using 14558447 bytes
  72i,12n,110p,2238b,5172s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/texmf/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (6 pages, 92429 bytes).
+Output written on cv.pdf (6 pages, 93110 bytes).
 
-PDF statistics: 288 PDF objects out of 1000 (max. 8388607)
- 263 compressed objects within 3 object streams
- 66 named destinations out of 1000 (max. 131072)
+PDF statistics: 292 PDF objects out of 1000 (max. 8388607)
+ 267 compressed objects within 3 object streams
+ 67 named destinations out of 1000 (max. 131072)
  217 words of extra memory for PDF output out of 10000 (max. 100000000)
 
