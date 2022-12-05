@@ -66,7 +66,7 @@
       \true{nocite}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Bracks2022_TotoliArtLelegesan}{misc}{}
+    \entry{Bracks2022_TotoliArtLelegesan}{inbook}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=615525bb61685addcc4bfb033a3c4270}{%
            family={Bracks},
@@ -81,8 +81,20 @@
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {OSF Preprints}%
+      \name{editor}{2}{}{%
+        {{hash=95c7ea19664960562038871ad4a4b759}{%
+           family={{Ali-MacLachlan}},
+           familyi={A\bibinitperiod},
+           given={Islah},
+           giveni={I\bibinitperiod}}}%
+        {{hash=e22ad323873c8972d5c207bedb7b10b4}{%
+           family={Holzapfel},
+           familyi={H\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sheffield, UK}%
       }
       \strng{namehash}{11770833b5f163063740247c22ca1fa5}
       \strng{fullhash}{11770833b5f163063740247c22ca1fa5}
@@ -90,6 +102,9 @@
       \strng{authorbibnamehash}{11770833b5f163063740247c22ca1fa5}
       \strng{authornamehash}{11770833b5f163063740247c22ca1fa5}
       \strng{authorfullhash}{11770833b5f163063740247c22ca1fa5}
+      \strng{editorbibnamehash}{8856b87f9716ebc63e2ac2c308be3d9c}
+      \strng{editornamehash}{8856b87f9716ebc63e2ac2c308be3d9c}
+      \strng{editorfullhash}{8856b87f9716ebc63e2ac2c308be3d9c}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -98,27 +113,20 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{We present the first musicological analysis of a Lelegesan performance, a form of musical expression of the Totoli people in Central Sulawesi. Our preliminary study of this participatory musical practice of an endangered language community describes the overall form of the Lelegesan, consisting of two-part stanzas with improvised lyrics but relatively stable melodic patterns. We report characteristics of a performance's frequency spectrum by drawing on computational methods, enabling us to approximate the underlying musical scale. Our analyses show that different phrase types are clearly distinguishable in terms of their frequency content, and that final tones of opening and closing phrases are generally about a major third apart.}
+      \field{booktitle}{{{FMA2022}}: {{International Workshop}} on {{Folk Music Analysis}}}
       \field{langid}{american}
       \field{month}{5}
       \field{shorttitle}{Totoli's {{Art}} of {{Lelegesan}}}
       \field{title}{Totoli's {{Art}} of {{Lelegesan}}: {{Analyzing Sociocultural Context}} and {{Musical Content}}}
-      \field{urlday}{19}
-      \field{urlmonth}{5}
-      \field{urlyear}{2022}
       \field{year}{2022}
-      \field{urldateera}{ce}
       \true{nocite}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
       \verb{doi}
       \verb 10.31219/osf.io/5tsxa
       \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/TU8NPNBU/Bracks and Moss - 2022 - Totoli's Art of Lelegesan Analyzing Sociocultural.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://osf.io/5tsxa/
-      \endverb
-      \verb{url}
-      \verb https://osf.io/5tsxa/
       \endverb
       \keyw{and Cultures,Arts and Humanities,Computational music analysis,Digital Humanities,ethnomusicology,Ethnomusicology,Indonesia,Language Description and Documentation,Language documentation,Language endangerment,Lelegesan,Linguistics,Music,Musicology,Other Languages,Social and Behavioral Sciences,Societies,South and Southeast Asian Languages and Societies}
       \annotation{item}{author}{default}{2}{}{0}{me}
@@ -499,6 +507,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{A major limitation of current Optical Music Recognition (OMR) systems is that their performance strongly depends on the variability in the input images. What for human readers seems almost trivial---e.g., reading music in a range of different font types in different contexts---can drastically reduce the output quality of OMR models. This paper introduces the 19MT-OMR corpus that can be used to test OMR models on a diverse set of sources. We illustrate this challenge by discussing several examples from this data set.}
       \field{booktitle}{Proceedings of the 4th {{International Workshop}} on {{Reading Music Systems}} ({{WoRMS}} 2022)}
+      \field{month}{11}
       \field{title}{Challenging Sources: A New Dataset for {{OMR}} of Diverse 19th-Century Music Theory Examples}
       \field{year}{2022}
       \true{nocite}
@@ -2179,7 +2188,7 @@
       \true{nocite}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Bracks2022_TotoliArtLelegesan}{misc}{}
+    \entry{Bracks2022_TotoliArtLelegesan}{inbook}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=615525bb61685addcc4bfb033a3c4270}{%
            family={Bracks},
@@ -2194,8 +2203,20 @@
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {OSF Preprints}%
+      \name{editor}{2}{}{%
+        {{hash=95c7ea19664960562038871ad4a4b759}{%
+           family={{Ali-MacLachlan}},
+           familyi={A\bibinitperiod},
+           given={Islah},
+           giveni={I\bibinitperiod}}}%
+        {{hash=e22ad323873c8972d5c207bedb7b10b4}{%
+           family={Holzapfel},
+           familyi={H\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sheffield, UK}%
       }
       \strng{namehash}{11770833b5f163063740247c22ca1fa5}
       \strng{fullhash}{11770833b5f163063740247c22ca1fa5}
@@ -2203,6 +2224,9 @@
       \strng{authorbibnamehash}{11770833b5f163063740247c22ca1fa5}
       \strng{authornamehash}{11770833b5f163063740247c22ca1fa5}
       \strng{authorfullhash}{11770833b5f163063740247c22ca1fa5}
+      \strng{editorbibnamehash}{8856b87f9716ebc63e2ac2c308be3d9c}
+      \strng{editornamehash}{8856b87f9716ebc63e2ac2c308be3d9c}
+      \strng{editorfullhash}{8856b87f9716ebc63e2ac2c308be3d9c}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2211,27 +2235,20 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{We present the first musicological analysis of a Lelegesan performance, a form of musical expression of the Totoli people in Central Sulawesi. Our preliminary study of this participatory musical practice of an endangered language community describes the overall form of the Lelegesan, consisting of two-part stanzas with improvised lyrics but relatively stable melodic patterns. We report characteristics of a performance's frequency spectrum by drawing on computational methods, enabling us to approximate the underlying musical scale. Our analyses show that different phrase types are clearly distinguishable in terms of their frequency content, and that final tones of opening and closing phrases are generally about a major third apart.}
+      \field{booktitle}{{{FMA2022}}: {{International Workshop}} on {{Folk Music Analysis}}}
       \field{langid}{american}
       \field{month}{5}
       \field{shorttitle}{Totoli's {{Art}} of {{Lelegesan}}}
       \field{title}{Totoli's {{Art}} of {{Lelegesan}}: {{Analyzing Sociocultural Context}} and {{Musical Content}}}
-      \field{urlday}{19}
-      \field{urlmonth}{5}
-      \field{urlyear}{2022}
       \field{year}{2022}
-      \field{urldateera}{ce}
       \true{nocite}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
       \verb{doi}
       \verb 10.31219/osf.io/5tsxa
       \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/TU8NPNBU/Bracks and Moss - 2022 - Totoli's Art of Lelegesan Analyzing Sociocultural.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://osf.io/5tsxa/
-      \endverb
-      \verb{url}
-      \verb https://osf.io/5tsxa/
       \endverb
       \keyw{and Cultures,Arts and Humanities,Computational music analysis,Digital Humanities,ethnomusicology,Ethnomusicology,Indonesia,Language Description and Documentation,Language documentation,Language endangerment,Lelegesan,Linguistics,Music,Musicology,Other Languages,Social and Behavioral Sciences,Societies,South and Southeast Asian Languages and Societies}
       \annotation{item}{author}{default}{2}{}{0}{me}
@@ -2612,6 +2629,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{A major limitation of current Optical Music Recognition (OMR) systems is that their performance strongly depends on the variability in the input images. What for human readers seems almost trivial---e.g., reading music in a range of different font types in different contexts---can drastically reduce the output quality of OMR models. This paper introduces the 19MT-OMR corpus that can be used to test OMR models on a diverse set of sources. We illustrate this challenge by discussing several examples from this data set.}
       \field{booktitle}{Proceedings of the 4th {{International Workshop}} on {{Reading Music Systems}} ({{WoRMS}} 2022)}
+      \field{month}{11}
       \field{title}{Challenging Sources: A New Dataset for {{OMR}} of Diverse 19th-Century Music Theory Examples}
       \field{year}{2022}
       \true{nocite}
