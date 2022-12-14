@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.10.24)  5 DEC 2022 09:30
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.10.24)  14 DEC 2022 12:30
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/cv/cv
@@ -1291,25 +1291,20 @@ Underfull \hbox (badness 10000) detected at line 3
  []
 
 
-Overfull \hbox (9.19395pt too wide) in paragraph at lines 5--11
-\TU/AlegreyaSans(0)/m/n/10 MIR); Eu-ro-pean So-ci-ety for the Cog-ni-tive Sci-ences of Mu-sic (ES-COM); UNIL-EPFL Cen-tre for Dig-i-tal Hu-man-i-ties (dh-Cen-ter); \TU/AlegreyaSans(0)/b/n/10 󰋅󰋊/󰋇󰋅󰋇󰋅--󰋆󰋇/󰋇󰋅󰋇󰋆
- []
-
-
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 12.
+(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 16.
 
 
-Underfull \hbox (badness 10000) detected at line 12
+Underfull \hbox (badness 10000) detected at line 16
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 21.
+(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 24.
 
 
-Underfull \hbox (badness 10000) detected at line 21
+Underfull \hbox (badness 10000) detected at line 24
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
@@ -1318,10 +1313,10 @@ Underfull \hbox (badness 10000) detected at line 21
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 39.
+(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 42.
 
 
-Underfull \hbox (badness 10000) detected at line 39
+Underfull \hbox (badness 10000) detected at line 42
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
@@ -1376,8 +1371,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--36
  []
 
 
-Overfull \hbox (1.10101pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋉/[][]󰋍[][] 
+Overfull \hbox (1.11101pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋉/[][]󰋎[][] 
  []
 
 [2]
@@ -1400,8 +1395,8 @@ Underfull \hbox (badness 10000) detected at line 48
  []
 
 
-Overfull \hbox (0.5032pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋊/[][]󰋍[][] 
+Overfull \hbox (0.5132pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋊/[][]󰋎[][] 
  []
 
 [3]) (./talks.tex
@@ -1429,8 +1424,8 @@ Underfull \hbox (badness 5231) in paragraph at lines 52--52
  []
 
 
-Overfull \hbox (1.1206pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋋/[][]󰋍[][] 
+Overfull \hbox (1.1306pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋋/[][]󰋎[][] 
  []
 
 [4] [5]) (./teaching.tex
@@ -1479,19 +1474,14 @@ Underfull \hbox (badness 10000) detected at line 26
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-) (./media.tex) (./skills.tex)
-Overfull \hbox (0.8952pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋍/[][]󰋍[][] 
+) (./media.tex) (./skills.tex
+Overfull \hbox (0.9052pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋍/[][]󰋎[][] 
  []
 
-[6] (./cv.aux)
+[6]) [7] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 922D1A9FE659FC65A326917EAEFC1872;3691.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'cv.run.xml'.
 
 \openout1 = cv.run.xml
@@ -1502,19 +1492,19 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 25339 strings out of 477474
- 305592,1648299 words of node,token memory allocated
- 987 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 5 kern, 1 penalty, 2 margin_kern, 7 glyph, 30 attribute, 89 glue_spec, 30 attribute_list, 1 write, 21 pdf_action nodes
-   avail lists: 1:11,2:2954,3:1894,4:601,5:4797,6:115,7:26513,8:158,9:813,10:15,11:2125
- 45318 multiletter control sequences out of 65536+600000
+ 25338 strings out of 477474
+ 195571,1648299 words of node,token memory allocated
+ 977 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 5 kern, 1 penalty, 2 margin_kern, 7 glyph, 29 attribute, 89 glue_spec, 29 attribute_list, 1 write, 20 pdf_action nodes
+   avail lists: 1:12,2:3058,3:1306,4:433,5:2844,6:111,7:16659,8:130,9:799,10:15,11:1207
+ 45316 multiletter control sequences out of 65536+600000
  67 fonts using 14558447 bytes
- 72i,12n,110p,2238b,5172s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,13n,110p,2238b,5172s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/texmf/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (6 pages, 92035 bytes).
+Output written on cv.pdf (7 pages, 92881 bytes).
 
-PDF statistics: 291 PDF objects out of 1000 (max. 8388607)
- 266 compressed objects within 3 object streams
- 67 named destinations out of 1000 (max. 131072)
+PDF statistics: 296 PDF objects out of 1000 (max. 8388607)
+ 270 compressed objects within 3 object streams
+ 68 named destinations out of 1000 (max. 131072)
  217 words of extra memory for PDF output out of 10000 (max. 100000000)
 
