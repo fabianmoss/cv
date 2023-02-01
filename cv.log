@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.10.24)  12 JAN 2023 14:11
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.10.24)  1 FEB 2023 09:09
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/cv/cv
@@ -1310,7 +1310,7 @@ Underfull \hbox (badness 10000) detected at line 24
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{/home/fmoss/.texlive2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 42.
@@ -1419,7 +1419,7 @@ Underfull \hbox (badness 10000) detected at line 48
  []
 
 
-Underfull \hbox (badness 5231) in paragraph at lines 52--52
+Underfull \hbox (badness 5231) in paragraph at lines 59--59
 \TU/AlegreyaSans(0)/m/it/10 Diskur-s-anal-yse\TU/AlegreyaSans(0)/m/n/10 . Jahresta-gung der Gesellscha󰀙t für Musik-
  []
 
@@ -1496,12 +1496,12 @@ Here is how much of LuaTeX's memory you used:
  195574,1648299 words of node,token memory allocated
  977 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 5 kern, 1 penalty, 2 margin_kern, 7 glyph, 29 attribute, 89 glue_spec, 29 attribute_list, 1 write, 20 pdf_action nodes
-   avail lists: 1:14,2:3031,3:1292,4:436,5:2837,6:112,7:16705,8:130,9:799,10:15,11:1182
+   avail lists: 1:14,2:3031,3:1292,4:436,5:2828,6:112,7:16705,8:130,9:799,10:15,11:1164
  45316 multiletter control sequences out of 65536+600000
  67 fonts using 14558447 bytes
- 72i,13n,110p,2238b,5172s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,110p,2238b,5172s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/texmf/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (7 pages, 93311 bytes).
+Output written on cv.pdf (7 pages, 93888 bytes).
 
 PDF statistics: 296 PDF objects out of 1000 (max. 8388607)
  270 compressed objects within 3 object streams
