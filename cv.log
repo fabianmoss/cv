@@ -1,4 +1,33 @@
+<<<<<<< HEAD
 This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.10.24)  28 APR 2023 11:15
+=======
+<<<<<<< HEAD
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.4.25)  25 APR 2023 20:32
+ restricted system commands enabled.
+**cv.tex
+(./cv.tex
+LaTeX2e <2021-11-15> patch level 1
+[\directlua]:1: module 'luaotfload-main' not found:
+	no field package.preload['luaotfload-main']
+	[kpse lua searcher] file not found: 'luaotfload-main'
+Error in luaotfload: reverting to OT1 L3 programming layer <2022-01-21>
+Inserting `tracingstacklevels' at position 1 in `input_level_string'.
+(./moderncv.cls
+Document Class: moderncv 2012/10/31 v1.2.0 modern curriculum vitae and letter d
+ocument class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
+4.
+
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+
+! LaTeX Error: File `etoolbox.sty' not found.
+=======
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.10.24)  15 APR 2023 11:51
+>>>>>>> 0034d29cbe4c6cf292c4572a229b1ba9ce94ddeb
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/cv/cv
@@ -425,63 +454,33 @@ Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
  (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+>>>>>>> 2311c290312480bf3d6ab5dfa05df93c26a20ebe
 
-Package fontspec Info: Font family 'AlegreyaSans(0)' created for font
-(fontspec)             'AlegreyaSans' with options [Ligatures = TeX,Extension
-(fontspec)             = .otf,Scale = 1,Ligatures=TeX,Numbers =
-(fontspec)             {Proportional,Lining},UprightFont =
-(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
-(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: X
+
+! Emergency stop.
+<read *> X ag __fileho
+                
+l.78 
+   
+*** (cannot \read from terminal in nonstop modes)
 
 
-Package fontspec Info: Font family 'AlegreyaSans(1)' created for font
-(fontspec)             'AlegreyaSans' with options [Ligatures = TeX,Extension
-(fontspec)             = .otf,Scale = 1,Numbers =
-(fontspec)             {Proportional,Lining},UprightFont =
-(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
-(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
+<<<<<<< HEAD
 
-
+Here is how much of LuaTeX's memory you used:
+ 125 strings out of 477805
+ 100000,383344 words of node,token memory allocated 324 words of node memory still in use:
+   2 hlist, 1 rule, 1 dir, 44 glue_spec, 3 if_stack nodes
+   avail lists: 2:9,3:3,4:1
+ 20916 multiletter control sequences out of 65536+600000
+ 15 fonts using 633019 bytes
+ 40i,0n,43p,194b,82s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
+=======
 Package fontspec Info: Font family 'AlegreyaSans(2)' created for font
 (fontspec)             'AlegreyaSans' with options [Ligatures = TeX,Extension
 (fontspec)             = .otf,Scale = 1,Numbers =
@@ -1507,3 +1506,4 @@ PDF statistics: 298 PDF objects out of 1000 (max. 8388607)
  68 named destinations out of 1000 (max. 131072)
  217 words of extra memory for PDF output out of 10000 (max. 100000000)
 
+>>>>>>> 2311c290312480bf3d6ab5dfa05df93c26a20ebe
