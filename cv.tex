@@ -39,13 +39,14 @@
 %\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
 
 \usepackage{hanging}
-% \usepackage{lmodern}
 \usepackage{amsmath}
 
 \usepackage[T1]{fontenc}
-\usepackage[sfdefault]{AlegreyaSans} %% Option 'black' gives heavier bold face
+% \usepackage{lmodern}
+\usepackage{Alegreya} %% Option 'black' gives heavier bold face
 %% The 'sfdefault' option to make the base font sans serif
 % \renewcommand*\oldstylenums[1]{{\AlegreyaSansOsF #1}}
+\renewcommand{\familydefault}{\sfdefault}
 
 \usepackage[
     % backend=biber,
@@ -78,7 +79,7 @@
 % \photo[70pt][0.4pt]{pictures/picture} % The first bracket is the picture height, the second is the thickness of the frame around the picture (0pt for no frame)
 % \quote{"A witty and playful quotation" - John Smith}
 
-%%% For publictations etc.
+%%% For publications etc.
 % indentation solution from: https://tex.stackexchange.com/questions/478286/class-moderncv-cvitem-indent-from-second-line
 \newcommand*{\mycvitem}[3][.25em]{%
     \begin{description}
