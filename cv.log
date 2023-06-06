@@ -1,6 +1,6 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.6.2)  2 JUN 2023 18:10
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.6.2)  6 JUN 2023 13:47
  restricted system commands enabled.
-**cv.tex
+**cv
 (./cv.tex
 LaTeX2e <2022-11-01> patch level 1
 Lua module: luaotfload 2022-10-03 3.23 Lua based OpenType font support
@@ -1432,19 +1432,14 @@ Package biblatex Info: ... file 'cv.bbl' found.
 Package biblatex Info: Reference section=0 on input line 92.
 Package biblatex Info: Reference segment=0 on input line 92.
 Package hyperref Info: Link coloring ON on input line 92.
- (./cv.out) (./cv.out)
 \@outlinefile=\write4
 
 \openout4 = cv.out
-\pagenumberwidth=\skip110
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 92.
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
 (Font)              scaled to size 24.88pt on input line 119.
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/n' will be
 (Font)              scaled to size 24.88pt on input line 119.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-mvs.cfg
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-cmr.cfg
@@ -1496,6 +1491,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--119
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/n' will be
 (Font)              scaled to size 14.4pt on input line 5.
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 12.
+LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
 (Font)              scaled to size 10.0pt on input line 12.
 ) (./education.tex) (./service.tex
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
@@ -1586,11 +1583,6 @@ Underfull \hbox (badness 10000) detected at line 36
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-
-Overfull \hbox (1.11101pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋉/[][]󰋎[][] 
- []
-
 [2]
 Underfull \hbox (badness 10000) in paragraph at lines 36--36
 \TU/AlegreyaSans(0)/m/n/10 Wavescapes: A vi-sual hi-er-ar-chi-cal anal-y-sis of tonal-ity
@@ -1620,11 +1612,6 @@ Underfull \hbox (badness 10000) detected at line 48
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-
-Overfull \hbox (0.5132pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋊/[][]󰋎[][] 
- []
-
 [3]) (./talks.tex
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
@@ -1642,11 +1629,6 @@ LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 
 Underfull \hbox (badness 10000) detected at line 50
 \TU/AlegreyaSans(0)/m/n/7 .
- []
-
-
-Overfull \hbox (1.1306pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋋/[][]󰋎[][] 
  []
 
 [4]
@@ -1701,20 +1683,28 @@ Underfull \hbox (badness 10000) detected at line 30
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-) (./media.tex
-Overfull \hbox (0.9052pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋍/[][]󰋎[][] 
- []
-
-[6]) (./skills.tex) [7] (./cv.aux)
+) (./media.tex [6]) (./skills.tex) [7] (./cv.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: 922D1A9FE659FC65A326917EAEFC1872;3691.
 
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `cv.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `cv.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  922D1A9FE659FC65A326917EAEFC1872;3691.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                cv
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'cv.run.xml'.
 
@@ -1726,27 +1716,27 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 25464 strings out of 478305
- 195575,1977958 words of node,token memory allocated
- 977 words of node memory still in use:
+ 25390 strings out of 478305
+ 195573,1977958 words of node,token memory allocated
+ 972 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 5 kern, 1 penalty, 2 margin_ke
-rn, 7 glyph, 28 attribute, 91 glue_spec, 28 attribute_list, 1 write, 19 pdf_acti
+rn, 7 glyph, 28 attribute, 90 glue_spec, 28 attribute_list, 1 write, 19 pdf_acti
 on nodes
-   avail lists: 1:4,2:2991,3:1276,4:432,5:2830,6:117,7:16625,8:119,9:843,10:15,1
+   avail lists: 1:7,2:2969,3:1272,4:424,5:2830,6:109,7:16611,8:119,9:825,10:15,1
 1:1205
- 44646 multiletter control sequences out of 65536+600000
+ 44583 multiletter control sequences out of 65536+600000
  66 fonts using 14435119 bytes
- 72i,12n,110p,2227b,5178s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,11n,110p,2223b,5178s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-
 Italic.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman1
 0-regular.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/huerta/alegreya
 /AlegreyaSans-Regular.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/hue
 rta/alegreya/AlegreyaSans-Bold.otf></usr/local/texlive/2023/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmr10.pfb>
-Output written on cv.pdf (7 pages, 91314 bytes).
+Output written on cv.pdf (7 pages, 88757 bytes).
 
-PDF statistics: 297 PDF objects out of 1000 (max. 8388607)
- 271 compressed objects within 3 object streams
+PDF statistics: 206 PDF objects out of 1000 (max. 8388607)
+ 182 compressed objects within 2 object streams
  68 named destinations out of 1000 (max. 131072)
- 217 words of extra memory for PDF output out of 10000 (max. 100000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
