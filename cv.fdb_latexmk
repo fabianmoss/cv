@@ -1,8 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1686051949 "/home/fmoss/GitHub/fabianmoss/cv/cv.tex" "/home/fmoss/GitHub/fabianmoss/cv/cv.pdf" "cv" 1686052021
-  "/home/fmoss/GitHub/fabianmoss/cv/cv.aux" 1686051949 8 a94a2480d3289e625eea47cd1b285758 ""
+["pdflatex"] 1686151259 "/home/fmoss/GitHub/fabianmoss/cv/cv.tex" "/home/fmoss/GitHub/fabianmoss/cv/cv.pdf" "cv" 1686151283
   "/home/fmoss/GitHub/fabianmoss/cv/cv.tex" 1685721934 6106 89f9fa719da4df9b3cca44a921f0337b ""
-  "/home/fmoss/GitHub/fabianmoss/cv/fontaxes.sty" 0 -1 0 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm" 1136768653 3584 adb004a0c8e7c46ee66cad73671f37b4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm" 1254269338 12056 7e13df7fe4cbce21b072ba7c4f4deb6e ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifluatex.sty" 1572645307 492 1994775aa15b0d1289725a0b1bbc2d4c ""
@@ -54,13 +52,12 @@
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1685710428 7204345 88657fe27b9dccd73dda350cca65f299 ""
   "/usr/local/texlive/2023/texmf.cnf" 1685710381 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "cv.tex" 1685721934 6106 89f9fa719da4df9b3cca44a921f0337b ""
-  "fontaxes.sty" 0 -1 0 ""
   "moderncv.cls" 1685707924 17336 3fc5baca190df02118468cc2c8220837 ""
   "moderncvcolorblue.sty" 1685707924 1008 2fe1f5a9be8e49fa632e9d3e67a21195 ""
   "moderncvcompatibility.sty" 1685707924 3398 356ff0626d1912510390575078c99133 ""
   "moderncvstylebanking.sty" 1685707924 12162 dfdbdc6e99c5f133a3816acbd3d305f6 ""
   "tweaklist.sty" 1685707924 1966 8ce3a021c0bc6369db88faeddf828d71 ""
   (generated)
-  "cv.log"
   "/home/fmoss/GitHub/fabianmoss/cv/cv.pdf"
+  "cv.log"
   "/home/fmoss/GitHub/fabianmoss/cv/cv.log"
