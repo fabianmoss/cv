@@ -66,8 +66,6 @@
       \true{nocite}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-<<<<<<< HEAD
-=======
     \entry{KepperRoland_MEI_Guidelines}{book}{}
       \name{editor}{2}{}{%
         {{un=0,uniquepart=base,hash=74644523f15bd5b1d933f798840c989e}{%
@@ -141,7 +139,6 @@
       \range{pages}{26}
       \annotation{item}{editor}{default}{2}{}{0}{me}
     \endentry
->>>>>>> edited-volumes
     \entry{Bracks2022_TotoliArtLelegesan}{inbook}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=615525bb61685addcc4bfb033a3c4270}{%
@@ -422,19 +419,11 @@
       \list{publisher}{1}{%
         {Association for Computing Machinery}%
       }
-<<<<<<< HEAD
-      \strng{namehash}{1a523d2ac2755a6ec72a00efe9649a92}
-      \strng{fullhash}{1cdcd4fc8e48dd536751f0de782aa86e}
-      \strng{bibnamehash}{1cdcd4fc8e48dd536751f0de782aa86e}
-      \strng{authorbibnamehash}{1cdcd4fc8e48dd536751f0de782aa86e}
-      \strng{authornamehash}{1a523d2ac2755a6ec72a00efe9649a92}
-=======
       \strng{namehash}{1cdcd4fc8e48dd536751f0de782aa86e}
       \strng{fullhash}{1cdcd4fc8e48dd536751f0de782aa86e}
       \strng{bibnamehash}{1cdcd4fc8e48dd536751f0de782aa86e}
       \strng{authorbibnamehash}{1cdcd4fc8e48dd536751f0de782aa86e}
       \strng{authornamehash}{1cdcd4fc8e48dd536751f0de782aa86e}
->>>>>>> edited-volumes
       \strng{authorfullhash}{1cdcd4fc8e48dd536751f0de782aa86e}
       \strng{editorbibnamehash}{a7a369936b5ad6f5101cd8ae447667e2}
       \strng{editornamehash}{a7a369936b5ad6f5101cd8ae447667e2}
@@ -1038,19 +1027,6 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-<<<<<<< HEAD
-    \entry{Moss2021_SpecialIssueOpen}{article}{}
-      \name{editor}{2}{}{%
-        {{un=1,uniquepart=given,hash=ceeb25ba116874e69a0d91df2df39044}{%
-           family={Moss},
-           familyi={M\bibinitperiod},
-           given={Fabian},
-           giveni={F\bibinitperiod},
-           givenun=1,
-           suffix={C.},
-           suffixi={C\bibinitperiod},
-           suffixun=0}}%
-=======
     \entry{Moss2021_FAIROpenLinked}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
@@ -1110,7 +1086,6 @@
            given={Fabian\bibnamedelima C.},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
->>>>>>> edited-volumes
         {{un=0,uniquepart=base,hash=ae0464b93a1404dccfd671e036398cc5}{%
            family={Neuwirth},
            familyi={N\bibinitperiod},
@@ -1124,15 +1099,10 @@
       \strng{editorbibnamehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{editornamehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{editorfullhash}{9149a3a1b56b4042276015b781fd316b}
-<<<<<<< HEAD
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-=======
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
->>>>>>> edited-volumes
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
@@ -1154,8 +1124,6 @@
       \endverb
       \annotation{item}{editor}{default}{1}{}{0}{me}
     \endentry
-<<<<<<< HEAD
-=======
     \entry{Moss2021_DiscoveringTonalProfiles}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
@@ -3255,7 +3223,6 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
->>>>>>> edited-volumes
     \entry{Moss2021_Digitizing19thCenturyMusic}{inbook}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
@@ -3389,15 +3356,10 @@
       \strng{authorbibnamehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{authornamehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{authorfullhash}{9149a3a1b56b4042276015b781fd316b}
-<<<<<<< HEAD
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-=======
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
->>>>>>> edited-volumes
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
@@ -3424,8 +3386,6 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-<<<<<<< HEAD
-=======
     \entry{Moss2021_SpecialIssueOpen}{article}{}
       \name{editor}{2}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
@@ -3472,7 +3432,6 @@
       \endverb
       \annotation{item}{editor}{default}{1}{}{0}{me}
     \endentry
->>>>>>> edited-volumes
     \entry{Moss2021_DiscoveringTonalProfiles}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
@@ -3849,19 +3808,11 @@
            giveni={M\bibinitperiod},
            givenun=0}}%
       }
-<<<<<<< HEAD
-      \strng{namehash}{d7aabfba48a58e2d5183efdf8fe44594}
-      \strng{fullhash}{45d49562ba85cd277e589a8dc88f3660}
-      \strng{bibnamehash}{45d49562ba85cd277e589a8dc88f3660}
-      \strng{authorbibnamehash}{45d49562ba85cd277e589a8dc88f3660}
-      \strng{authornamehash}{d7aabfba48a58e2d5183efdf8fe44594}
-=======
       \strng{namehash}{45d49562ba85cd277e589a8dc88f3660}
       \strng{fullhash}{45d49562ba85cd277e589a8dc88f3660}
       \strng{bibnamehash}{45d49562ba85cd277e589a8dc88f3660}
       \strng{authorbibnamehash}{45d49562ba85cd277e589a8dc88f3660}
       \strng{authornamehash}{45d49562ba85cd277e589a8dc88f3660}
->>>>>>> edited-volumes
       \strng{authorfullhash}{45d49562ba85cd277e589a8dc88f3660}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -4048,19 +3999,11 @@
            giveni={M\bibinitperiod},
            givenun=0}}%
       }
-<<<<<<< HEAD
-      \strng{namehash}{14cf735db2d7fcc1cb14601cf19274b8}
-      \strng{fullhash}{5fe66e775110771843844749d8a3c9b2}
-      \strng{bibnamehash}{5fe66e775110771843844749d8a3c9b2}
-      \strng{authorbibnamehash}{5fe66e775110771843844749d8a3c9b2}
-      \strng{authornamehash}{14cf735db2d7fcc1cb14601cf19274b8}
-=======
       \strng{namehash}{5fe66e775110771843844749d8a3c9b2}
       \strng{fullhash}{5fe66e775110771843844749d8a3c9b2}
       \strng{bibnamehash}{5fe66e775110771843844749d8a3c9b2}
       \strng{authorbibnamehash}{5fe66e775110771843844749d8a3c9b2}
       \strng{authornamehash}{5fe66e775110771843844749d8a3c9b2}
->>>>>>> edited-volumes
       \strng{authorfullhash}{5fe66e775110771843844749d8a3c9b2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}

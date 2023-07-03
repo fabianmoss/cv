@@ -1,61 +1,4 @@
-<<<<<<< HEAD
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.6.22)  27 JUN 2023 16:24
- restricted system commands enabled.
-**cv
-(./cv.tex
-LaTeX2e <2021-11-15> patch level 1
-Lua module: luaotfload 2021-05-21 3.18 Lua based OpenType font support
-Lua module: lualibs 2021-05-20 2.74 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2021-05-20 2.74 ConTeXt Lua libraries -- extended c
-ollection.
-luaotfload | conf : Root cache directory is "/home/fmoss/.texlive2021/texmf-var/
-luatex-cache/generic/names".
-luaotfload | init : Loading fontloader "fontloader-2021-05-20.lua" from kpse-res
-olved path "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader-2021-
-05-20.lua".
-Lua-only attribute luaotfload@noligature = 1
-Lua-only attribute luaotfload@syllabe = 2
-luaotfload | init : Context OpenType loader version 3.116
-Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
-Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
-Inserting `luaotfload.glyph_stream' at position 1 in `glyph_stream_provider'.
-Inserting `luaotfload.define_font' at position 1 in `define_font'.
-Lua-only attribute luaotfload_color_attribute = 3
-luaotfload | conf : Root cache directory is "/home/fmoss/.texlive2021/texmf-var/
-luatex-cache/generic/names".
-Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
-Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
-Inserting `luaotfload.harf.finalize_vlist' at position 1 in `post_linebreak_filt
-er'.
-Inserting `luaotfload.harf.finalize_hlist' at position 2 in `hpack_filter'.
-Inserting `luaotfload.cleanup_files' at position 1 in `wrapup_run'.
-Inserting `luaotfload.harf.finalize_unicode' at position 1 in `finish_pdffile'.
-Inserting `luaotfload.glyphinfo' at position 1 in `glyph_info'.
-Lua-only attribute luaotfload.letterspace_done = 4
-Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
-font'.
-Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
-t'.
-Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch
-_font'.
-Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
-t_unsafe'.
-Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
-'.
-Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
-Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
-. L3 programming layer <2022-01-21>
-Inserting `tracingstacklevels' at position 1 in `input_level_string'. (./modern
-cv.cls
-Document Class: moderncv 2012/10/31 v1.2.0 modern curriculum vitae and letter d
-ocument class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from /home/fmoss/.texlive2021/texmf
--var/luatex-cache/generic/names/luaotfload-names.luc)
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-=======
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2023.6.19)  3 JUL 2023 15:37
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2023.6.19)  3 JUL 2023 15:49
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/GitHub/fabianmoss/cv/cv
@@ -96,37 +39,16 @@ Document Class: moderncv 2012/10/31 v1.2.0 modern curriculum vitae and letter do
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 luaotfload | db : Font names database loaded from /home/fmoss/.texlive2022/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
->>>>>>> edited-volumes
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count183
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: luatex.def on input line 227.
-<<<<<<< HEAD
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def
-File: luatex.def 2021/06/01 v1.2c Graphics/color driver for luatex
-)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
-Package xcolor Info: Model `RGB' extended on input line 1368.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-=======
  (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def
 File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
 ) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
@@ -140,16 +62,12 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
->>>>>>> edited-volumes
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
-2.
-
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
-File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-))
-(/usr/share/texmf/tex/latex/lm/lmodern.sty
-Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112.
+ (/home/fmoss/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)) (/home/fmoss/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
@@ -182,48 +100,23 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: luatex.def on input line 107.
 )
-<<<<<<< HEAD
-\Gin@req@height=\dimen137
-\Gin@req@width=\dimen138
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
-rs
-\f@nch@headwidth=\skip47
-\f@nch@O@elh=\skip48
-\f@nch@O@erh=\skip49
-\f@nch@O@olh=\skip50
-\f@nch@O@orh=\skip51
-\f@nch@O@elf=\skip52
-\f@nch@O@erf=\skip53
-\f@nch@O@olf=\skip54
-\f@nch@O@orf=\skip55
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-=======
 \Gin@req@height=\dimen139
 \Gin@req@width=\dimen140
 ) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
@@ -238,7 +131,6 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip55
 \f@nch@O@orf=\skip56
 ) (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
->>>>>>> edited-volumes
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count184
 \calc@Bcount=\count185
@@ -249,21 +141,12 @@ Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count186
-<<<<<<< HEAD
-\calc@Cskip=\skip58
-)
-(/usr/share/texlive/texmf-dist/tex/latex/xargs/xargs.sty
-=======
 \calc@Cskip=\skip59
 ) (/usr/share/texlive/texmf-dist/tex/latex/xargs/xargs.sty
->>>>>>> edited-volumes
 Package: xargs 2008/03/22 v1.1  extended macro definitions  (mpg)
-
-(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
-
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+ (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks17
 \XKV@tempa@toks=\toks18
 )
@@ -273,101 +156,43 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 \xargs@max=\count188
 \xargs@toksa=\toks19
 \xargs@toksb=\toks20
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2021/12/10 v3.0b Micro-typographical refinements (RS)
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2022/06/23 v3.0f Micro-typographical refinements (RS)
 \MT@toks=\toks21
+\MT@tempbox=\box51
 \MT@count=\count189
-<<<<<<< HEAD
-\MT@tempbox=\box50
-LaTeX Info: Redefining \leftprotrusion on input line 1010.
-LaTeX Info: Redefining \rightprotrusion on input line 1018.
-LaTeX Info: Redefining \textls on input line 1173.
-\MT@outer@kern=\dimen141
-LaTeX Info: Redefining \textmicrotypecontext on input line 1759.
-=======
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1045.
 LaTeX Info: Redefining \leftprotrusion on input line 1046.
 LaTeX Info: Redefining \rightprotrusion on input line 1056.
 LaTeX Info: Redefining \textls on input line 1234.
 \MT@outer@kern=\dimen143
 LaTeX Info: Redefining \textmicrotypecontext on input line 1858.
->>>>>>> edited-volumes
 \MT@listname@count=\count190
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-luatex.def
-File: microtype-luatex.def 2021/12/10 v3.0b Definitions specific to luatex (RS)
-
-Lua module: microtype 2021/12/10 3.0b microtype module.
+ (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-luatex.def
+File: microtype-luatex.def 2022/06/23 v3.0f Definitions specific to luatex (RS)
+Lua module: microtype 2022/06/23 3.0f microtype module.
 Module microtype Info: overwriting function `keepligature' on input line 63
-<<<<<<< HEAD
-LaTeX Info: Redefining \lsstyle on input line 685.
-LaTeX Info: Redefining \lslig on input line 685.
-\MT@outer@space=\skip59
-=======
 LaTeX Info: Redefining \lsstyle on input line 686.
 LaTeX Info: Redefining \lslig on input line 686.
 \MT@outer@space=\skip60
->>>>>>> edited-volumes
 )
 Package microtype Info: Loading configuration file microtype.cfg.
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
-))
-(./moderncvcompatibility.sty
-Package: moderncvcompatibility 2012/10/31 v1.2.0 modern curriculum vitae and le
-tter compatibility patches
-)
-(/usr/share/texlive/texmf-dist/tex/latex/bigfoot/suffix.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2022/06/23 v3.0f microtype main configuration file (RS)
+)) (./moderncvcompatibility.sty
+Package: moderncvcompatibility 2012/10/31 v1.2.0 modern curriculum vitae and letter compatibility patches
+) (/usr/share/texlive/texmf-dist/tex/latex/bigfoot/suffix.sty
 Package: suffix 2006/07/15 1.5a Variant command support
 )
 \bibindent=\skip61
  (./tweaklist.sty)) (./moderncvstylebanking.sty
-Package: moderncvstylebanking 2012/10/31 v1.2.0 modern curriculum vitae and let
-ter style scheme: banking
- (/usr/share/texmf/tex/latex/tex-gyre/tgpagella.sty
+Package: moderncvstylebanking 2012/10/31 v1.2.0 modern curriculum vitae and letter style scheme: banking
+ (/home/fmoss/texmf/tex/latex/tex-gyre/tgpagella.sty
 Package: tgpagella 2009/09/27 v1.2 TeX Gyre Pagella as default roman family
-(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-<<<<<<< HEAD
-)
-(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)))
-\maketitlebox=\box51
-\maketitletempbox=\box52
-\maketitlewidth=\skip61
-\maketitleboxwidth=\skip62
-\quotewidth=\skip63
-\hintscolumnwidth=\skip64
-\separatorcolumnwidth=\skip65
-\maincolumnwidth=\skip66
-\doubleitemcolumnwidth=\skip67
-\listitemsymbolwidth=\skip68
-LaTeX Font Info:    Trying to load font information for U+mvs on input line 139
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/marvosym/umvs.fd)
-\listitemmaincolumnwidth=\skip69
-\listdoubleitemmaincolumnwidth=\skip70
-\cvitemwithcommentmainbox=\box53
-\cvitemwithcommentmainlength=\skip71
-\cvitemwithcommentcommentlength=\skip72
-)
-(./moderncvcolorblue.sty
-Package: moderncvcolorblue 2012/10/31 v1.2.0 modern curriculum vitae and letter
- color scheme: blue
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
-\c@tracingmulticols=\count191
-\mult@box=\box54
-\multicol@leftmargin=\dimen142
-=======
 ) (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )))
@@ -395,28 +220,11 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \c@tracingmulticols=\count191
 \mult@box=\box55
 \multicol@leftmargin=\dimen144
->>>>>>> edited-volumes
 \c@unbalance=\count192
 \c@collectmore=\count193
 \doublecol@number=\count194
 \multicoltolerance=\count195
 \multicolpretolerance=\count196
-<<<<<<< HEAD
-\full@width=\dimen143
-\page@free=\dimen144
-\premulticols=\dimen145
-\postmulticols=\dimen146
-\multicolsep=\skip73
-\multicolbaselineskip=\skip74
-\partial@page=\box55
-\last@line=\box56
-\maxbalancingoverflow=\dimen147
-\mult@rightbox=\box57
-\mult@grightbox=\box58
-\mult@firstbox=\box59
-\mult@gfirstbox=\box60
-\@tempa=\box61
-=======
 \full@width=\dimen145
 \page@free=\dimen146
 \premulticols=\dimen147
@@ -430,7 +238,6 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \mult@grightbox=\box59
 \mult@firstbox=\box60
 \mult@gfirstbox=\box61
->>>>>>> edited-volumes
 \@tempa=\box62
 \@tempa=\box63
 \@tempa=\box64
@@ -466,25 +273,10 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \@tempa=\box94
 \@tempa=\box95
 \@tempa=\box96
+\@tempa=\box97
 \c@minrows=\count197
 \c@columnbadness=\count198
 \c@finalcolumnbadness=\count199
-<<<<<<< HEAD
-\last@try=\dimen148
-\multicolovershoot=\dimen149
-\multicolundershoot=\dimen150
-\mult@nat@firstbox=\box97
-\colbreak@box=\box98
-\mc@col@check@num=\count266
-)
-(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-01-21 L3 programming layer (loader) 
-
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2022-01-12 L3 backend support: PDF output (LuaTeX)
-=======
 \last@try=\dimen150
 \multicolovershoot=\dimen151
 \multicolundershoot=\dimen152
@@ -495,30 +287,21 @@ File: l3backend-luatex.def 2022-01-12 L3 backend support: PDF output (LuaTeX)
 Package: expl3 2023-01-16 L3 programming layer (loader) 
  (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
 File: l3backend-luatex.def 2023-01-16 L3 backend support: PDF output (LuaTeX)
->>>>>>> edited-volumes
 \l__color_backend_stack_int=\count267
-\l__pdf_internal_box=\box99
+\l__pdf_internal_box=\box100
 ))
-<<<<<<< HEAD
-Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
-=======
 Package: l3keys2e 2023-01-16 LaTeX2e option processing using LaTeX3 keys
->>>>>>> edited-volumes
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count268
 \l__lipsum_a_int=\count269
 \l__lipsum_b_int=\count270
-
-(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count271
 \Gm@cntv=\count272
@@ -532,23 +315,8 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layouthoffset=\dimen159
 \Gm@layoutvoffset=\dimen160
 \Gm@dimlist=\toks22
-)
-(/usr/share/texlive/texmf-dist/tex/latex/hanging/hanging.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/hanging/hanging.sty
 Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
-<<<<<<< HEAD
-\h@ngcommawd=\skip75
-\h@ngfstopwd=\skip76
-\h@ngquotewd=\skip77
-\h@ngdquotewd=\skip78
-\h@ngquerywd=\skip79
-\h@ngexclwd=\skip80
-\h@ngcolonwd=\skip81
-\h@ngscolonwd=\skip82
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2021/10/15 v2.17l AMS math features
-\@mathmargin=\skip83
-=======
 \h@ngcommawd=\skip76
 \h@ngfstopwd=\skip77
 \h@ngquotewd=\skip78
@@ -560,48 +328,31 @@ Package: amsmath 2021/10/15 v2.17l AMS math features
 ) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
 \@mathmargin=\skip84
->>>>>>> edited-volumes
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks23
-<<<<<<< HEAD
-\ex@=\dimen159
-))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen160
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 2021/08/26 v2.02 operator names
-=======
 \ex@=\dimen161
 )) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen162
 ) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
->>>>>>> edited-volumes
 )
 \inf@bad=\count274
 LaTeX Info: Redefining \frac on input line 236.
 \uproot@=\count275
 \leftroot@=\count276
 LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
 \classnum@=\count277
 \DOTSCASE@=\count278
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-<<<<<<< HEAD
-\Mathstrutbox@=\box100
-\strutbox@=\box101
-\big@size=\dimen161
-=======
 \Mathstrutbox@=\box101
 \strutbox@=\box102
 LaTeX Info: Redefining \big on input line 722.
@@ -609,10 +360,14 @@ LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
 \big@size=\dimen163
->>>>>>> edited-volumes
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \macc@depth=\count279
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
 \c@MaxMatrixCols=\count280
 \dotsspace@=\muskip17
 \c@parentequation=\count281
@@ -632,50 +387,27 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \multlinegap=\skip85
 \multlinetaggap=\skip86
 \mathdisplay@stack=\toks27
-LaTeX Info: Redefining \[ on input line 2938.
-LaTeX Info: Redefining \] on input line 2939.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+qpl on input line 11
-2.
-
-(/usr/share/texmf/tex/latex/tex-gyre/t1qpl.fd
+LaTeX Font Info:    Trying to load font information for T1+qpl on input line 112.
+ (/home/fmoss/texmf/tex/latex/tex-gyre/t1qpl.fd
 File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
-<<<<<<< HEAD
-))
-(/usr/share/texlive/texmf-dist/tex/latex/alegreya/AlegreyaSans.sty
-Package: AlegreyaSans 2019/10/12 (Bob Tennent) Supports AlegreyaSans fonts for 
-all LaTeX engines. 
-
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
-=======
 )) (/usr/share/texlive/texmf-dist/tex/latex/alegreya/AlegreyaSans.sty
 Package: AlegreyaSans 2022/09/14 (Bob Tennent) Supports AlegreyaSans fonts for all LaTeX engines. 
  (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
->>>>>>> edited-volumes
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-<<<<<<< HEAD
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2022-01-12 L3 Experimental document command parser
-=======
 ) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2023-01-16 L3 Experimental document command parser
->>>>>>> edited-volumes
 )
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
-Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
-eX
+Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_script_int=\count286
 \l__fontspec_language_int=\count287
 \l__fontspec_strnum_int=\count288
@@ -687,23 +419,12 @@ eX
 \l__fontspec_emdef_int=\count294
 \l__fontspec_strong_int=\count295
 \l__fontspec_strongdef_int=\count296
-<<<<<<< HEAD
-\l__fontspec_tmpa_dim=\dimen168
-\l__fontspec_tmpb_dim=\dimen169
-\l__fontspec_tmpc_dim=\dimen170
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-=======
 \l__fontspec_tmpa_dim=\dimen170
 \l__fontspec_tmpb_dim=\dimen171
 \l__fontspec_tmpc_dim=\dimen172
  (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
->>>>>>> edited-volumes
 
 Package fontspec Info: Font family 'AlegreyaSans(0)' created for font
 (fontspec)             'AlegreyaSans' with options [Ligatures = TeX,Extension
@@ -716,31 +437,6 @@ Package fontspec Info: Font family 'AlegreyaSans(0)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-<<<<<<< HEAD
-(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+pnum;+lnum;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+pnum;+lnum;+smcp;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+pnum;+lnum;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+pnum;+lnum;+smcp;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn
-;language=dflt;+tlig;+pnum;+lnum;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn
-;language=dflt;+tlig;+pnum;+lnum;+smcp;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=
-latn;language=dflt;+tlig;+pnum;+lnum;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=
-latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
-=======
 (fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
 (fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
@@ -756,7 +452,6 @@ latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 (fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
 (fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
->>>>>>> edited-volumes
 
 
 Package fontspec Info: Font family 'AlegreyaSans(1)' created for font
@@ -770,31 +465,6 @@ Package fontspec Info: Font family 'AlegreyaSans(1)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-<<<<<<< HEAD
-(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+pnum;+lnum;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+pnum;+lnum;+smcp;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+pnum;+lnum;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+pnum;+lnum;+smcp;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn
-;language=dflt;+tlig;+pnum;+lnum;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn
-;language=dflt;+tlig;+pnum;+lnum;+smcp;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=
-latn;language=dflt;+tlig;+pnum;+lnum;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=
-latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
-=======
 (fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
 (fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
@@ -810,7 +480,6 @@ latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 (fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
 (fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
->>>>>>> edited-volumes
 
 
 Package fontspec Info: Font family 'AlegreyaSans(2)' created for font
@@ -824,29 +493,21 @@ Package fontspec Info: Font family 'AlegreyaSans(2)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+pnum;+onum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn
-;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn
-;language=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=
-latn;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=
-latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
 
 
 Package fontspec Info: Font family 'AlegreyaSans(3)' created for font
@@ -860,29 +521,21 @@ Package fontspec Info: Font family 'AlegreyaSans(3)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+tnum;+onum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;+smcp;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+tnum;+onum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+tnum;+onum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;+smcp;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn
-;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn
-;language=dflt;+tlig;+tnum;+onum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;+smcp;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=
-latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=
-latn;language=dflt;+tlig;+tnum;+onum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;+smcp;"
 
 
 Package fontspec Info: Font family 'AlegreyaSans(4)' created for font
@@ -896,29 +549,21 @@ Package fontspec Info: Font family 'AlegreyaSans(4)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+pnum;+onum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn
-;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn
-;language=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=
-latn;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=
-latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
 
 
 Package fontspec Info: Font family 'AlegreyaSans(5)' created for font
@@ -932,29 +577,21 @@ Package fontspec Info: Font family 'AlegreyaSans(5)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Regular.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn
-;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn
-;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Italic.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=
-latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=
-latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
 
 
 Package fontspec Info: Font family 'AlegreyaSans(6)' created for font
@@ -968,29 +605,21 @@ Package fontspec Info: Font family 'AlegreyaSans(6)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Black.otf]:mode=node;script=latn;
-language=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Black.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Black.otf]:mode=node;script=latn;
-language=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Black.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Black.otf]:mode=node;script=latn;
-language=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Black.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Black.otf]:mode=node;script=latn;
-language=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Black.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BlackItalic.otf]:mode=node;script
-=latn;language=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-BlackItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BlackItalic.otf]:mode=node;script
-=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-BlackItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BlackItalic.otf]:mode=node;script
-=latn;language=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-BlackItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-BlackItalic.otf]:mode=node;script
-=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-BlackItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 
 
 Package fontspec Info: Font family 'AlegreyaSans(7)' created for font
@@ -1004,29 +633,21 @@ Package fontspec Info: Font family 'AlegreyaSans(7)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-ExtraBold.otf]:mode=node;script=l
-atn;language=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-ExtraBold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-ExtraBold.otf]:mode=node;script=l
-atn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-ExtraBold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-ExtraBold.otf]:mode=node;script=l
-atn;language=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-ExtraBold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-ExtraBold.otf]:mode=node;script=l
-atn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-ExtraBold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-ExtraBoldItalic.otf]:mode=node;sc
-ript=latn;language=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-ExtraBoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-ExtraBoldItalic.otf]:mode=node;sc
-ript=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-ExtraBoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-ExtraBoldItalic.otf]:mode=node;sc
-ript=latn;language=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-ExtraBoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-ExtraBoldItalic.otf]:mode=node;sc
-ript=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-ExtraBoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 
 
 Package fontspec Info: Font family 'AlegreyaSans(8)' created for font
@@ -1040,29 +661,21 @@ Package fontspec Info: Font family 'AlegreyaSans(8)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Thin.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Thin.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Thin.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Thin.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Thin.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Thin.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Thin.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Thin.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-ThinItalic.otf]:mode=node;script=
-latn;language=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-ThinItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-ThinItalic.otf]:mode=node;script=
-latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-ThinItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-ThinItalic.otf]:mode=node;script=
-latn;language=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-ThinItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-ThinItalic.otf]:mode=node;script=
-latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-ThinItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 
 
 Package fontspec Info: Font family 'AlegreyaSans(9)' created for font
@@ -1076,29 +689,21 @@ Package fontspec Info: Font family 'AlegreyaSans(9)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Light.otf]:mode=node;script=latn;
-language=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Light.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Light.otf]:mode=node;script=latn;
-language=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Light.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Light.otf]:mode=node;script=latn;
-language=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Light.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Light.otf]:mode=node;script=latn;
-language=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Light.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-LightItalic.otf]:mode=node;script
-=latn;language=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-LightItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-LightItalic.otf]:mode=node;script
-=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-LightItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-LightItalic.otf]:mode=node;script
-=latn;language=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-LightItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-LightItalic.otf]:mode=node;script
-=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-LightItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 
 
 Package fontspec Info: Font family 'AlegreyaSans(10)' created for font
@@ -1112,51 +717,37 @@ Package fontspec Info: Font family 'AlegreyaSans(10)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Medium.otf]:mode=node;script=latn
-;language=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Medium.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Medium.otf]:mode=node;script=latn
-;language=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Medium.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Medium.otf]:mode=node;script=latn
-;language=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Medium.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-Medium.otf]:mode=node;script=latn
-;language=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-Medium.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-MediumItalic.otf]:mode=node;scrip
-t=latn;language=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-MediumItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-MediumItalic.otf]:mode=node;scrip
-t=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-MediumItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-MediumItalic.otf]:mode=node;scrip
-t=latn;language=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             <->s*[1]"[AlegreyaSans-MediumItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[AlegreyaSans-MediumItalic.otf]:mode=node;scrip
-t=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[AlegreyaSans-MediumItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 
-)
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
+ (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 \pdftexcmds@toks=\toks28
-)
-(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count297
-
-(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+ (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
 \c@tabx@nest=\count298
@@ -1194,23 +785,10 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \blx@tempcntb=\count330
 \blx@tempcntc=\count331
 \c@blx@maxsection=\count332
-\c@blx@maxsegment@0=\count333
+\blx@maxsegment@0=\count333
 \blx@notetype=\count334
 \blx@parenlevel@text=\count335
 \blx@parenlevel@foot=\count336
-<<<<<<< HEAD
-\c@blx@sectionciteorder@0=\count337
-\blx@entrysetcounter=\count338
-\blx@biblioinstance=\count339
-\labelnumberwidth=\skip86
-\labelalphawidth=\skip87
-\biblabelsep=\skip88
-\bibitemsep=\skip89
-\bibnamesep=\skip90
-\bibinitsep=\skip91
-\bibparsep=\skip92
-\bibhang=\skip93
-=======
 \blx@sectionciteorder@0=\count337
 \blx@sectionciteorderinternal@0=\count338
 \blx@entrysetcounter=\count339
@@ -1223,121 +801,24 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \bibinitsep=\skip92
 \bibparsep=\skip93
 \bibhang=\skip94
->>>>>>> edited-volumes
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language2
-\c@mincomprange=\count340
-\c@maxcomprange=\count341
-\c@mincompwidth=\count342
+\c@mincomprange=\count341
+\c@maxcomprange=\count342
+\c@mincompwidth=\count343
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
-File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'apa.dbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.dbx
-File: apa.dbx 2021/12/24 v9.15 APA biblatex style data model
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.dbx
+File: apa.dbx 2022/06/22 v9.16 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-<<<<<<< HEAD
-\c@afterword=\count343
-\c@savedafterword=\count344
-\c@annotator=\count345
-\c@savedannotator=\count346
-\c@author=\count347
-\c@savedauthor=\count348
-\c@bookauthor=\count349
-\c@savedbookauthor=\count350
-\c@commentator=\count351
-\c@savedcommentator=\count352
-\c@editor=\count353
-\c@savededitor=\count354
-\c@editora=\count355
-\c@savededitora=\count356
-\c@editorb=\count357
-\c@savededitorb=\count358
-\c@editorc=\count359
-\c@savededitorc=\count360
-\c@foreword=\count361
-\c@savedforeword=\count362
-\c@holder=\count363
-\c@savedholder=\count364
-\c@introduction=\count365
-\c@savedintroduction=\count366
-\c@namea=\count367
-\c@savednamea=\count368
-\c@nameb=\count369
-\c@savednameb=\count370
-\c@namec=\count371
-\c@savednamec=\count372
-\c@translator=\count373
-\c@savedtranslator=\count374
-\c@shortauthor=\count375
-\c@savedshortauthor=\count376
-\c@shorteditor=\count377
-\c@savedshorteditor=\count378
-\c@narrator=\count379
-\c@savednarrator=\count380
-\c@execproducer=\count381
-\c@savedexecproducer=\count382
-\c@execdirector=\count383
-\c@savedexecdirector=\count384
-\c@with=\count385
-\c@savedwith=\count386
-\c@labelname=\count387
-\c@savedlabelname=\count388
-\c@institution=\count389
-\c@savedinstitution=\count390
-\c@lista=\count391
-\c@savedlista=\count392
-\c@listb=\count393
-\c@savedlistb=\count394
-\c@listc=\count395
-\c@savedlistc=\count396
-\c@listd=\count397
-\c@savedlistd=\count398
-\c@liste=\count399
-\c@savedliste=\count400
-\c@listf=\count401
-\c@savedlistf=\count402
-\c@location=\count403
-\c@savedlocation=\count404
-\c@organization=\count405
-\c@savedorganization=\count406
-\c@origlocation=\count407
-\c@savedoriglocation=\count408
-\c@origpublisher=\count409
-\c@savedorigpublisher=\count410
-\c@publisher=\count411
-\c@savedpublisher=\count412
-\c@language=\count413
-\c@savedlanguage=\count414
-\c@origlanguage=\count415
-\c@savedoriglanguage=\count416
-\c@citation=\count417
-\c@savedcitation=\count418
-\c@pageref=\count419
-\c@savedpageref=\count420
-\shorthandwidth=\skip94
-\shortjournalwidth=\skip95
-\shortserieswidth=\skip96
-\shorttitlewidth=\skip97
-\shortauthorwidth=\skip98
-\shorteditorwidth=\skip99
-\locallabelnumberwidth=\skip100
-\locallabelalphawidth=\skip101
-\localshorthandwidth=\skip102
-\localshortjournalwidth=\skip103
-\localshortserieswidth=\skip104
-\localshorttitlewidth=\skip105
-\localshortauthorwidth=\skip106
-\localshorteditorwidth=\skip107
-=======
 \c@afterword=\count344
 \c@savedafterword=\count345
 \c@annotator=\count346
@@ -1430,73 +911,54 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorttitlewidth=\skip106
 \localshortauthorwidth=\skip107
 \localshorteditorwidth=\skip108
->>>>>>> edited-volumes
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-unicode.def)
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
-File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
-\c@textcitecount=\count421
-\c@textcitetotal=\count422
-\c@textcitemaxnames=\count423
-\c@biburlbigbreakpenalty=\count424
-\c@biburlbreakpenalty=\count425
-\c@biburlnumpenalty=\count426
-\c@biburlucpenalty=\count427
-\c@biburllcpenalty=\count428
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+\c@textcitecount=\count422
+\c@textcitetotal=\count423
+\c@textcitemaxnames=\count424
+\c@biburlbigbreakpenalty=\count425
+\c@biburlbreakpenalty=\count426
+\c@biburlnumpenalty=\count427
+\c@biburlucpenalty=\count428
+\c@biburllcpenalty=\count429
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count429
+\c@smartand=\count430
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.bbx
-File: apa.bbx 2021/12/24 v9.15 APA biblatex references style
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.bbx
+File: apa.bbx 2022/06/22 v9.16 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count430
-\c@bbx:relatedtotal=\count431
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count431
+\c@bbx:relatedtotal=\count432
 )
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defin
-ed, overwriting.
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already d
-efined, overwriting.
-
-
-Package biblatex Warning: The starred command '\DeclareDelimAlias*' is
-(biblatex)                deprecated.
-(biblatex)                Use the unstarred version '\DeclareDelimAlias'
-(biblatex)                instead.
-
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already def
-ined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already
- defined, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defined, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already defined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already defined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already defined, overwriting.
 )
 Package biblatex Info: Trying to load citation style 'apa'...
 Package biblatex Info: ... file 'apa.cbx' found.
  (/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.cbx
-File: apa.cbx 2021/12/24 v9.15 APA biblatex citation style
-Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
- overwriting.
-Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined
-, overwriting.
+File: apa.cbx 2022/06/22 v9.16 APA biblatex citation style
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined, overwriting.
 Package biblatex Info: Redefining '\fullcite'.
 Package biblatex Info: Redefining '\citeauthor'.
 Package biblatex Info: Redefining '\citeyear'.
@@ -1515,27 +977,13 @@ Package biblatex Info: Redefining '\textcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
-<<<<<<< HEAD
-(biblatex)             2022-01-21 L3 programming layer (loader) 
-(biblatex)             is new enough (at least 2020/04/06),
-(biblatex)             setting 'casechanger=expl3'.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
-Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
-))
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
-
-(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
-=======
 (biblatex)             2023-01-16 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
@@ -1544,101 +992,54 @@ Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
 )) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
  (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
->>>>>>> edited-volumes
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-<<<<<<< HEAD
-\@linkdim=\dimen171
-\Hy@linkcounter=\count432
-\Hy@pagecounter=\count433
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+\c@section@level=\count433
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
-nguages
-)
-(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
-=======
 \@linkdim=\dimen173
 \Hy@linkcounter=\count434
 \Hy@pagecounter=\count435
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
->>>>>>> edited-volumes
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-<<<<<<< HEAD
-\Hy@SavedSpaceFactor=\count434
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
-=======
 \Hy@SavedSpaceFactor=\count436
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
->>>>>>> edited-volumes
 )
-Package hyperref Info: Option `unicode' set `true' on input line 4073.
-Package hyperref Info: Hyper figures OFF on input line 4192.
-Package hyperref Info: Link nesting OFF on input line 4197.
-Package hyperref Info: Hyper index ON on input line 4200.
-Package hyperref Info: Plain pages OFF on input line 4207.
-Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Option `unicode' set `true' on input line 4045.
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-<<<<<<< HEAD
-Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count435
-LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen172
-
-(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
-=======
 Package hyperref Info: Bookmarks ON on input line 4410.
 \c@Hy@tempcnt=\count437
 LaTeX Info: Redefining \url on input line 4748.
 \XeTeXLinkMargin=\dimen174
  (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
->>>>>>> edited-volumes
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-<<<<<<< HEAD
-\Fld@menulength=\count436
-\Field@Width=\dimen173
-\Fld@charsize=\dimen174
-Package hyperref Info: Hyper figures OFF on input line 6076.
-Package hyperref Info: Link nesting OFF on input line 6081.
-Package hyperref Info: Hyper index ON on input line 6084.
-Package hyperref Info: backreferencing OFF on input line 6091.
-Package hyperref Info: Link coloring OFF on input line 6096.
-Package hyperref Info: Link coloring with OCG OFF on input line 6101.
-Package hyperref Info: PDF/A mode OFF on input line 6106.
-LaTeX Info: Redefining \ref on input line 6146.
-LaTeX Info: Redefining \pageref on input line 6150.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-=======
 \Fld@menulength=\count438
 \Field@Width=\dimen175
 \Fld@charsize=\dimen176
@@ -1650,136 +1051,67 @@ Package hyperref Info: Link coloring OFF on input line 6047.
 Package hyperref Info: Link coloring with OCG OFF on input line 6052.
 Package hyperref Info: PDF/A mode OFF on input line 6057.
  (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
->>>>>>> edited-volumes
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count437
-\c@Item=\count438
-\c@Hfootnote=\count439
+\Hy@abspage=\count439
+\c@Item=\count440
+\c@Hfootnote=\count441
 )
 Package hyperref Info: Driver (autodetected): hluatex.
-<<<<<<< HEAD
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
-File: hluatex.def 2021-06-07 v7.00m Hyperref driver for luaTeX
-
-(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
-)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
-=======
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
 File: hluatex.def 2022-11-13 v7.00u Hyperref driver for luaTeX
  (/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
->>>>>>> edited-volumes
 with kernel methods
 )
-\Fld@listcount=\count440
-\c@bookmark@seq@number=\count441
-
-(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+\Fld@listcount=\count442
+\c@bookmark@seq@number=\count443
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-86.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip109
 )
-<<<<<<< HEAD
-Package hyperref Info: Option `breaklinks' set `true' on input line 92.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 92.
-Package hyperref Info: Option `colorlinks' set `true' on input line 92.
-\@quotelevel=\count442
-\@quotereset=\count443
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 92.
-
-(./cv.aux)
-\openout1 = cv.aux
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 92.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9
-2.
-=======
-Package hyperref Info: Option `breaklinks' set `true' on input line 94.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 94.
-Package hyperref Info: Option `colorlinks' set `true' on input line 94.
+Package hyperref Info: Option `breaklinks' set `true' on input line 95.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 95.
+Package hyperref Info: Option `colorlinks' set `true' on input line 95.
 \@quotelevel=\count444
 \@quotereset=\count445
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 94.
+(Font)              scaled to size 10.0pt on input line 95.
  (./cv.aux)
 \openout1 = cv.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 94.
->>>>>>> edited-volumes
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 95.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 95.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-<<<<<<< HEAD
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count444
-\scratchdimen=\dimen175
-\scratchbox=\box102
-\nofMPsegments=\count445
-\nofMParguments=\count446
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count447
-\MPscratchDim=\dimen176
-\MPnumerator=\count448
-\makeMPintoPDFobject=\count449
-=======
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count446
@@ -1792,41 +1124,25 @@ LaTeX Font Info:    ... okay on input line 94.
 \MPscratchDim=\dimen178
 \MPnumerator=\count450
 \makeMPintoPDFobject=\count451
->>>>>>> edited-volumes
 \everyMPtoPDFconversion=\toks30
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-<<<<<<< HEAD
-LaTeX Info: Redefining \microtypecontext on input line 92.
-Package microtype Info: Applying patch `item' on input line 92.
-Package microtype Info: Applying patch `toc' on input line 92.
-Package microtype Info: Applying patch `eqnum' on input line 92.
-Package microtype Info: Applying patch `footnote' on input line 92.
-=======
-LaTeX Info: Redefining \microtypecontext on input line 94.
-Package microtype Info: Applying patch `item' on input line 94.
-Package microtype Info: Applying patch `toc' on input line 94.
-Package microtype Info: Applying patch `eqnum' on input line 94.
-Package microtype Info: Applying patch `footnote' on input line 94.
->>>>>>> edited-volumes
+LaTeX Info: Redefining \microtypecontext on input line 95.
+Package microtype Info: Applying patch `item' on input line 95.
+Package microtype Info: Applying patch `toc' on input line 95.
+Package microtype Info: Applying patch `eqnum' on input line 95.
+Package microtype Info: Applying patch `footnote' on input line 95.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-<<<<<<< HEAD
-LaTeX Info: Redefining \showhyphens on input line 92.
-=======
-LaTeX Info: Redefining \showhyphens on input line 94.
->>>>>>> edited-volumes
+LaTeX Info: Redefining \showhyphens on input line 95.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -1872,28 +1188,24 @@ Package microtype Info: Loading generic protrusion settings for font family
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
-File: english-apa.lbx 2021/12/24 v9.15 APA biblatex localisation
+File: english-apa.lbx 2022/06/22 v9.16 APA biblatex localisation
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
 Package biblatex Info: ... file 'american-apa.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/american-apa.lbx
-File: american-apa.lbx 2021/12/24 v9.15 APA biblatex localisation
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/american-apa.lbx
+File: american-apa.lbx 2022/06/22 v9.16 APA biblatex localisation
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/american.lbx
-File: american.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+File: american.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 ))))
 Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
@@ -1904,125 +1216,55 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'cv.bbl' found.
  (./cv.bbl)
-<<<<<<< HEAD
-Package biblatex Info: Reference section=0 on input line 92.
-Package biblatex Info: Reference segment=0 on input line 92.
-Package hyperref Info: Link coloring ON on input line 92.
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-
-(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count450
-)
-LaTeX Info: Redefining \ref on input line 92.
-LaTeX Info: Redefining \pageref on input line 92.
-LaTeX Info: Redefining \nameref on input line 92.
-
-(./cv.out) (./cv.out)
-=======
-Package biblatex Info: Reference section=0 on input line 94.
-Package biblatex Info: Reference segment=0 on input line 94.
-Package hyperref Info: Link coloring ON on input line 94.
+Package biblatex Info: Reference section=0 on input line 95.
+Package biblatex Info: Reference segment=0 on input line 95.
+Package hyperref Info: Link coloring ON on input line 95.
  (./cv.out) (./cv.out)
->>>>>>> edited-volumes
 \@outlinefile=\write4
 
 \openout4 = cv.out
 \pagenumberwidth=\skip110
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
-<<<<<<< HEAD
-(Font)              scaled to size 10.0pt on input line 92.
+(Font)              scaled to size 10.0pt on input line 95.
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 119.
+(Font)              scaled to size 24.88pt on input line 122.
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/n' will be
-(Font)              scaled to size 24.88pt on input line 119.
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-mvs.cfg
-=======
-(Font)              scaled to size 10.0pt on input line 94.
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 121.
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/n' will be
-(Font)              scaled to size 24.88pt on input line 121.
+(Font)              scaled to size 24.88pt on input line 122.
  (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-mvs.cfg
->>>>>>> edited-volumes
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmr' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
-<<<<<<< HEAD
-(Font)              scaled to size 14.4pt on input line 119.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-19.
-
-(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-19.
-
-(/usr/share/texmf/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-119.
-
-(/usr/share/texmf/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-119.
-
-(/usr/share/texmf/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 119.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 119.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 119.
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
-=======
-(Font)              scaled to size 14.4pt on input line 121.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 121.
+(Font)              scaled to size 14.4pt on input line 122.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 122.
  (/home/fmoss/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 121.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 122.
  (/home/fmoss/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 121.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 122.
  (/home/fmoss/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 121.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 122.
  (/home/fmoss/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 121.
+(Font)              <10> on input line 122.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 121.
+(Font)              <7> on input line 122.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 121.
+(Font)              <5> on input line 122.
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--121
->>>>>>> edited-volumes
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
 
  []
 
@@ -2068,7 +1310,7 @@ Underfull \hbox (badness 10000) detected at line 26
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{/home/fmoss/.texlive2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 47.
@@ -2124,28 +1366,13 @@ Underfull \hbox (badness 10000) detected at line 38
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
-=======
-Overfull \hbox (1.11101pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋉/[][]󰋎[][] 
- []
-
-[2]
 Underfull \hbox (badness 10000) in paragraph at lines 38--38
->>>>>>> edited-volumes
 \TU/AlegreyaSans(0)/m/n/10 Wavescapes: A vi-sual hi-er-ar-chi-cal anal-y-sis of tonal-ity
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
-\TU/AlegreyaSans(0)/m/n/10 us-ing the dis-crete Fourier trans-form. \TU/Alegrey
-aSans(0)/m/it/10 Mu-si-cae Sci-en-tiae\TU/AlegreyaSans(0)/m/n/10 ,
-=======
 Underfull \hbox (badness 10000) in paragraph at lines 38--38
 \TU/AlegreyaSans(0)/m/n/10 us-ing the dis-crete Fourier trans-form. \TU/AlegreyaSans(0)/m/it/10 Mu-si-cae Sci-en-tiae\TU/AlegreyaSans(0)/m/n/10 ,
->>>>>>> edited-volumes
  []
 
 
@@ -2172,14 +1399,6 @@ Underfull \hbox (badness 10000) detected at line 50
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-<<<<<<< HEAD
-=======
-
-Overfull \hbox (0.5132pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋊/[][]󰋎[][] 
- []
-
-[3]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 52.
@@ -2189,7 +1408,6 @@ Underfull \hbox (badness 10000) detected at line 56
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
->>>>>>> edited-volumes
 ) (./talks.tex
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
@@ -2216,19 +1434,8 @@ Underfull \hbox (badness 10000) detected at line 50
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 5231) in paragraph at lines 64--64
-\TU/AlegreyaSans(0)/m/it/10 Diskur-s-anal-yse\TU/AlegreyaSans(0)/m/n/10 . Jahres
-ta-gung der Gesellscha󰀙t für Musik-
-=======
-Overfull \hbox (1.1306pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋋/[][]󰋎[][] 
- []
-
-[4]
 Underfull \hbox (badness 5231) in paragraph at lines 64--64
 \TU/AlegreyaSans(0)/m/it/10 Diskur-s-anal-yse\TU/AlegreyaSans(0)/m/n/10 . Jahresta-gung der Gesellscha󰀙t für Musik-
->>>>>>> edited-volumes
  []
 
 [5]) (./teaching.tex
@@ -2242,6 +1449,12 @@ Underfull \hbox (badness 10000) detected at line 2
  []
 
 
+Overfull \hbox (0.9052pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋍/[][]󰋎[][] 
+ []
+
+[6]
+
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 17.
 
@@ -2250,12 +1463,6 @@ Underfull \hbox (badness 10000) detected at line 17
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-
-Overfull \hbox (0.9052pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋍/[][]󰋎[][] 
- []
-
-[6]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 22.
@@ -2283,18 +1490,9 @@ Underfull \hbox (badness 10000) detected at line 30
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-<<<<<<< HEAD
 ) (./media.tex) (./skills.tex) [7] (./cv.aux)
-=======
-
-Overfull \hbox (0.9052pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋍/[][]󰋎[][] 
- []
-
-[6]) (./media.tex) (./skills.tex) [7] (./cv.aux)
->>>>>>> edited-volumes
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: A4495615528F72E2499B72B043067027;3820.
+(rerunfilecheck)             Checksum: 5C82DA153D74D151B45274B9E71131B1;3891.
 Package logreq Info: Writing requests to 'cv.run.xml'.
 
 \openout1 = cv.run.xml
@@ -2305,36 +1503,16 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
-<<<<<<< HEAD
- 25328 strings out of 477805
- 195385,1648299 words of node,token memory allocated
- 981 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 5 kern, 1 penalty, 2 margin_ke
-rn, 7 glyph, 30 attribute, 89 glue_spec, 30 attribute_list, 1 write, 20 pdf_acti
-on nodes
-   avail lists: 1:3,2:2947,3:1239,4:426,5:2887,6:112,7:16056,8:128,9:802,10:15,1
-1:1225
- 44917 multiletter control sequences out of 65536+600000
- 67 fonts using 14563727 bytes
- 71i,12n,110p,2223b,5161s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Italic.otf></usr/share/tex
-mf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/fonts/opentype/ale
-greya-sans/AlegreyaSans-Regular.otf></usr/share/fonts/opentype/alegreya-sans/Ale
-greyaSans-Bold.otf></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/ma
-rvosym.pfb>
-Output written on cv.pdf (7 pages, 95174 bytes).
-=======
  25368 strings out of 478382
- 195580,1977958 words of node,token memory allocated
+ 195583,1977958 words of node,token memory allocated
  987 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 5 kern, 1 penalty, 2 margin_kern, 7 glyph, 29 attribute, 91 glue_spec, 29 attribute_list, 1 write, 20 pdf_action nodes
-   avail lists: 1:6,2:3001,3:1227,4:425,5:2791,6:119,7:16248,8:124,9:802,10:19,11:1203
+   avail lists: 1:2,2:2895,3:1219,4:435,5:2996,6:122,7:16789,8:129,9:802,10:19,11:1353
  44434 multiletter control sequences out of 65536+600000
  67 fonts using 14563727 bytes
- 72i,13n,110p,2256b,5178s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,110p,2256b,5178s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/texmf/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (7 pages, 92961 bytes).
->>>>>>> edited-volumes
+Output written on cv.pdf (7 pages, 95910 bytes).
 
 PDF statistics: 303 PDF objects out of 1000 (max. 8388607)
  277 compressed objects within 3 object streams
