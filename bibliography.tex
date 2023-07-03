@@ -23,6 +23,7 @@
 \section{Publications}
 
 \begin{multicols}{2}
+
 \printbibliography[%
   type=thesis,
   title={Theses},
@@ -32,6 +33,7 @@
 \printbibliography[%
   type=article,
   title={Journal articles},
+  notcategory={editedbyme}, % categories defined in preamble
   heading=subbibliography%
 ]
 
@@ -42,10 +44,17 @@
   ]
 
 \printbibliography[%
+  category={editedbyme},  % categories defined in preamble
+  title={Edited volumes}, % books and 
+  heading=subbibliography
+]
+
+\printbibliography[%
   type=misc,
   title={Preprints, data sets, \& blog posts},
   heading=subbibliography%
 ]
+
 
 % \printbibliography[type=unpublished,title={Presentations}]
 
