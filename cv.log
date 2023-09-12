@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2023.6.19)  12 SEP 2023 15:36
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2023.6.19)  12 SEP 2023 18:06
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/GitHub/fabianmoss/cv/cv
@@ -1501,28 +1501,28 @@ Underfull \hbox (badness 10000) detected at line 17
 
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 22.
+(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 28.
 
 
-Underfull \hbox (badness 10000) detected at line 22
+Underfull \hbox (badness 10000) detected at line 28
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 27.
+(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 40.
 
 
-Underfull \hbox (badness 10000) detected at line 27
+Underfull \hbox (badness 10000) detected at line 40
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 30.
+(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 48.
 
 
-Underfull \hbox (badness 10000) detected at line 30
+Underfull \hbox (badness 10000) detected at line 48
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
@@ -1553,7 +1553,7 @@ Here is how much of LuaTeX's memory you used:
  67 fonts using 14563727 bytes
  72i,13n,110p,2256b,5178s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/texmf/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (8 pages, 97467 bytes).
+Output written on cv.pdf (8 pages, 98527 bytes).
 
 PDF statistics: 327 PDF objects out of 1000 (max. 8388607)
  300 compressed objects within 3 object streams
