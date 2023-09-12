@@ -25,12 +25,6 @@
 \begin{multicols}{2}
 
 \printbibliography[%
-  type=thesis,
-  title={Theses},
-  heading=subbibliography%
-]
-
-\printbibliography[%
   type=article,
   title={Journal articles},
   notcategory={editedbyme}, % categories defined in preamble
@@ -38,10 +32,18 @@
 ]
 
 \printbibliography[%
-  type={inbook},
-  title={Conference papers \& book chapters},
-  heading=subbibliography%
-  ]
+  type={inbook}, % needed to list inproceedings, but lists also everything with an editor (->APA)
+  title={Conference papers},
+  heading=subbibliography,
+  notcategory={mychapters},
+  notcategory={editedbyme}
+]
+
+\printbibliography[%
+  title={Book chapters},
+  heading=subbibliography,
+  category=mychapters
+]
 
 \printbibliography[%
   category={editedbyme},  % categories defined in preamble
@@ -50,27 +52,35 @@
 ]
 
 \printbibliography[%
+  category={reviews},  % categories defined in preamble
+  title={Book reviews}, % books and 
+  heading=subbibliography
+]
+
+\printbibliography[%
+  type=dataset,
+  title={Data sets},
+  heading=subbibliography
+]
+
+\printbibliography[%
+  type=online,
+  title={Blog posts},
+  heading=subbibliography,
+  category=blog
+]
+
+\printbibliography[%
   type=misc,
-  title={Preprints, data sets, \& blog posts},
+  title={Preprints},
+  heading=subbibliography,
+  category=preprints
+]
+
+\printbibliography[%
+  type=thesis,
+  title={Theses},
   heading=subbibliography%
 ]
 
-
-% \printbibliography[type=unpublished,title={Presentations}]
-
-% \defbibfilter{code}{
-%   type=dataset or
-%   type=software
-% }
-% \printbibliography[%
-% filter=code,
-% title={Data sets and code},
-% heading=subbibliography%
-% ]
-
-% \printbibliography[%
-% type=online,
-% title={Blog posts},
-% heading=subbibliography%
-% ]
 \end{multicols}

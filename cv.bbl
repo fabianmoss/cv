@@ -53,8 +53,9 @@
       \strng{editornamehash}{39d97fc75554ad085da87bb7b7764a24}
       \strng{editorfullhash}{39d97fc75554ad085da87bb7b7764a24}
       \field{extraname}{1}
-      \field{sortinit}{i}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
@@ -62,42 +63,50 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Hugo {{Riemann}}: {{Musikforschung}} Zwischen {{Universalität}}, {{Nationalismus}} Und Internationaler {{Ausstrahlung}}}
       \field{title}{Transatlantic Transformations: {{How Riemannian}} Is {{Neo-Riemannian}} Theory?}
-      \field{year}{in press}
+      \field{year}{2023}
       \true{nocite}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{KepperRoland_MEI_Guidelines}{book}{}
-      \name{editor}{2}{}{%
-        {{un=0,uniquepart=base,hash=74644523f15bd5b1d933f798840c989e}{%
-           family={Kepper},
-           familyi={K\bibinitperiod},
-           given={Johannes},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=865fab1cf4b5606d372e4851f6fca3f8}{%
-           family={Roland},
-           familyi={R\bibinitperiod},
-           given={Perry\bibnamedelima D},
-           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+    \entry{Moss2023_VorsichtSackgassePlaedoyer}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{7a8e9c16d22cb2266220f056633b586c}
-      \strng{fullhash}{7a8e9c16d22cb2266220f056633b586c}
-      \strng{bibnamehash}{7a8e9c16d22cb2266220f056633b586c}
-      \strng{editorbibnamehash}{7a8e9c16d22cb2266220f056633b586c}
-      \strng{editornamehash}{7a8e9c16d22cb2266220f056633b586c}
-      \strng{editorfullhash}{7a8e9c16d22cb2266220f056633b586c}
+      \list{organization}{1}{%
+        {musiconn.kontrovers - Blog des FID Musikwissenschaft}%
+      }
+      \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
-      \field{labelnamesource}{editor}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{edition}{Version 5.0.0-dev}
-      \field{title}{{The Music Encoding Initiative Guidelines}}
+      \field{langid}{ngerman}
+      \field{month}{9}
+      \field{title}{Vorsicht, Sackgasse! Ein Plädoyer für mehr Intradisziplinarität}
       \field{year}{2023}
+      \field{dateera}{ce}
       \true{nocite}
+      \verb{urlraw}
+      \verb https://kontrovers.musiconn.de/
+      \endverb
+      \verb{url}
+      \verb https://kontrovers.musiconn.de/
+      \endverb
+      \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
     \entry{Seipelt2023_AnalysisMarkupHarmonies}{inbook}{}
       \name{editor}{2}{}{%
@@ -114,26 +123,40 @@
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
+      \name{editorb}{2}{}{%
+        {{hash=74644523f15bd5b1d933f798840c989e}{%
+           family={Kepper},
+           familyi={K\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=865fab1cf4b5606d372e4851f6fca3f8}{%
+           family={Roland},
+           familyi={R\bibinitperiod},
+           given={Perry\bibnamedelima D},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
       \strng{namehash}{129378d375b4b25e622cfee5e02755f9}
       \strng{fullhash}{129378d375b4b25e622cfee5e02755f9}
       \strng{bibnamehash}{129378d375b4b25e622cfee5e02755f9}
       \strng{editorbibnamehash}{129378d375b4b25e622cfee5e02755f9}
       \strng{editornamehash}{129378d375b4b25e622cfee5e02755f9}
       \strng{editorfullhash}{129378d375b4b25e622cfee5e02755f9}
+      \strng{editorbbibnamehash}{7a8e9c16d22cb2266220f056633b586c}
+      \strng{editorbnamehash}{7a8e9c16d22cb2266220f056633b586c}
+      \strng{editorbfullhash}{7a8e9c16d22cb2266220f056633b586c}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{booktitle}{{The Music Encoding Initiative Guidelines}}
-      \field{chapter}{10}
-      \strng{crossref}{KepperRoland_MEI_Guidelines}
-      \field{edition}{Version 5.0.0-dev}
+      \field{booktitle}{The {{Music Encoding Initiative Guidelines}}}
+      \field{edition}{Version 5.0}
       \field{langid}{english}
       \field{title}{Analysis {{Markup}} and {{Harmonies}}}
       \field{year}{2023}
+      \field{dateera}{ce}
       \true{nocite}
       \field{pages}{299\bibrangedash 324}
       \range{pages}{26}
@@ -455,64 +478,6 @@
       \keyw{discrete Fourier transform,music visualization,scientific discovery,web application}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2022_19MTOMRDatasetMultimodal}{misc}{}
-      \name{author}{4}{ul=2}{%
-        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
-           family={Moss},
-           familyi={M\bibinitperiod},
-           given={Fabian\bibnamedelima C.},
-           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e11dabf3aef04075c989e936cd40da4b}{%
-           family={Nápoles\bibnamedelima López},
-           familyi={N\bibinitperiod\bibinitdelim L\bibinitperiod},
-           given={Néstor},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=309da3fec8ccbf6a41dc1704bb8097fc}{%
-           family={Köster},
-           familyi={K\bibinitperiod},
-           given={Maik},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d702889b35953ac1b2c6943d616bcd90}{%
-           family={Rizo},
-           familyi={R\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {OSF}%
-      }
-      \strng{namehash}{84b9812fe3485005a25078d738b227f5}
-      \strng{fullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
-      \strng{bibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
-      \strng{authorbibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
-      \strng{authornamehash}{84b9812fe3485005a25078d738b227f5}
-      \strng{authorfullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{A dataset of 19th-century music theory textbooks with music examples, useful for training OMR models. - 19theory-a: complete transcriptions of all sources of the Dualism project - 19theory-b: only pages containing music examples - 19theory-c: only the music examples For more info about the Dualism project, see: [ANONYMIZED FOR PEER REVIEW] Hosted on the Open Science Framework}
-      \field{langid}{english}
-      \field{month}{9}
-      \field{shorttitle}{{{19MT-OMR}}}
-      \field{title}{{{19MT-OMR}}: A Dataset for Multimodal {{Optical Music Recognition}}}
-      \field{type}{Data {{Report}}}
-      \field{year}{2022}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.17605/osf.io/QM9Z5
-      \endverb
-      \annotation{item}{author}{default}{1}{}{0}{me}
-    \endentry
     \entry{Moss2022_ChallengingSourcesNew}{inbook}{}
       \name{author}{4}{ul=2}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
@@ -569,10 +534,8 @@
       \strng{editorbibnamehash}{22cf6a0ee1b046f7b16c53e42ced291f}
       \strng{editornamehash}{63bb7d1196c8a553ea26318d3b598cd9}
       \strng{editorfullhash}{22cf6a0ee1b046f7b16c53e42ced291f}
-      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
@@ -580,12 +543,15 @@
       \field{labeltitlesource}{title}
       \field{abstract}{A major limitation of current Optical Music Recognition (OMR) systems is that their performance strongly depends on the variability in the input images. What for human readers seems almost trivial---e.g., reading music in a range of different font types in different contexts---can drastically reduce the output quality of OMR models. This paper introduces the 19MT-OMR corpus that can be used to test OMR models on a diverse set of sources. We illustrate this challenge by discussing several examples from this data set.}
       \field{booktitle}{Proceedings of the 4th {{International Workshop}} on {{Reading Music Systems}} ({{WoRMS}} 2022)}
-      \field{month}{11}
+      \field{eprinttype}{arxiv}
       \field{title}{Challenging Sources: A New Dataset for {{OMR}} of Diverse 19th-Century Music Theory Examples}
       \field{year}{2022}
       \true{nocite}
       \field{pages}{4\bibrangedash 8}
       \range{pages}{5}
+      \verb{eprint}
+      \verb 2211.13285
+      \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/B9DFIZPN/Mossetal_Worms2022.pdf
       \endverb
@@ -628,26 +594,36 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this study, we determine the fundamental role of the line of fifths for the organization of tonal material by applying dimensionality reduction to a large historical corpus of pitch-class counts (ca. 1360–1940). We observe a historically growing trend in the exploitation of the fifths range, i.e. the size of segments that pitch-class distributions cover on the line of fifths. Moreover, we introduce the novel concept of pitch-class (co-)evolution, which traces the changing co-occurrence of pitch classes over time and likewise reaffirms the centrality of this linear tonal space from a historical angle, allowing us also to distinguish between historical periods in terms of the usage of pitch classes.}
       \field{issn}{1745-9737}
       \field{journaltitle}{Journal of Mathematics and Music}
-      \field{month}{3}
-      \field{number}{0}
+      \field{number}{2}
       \field{title}{The Line of Fifths and the Co-Evolution of Tonal Pitch-Classes}
-      \field{volume}{0}
+      \field{urlday}{18}
+      \field{urlmonth}{3}
+      \field{urlyear}{2022}
+      \field{volume}{17}
       \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
-      \field{pages}{1\bibrangedash 25}
+      \field{pages}{173\bibrangedash 197}
       \range{pages}{25}
       \verb{doi}
       \verb 10.1080/17459737.2022.2044927
       \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/PNN2T73Z/Moss et al. - 2022 - The line of fifths and the co-evolution of tonal p.pdf;/home/fmoss/Zotero/storage/ET79BU43/17459737.2022.html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/17459737.2022.2044927
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/17459737.2022.2044927
       \endverb
       \keyw{dimensionality reduction,Line of fifths,pitch-class co-evolution,tonal-pitch classes}
       \annotation{item}{author}{default}{1}{}{0}{me}
@@ -1427,7 +1403,7 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Moss2020_ChoroSongbookCorpus}{misc}{}
+    \entry{Moss2020_ChoroSongbookCorpus}{dataset}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -1445,18 +1421,24 @@
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{day}{6}
       \field{month}{6}
       \field{title}{Choro {{Songbook Corpus}}}
+      \field{urlday}{28}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
       \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.5281/zenodo.3881347
@@ -1464,9 +1446,15 @@
       \verb{file}
       \verb /home/fmoss/Zotero/storage/7WCWGM4X/3881347.html;/home/fmoss/Zotero/storage/U36R2PDR/3881347.html
       \endverb
+      \verb{urlraw}
+      \verb https://zenodo.org/record/3881347#.X3HNemgzbg4
+      \endverb
+      \verb{url}
+      \verb https://zenodo.org/record/3881347#.X3HNemgzbg4
+      \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2020_ComputationalModelNote}{misc}{}
+    \entry{Moss2020_ComputationalModelNote}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -1475,43 +1463,8 @@
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
-      \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
-      \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
-      \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
-      \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
-      \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Digital and Cognitive Musicology Lab News Blog}
-      \field{langid}{english}
-      \field{month}{10}
-      \field{title}{A Computational Model for Note Distributions in Musical Pieces}
-      \field{year}{2020}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://www.epfl.ch/labs/dcml/computational-model-note-dists/
-      \endverb
-      \verb{url}
-      \verb https://www.epfl.ch/labs/dcml/computational-model-note-dists/
-      \endverb
-      \annotation{item}{author}{default}{1}{}{0}{me}
-    \endentry
-    \entry{Moss2020_TracingHistoricalChanges}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
-           family={Moss},
-           familyi={M\bibinitperiod},
-           given={Fabian\bibnamedelima C.},
-           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
+      \list{organization}{1}{%
+        {Digital and Cognitive Musicology Lab News Blog}%
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
@@ -1522,16 +1475,59 @@
       \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{3}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Digital and Cognitive Musicology Lab News Blog}
+      \field{day}{5}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{title}{A Computational Model for Note Distributions in Musical Pieces}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.epfl.ch/labs/dcml/computational-model-note-dists/
+      \endverb
+      \verb{url}
+      \verb https://www.epfl.ch/labs/dcml/computational-model-note-dists/
+      \endverb
+      \annotation{item}{author}{default}{1}{}{0}{me}
+    \endentry
+    \entry{Moss2020_TracingHistoricalChanges}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Digital and Cognitive Musicology Lab News Blog}%
+      }
+      \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{28}
       \field{month}{9}
       \field{title}{Tracing Historical Changes in the Exploration of Tonal Space}
       \field{year}{2020}
+      \field{dateera}{ce}
       \true{nocite}
       \verb{urlraw}
       \verb https://www.epfl.ch/labs/dcml/tracing-historical-changes/
@@ -1541,7 +1537,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2020_TonalPitchClassCounts}{misc}{}
+    \entry{Moss2020_TonalPitchClassCounts}{dataset}{}
       \name{author}{3}{ul=3}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -1575,12 +1571,17 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Tonal {{Pitch-Class Counts Corpus}} ({{TP3C}})}
+      \field{urlday}{7}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
       \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.5281/zenodo.3600088
@@ -1588,7 +1589,13 @@
       \verb{file}
       \verb /home/fmoss/Zotero/storage/BYG4HAYG/3600088.html
       \endverb
-      \keyw{computational musicology; tusic theory; tonality; music; corpus}
+      \verb{urlraw}
+      \verb https://zenodo.org/record/3600088#.XhQ12kdKhjE
+      \endverb
+      \verb{url}
+      \verb https://zenodo.org/record/3600088#.XhQ12kdKhjE
+      \endverb
+      \keyw{{computational musicology,tusic theory,tonality,music,corpus}}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
     \entry{Moss2020_HarmonyFormBrazilian}{article}{}
@@ -1760,7 +1767,7 @@
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1782,7 +1789,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2019_Pitchplots}{misc}{}
+    \entry{Moss2019_Pitchplots}{dataset}{}
       \name{author}{3}{ul=2}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -1812,16 +1819,28 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{day}{1}
       \field{month}{7}
       \field{title}{Pitchplots}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2019}
       \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
-      \verb 10.5281/ZENODO.3265393
+      \verb 10.5281/zenodo.3265393
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.3265393#.XRps__wFD5U.mendeley
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.3265393#.XRps__wFD5U.mendeley
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
@@ -2047,7 +2066,7 @@
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2110,7 +2129,7 @@
       \strng{editorbibnamehash}{c51480f2e88aad1fc95071ce77cb33b7}
       \strng{editornamehash}{cdedf0710500d3ee775db10c8ed6b519}
       \strng{editorfullhash}{c51480f2e88aad1fc95071ce77cb33b7}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2148,7 +2167,7 @@
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{8}
+      \field{extraname}{9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2190,7 +2209,7 @@
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{9}
+      \field{extraname}{10}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2249,8 +2268,9 @@
       \strng{editornamehash}{39d97fc75554ad085da87bb7b7764a24}
       \strng{editorfullhash}{39d97fc75554ad085da87bb7b7764a24}
       \field{extraname}{1}
-      \field{sortinit}{i}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
@@ -2258,42 +2278,50 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Hugo {{Riemann}}: {{Musikforschung}} Zwischen {{Universalität}}, {{Nationalismus}} Und Internationaler {{Ausstrahlung}}}
       \field{title}{Transatlantic Transformations: {{How Riemannian}} Is {{Neo-Riemannian}} Theory?}
-      \field{year}{in press}
+      \field{year}{2023}
       \true{nocite}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{KepperRoland_MEI_Guidelines}{book}{}
-      \name{editor}{2}{}{%
-        {{un=0,uniquepart=base,hash=74644523f15bd5b1d933f798840c989e}{%
-           family={Kepper},
-           familyi={K\bibinitperiod},
-           given={Johannes},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=865fab1cf4b5606d372e4851f6fca3f8}{%
-           family={Roland},
-           familyi={R\bibinitperiod},
-           given={Perry\bibnamedelima D},
-           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+    \entry{Moss2023_VorsichtSackgassePlaedoyer}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{7a8e9c16d22cb2266220f056633b586c}
-      \strng{fullhash}{7a8e9c16d22cb2266220f056633b586c}
-      \strng{bibnamehash}{7a8e9c16d22cb2266220f056633b586c}
-      \strng{editorbibnamehash}{7a8e9c16d22cb2266220f056633b586c}
-      \strng{editornamehash}{7a8e9c16d22cb2266220f056633b586c}
-      \strng{editorfullhash}{7a8e9c16d22cb2266220f056633b586c}
+      \list{organization}{1}{%
+        {musiconn.kontrovers - Blog des FID Musikwissenschaft}%
+      }
+      \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
-      \field{labelnamesource}{editor}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{edition}{Version 5.0.0-dev}
-      \field{title}{{The Music Encoding Initiative Guidelines}}
+      \field{langid}{ngerman}
+      \field{month}{9}
+      \field{title}{Vorsicht, Sackgasse! Ein Plädoyer für mehr Intradisziplinarität}
       \field{year}{2023}
+      \field{dateera}{ce}
       \true{nocite}
+      \verb{urlraw}
+      \verb https://kontrovers.musiconn.de/
+      \endverb
+      \verb{url}
+      \verb https://kontrovers.musiconn.de/
+      \endverb
+      \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
     \entry{Seipelt2023_AnalysisMarkupHarmonies}{inbook}{}
       \name{editor}{2}{}{%
@@ -2310,26 +2338,40 @@
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
+      \name{editorb}{2}{}{%
+        {{hash=74644523f15bd5b1d933f798840c989e}{%
+           family={Kepper},
+           familyi={K\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=865fab1cf4b5606d372e4851f6fca3f8}{%
+           family={Roland},
+           familyi={R\bibinitperiod},
+           given={Perry\bibnamedelima D},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
       \strng{namehash}{129378d375b4b25e622cfee5e02755f9}
       \strng{fullhash}{129378d375b4b25e622cfee5e02755f9}
       \strng{bibnamehash}{129378d375b4b25e622cfee5e02755f9}
       \strng{editorbibnamehash}{129378d375b4b25e622cfee5e02755f9}
       \strng{editornamehash}{129378d375b4b25e622cfee5e02755f9}
       \strng{editorfullhash}{129378d375b4b25e622cfee5e02755f9}
+      \strng{editorbbibnamehash}{7a8e9c16d22cb2266220f056633b586c}
+      \strng{editorbnamehash}{7a8e9c16d22cb2266220f056633b586c}
+      \strng{editorbfullhash}{7a8e9c16d22cb2266220f056633b586c}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{booktitle}{{The Music Encoding Initiative Guidelines}}
-      \field{chapter}{10}
-      \strng{crossref}{KepperRoland_MEI_Guidelines}
-      \field{edition}{Version 5.0.0-dev}
+      \field{booktitle}{The {{Music Encoding Initiative Guidelines}}}
+      \field{edition}{Version 5.0}
       \field{langid}{english}
       \field{title}{Analysis {{Markup}} and {{Harmonies}}}
       \field{year}{2023}
+      \field{dateera}{ce}
       \true{nocite}
       \field{pages}{299\bibrangedash 324}
       \range{pages}{26}
@@ -2651,64 +2693,6 @@
       \keyw{discrete Fourier transform,music visualization,scientific discovery,web application}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2022_19MTOMRDatasetMultimodal}{misc}{}
-      \name{author}{4}{ul=2}{%
-        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
-           family={Moss},
-           familyi={M\bibinitperiod},
-           given={Fabian\bibnamedelima C.},
-           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e11dabf3aef04075c989e936cd40da4b}{%
-           family={Nápoles\bibnamedelima López},
-           familyi={N\bibinitperiod\bibinitdelim L\bibinitperiod},
-           given={Néstor},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=309da3fec8ccbf6a41dc1704bb8097fc}{%
-           family={Köster},
-           familyi={K\bibinitperiod},
-           given={Maik},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d702889b35953ac1b2c6943d616bcd90}{%
-           family={Rizo},
-           familyi={R\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {OSF}%
-      }
-      \strng{namehash}{84b9812fe3485005a25078d738b227f5}
-      \strng{fullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
-      \strng{bibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
-      \strng{authorbibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
-      \strng{authornamehash}{84b9812fe3485005a25078d738b227f5}
-      \strng{authorfullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{A dataset of 19th-century music theory textbooks with music examples, useful for training OMR models. - 19theory-a: complete transcriptions of all sources of the Dualism project - 19theory-b: only pages containing music examples - 19theory-c: only the music examples For more info about the Dualism project, see: [ANONYMIZED FOR PEER REVIEW] Hosted on the Open Science Framework}
-      \field{langid}{english}
-      \field{month}{9}
-      \field{shorttitle}{{{19MT-OMR}}}
-      \field{title}{{{19MT-OMR}}: A Dataset for Multimodal {{Optical Music Recognition}}}
-      \field{type}{Data {{Report}}}
-      \field{year}{2022}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.17605/osf.io/QM9Z5
-      \endverb
-      \annotation{item}{author}{default}{1}{}{0}{me}
-    \endentry
     \entry{Moss2022_ChallengingSourcesNew}{inbook}{}
       \name{author}{4}{ul=2}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
@@ -2765,10 +2749,8 @@
       \strng{editorbibnamehash}{22cf6a0ee1b046f7b16c53e42ced291f}
       \strng{editornamehash}{63bb7d1196c8a553ea26318d3b598cd9}
       \strng{editorfullhash}{22cf6a0ee1b046f7b16c53e42ced291f}
-      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
@@ -2776,12 +2758,15 @@
       \field{labeltitlesource}{title}
       \field{abstract}{A major limitation of current Optical Music Recognition (OMR) systems is that their performance strongly depends on the variability in the input images. What for human readers seems almost trivial---e.g., reading music in a range of different font types in different contexts---can drastically reduce the output quality of OMR models. This paper introduces the 19MT-OMR corpus that can be used to test OMR models on a diverse set of sources. We illustrate this challenge by discussing several examples from this data set.}
       \field{booktitle}{Proceedings of the 4th {{International Workshop}} on {{Reading Music Systems}} ({{WoRMS}} 2022)}
-      \field{month}{11}
+      \field{eprinttype}{arxiv}
       \field{title}{Challenging Sources: A New Dataset for {{OMR}} of Diverse 19th-Century Music Theory Examples}
       \field{year}{2022}
       \true{nocite}
       \field{pages}{4\bibrangedash 8}
       \range{pages}{5}
+      \verb{eprint}
+      \verb 2211.13285
+      \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/B9DFIZPN/Mossetal_Worms2022.pdf
       \endverb
@@ -2824,26 +2809,36 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this study, we determine the fundamental role of the line of fifths for the organization of tonal material by applying dimensionality reduction to a large historical corpus of pitch-class counts (ca. 1360–1940). We observe a historically growing trend in the exploitation of the fifths range, i.e. the size of segments that pitch-class distributions cover on the line of fifths. Moreover, we introduce the novel concept of pitch-class (co-)evolution, which traces the changing co-occurrence of pitch classes over time and likewise reaffirms the centrality of this linear tonal space from a historical angle, allowing us also to distinguish between historical periods in terms of the usage of pitch classes.}
       \field{issn}{1745-9737}
       \field{journaltitle}{Journal of Mathematics and Music}
-      \field{month}{3}
-      \field{number}{0}
+      \field{number}{2}
       \field{title}{The Line of Fifths and the Co-Evolution of Tonal Pitch-Classes}
-      \field{volume}{0}
+      \field{urlday}{18}
+      \field{urlmonth}{3}
+      \field{urlyear}{2022}
+      \field{volume}{17}
       \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
-      \field{pages}{1\bibrangedash 25}
+      \field{pages}{173\bibrangedash 197}
       \range{pages}{25}
       \verb{doi}
       \verb 10.1080/17459737.2022.2044927
       \endverb
       \verb{file}
       \verb /home/fmoss/Zotero/storage/PNN2T73Z/Moss et al. - 2022 - The line of fifths and the co-evolution of tonal p.pdf;/home/fmoss/Zotero/storage/ET79BU43/17459737.2022.html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/17459737.2022.2044927
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/17459737.2022.2044927
       \endverb
       \keyw{dimensionality reduction,Line of fifths,pitch-class co-evolution,tonal-pitch classes}
       \annotation{item}{author}{default}{1}{}{0}{me}
@@ -3623,7 +3618,7 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Moss2020_ChoroSongbookCorpus}{misc}{}
+    \entry{Moss2020_ChoroSongbookCorpus}{dataset}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -3641,18 +3636,24 @@
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{day}{6}
       \field{month}{6}
       \field{title}{Choro {{Songbook Corpus}}}
+      \field{urlday}{28}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
       \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.5281/zenodo.3881347
@@ -3660,9 +3661,15 @@
       \verb{file}
       \verb /home/fmoss/Zotero/storage/7WCWGM4X/3881347.html;/home/fmoss/Zotero/storage/U36R2PDR/3881347.html
       \endverb
+      \verb{urlraw}
+      \verb https://zenodo.org/record/3881347#.X3HNemgzbg4
+      \endverb
+      \verb{url}
+      \verb https://zenodo.org/record/3881347#.X3HNemgzbg4
+      \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2020_ComputationalModelNote}{misc}{}
+    \entry{Moss2020_ComputationalModelNote}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -3671,43 +3678,8 @@
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
-      \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
-      \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
-      \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
-      \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
-      \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Digital and Cognitive Musicology Lab News Blog}
-      \field{langid}{english}
-      \field{month}{10}
-      \field{title}{A Computational Model for Note Distributions in Musical Pieces}
-      \field{year}{2020}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://www.epfl.ch/labs/dcml/computational-model-note-dists/
-      \endverb
-      \verb{url}
-      \verb https://www.epfl.ch/labs/dcml/computational-model-note-dists/
-      \endverb
-      \annotation{item}{author}{default}{1}{}{0}{me}
-    \endentry
-    \entry{Moss2020_TracingHistoricalChanges}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
-           family={Moss},
-           familyi={M\bibinitperiod},
-           given={Fabian\bibnamedelima C.},
-           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
+      \list{organization}{1}{%
+        {Digital and Cognitive Musicology Lab News Blog}%
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
@@ -3718,16 +3690,59 @@
       \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{3}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Digital and Cognitive Musicology Lab News Blog}
+      \field{day}{5}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{title}{A Computational Model for Note Distributions in Musical Pieces}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.epfl.ch/labs/dcml/computational-model-note-dists/
+      \endverb
+      \verb{url}
+      \verb https://www.epfl.ch/labs/dcml/computational-model-note-dists/
+      \endverb
+      \annotation{item}{author}{default}{1}{}{0}{me}
+    \endentry
+    \entry{Moss2020_TracingHistoricalChanges}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Digital and Cognitive Musicology Lab News Blog}%
+      }
+      \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{28}
       \field{month}{9}
       \field{title}{Tracing Historical Changes in the Exploration of Tonal Space}
       \field{year}{2020}
+      \field{dateera}{ce}
       \true{nocite}
       \verb{urlraw}
       \verb https://www.epfl.ch/labs/dcml/tracing-historical-changes/
@@ -3737,7 +3752,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2020_TonalPitchClassCounts}{misc}{}
+    \entry{Moss2020_TonalPitchClassCounts}{dataset}{}
       \name{author}{3}{ul=3}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -3771,12 +3786,17 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Tonal {{Pitch-Class Counts Corpus}} ({{TP3C}})}
+      \field{urlday}{7}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
       \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.5281/zenodo.3600088
@@ -3784,7 +3804,13 @@
       \verb{file}
       \verb /home/fmoss/Zotero/storage/BYG4HAYG/3600088.html
       \endverb
-      \keyw{computational musicology; tusic theory; tonality; music; corpus}
+      \verb{urlraw}
+      \verb https://zenodo.org/record/3600088#.XhQ12kdKhjE
+      \endverb
+      \verb{url}
+      \verb https://zenodo.org/record/3600088#.XhQ12kdKhjE
+      \endverb
+      \keyw{{computational musicology,tusic theory,tonality,music,corpus}}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
     \entry{Moss2020_HarmonyFormBrazilian}{article}{}
@@ -3956,7 +3982,7 @@
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3978,7 +4004,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2019_Pitchplots}{misc}{}
+    \entry{Moss2019_Pitchplots}{dataset}{}
       \name{author}{3}{ul=2}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -4008,16 +4034,28 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{day}{1}
       \field{month}{7}
       \field{title}{Pitchplots}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2019}
       \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
-      \verb 10.5281/ZENODO.3265393
+      \verb 10.5281/zenodo.3265393
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.3265393#.XRps__wFD5U.mendeley
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.3265393#.XRps__wFD5U.mendeley
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
@@ -4243,7 +4281,7 @@
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -4306,7 +4344,7 @@
       \strng{editorbibnamehash}{c51480f2e88aad1fc95071ce77cb33b7}
       \strng{editornamehash}{cdedf0710500d3ee775db10c8ed6b519}
       \strng{editorfullhash}{c51480f2e88aad1fc95071ce77cb33b7}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -4344,7 +4382,7 @@
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{8}
+      \field{extraname}{9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -4386,7 +4424,7 @@
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{9}
+      \field{extraname}{10}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
