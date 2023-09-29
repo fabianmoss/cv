@@ -53,9 +53,8 @@
       \strng{editornamehash}{39d97fc75554ad085da87bb7b7764a24}
       \strng{editorfullhash}{39d97fc75554ad085da87bb7b7764a24}
       \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{1}
+      \field{sortinit}{i}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
@@ -63,7 +62,7 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Hugo {{Riemann}}: {{Musikforschung}} Zwischen {{Universalität}}, {{Nationalismus}} Und Internationaler {{Ausstrahlung}}}
       \field{title}{Transatlantic Transformations: {{How Riemannian}} Is {{Neo-Riemannian}} Theory?}
-      \field{year}{2023}
+      \field{year}{in press}
       \true{nocite}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
@@ -88,13 +87,13 @@
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{English version: \url{https://osf.iohttps://osf.io/98zxn/}}
+      \field{day}{26}
       \field{langid}{ngerman}
       \field{month}{9}
       \field{title}{Vorsicht, Sackgasse! Ein Plädoyer für mehr Intradisziplinarität}
@@ -102,10 +101,10 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{urlraw}
-      \verb https://kontrovers.musiconn.de/
+      \verb https://kontrovers.musiconn.de/2023/09/26/digitalitaet_moss/
       \endverb
       \verb{url}
-      \verb https://kontrovers.musiconn.de/
+      \verb https://kontrovers.musiconn.de/2023/09/26/digitalitaet_moss/
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
@@ -2269,9 +2268,8 @@
       \strng{editornamehash}{39d97fc75554ad085da87bb7b7764a24}
       \strng{editorfullhash}{39d97fc75554ad085da87bb7b7764a24}
       \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{1}
+      \field{sortinit}{i}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
@@ -2279,7 +2277,7 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Hugo {{Riemann}}: {{Musikforschung}} Zwischen {{Universalität}}, {{Nationalismus}} Und Internationaler {{Ausstrahlung}}}
       \field{title}{Transatlantic Transformations: {{How Riemannian}} Is {{Neo-Riemannian}} Theory?}
-      \field{year}{2023}
+      \field{year}{in press}
       \true{nocite}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
@@ -2304,13 +2302,13 @@
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{English version: \url{https://osf.iohttps://osf.io/98zxn/}}
+      \field{day}{26}
       \field{langid}{ngerman}
       \field{month}{9}
       \field{title}{Vorsicht, Sackgasse! Ein Plädoyer für mehr Intradisziplinarität}
@@ -2318,10 +2316,10 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{urlraw}
-      \verb https://kontrovers.musiconn.de/
+      \verb https://kontrovers.musiconn.de/2023/09/26/digitalitaet_moss/
       \endverb
       \verb{url}
-      \verb https://kontrovers.musiconn.de/
+      \verb https://kontrovers.musiconn.de/2023/09/26/digitalitaet_moss/
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
