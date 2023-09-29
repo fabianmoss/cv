@@ -478,6 +478,74 @@
       \keyw{discrete Fourier transform,music visualization,scientific discovery,web application}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
+    \entry{Moss2022_19MTOMRDatasetMultimodal}{dataset}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e11dabf3aef04075c989e936cd40da4b}{%
+           family={Nápoles\bibnamedelima López},
+           familyi={N\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Néstor},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=309da3fec8ccbf6a41dc1704bb8097fc}{%
+           family={Köster},
+           familyi={K\bibinitperiod},
+           given={Maik},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d702889b35953ac1b2c6943d616bcd90}{%
+           family={Rizo},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {OSF}%
+      }
+      \strng{namehash}{84b9812fe3485005a25078d738b227f5}
+      \strng{fullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{bibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{authorbibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{authornamehash}{84b9812fe3485005a25078d738b227f5}
+      \strng{authorfullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{A dataset of 19th-century music theory textbooks with music examples, useful for training OMR models. - 19theory-a: complete transcriptions of all sources of the Dualism project - 19theory-b: only pages containing music examples - 19theory-c: only the music examples For more info about the Dualism project, see: [ANONYMIZED FOR PEER REVIEW] Hosted on the Open Science Framework}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{shorttitle}{{{19MT-OMR}}}
+      \field{title}{{{19MT-OMR}}: A Dataset for Multimodal {{Optical Music Recognition}}}
+      \field{type}{Data {{Report}}}
+      \field{urlday}{27}
+      \field{urlmonth}{9}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.17605/osf.io/QM9Z5
+      \endverb
+      \verb{urlraw}
+      \verb https://osf.io/qm9z5/
+      \endverb
+      \verb{url}
+      \verb https://osf.io/qm9z5/
+      \endverb
+      \annotation{item}{author}{default}{1}{}{0}{me}
+    \endentry
     \entry{Moss2022_ChallengingSourcesNew}{inbook}{}
       \name{author}{4}{ul=2}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
@@ -534,8 +602,10 @@
       \strng{editorbibnamehash}{22cf6a0ee1b046f7b16c53e42ced291f}
       \strng{editornamehash}{63bb7d1196c8a553ea26318d3b598cd9}
       \strng{editorfullhash}{22cf6a0ee1b046f7b16c53e42ced291f}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
@@ -2693,6 +2763,74 @@
       \keyw{discrete Fourier transform,music visualization,scientific discovery,web application}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
+    \entry{Moss2022_19MTOMRDatasetMultimodal}{dataset}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e11dabf3aef04075c989e936cd40da4b}{%
+           family={Nápoles\bibnamedelima López},
+           familyi={N\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Néstor},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=309da3fec8ccbf6a41dc1704bb8097fc}{%
+           family={Köster},
+           familyi={K\bibinitperiod},
+           given={Maik},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d702889b35953ac1b2c6943d616bcd90}{%
+           family={Rizo},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {OSF}%
+      }
+      \strng{namehash}{84b9812fe3485005a25078d738b227f5}
+      \strng{fullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{bibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{authorbibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{authornamehash}{84b9812fe3485005a25078d738b227f5}
+      \strng{authorfullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{A dataset of 19th-century music theory textbooks with music examples, useful for training OMR models. - 19theory-a: complete transcriptions of all sources of the Dualism project - 19theory-b: only pages containing music examples - 19theory-c: only the music examples For more info about the Dualism project, see: [ANONYMIZED FOR PEER REVIEW] Hosted on the Open Science Framework}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{shorttitle}{{{19MT-OMR}}}
+      \field{title}{{{19MT-OMR}}: A Dataset for Multimodal {{Optical Music Recognition}}}
+      \field{type}{Data {{Report}}}
+      \field{urlday}{27}
+      \field{urlmonth}{9}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.17605/osf.io/QM9Z5
+      \endverb
+      \verb{urlraw}
+      \verb https://osf.io/qm9z5/
+      \endverb
+      \verb{url}
+      \verb https://osf.io/qm9z5/
+      \endverb
+      \annotation{item}{author}{default}{1}{}{0}{me}
+    \endentry
     \entry{Moss2022_ChallengingSourcesNew}{inbook}{}
       \name{author}{4}{ul=2}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
@@ -2749,8 +2887,10 @@
       \strng{editorbibnamehash}{22cf6a0ee1b046f7b16c53e42ced291f}
       \strng{editornamehash}{63bb7d1196c8a553ea26318d3b598cd9}
       \strng{editorfullhash}{22cf6a0ee1b046f7b16c53e42ced291f}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
