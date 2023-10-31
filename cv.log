@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2023.6.19)  12 OCT 2023 13:55
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2023.6.19)  31 OCT 2023 11:55
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/GitHub/fabianmoss/cv/cv
@@ -1522,8 +1522,15 @@ Overfull \hbox (0.9528pt too wide) has occurred while \output is active
  []
 
 [8] (./cv.aux)
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 29507856B6C88F28EA8FAD705A2BC146;3953.
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'cv.run.xml'.
 
 \openout1 = cv.run.xml
@@ -1534,19 +1541,19 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 25397 strings out of 478382
- 244485,1977958 words of node,token memory allocated
- 966 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 3 glyph, 31 attribute, 91 glue_spec, 31 attribute_list, 1 write, 22 pdf_action nodes
-   avail lists: 1:2,2:2790,3:1178,4:465,5:4069,6:116,7:22507,8:131,9:804,10:15,11:1812
- 44452 multiletter control sequences out of 65536+600000
+ 25402 strings out of 478382
+ 195583,1977958 words of node,token memory allocated
+ 976 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 3 glyph, 32 attribute, 91 glue_spec, 32 attribute_list, 1 write, 23 pdf_action nodes
+   avail lists: 1:2,2:2789,3:1178,4:426,5:2990,6:115,7:16111,8:131,9:805,10:15,11:1242
+ 44456 multiletter control sequences out of 65536+600000
  67 fonts using 14563727 bytes
- 72i,13n,110p,2256b,5178s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,110p,2256b,5178s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/texmf/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (8 pages, 99685 bytes).
+Output written on cv.pdf (8 pages, 100265 bytes).
 
-PDF statistics: 326 PDF objects out of 1000 (max. 8388607)
- 299 compressed objects within 3 object streams
- 74 named destinations out of 1000 (max. 131072)
+PDF statistics: 330 PDF objects out of 1000 (max. 8388607)
+ 302 compressed objects within 4 object streams
+ 75 named destinations out of 1000 (max. 131072)
  249 words of extra memory for PDF output out of 10000 (max. 100000000)
 

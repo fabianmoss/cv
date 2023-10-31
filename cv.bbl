@@ -66,6 +66,60 @@
       \true{nocite}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
+    \entry{Eipert2023_CorpusTroporumDataset}{dataset}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=dfc272ac2c275fa5134e703122e15c59}{%
+           family={Eipert},
+           familyi={E\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {OSF}%
+      }
+      \strng{namehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{fullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{bibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorbibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{title}{Corpus {Troporum Dataset}}
+      \field{urlday}{31}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.17605/OSF.IO/FKDQ5
+      \endverb
+      \verb{file}
+      \verb /home/fmoss/Zotero/storage/BFHRVA7G/fkdq5.html
+      \endverb
+      \verb{urlraw}
+      \verb https://osf.io/fkdq5/
+      \endverb
+      \verb{url}
+      \verb https://osf.io/fkdq5/
+      \endverb
+      \annotation{item}{author}{default}{2}{}{0}{me}
+    \endentry
     \entry{Moss2023_VorsichtSackgassePlaedoyer}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
@@ -2350,6 +2404,60 @@
       \field{year}{in press}
       \true{nocite}
       \annotation{item}{author}{default}{1}{}{0}{me}
+    \endentry
+    \entry{Eipert2023_CorpusTroporumDataset}{dataset}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=dfc272ac2c275fa5134e703122e15c59}{%
+           family={Eipert},
+           familyi={E\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {OSF}%
+      }
+      \strng{namehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{fullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{bibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorbibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{title}{Corpus {Troporum Dataset}}
+      \field{urlday}{31}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.17605/OSF.IO/FKDQ5
+      \endverb
+      \verb{file}
+      \verb /home/fmoss/Zotero/storage/BFHRVA7G/fkdq5.html
+      \endverb
+      \verb{urlraw}
+      \verb https://osf.io/fkdq5/
+      \endverb
+      \verb{url}
+      \verb https://osf.io/fkdq5/
+      \endverb
+      \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{Moss2023_VorsichtSackgassePlaedoyer}{online}{}
       \name{author}{1}{}{%
