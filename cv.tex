@@ -49,11 +49,14 @@
 % \renewcommand{\familydefault}{\sfdefault}
 
 \usepackage[
-    % backend=biber,
+    backend=biber,
     style=apa,
     sorting=ydnt
 ]{biblatex}
 \addbibresource{bibliography.bib}
+
+% add manual bib categories
+\input{bibcategories.tex}
 
 % Special commands
 \newcommand{\inv}{\textcolor{color2}{$\mathbf{^i}$}}
@@ -122,7 +125,6 @@
 \input{education.tex}
 \input{service.tex}
 \input{funding.tex}
-\newpage
 \input{bibliography.tex}
 \input{talks.tex}
 \input{teaching.tex}
