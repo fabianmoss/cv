@@ -1,3 +1,5 @@
+%% 
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % "ModernCV" CV and Cover Letter
 % LaTeX Template
@@ -47,12 +49,11 @@
 % \renewcommand{\familydefault}{\sfdefault}
 
 \usepackage[
-    backend=biber,
+    % backend=biber,
     style=apa,
     sorting=ydnt
 ]{biblatex}
 \addbibresource{bibliography.bib}
-\input{bibcategories.tex}
 
 % Special commands
 \newcommand{\inv}{\textcolor{color2}{$\mathbf{^i}$}}
@@ -117,21 +118,14 @@
 
 \makecvtitle % Print the CV title
 
-\vspace{-1.3cm}
-\begin{center}
-    \small
-    \textcolor{gray}{
-        \textit{Last updated: \today}}
-\end{center}
-\vspace{.5cm}
 \input{employment.tex}
 \input{education.tex}
 \input{service.tex}
 \input{funding.tex}
+\newpage
 \input{bibliography.tex}
 \input{talks.tex}
 \input{teaching.tex}
-\input{supervision.tex}
 \input{media.tex}
 %\input{courses.tex}
 \input{skills.tex}
