@@ -43,6 +43,26 @@
 
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
+
+%%% Fix for the bug in AlegreyaSans
+% make sure \setsansfont is defined
+\usepackage{fontspec}
+% start the fix by temporarily redefining
+% \setsansfont to define the wrong macro
+% to be the same as the right one
+\makeatletter
+% save a copy of \setsansfont
+\let\fontspec@setsansfont\setsansfont
+% redefine it to fix the issue and to redefine
+% itself to the original one
+\def\setsansfont{%
+  \let\Alegreya@boldstyle\AlegreyaSans@boldstyle
+  \let\setsansfont\fontspec@setsansfont
+  \setsansfont
+}
+\makeatother
+%%% end of fix, now load AlegreyaSans
+
 \usepackage[sfdefault]{AlegreyaSans} %% Option 'black' gives heavier bold face
 %% The 'sfdefault' option to make the base font sans serif
 \renewcommand*\oldstylenums[1]{{\AlegreyaSansOsF #1}}
