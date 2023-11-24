@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2023.11.20)  24 NOV 2023 10:30
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2023.11.20)  24 NOV 2023 10:52
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/GitHub/fabianmoss/cv/cv
@@ -1314,16 +1314,7 @@ Underfull \hbox (badness 10000) detected at line 28
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-
-LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 49.
-
-
-Underfull \hbox (badness 10000) detected at line 49
-\TU/AlegreyaSans(0)/m/n/7 .
- []
-
-) (./funding.tex
+) (./organization.tex) (./funding.tex
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 3.
@@ -1336,6 +1327,12 @@ Underfull \hbox (badness 10000) detected at line 3
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 6.
 
+Overfull \hbox (1.09981pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋉/[][]󰋏[][] 
+ []
+
+[2]
+
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 32.
 
@@ -1345,11 +1342,6 @@ Underfull \hbox (badness 10000) detected at line 32
  []
 
 ) (./bibliography.tex
-Overfull \hbox (1.09981pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋉/[][]󰋏[][] 
- []
-
-[2]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 27.
@@ -1492,6 +1484,7 @@ Underfull \hbox (badness 10000) detected at line 13
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
+[7]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 25.
@@ -1501,7 +1494,6 @@ Underfull \hbox (badness 10000) detected at line 25
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-[7]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 33.
@@ -1522,12 +1514,7 @@ LaTeX2e <2023-06-01>
 L3 programming layer <2023-06-05>
  ***********
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: 5A4264CDCBE6ACC82BC1790AB2EE4564;3962.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
+(rerunfilecheck)             Checksum: 61BA9F59FE178BB3643C6AF3D630F00B;3952.
 Package logreq Info: Writing requests to 'cv.run.xml'.
 
 \openout1 = cv.run.xml
@@ -1542,12 +1529,12 @@ Here is how much of LuaTeX's memory you used:
  195579,1977958 words of node,token memory allocated
  1006 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 3 glyph, 35 attribute, 91 glue_spec, 35 attribute_list, 1 write, 26 pdf_action nodes
-   avail lists: 2:2612,3:1141,4:431,5:2925,6:124,7:15801,8:119,9:838,10:15,11:1231
- 44864 multiletter control sequences out of 65536+600000
+   avail lists: 2:2523,3:1259,4:438,5:2936,6:124,7:15632,8:119,9:838,10:15,11:1220
+ 44859 multiletter control sequences out of 65536+600000
  67 fonts using 14563727 bytes
  79i,13n,110p,2256b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/texmf/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (8 pages, 103849 bytes).
+Output written on cv.pdf (8 pages, 104057 bytes).
 
 PDF statistics: 338 PDF objects out of 1000 (max. 8388607)
  310 compressed objects within 4 object streams
