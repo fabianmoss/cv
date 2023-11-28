@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.4.13)  21 NOV 2023 17:52
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.4.13)  28 NOV 2023 17:40
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/GitHub/fabianmoss/cv/cv
@@ -1307,19 +1307,19 @@ Underfull \hbox (badness 10000) detected at line 17
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 28.
+(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 29.
 
 
-Underfull \hbox (badness 10000) detected at line 28
+Underfull \hbox (badness 10000) detected at line 29
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 49.
+(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 50.
 
 
-Underfull \hbox (badness 10000) detected at line 49
+Underfull \hbox (badness 10000) detected at line 50
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
@@ -1518,7 +1518,7 @@ Overfull \hbox (0.9528pt too wide) has occurred while \output is active
 
 [8] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: 5A4264CDCBE6ACC82BC1790AB2EE4564;3962.
+(rerunfilecheck)             Checksum: 9FF71CD4AFC9A6BCB84CFA5F9C87EF83;4010.
 Package logreq Info: Writing requests to 'cv.run.xml'.
 
 \openout1 = cv.run.xml
@@ -1533,12 +1533,12 @@ Here is how much of LuaTeX's memory you used:
  195579,1977958 words of node,token memory allocated
  996 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 3 glyph, 34 attribute, 91 glue_spec, 34 attribute_list, 1 write, 25 pdf_action nodes
-   avail lists: 1:1,2:2725,3:1150,4:426,5:2920,6:121,7:15790,8:119,9:838,10:15,11:1238
+   avail lists: 1:2,2:2612,3:1140,4:431,5:2925,6:123,7:15801,8:119,9:838,10:15,11:1231
  44737 multiletter control sequences out of 65536+600000
  67 fonts using 14563727 bytes
- 72i,13n,110p,2256b,5178s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,110p,2256b,5178s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Italic.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Bold.otf></usr/local/texlive/2023/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (8 pages, 103205 bytes).
+Output written on cv.pdf (8 pages, 103530 bytes).
 
 PDF statistics: 336 PDF objects out of 1000 (max. 8388607)
  308 compressed objects within 4 object streams
