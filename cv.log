@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.4.13)  28 NOV 2023 17:42
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.4.13)  4 DEC 2023 12:26
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/GitHub/fabianmoss/cv/cv
@@ -1511,6 +1511,11 @@ Overfull \hbox (0.9528pt too wide) has occurred while \output is active
 [8] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 8260D9A17A360A234D0C505913CAFACC;4000.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'cv.run.xml'.
 
 \openout1 = cv.run.xml
@@ -1521,12 +1526,12 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 25590 strings out of 478278
+ 25592 strings out of 478278
  195579,1977958 words of node,token memory allocated
  1006 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 3 glyph, 35 attribute, 91 glue_spec, 35 attribute_list, 1 write, 26 pdf_action nodes
    avail lists: 1:2,2:2523,3:1258,4:438,5:2936,6:123,7:15632,8:119,9:838,10:15,11:1220
- 44741 multiletter control sequences out of 65536+600000
+ 44743 multiletter control sequences out of 65536+600000
  67 fonts using 14563727 bytes
  72i,12n,110p,2256b,5178s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Italic.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Bold.otf></usr/local/texlive/2023/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
