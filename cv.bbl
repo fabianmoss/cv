@@ -19,6 +19,59 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/apasortcite//global/global}
+    \entry{Hentschelinpress_AnnotatedCorpusTonal}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=cfbc8f6b5670f470a32ea8f6fab343f6}{%
+           family={Hentschel},
+           familyi={H\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=beb87c5386a1c0b43db228f319b908c5}{%
+           family={Rammos},
+           familyi={R\bibinitperiod},
+           given={Yannis},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae0464b93a1404dccfd671e036398cc5}{%
+           family={Neuwirth},
+           familyi={N\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6f2097b8c92c18656bf14d98fb44f014}
+      \strng{fullhash}{5db96a99981fb12f406d72bc88750e0a}
+      \strng{bibnamehash}{5db96a99981fb12f406d72bc88750e0a}
+      \strng{authorbibnamehash}{5db96a99981fb12f406d72bc88750e0a}
+      \strng{authornamehash}{6f2097b8c92c18656bf14d98fb44f014}
+      \strng{authorfullhash}{5db96a99981fb12f406d72bc88750e0a}
+      \field{extraname}{1}
+      \field{sortinit}{i}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Empirical Musicology Review}
+      \field{title}{An Annotated Corpus of Tonal Piano Music from the Long 19th Century}
+      \field{year}{in press}
+      \true{nocite}
+      \annotation{item}{author}{default}{4}{}{0}{me}
+    \endentry
     \entry{mossTransatlanticTransformationsHow2024}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
@@ -591,7 +644,7 @@
       \strng{editorbibnamehash}{410fb40aff369ee7c078750b85bcbcbd}
       \strng{editornamehash}{410fb40aff369ee7c078750b85bcbcbd}
       \strng{editorfullhash}{410fb40aff369ee7c078750b85bcbcbd}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1198,7 +1251,7 @@
       \strng{editorbibnamehash}{c06d21e28205091aacb5fe63776d4bd7}
       \strng{editornamehash}{89ae669211f8ae5d68302f5bd6b226df}
       \strng{editorfullhash}{c06d21e28205091aacb5fe63776d4bd7}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2512,6 +2565,59 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global//global/global}
+    \entry{Hentschelinpress_AnnotatedCorpusTonal}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=cfbc8f6b5670f470a32ea8f6fab343f6}{%
+           family={Hentschel},
+           familyi={H\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=beb87c5386a1c0b43db228f319b908c5}{%
+           family={Rammos},
+           familyi={R\bibinitperiod},
+           given={Yannis},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae0464b93a1404dccfd671e036398cc5}{%
+           family={Neuwirth},
+           familyi={N\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6f2097b8c92c18656bf14d98fb44f014}
+      \strng{fullhash}{5db96a99981fb12f406d72bc88750e0a}
+      \strng{bibnamehash}{5db96a99981fb12f406d72bc88750e0a}
+      \strng{authorbibnamehash}{5db96a99981fb12f406d72bc88750e0a}
+      \strng{authornamehash}{6f2097b8c92c18656bf14d98fb44f014}
+      \strng{authorfullhash}{5db96a99981fb12f406d72bc88750e0a}
+      \field{extraname}{1}
+      \field{sortinit}{i}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Empirical Musicology Review}
+      \field{title}{An Annotated Corpus of Tonal Piano Music from the Long 19th Century}
+      \field{year}{in press}
+      \true{nocite}
+      \annotation{item}{author}{default}{4}{}{0}{me}
+    \endentry
     \entry{mossTransatlanticTransformationsHow2024}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
@@ -3084,7 +3190,7 @@
       \strng{editorbibnamehash}{410fb40aff369ee7c078750b85bcbcbd}
       \strng{editornamehash}{410fb40aff369ee7c078750b85bcbcbd}
       \strng{editorfullhash}{410fb40aff369ee7c078750b85bcbcbd}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3691,7 +3797,7 @@
       \strng{editorbibnamehash}{c06d21e28205091aacb5fe63776d4bd7}
       \strng{editornamehash}{89ae669211f8ae5d68302f5bd6b226df}
       \strng{editorfullhash}{c06d21e28205091aacb5fe63776d4bd7}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
