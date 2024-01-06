@@ -1,21 +1,21 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
+[1] Config.pm:307> INFO - This is Biber 2.19
 [1] Config.pm:310> INFO - Logfile is 'cv.blg'
-[155] biber:340> INFO - === Mo Dez 11, 2023, 11:39:41
-[177] Biber.pm:419> INFO - Reading 'cv.bcf'
-[287] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[312] Biber.pm:4419> INFO - Processing section 0
-[326] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
-[336] bibtex.pm:1713> INFO - LaTeX decoding ...
-[446] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
-[1196] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1196] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1196] Biber.pm:4239> INFO - Sorting list 'ydnt/apasortcite//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[1197] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[1344] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1344] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1344] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[1344] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[1425] bbl.pm:660> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
-[1590] bbl.pm:763> INFO - Output to cv.bbl
-[1590] Biber.pm:131> WARN - legacy year field 'in press' in entry 'Hentschelinpress_AnnotatedCorpusTonal' is not an integer - this will probably not sort properly.
-[1591] Biber.pm:133> INFO - WARNINGS: 1
+[137] biber:340> INFO - === Sa Jan  6, 2024, 14:48:06
+[164] Biber.pm:419> INFO - Reading 'cv.bcf'
+[279] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[322] Biber.pm:4419> INFO - Processing section 0
+[341] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[351] bibtex.pm:1713> INFO - LaTeX decoding ...
+[476] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[1184] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1184] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1184] Biber.pm:4239> INFO - Sorting list 'ydnt/apasortcite//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[1184] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1270] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1270] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1270] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[1270] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1321] bbl.pm:660> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
+[1450] bbl.pm:763> INFO - Output to cv.bbl
+[1451] Biber.pm:131> WARN - legacy year field 'in press' in entry 'Hentschelinpress_AnnotatedCorpusTonal' is not an integer - this will probably not sort properly.
+[1451] Biber.pm:133> INFO - WARNINGS: 1
