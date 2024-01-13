@@ -1,5 +1,17 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'cv.blg'
-[82] biber:340> INFO - === So Jan  7, 2024, 14:28:00
-[166] Utils.pm:399> ERROR - Cannot find 'cv.bcf'!
-[166] Biber.pm:136> INFO - ERRORS: 1
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[0] Config.pm:307> INFO - Logfile is 'cv.blg'
+[98] biber:322> INFO - === Sat Jan 13, 2024, 13:40:05
+[116] Biber.pm:415> INFO - Reading 'cv.bcf'
+[198] Biber.pm:940> INFO - Using all citekeys in bib section 0
+[215] Biber.pm:4256> INFO - Processing section 0
+[216] Utils.pm:75> INFO - Globbing data source 'bibliography.bib'
+[216] Utils.pm:91> INFO - Globbed data source 'bibliography.bib' to bibliography.bib
+[227] Biber.pm:4455> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[234] bibtex.pm:1653> INFO - LaTeX decoding ...
+[378] bibtex.pm:1471> INFO - Found BibTeX data source 'bibliography.bib'
+[1124] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1124] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1124] Biber.pm:4084> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[1125] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[1187] bbl.pm:652> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
+[1261] bbl.pm:755> INFO - Output to cv.bbl

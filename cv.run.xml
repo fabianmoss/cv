@@ -85,7 +85,6 @@
     </requires>
     <requires type="editable">
       <file>bibliography.bib</file>
-      <file>bibliography_new.bib</file>
     </requires>
   </external>
 </requests>
