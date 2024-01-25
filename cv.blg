@@ -1,19 +1,19 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'cv.blg'
-[68] biber:340> INFO - === Do Jan 25, 2024, 13:31:15
+[69] biber:340> INFO - === Do Jan 25, 2024, 13:37:41
 [82] Biber.pm:419> INFO - Reading 'cv.bcf'
 [144] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[159] Biber.pm:4419> INFO - Processing section 0
+[158] Biber.pm:4419> INFO - Processing section 0
 [167] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
 [172] bibtex.pm:1713> INFO - LaTeX decoding ...
-[238] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
-[633] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[633] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[633] Biber.pm:4239> INFO - Sorting list 'ydnt/apasortcite//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[634] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[711] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[711] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[711] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[711] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[754] bbl.pm:660> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
-[840] bbl.pm:763> INFO - Output to cv.bbl
+[237] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[596] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[596] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[596] Biber.pm:4239> INFO - Sorting list 'ydnt/apasortcite//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[596] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[668] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[668] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[668] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[668] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[708] bbl.pm:660> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
+[793] bbl.pm:763> INFO - Output to cv.bbl
