@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2023.12.8)  16 FEB 2024 13:51
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2023.12.8)  16 FEB 2024 15:24
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/GitHub/fabianmoss/cv/cv
@@ -1325,7 +1325,7 @@ Underfull \hbox (badness 10000) detected at line 3
  []
 
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 5.
+(Font)              scaled to size 9.0pt on input line 9.
 
 Overfull \hbox (1.09981pt too wide) has occurred while \output is active
 []|\TU/AlegreyaSans(0)/m/it/10 󰋉/[][]󰋏[][] 
@@ -1334,10 +1334,10 @@ Overfull \hbox (1.09981pt too wide) has occurred while \output is active
 [2]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 34.
+(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 43.
 
 
-Underfull \hbox (badness 10000) detected at line 34
+Underfull \hbox (badness 10000) detected at line 43
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
@@ -1475,6 +1475,7 @@ Underfull \hbox (badness 10000) detected at line 3
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
+[7]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 13.
@@ -1484,7 +1485,6 @@ Underfull \hbox (badness 10000) detected at line 13
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-[7]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 23.
@@ -1529,12 +1529,12 @@ Here is how much of LuaTeX's memory you used:
  195579,1977958 words of node,token memory allocated
  1006 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 3 glyph, 35 attribute, 91 glue_spec, 35 attribute_list, 1 write, 26 pdf_action nodes
-   avail lists: 1:5,2:2484,3:1368,4:480,5:2923,6:119,7:16953,8:119,9:838,10:15,11:1217
+   avail lists: 1:5,2:2560,3:1548,4:528,5:3213,6:119,7:19713,8:119,9:838,10:15,11:1244
  44869 multiletter control sequences out of 65536+600000
  67 fonts using 14563727 bytes
  79i,12n,110p,2256b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/texmf/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (8 pages, 105454 bytes).
+Output written on cv.pdf (8 pages, 105768 bytes).
 
 PDF statistics: 340 PDF objects out of 1000 (max. 8388607)
  312 compressed objects within 4 object streams
