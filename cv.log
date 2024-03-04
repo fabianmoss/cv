@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.4.13)  4 MAR 2024 09:17
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.4.13)  4 MAR 2024 11:52
  system commands enabled.
  file:line:error style messages enabled.
 **/home/fmoss/GitHub/fabianmoss/cv/cv
@@ -1371,19 +1371,18 @@ Underfull \hbox (badness 10000) detected at line 43
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[][]\TU/AlegreyaSans(0)/b/n/10 Moss\TU/AlegreyaSans(0)/m/n/10 , \TU/AlegreyaSans(0)/b/n/10 F. C. \TU/AlegreyaSans(0)/m/n/10 (󰋇󰋅󰋇󰋉). Transat-lantic trans-for-ma-tions: On Neo-
+ []
+
+
 Overfull \hbox (0.502pt too wide) has occurred while \output is active
 []|\TU/AlegreyaSans(0)/m/it/10 󰋊/[][]󰋏[][] 
  []
 
 [3]
 
-LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 45.
-
-
-Underfull \hbox (badness 10000) detected at line 49
-\TU/AlegreyaSans(0)/m/n/7 .
- []
+LaTeX Warning: Empty bibliography on input line 45.
 
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
@@ -1509,8 +1508,23 @@ Overfull \hbox (0.9528pt too wide) has occurred while \output is active
  []
 
 [8] (./cv.aux)
-Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: 34CD4BD0F7368416CD23065F8859BCC9;4000.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `cv.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `cv.out':
+(rerunfilecheck)             Before: 34CD4BD0F7368416CD23065F8859BCC9;4000
+(rerunfilecheck)             After:  5DA4FD3E34621BC4CCAAEE87C0168130;3876.
+
+Package biblatex Warning: Please rerun LaTeX.
+
 Package logreq Info: Writing requests to 'cv.run.xml'.
 
 \openout1 = cv.run.xml
@@ -1521,16 +1535,18 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 25601 strings out of 478278
+ 25602 strings out of 478278
  195579,1977958 words of node,token memory allocated
  1006 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 3 glyph, 35 attribute, 91 glue_spec, 35 attribute_list, 1 write, 26 pdf_action nodes
-   avail lists: 1:2,2:2485,3:1362,4:483,5:2923,6:119,7:16917,8:119,9:838,10:15,11:1217
- 44751 multiletter control sequences out of 65536+600000
+   avail lists: 1:2,2:2410,3:1395,4:477,5:2923,6:119,7:17122,8:119,9:838,10:15,11:1217
+ 44752 multiletter control sequences out of 65536+600000
  67 fonts using 14563727 bytes
  72i,12n,110p,2256b,5178s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+warning  (pdf backend): unreferenced destination with name 'section*.31'
 </usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Italic.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Bold.otf></usr/local/texlive/2023/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (8 pages, 105448 bytes).
+Output written on cv.pdf (8 pages, 105375 bytes).
 
 PDF statistics: 340 PDF objects out of 1000 (max. 8388607)
  312 compressed objects within 4 object streams

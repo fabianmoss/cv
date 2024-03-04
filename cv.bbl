@@ -90,7 +90,7 @@
       \keyw{19th century,cadence,corpora,harmony,phrase,piano}
       \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
-    \entry{mossTransatlanticTransformationsHow2024}{inbook}{}
+    \entry{mossTransatlanticTransformationsNeoRiemannian2024}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -134,7 +134,7 @@
       \field{langid}{english}
       \field{number}{131}
       \field{series}{Studien Und {{Materialien}} Zur {{Musikwissenschaft}}}
-      \field{title}{Transatlantic Transformations: {{How Riemannian}} Is {{Neo-Riemannian}} Theory?}
+      \field{title}{Transatlantic Transformations: {{On Neo-Riemannian}} Theories}
       \field{year}{2024}
       \true{nocite}
       \field{pages}{367\bibrangedash 377}
@@ -2655,7 +2655,7 @@
       \keyw{19th century,cadence,corpora,harmony,phrase,piano}
       \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
-    \entry{mossTransatlanticTransformationsHow2024}{inbook}{}
+    \entry{mossTransatlanticTransformationsNeoRiemannian2024}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -2699,7 +2699,7 @@
       \field{langid}{english}
       \field{number}{131}
       \field{series}{Studien Und {{Materialien}} Zur {{Musikwissenschaft}}}
-      \field{title}{Transatlantic Transformations: {{How Riemannian}} Is {{Neo-Riemannian}} Theory?}
+      \field{title}{Transatlantic Transformations: {{On Neo-Riemannian}} Theories}
       \field{year}{2024}
       \true{nocite}
       \field{pages}{367\bibrangedash 377}
