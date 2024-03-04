@@ -99,17 +99,12 @@
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
-      \name{editor}{2}{}{%
+      \name{editor}{1}{}{%
         {{hash=bc3e039a38cf5d828a7515742dd9754f}{%
            family={Keym},
            familyi={K\bibinitperiod},
            given={Stefan},
            giveni={S\bibinitperiod}}}%
-        {{hash=d1418baabf86d0c9f44fdeb15618180b}{%
-           family={Hust},
-           familyi={H\bibinitperiod},
-           given={Christoph},
-           giveni={C\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Hildesheim}%
@@ -123,9 +118,9 @@
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
-      \strng{editorbibnamehash}{39d97fc75554ad085da87bb7b7764a24}
-      \strng{editornamehash}{39d97fc75554ad085da87bb7b7764a24}
-      \strng{editorfullhash}{39d97fc75554ad085da87bb7b7764a24}
+      \strng{editorbibnamehash}{bc3e039a38cf5d828a7515742dd9754f}
+      \strng{editornamehash}{bc3e039a38cf5d828a7515742dd9754f}
+      \strng{editorfullhash}{bc3e039a38cf5d828a7515742dd9754f}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -135,12 +130,18 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Kreative {{Missverständnisse}} Oder Universale {{Kunstgesetze}}? {{Hugo Riemann}} Und Der Internationale {{Musikwissenstransfer}}}
+      \field{isbn}{978-3-487-16680-3}
       \field{langid}{english}
+      \field{number}{131}
+      \field{series}{Studien Und {{Materialien}} Zur {{Musikwissenschaft}}}
       \field{title}{Transatlantic Transformations: {{How Riemannian}} Is {{Neo-Riemannian}} Theory?}
       \field{year}{2024}
       \true{nocite}
-      \field{pages}{371\bibrangedash 381}
+      \field{pages}{367\bibrangedash 377}
       \range{pages}{11}
+      \verb{file}
+      \verb /home/fmoss/Zotero/storage/MLKP9QN2/Moss - 2024 - Transatlantic transformations How Riemannian is N.pdf
+      \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
     \entry{Seipelt2023_AnalysisMarkupHarmonies}{inbook}{}
@@ -2663,17 +2664,12 @@
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
-      \name{editor}{2}{}{%
+      \name{editor}{1}{}{%
         {{hash=bc3e039a38cf5d828a7515742dd9754f}{%
            family={Keym},
            familyi={K\bibinitperiod},
            given={Stefan},
            giveni={S\bibinitperiod}}}%
-        {{hash=d1418baabf86d0c9f44fdeb15618180b}{%
-           family={Hust},
-           familyi={H\bibinitperiod},
-           given={Christoph},
-           giveni={C\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Hildesheim}%
@@ -2687,9 +2683,9 @@
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
-      \strng{editorbibnamehash}{39d97fc75554ad085da87bb7b7764a24}
-      \strng{editornamehash}{39d97fc75554ad085da87bb7b7764a24}
-      \strng{editorfullhash}{39d97fc75554ad085da87bb7b7764a24}
+      \strng{editorbibnamehash}{bc3e039a38cf5d828a7515742dd9754f}
+      \strng{editornamehash}{bc3e039a38cf5d828a7515742dd9754f}
+      \strng{editorfullhash}{bc3e039a38cf5d828a7515742dd9754f}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -2699,12 +2695,18 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Kreative {{Missverständnisse}} Oder Universale {{Kunstgesetze}}? {{Hugo Riemann}} Und Der Internationale {{Musikwissenstransfer}}}
+      \field{isbn}{978-3-487-16680-3}
       \field{langid}{english}
+      \field{number}{131}
+      \field{series}{Studien Und {{Materialien}} Zur {{Musikwissenschaft}}}
       \field{title}{Transatlantic Transformations: {{How Riemannian}} Is {{Neo-Riemannian}} Theory?}
       \field{year}{2024}
       \true{nocite}
-      \field{pages}{371\bibrangedash 381}
+      \field{pages}{367\bibrangedash 377}
       \range{pages}{11}
+      \verb{file}
+      \verb /home/fmoss/Zotero/storage/MLKP9QN2/Moss - 2024 - Transatlantic transformations How Riemannian is N.pdf
+      \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
     \entry{Seipelt2023_AnalysisMarkupHarmonies}{inbook}{}
