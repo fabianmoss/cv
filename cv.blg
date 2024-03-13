@@ -1,21 +1,21 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'cv.blg'
-[137] biber:340> INFO - === Mon Mar 11, 2024, 18:17:45
-[161] Biber.pm:419> INFO - Reading 'cv.bcf'
-[298] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[335] Biber.pm:4419> INFO - Processing section 0
-[351] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
-[359] bibtex.pm:1713> INFO - LaTeX decoding ...
-[493] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
-[1533] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1533] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1533] Biber.pm:4239> INFO - Sorting list 'ydnt/apasortcite//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[1533] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[1698] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1698] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1699] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[1699] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[1782] bbl.pm:660> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
-[1950] bbl.pm:763> INFO - Output to cv.bbl
-[1950] Biber.pm:131> WARN - ISBN '9798400708336' in entry 'Eipert2023_MonodiKitDataModela' is invalid - run biber with '--validate_datamodel' for details.
-[1950] Biber.pm:133> INFO - WARNINGS: 1
+[96] biber:340> INFO - === Wed Mar 13, 2024, 17:16:07
+[117] Biber.pm:419> INFO - Reading 'cv.bcf'
+[246] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[284] Biber.pm:4419> INFO - Processing section 0
+[298] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[305] bibtex.pm:1713> INFO - LaTeX decoding ...
+[421] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[1173] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1173] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1174] Biber.pm:4239> INFO - Sorting list 'ydnt/apasortcite//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[1174] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1335] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1336] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1336] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[1336] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1416] bbl.pm:660> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
+[1565] bbl.pm:763> INFO - Output to cv.bbl
+[1566] Biber.pm:131> WARN - ISBN '9798400708336' in entry 'Eipert2023_MonodiKitDataModela' is invalid - run biber with '--validate_datamodel' for details.
+[1566] Biber.pm:133> INFO - WARNINGS: 1
