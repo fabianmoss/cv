@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.14)  14 MAR 2024 20:00
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.14)  14 MAR 2024 20:06
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -1611,8 +1611,8 @@ Underfull \hbox (badness 10000) detected at line 3
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 13.
 
-Overfull \hbox (1.09981pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋉/[][]󰋏[][] 
+Overfull \hbox (1.10101pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋉/[][]󰋐[][] 
  []
 
 [2]
@@ -1655,8 +1655,8 @@ Underfull \hbox (badness 10000) detected at line 43
  []
 
 
-Overfull \hbox (0.502pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋊/[][]󰋏[][] 
+Overfull \hbox (0.5032pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋊/[][]󰋐[][] 
  []
 
 [3]
@@ -1730,8 +1730,8 @@ Underfull \hbox (badness 10000) detected at line 9
  []
 
 
-Overfull \hbox (1.1194pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋋/[][]󰋏[][] 
+Overfull \hbox (1.1206pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋋/[][]󰋐[][] 
  []
 
 [4]
@@ -1744,49 +1744,93 @@ Underfull \hbox (badness 10000) detected at line 56
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-Runaway argument?
-{Hofmann, T., Sapp, C., \& \textbf {Moss, F. C.} \emph {Encoding poly\ETC.
-! Paragraph ended before \\mycvitem was complete.
-<to be read again> 
-\par 
-l.67 
-   
-? X
+[5]
+Underfull \hbox (badness 5231) in paragraph at lines 84--84
+\TU/AlegreyaSans(0)/m/it/10 Diskur-s-anal-yse\TU/AlegreyaSans(0)/m/n/10 . Jahresta-gung der Gesellscha󰀙t für Musik-
+ []
 
+
+Overfull \hbox (0.8952pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋍/[][]󰋐[][] 
+ []
+
+[6]) (./teaching.tex) (./supervision.tex [7]
+
+LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
+(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 3.
+
+
+Underfull \hbox (badness 10000) detected at line 3
+\TU/AlegreyaSans(0)/m/n/7 .
+ []
+
+
+LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
+(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 13.
+
+
+Underfull \hbox (badness 10000) detected at line 13
+\TU/AlegreyaSans(0)/m/n/7 .
+ []
+
+
+LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
+(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 23.
+
+
+Underfull \hbox (badness 10000) detected at line 23
+\TU/AlegreyaSans(0)/m/n/7 .
+ []
+
+
+LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
+(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 31.
+
+
+Underfull \hbox (badness 10000) detected at line 31
+\TU/AlegreyaSans(0)/m/n/7 .
+ []
+
+) (./media.tex) (./skills.tex
+Overfull \hbox (0.95401pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋏/[][]󰋐[][] 
+ []
+
+[8])
+Overfull \hbox (0.8952pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋐/[][]󰋐[][] 
+ []
+
+[9] (./cv.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+Package rerunfilecheck Info: File `cv.out' has not changed.
+(rerunfilecheck)             Checksum: 34CD4BD0F7368416CD23065F8859BCC9;4000.
+Package logreq Info: Writing requests to 'cv.run.xml'.
+
+\openout1 = cv.run.xml
+)
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 8 ({)
+### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 24691 strings out of 476447
- 195579,1977958 words of node,token memory allocated 57224 words of node memory still in use:
-   147 hlist, 1 vlist, 3 rule, 476 disc, 26 local_par, 1 dir, 2 math, 1118 glue, 1105 kern, 158 penalty, 78 margin_kern, 4795 glyph, 435 attribute, 99 glue_spec, 435 attribute_list, 2 write, 1 pdf_start_link, 1 pdf_end_link, 1 pdf_dest, 24 pdf_action, 70 pdf_colorstack nodes
-   avail lists: 1:7,2:1684,3:1203,4:332,5:1585,6:96,7:10941,8:114,9:696,10:15,11:568
- 46208 multiletter control sequences out of 65536+600000
+ 24742 strings out of 476447
+ 195579,1977958 words of node,token memory allocated
+ 1006 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 3 glyph, 35 attribute, 91 glue_spec, 35 attribute_list, 1 write, 26 pdf_action nodes
+   avail lists: 1:7,2:2484,3:1362,4:480,5:3308,6:119,7:17678,8:119,9:838,10:15,11:1461
+ 46225 multiletter control sequences out of 65536+600000
  67 fonts using 14558447 bytes
- 79i,12n,116p,2227b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-warning  (pdf backend): unreferenced destination with name 'section*.31'
-
-warning  (pdf backend): unreferenced destination with name 'section*.30'
-
-warning  (pdf backend): unreferenced destination with name 'section*.29'
-
-warning  (pdf backend): unreferenced destination with name 'section*.28'
-
-warning  (pdf backend): unreferenced destination with name 'section*.27'
-
-warning  (pdf backend): unreferenced destination with name 'section*.26'
-
-warning  (pdf backend): unreferenced destination with name 'section*.25'
-
-warning  (pdf backend): unreferenced destination with name 'section*.24'
-
-warning  (pdf backend): unreferenced destination with name 'section*.23'
-
-warning  (pdf backend): unreferenced destination with name 'section*.22'
+ 79i,13n,116p,2227b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (4 pages, 78479 bytes).
+Output written on cv.pdf (9 pages, 111968 bytes).
 
-PDF statistics: 304 PDF objects out of 1000 (max. 8388607)
- 280 compressed objects within 3 object streams
- 74 named destinations out of 1000 (max. 131072)
+PDF statistics: 346 PDF objects out of 1000 (max. 8388607)
+ 317 compressed objects within 4 object streams
+ 79 named destinations out of 1000 (max. 131072)
  249 words of extra memory for PDF output out of 10000 (max. 100000000)
 
