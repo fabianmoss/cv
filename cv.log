@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.14)  20 MAR 2024 15:29
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.14)  20 MAR 2024 16:07
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -1737,15 +1737,15 @@ Overfull \hbox (1.1206pt too wide) has occurred while \output is active
 [4]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 56.
+(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 57.
 
 
-Underfull \hbox (badness 10000) detected at line 56
+Underfull \hbox (badness 10000) detected at line 57
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
 [5]
-Underfull \hbox (badness 5231) in paragraph at lines 83--83
+Underfull \hbox (badness 5231) in paragraph at lines 84--84
 \TU/AlegreyaSans(0)/m/it/10 Diskur-s-anal-yse\TU/AlegreyaSans(0)/m/n/10 . Jahresta-gung der Gesellscha󰀙t für Musik-
  []
 
@@ -1822,12 +1822,12 @@ Here is how much of LuaTeX's memory you used:
  244480,1977958 words of node,token memory allocated
  1006 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 3 glyph, 35 attribute, 91 glue_spec, 35 attribute_list, 1 write, 26 pdf_action nodes
-   avail lists: 1:7,2:2484,3:1363,4:480,5:3759,6:119,7:20747,8:119,9:838,10:15,11:1694
+   avail lists: 1:7,2:2484,3:1362,4:480,5:3702,6:119,7:20547,8:119,9:838,10:15,11:1655
  46225 multiletter control sequences out of 65536+600000
  67 fonts using 14558447 bytes
  79i,13n,116p,2227b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (9 pages, 113278 bytes).
+Output written on cv.pdf (9 pages, 113346 bytes).
 
 PDF statistics: 346 PDF objects out of 1000 (max. 8388607)
  317 compressed objects within 4 object streams
