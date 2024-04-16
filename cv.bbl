@@ -144,6 +144,52 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
+    \entry{mossLieckRohrmeier_TDM2024}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1328df430ce81ad909d52d5240cda451}{%
+           family={Lieck},
+           familyi={L\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a5dea51072dc95fd1c91f639c4bf00ae}
+      \strng{fullhash}{13ee943a67642861b9e08bac5e890503}
+      \strng{bibnamehash}{13ee943a67642861b9e08bac5e890503}
+      \strng{authorbibnamehash}{13ee943a67642861b9e08bac5e890503}
+      \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
+      \strng{authorfullhash}{13ee943a67642861b9e08bac5e890503}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Humanities and Social Sciences Communications}
+      \field{number}{X}
+      \field{title}{Computational modeling of interval distributions in tonal space reveals paradigmatic stylistic changes in Western music history}
+      \field{volume}{X}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+      \annotation{item}{author}{default}{1}{}{0}{me}
+    \endentry
     \entry{Seipelt2023_AnalysisMarkupHarmonies}{inbook}{}
       \name{editor}{2}{}{%
         {{hash=21c4e256ced6542ada63fa616ac47b80}{%
@@ -355,10 +401,10 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{urlraw}
-      \verb https://kontrovers.musiconn.de/2023/09/26/digitalitaet_moss/
+      \verb https://kontrovers.hypotheses.org/2368
       \endverb
       \verb{url}
-      \verb https://kontrovers.musiconn.de/2023/09/26/digitalitaet_moss/
+      \verb https://kontrovers.hypotheses.org/2368
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
@@ -1598,6 +1644,7 @@
       \strng{editorbibnamehash}{d6cd53e212b7bdf31846bd7c7646aa11}
       \strng{editornamehash}{0f5718ac33fa58f0570fbce8567a2696}
       \strng{editorfullhash}{d6cd53e212b7bdf31846bd7c7646aa11}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2709,6 +2756,52 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
+    \entry{mossLieckRohrmeier_TDM2024}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1328df430ce81ad909d52d5240cda451}{%
+           family={Lieck},
+           familyi={L\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a5dea51072dc95fd1c91f639c4bf00ae}
+      \strng{fullhash}{13ee943a67642861b9e08bac5e890503}
+      \strng{bibnamehash}{13ee943a67642861b9e08bac5e890503}
+      \strng{authorbibnamehash}{13ee943a67642861b9e08bac5e890503}
+      \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
+      \strng{authorfullhash}{13ee943a67642861b9e08bac5e890503}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Humanities and Social Sciences Communications}
+      \field{number}{X}
+      \field{title}{Computational modeling of interval distributions in tonal space reveals paradigmatic stylistic changes in Western music history}
+      \field{volume}{X}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+      \annotation{item}{author}{default}{1}{}{0}{me}
+    \endentry
     \entry{Seipelt2023_AnalysisMarkupHarmonies}{inbook}{}
       \name{editor}{2}{}{%
         {{hash=21c4e256ced6542ada63fa616ac47b80}{%
@@ -2920,10 +3013,10 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{urlraw}
-      \verb https://kontrovers.musiconn.de/2023/09/26/digitalitaet_moss/
+      \verb https://kontrovers.hypotheses.org/2368
       \endverb
       \verb{url}
-      \verb https://kontrovers.musiconn.de/2023/09/26/digitalitaet_moss/
+      \verb https://kontrovers.hypotheses.org/2368
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
@@ -4010,6 +4103,7 @@
       \strng{editorbibnamehash}{d6cd53e212b7bdf31846bd7c7646aa11}
       \strng{editornamehash}{0f5718ac33fa58f0570fbce8567a2696}
       \strng{editorfullhash}{d6cd53e212b7bdf31846bd7c7646aa11}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
