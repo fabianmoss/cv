@@ -19,6 +19,50 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/apasortcite//global/global/global}
+    \entry{Mossaccepted_ComputationalModelingInterval}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3543c37a99b858ac0072a58264686db9}{%
+           family={Lieck},
+           familyi={L\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a5dea51072dc95fd1c91f639c4bf00ae}
+      \strng{fullhash}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{fullhashraw}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{bibnamehash}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{authorbibnamehash}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
+      \strng{authorfullhash}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{authorfullhashraw}{31934c58552d8c28a9609a26923b9ef8}
+      \field{extraname}{1}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Humanities and Social Sciences Communications}
+      \field{langid}{english}
+      \field{title}{Computational Modeling of Interval Distributions in Tonal Space Reveals Paradigmatic Stylistic Changes in {{Western}} Music History}
+      \field{year}{accepted}
+      \true{nocite}
+      \annotation{item}{author}{default}{1}{}{0}{me}
+    \endentry
     \entry{hentschelAnnotatedCorpusTonal2024}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=cfbc8f6b5670f470a32ea8f6fab343f6}{%
@@ -148,6 +192,93 @@
       \verb /home/fmoss/Zotero/storage/MLKP9QN2/Moss - 2024 - Transatlantic transformations How Riemannian is N.pdf
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
+    \endentry
+    \entry{PereiraEtAl2024}{inbook}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=16f7d66feca3afd0e1d504c7705989fb}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b367e074114ad8e67a871f942064d52d}{%
+           family={Affatato},
+           familyi={A\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=956f44de4f27abd39a15094dd50f6a4c}{%
+           family={Bernardes},
+           familyi={B\bibinitperiod},
+           given={Gilberto},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{6}{}{%
+        {{hash=8cbd99e2dde2e6cf937cc5631c4b8e34}{%
+           family={Noll},
+           familyi={N\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a55835f6260ebf9c0aff2819e945513a}{%
+           family={Oliveira\bibnamedelima Martins},
+           familyi={O\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod}}}%
+        {{hash=265e58e6a8fe97175abff1fbcb58622c}{%
+           family={Montiel},
+           familyi={M\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod}}}%
+        {{hash=eab9261221e3e0acf81a53cd2b399eae}{%
+           family={Gómez\bibnamedelima Martín},
+           familyi={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=8394eb50ca59114325e3fbef65e19de3}{%
+           family={Besada},
+           familyi={B\bibinitperiod},
+           given={José\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=e351f3ada5e8b072be2e227ef6aa0476}{%
+           family={Costa\bibnamedelima Hamido},
+           familyi={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Omar},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Coimbra, Portugal}%
+      }
+      \strng{namehash}{7a7b96b0b36a943c2f39285ee6c87694}
+      \strng{fullhash}{e7e8a3f068f8b8c186a6f7a37df77360}
+      \strng{fullhashraw}{e7e8a3f068f8b8c186a6f7a37df77360}
+      \strng{bibnamehash}{e7e8a3f068f8b8c186a6f7a37df77360}
+      \strng{authorbibnamehash}{e7e8a3f068f8b8c186a6f7a37df77360}
+      \strng{authornamehash}{7a7b96b0b36a943c2f39285ee6c87694}
+      \strng{authorfullhash}{e7e8a3f068f8b8c186a6f7a37df77360}
+      \strng{authorfullhashraw}{e7e8a3f068f8b8c186a6f7a37df77360}
+      \strng{editorbibnamehash}{5723dcf7729a4237af7fb0eec82752ce}
+      \strng{editornamehash}{04bb07da2fcb92d64201ae08707f0e74}
+      \strng{editorfullhash}{5723dcf7729a4237af7fb0eec82752ce}
+      \strng{editorfullhashraw}{5723dcf7729a4237af7fb0eec82752ce}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 9th International Congress on Mathematics and Computation in Music (MCM2024)}}
+      \field{title}{{Fourier Qualia Wavescapes: Hierarchical Analyses of Set Class Quality and Ambiguity}}
+      \field{year}{2024}
+      \true{nocite}
+      \annotation{item}{author}{default}{4}{}{0}{me}
     \endentry
     \entry{Seipelt2023_AnalysisMarkupHarmonies}{inbook}{}{}
       \name{editor}{2}{}{%
@@ -1655,6 +1786,7 @@
       \strng{editornamehash}{0f5718ac33fa58f0570fbce8567a2696}
       \strng{editorfullhash}{d6cd53e212b7bdf31846bd7c7646aa11}
       \strng{editorfullhashraw}{d6cd53e212b7bdf31846bd7c7646aa11}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2678,6 +2810,50 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global//global/global/global}
+    \entry{Mossaccepted_ComputationalModelingInterval}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3543c37a99b858ac0072a58264686db9}{%
+           family={Lieck},
+           familyi={L\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a5dea51072dc95fd1c91f639c4bf00ae}
+      \strng{fullhash}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{fullhashraw}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{bibnamehash}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{authorbibnamehash}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
+      \strng{authorfullhash}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{authorfullhashraw}{31934c58552d8c28a9609a26923b9ef8}
+      \field{extraname}{1}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Humanities and Social Sciences Communications}
+      \field{langid}{english}
+      \field{title}{Computational Modeling of Interval Distributions in Tonal Space Reveals Paradigmatic Stylistic Changes in {{Western}} Music History}
+      \field{year}{accepted}
+      \true{nocite}
+      \annotation{item}{author}{default}{1}{}{0}{me}
+    \endentry
     \entry{hentschelAnnotatedCorpusTonal2024}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=cfbc8f6b5670f470a32ea8f6fab343f6}{%
@@ -2807,6 +2983,93 @@
       \verb /home/fmoss/Zotero/storage/MLKP9QN2/Moss - 2024 - Transatlantic transformations How Riemannian is N.pdf
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
+    \endentry
+    \entry{PereiraEtAl2024}{inbook}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=16f7d66feca3afd0e1d504c7705989fb}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b367e074114ad8e67a871f942064d52d}{%
+           family={Affatato},
+           familyi={A\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=956f44de4f27abd39a15094dd50f6a4c}{%
+           family={Bernardes},
+           familyi={B\bibinitperiod},
+           given={Gilberto},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{6}{}{%
+        {{hash=8cbd99e2dde2e6cf937cc5631c4b8e34}{%
+           family={Noll},
+           familyi={N\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a55835f6260ebf9c0aff2819e945513a}{%
+           family={Oliveira\bibnamedelima Martins},
+           familyi={O\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod}}}%
+        {{hash=265e58e6a8fe97175abff1fbcb58622c}{%
+           family={Montiel},
+           familyi={M\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod}}}%
+        {{hash=eab9261221e3e0acf81a53cd2b399eae}{%
+           family={Gómez\bibnamedelima Martín},
+           familyi={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=8394eb50ca59114325e3fbef65e19de3}{%
+           family={Besada},
+           familyi={B\bibinitperiod},
+           given={José\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=e351f3ada5e8b072be2e227ef6aa0476}{%
+           family={Costa\bibnamedelima Hamido},
+           familyi={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Omar},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Coimbra, Portugal}%
+      }
+      \strng{namehash}{7a7b96b0b36a943c2f39285ee6c87694}
+      \strng{fullhash}{e7e8a3f068f8b8c186a6f7a37df77360}
+      \strng{fullhashraw}{e7e8a3f068f8b8c186a6f7a37df77360}
+      \strng{bibnamehash}{e7e8a3f068f8b8c186a6f7a37df77360}
+      \strng{authorbibnamehash}{e7e8a3f068f8b8c186a6f7a37df77360}
+      \strng{authornamehash}{7a7b96b0b36a943c2f39285ee6c87694}
+      \strng{authorfullhash}{e7e8a3f068f8b8c186a6f7a37df77360}
+      \strng{authorfullhashraw}{e7e8a3f068f8b8c186a6f7a37df77360}
+      \strng{editorbibnamehash}{5723dcf7729a4237af7fb0eec82752ce}
+      \strng{editornamehash}{04bb07da2fcb92d64201ae08707f0e74}
+      \strng{editorfullhash}{5723dcf7729a4237af7fb0eec82752ce}
+      \strng{editorfullhashraw}{5723dcf7729a4237af7fb0eec82752ce}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 9th International Congress on Mathematics and Computation in Music (MCM2024)}}
+      \field{title}{{Fourier Qualia Wavescapes: Hierarchical Analyses of Set Class Quality and Ambiguity}}
+      \field{year}{2024}
+      \true{nocite}
+      \annotation{item}{author}{default}{4}{}{0}{me}
     \endentry
     \entry{Seipelt2023_AnalysisMarkupHarmonies}{inbook}{}{}
       \name{editor}{2}{}{%
@@ -4155,6 +4418,7 @@
       \strng{editornamehash}{0f5718ac33fa58f0570fbce8567a2696}
       \strng{editorfullhash}{d6cd53e212b7bdf31846bd7c7646aa11}
       \strng{editorfullhashraw}{d6cd53e212b7bdf31846bd7c7646aa11}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
