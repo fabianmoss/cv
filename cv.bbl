@@ -19,50 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/apasortcite//global/global/global}
-    \entry{Mossaccepted_ComputationalModelingInterval}{article}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
-           family={Moss},
-           familyi={M\bibinitperiod},
-           given={Fabian\bibnamedelima C},
-           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3543c37a99b858ac0072a58264686db9}{%
-           family={Lieck},
-           familyi={L\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
-           family={Rohrmeier},
-           familyi={R\bibinitperiod},
-           given={Martin},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{a5dea51072dc95fd1c91f639c4bf00ae}
-      \strng{fullhash}{31934c58552d8c28a9609a26923b9ef8}
-      \strng{fullhashraw}{31934c58552d8c28a9609a26923b9ef8}
-      \strng{bibnamehash}{31934c58552d8c28a9609a26923b9ef8}
-      \strng{authorbibnamehash}{31934c58552d8c28a9609a26923b9ef8}
-      \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
-      \strng{authorfullhash}{31934c58552d8c28a9609a26923b9ef8}
-      \strng{authorfullhashraw}{31934c58552d8c28a9609a26923b9ef8}
-      \field{extraname}{1}
-      \field{sortinit}{a}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Humanities and Social Sciences Communications}
-      \field{langid}{english}
-      \field{title}{Computational Modeling of Interval Distributions in Tonal Space Reveals Paradigmatic Stylistic Changes in {{Western}} Music History}
-      \field{year}{accepted}
-      \true{nocite}
-      \annotation{item}{author}{default}{1}{}{0}{me}
-    \endentry
     \entry{hentschelAnnotatedCorpusTonal2024}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=cfbc8f6b5670f470a32ea8f6fab343f6}{%
@@ -190,6 +146,53 @@
       \range{pages}{11}
       \verb{file}
       \verb /home/fmoss/Zotero/storage/MLKP9QN2/Moss - 2024 - Transatlantic transformations How Riemannian is N.pdf
+      \endverb
+      \annotation{item}{author}{default}{1}{}{0}{me}
+    \endentry
+    \entry{Moss2024_ComputationalModelingInterval}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3543c37a99b858ac0072a58264686db9}{%
+           family={Lieck},
+           familyi={L\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a5dea51072dc95fd1c91f639c4bf00ae}
+      \strng{fullhash}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{fullhashraw}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{bibnamehash}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{authorbibnamehash}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
+      \strng{authorfullhash}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{authorfullhashraw}{31934c58552d8c28a9609a26923b9ef8}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Humanities and Social Sciences Communications}
+      \field{langid}{english}
+      \field{title}{Computational Modeling of Interval Distributions in Tonal Space Reveals Paradigmatic Stylistic Changes in {{Western}} Music History}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1057/s41599-024-03168-1
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
@@ -2810,50 +2813,6 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global//global/global/global}
-    \entry{Mossaccepted_ComputationalModelingInterval}{article}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
-           family={Moss},
-           familyi={M\bibinitperiod},
-           given={Fabian\bibnamedelima C},
-           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3543c37a99b858ac0072a58264686db9}{%
-           family={Lieck},
-           familyi={L\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
-           family={Rohrmeier},
-           familyi={R\bibinitperiod},
-           given={Martin},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{a5dea51072dc95fd1c91f639c4bf00ae}
-      \strng{fullhash}{31934c58552d8c28a9609a26923b9ef8}
-      \strng{fullhashraw}{31934c58552d8c28a9609a26923b9ef8}
-      \strng{bibnamehash}{31934c58552d8c28a9609a26923b9ef8}
-      \strng{authorbibnamehash}{31934c58552d8c28a9609a26923b9ef8}
-      \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
-      \strng{authorfullhash}{31934c58552d8c28a9609a26923b9ef8}
-      \strng{authorfullhashraw}{31934c58552d8c28a9609a26923b9ef8}
-      \field{extraname}{1}
-      \field{sortinit}{a}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Humanities and Social Sciences Communications}
-      \field{langid}{english}
-      \field{title}{Computational Modeling of Interval Distributions in Tonal Space Reveals Paradigmatic Stylistic Changes in {{Western}} Music History}
-      \field{year}{accepted}
-      \true{nocite}
-      \annotation{item}{author}{default}{1}{}{0}{me}
-    \endentry
     \entry{hentschelAnnotatedCorpusTonal2024}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=cfbc8f6b5670f470a32ea8f6fab343f6}{%
@@ -2981,6 +2940,53 @@
       \range{pages}{11}
       \verb{file}
       \verb /home/fmoss/Zotero/storage/MLKP9QN2/Moss - 2024 - Transatlantic transformations How Riemannian is N.pdf
+      \endverb
+      \annotation{item}{author}{default}{1}{}{0}{me}
+    \endentry
+    \entry{Moss2024_ComputationalModelingInterval}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3543c37a99b858ac0072a58264686db9}{%
+           family={Lieck},
+           familyi={L\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a5dea51072dc95fd1c91f639c4bf00ae}
+      \strng{fullhash}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{fullhashraw}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{bibnamehash}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{authorbibnamehash}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
+      \strng{authorfullhash}{31934c58552d8c28a9609a26923b9ef8}
+      \strng{authorfullhashraw}{31934c58552d8c28a9609a26923b9ef8}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Humanities and Social Sciences Communications}
+      \field{langid}{english}
+      \field{title}{Computational Modeling of Interval Distributions in Tonal Space Reveals Paradigmatic Stylistic Changes in {{Western}} Music History}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1057/s41599-024-03168-1
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
