@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'cv.blg'
 [96] biber:340> INFO - === Sa Mai 18, 2024, 17:42:46
@@ -17,3 +18,26 @@
 [857] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
 [904] bbl.pm:676> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
 [964] bbl.pm:779> INFO - Output to cv.bbl
+=======
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'cv.blg'
+[35] biber:340> INFO - === Fri May 17, 2024, 16:33:39
+[44] Biber.pm:419> INFO - Reading 'cv.bcf'
+[86] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[98] Biber.pm:4419> INFO - Processing section 0
+[104] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[107] bibtex.pm:1713> INFO - LaTeX decoding ...
+[149] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[391] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[391] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[391] Biber.pm:4239> INFO - Sorting list 'ydnt/apasortcite//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[391] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[439] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[440] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[440] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[440] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[468] bbl.pm:660> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
+[541] bbl.pm:763> INFO - Output to cv.bbl
+[541] Biber.pm:131> WARN - ISBN '9798400708336' in entry 'Eipert2023_MonodiKitDataModela' is invalid - run biber with '--validate_datamodel' for details.
+[541] Biber.pm:133> INFO - WARNINGS: 1
+>>>>>>> e9334ebacf04616888c10b32719b685dafbe22a9
