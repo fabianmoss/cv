@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,13 +18,8 @@
 
 
 \refsection{0}
-<<<<<<< HEAD
   \datalist[entry]{ydnt/apasortcite//global/global/global}
     \entry{hentschelAnnotatedCorpusTonal2024}{article}{}{}
-=======
-  \datalist[entry]{ydnt/apasortcite//global/global}
-    \entry{hentschelAnnotatedCorpusTonal2024}{article}{}
->>>>>>> e9334ebacf04616888c10b32719b685dafbe22a9
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=cfbc8f6b5670f470a32ea8f6fab343f6}{%
            family={Hentschel},
@@ -59,10 +54,12 @@
       }
       \strng{namehash}{6f2097b8c92c18656bf14d98fb44f014}
       \strng{fullhash}{8426d6e22d65eb56e060ff7836d2f550}
+      \strng{fullhashraw}{8426d6e22d65eb56e060ff7836d2f550}
       \strng{bibnamehash}{8426d6e22d65eb56e060ff7836d2f550}
       \strng{authorbibnamehash}{8426d6e22d65eb56e060ff7836d2f550}
       \strng{authornamehash}{6f2097b8c92c18656bf14d98fb44f014}
       \strng{authorfullhash}{8426d6e22d65eb56e060ff7836d2f550}
+      \strng{authorfullhashraw}{8426d6e22d65eb56e060ff7836d2f550}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -95,7 +92,7 @@
       \keyw{19th century,cadence,corpora,harmony,phrase,piano}
       \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
-    \entry{mossTransatlanticTransformationsNeoRiemannian2024}{inbook}{}
+    \entry{mossTransatlanticTransformationsNeoRiemannian2024}{inbook}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -119,13 +116,16 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{editorbibnamehash}{bc3e039a38cf5d828a7515742dd9754f}
       \strng{editornamehash}{bc3e039a38cf5d828a7515742dd9754f}
       \strng{editorfullhash}{bc3e039a38cf5d828a7515742dd9754f}
+      \strng{editorfullhashraw}{bc3e039a38cf5d828a7515742dd9754f}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -149,11 +149,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-<<<<<<< HEAD
     \entry{Moss2024_ComputationalModelingInterval}{article}{}{}
-=======
-    \entry{Moss2024_ComputationalModelingInterval}{article}{}
->>>>>>> e9334ebacf04616888c10b32719b685dafbe22a9
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -176,18 +172,12 @@
       }
       \strng{namehash}{a5dea51072dc95fd1c91f639c4bf00ae}
       \strng{fullhash}{31934c58552d8c28a9609a26923b9ef8}
-<<<<<<< HEAD
       \strng{fullhashraw}{31934c58552d8c28a9609a26923b9ef8}
-=======
->>>>>>> e9334ebacf04616888c10b32719b685dafbe22a9
       \strng{bibnamehash}{31934c58552d8c28a9609a26923b9ef8}
       \strng{authorbibnamehash}{31934c58552d8c28a9609a26923b9ef8}
       \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
       \strng{authorfullhash}{31934c58552d8c28a9609a26923b9ef8}
-<<<<<<< HEAD
       \strng{authorfullhashraw}{31934c58552d8c28a9609a26923b9ef8}
-=======
->>>>>>> e9334ebacf04616888c10b32719b685dafbe22a9
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -206,11 +196,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-<<<<<<< HEAD
-    \entry{PereiraEtAl2024}{inbook}{}{}
-=======
-    \entry{PereiraEtAl2024}{inbook}{}
->>>>>>> e9334ebacf04616888c10b32719b685dafbe22a9
+    \entry{Pereira2024_FourierQualiaWavescapes}{inbook}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=16f7d66feca3afd0e1d504c7705989fb}{%
            family={Pereira},
@@ -233,7 +219,7 @@
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
            familyi={M\bibinitperiod},
-           given={Fabian\bibnamedelima C},
+           given={Fabian\bibnamedelima C.},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
@@ -243,58 +229,77 @@
            familyi={N\bibinitperiod},
            given={Thomas},
            giveni={T\bibinitperiod}}}%
-        {{hash=a55835f6260ebf9c0aff2819e945513a}{%
-           family={Oliveira\bibnamedelima Martins},
-           familyi={O\bibinitperiod\bibinitdelim M\bibinitperiod},
-           given={José},
-           giveni={J\bibinitperiod}}}%
         {{hash=265e58e6a8fe97175abff1fbcb58622c}{%
            family={Montiel},
            familyi={M\bibinitperiod},
            given={Mariana},
            giveni={M\bibinitperiod}}}%
-        {{hash=eab9261221e3e0acf81a53cd2b399eae}{%
-           family={Gómez\bibnamedelima Martín},
-           familyi={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+        {{hash=60553cc87f5961a4b792201f1e5f0f07}{%
+           family={Gómez},
+           familyi={G\bibinitperiod},
            given={Francisco},
            giveni={F\bibinitperiod}}}%
-        {{hash=8394eb50ca59114325e3fbef65e19de3}{%
+        {{hash=2b517b5c2005aa42ccbf54c66b86e376}{%
+           family={Hamido},
+           familyi={H\bibinitperiod},
+           given={Omar\bibnamedelima Costa},
+           giveni={O\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=1b68a22c35b2f0a5ef6f0cfe44500ca1}{%
            family={Besada},
            familyi={B\bibinitperiod},
-           given={José\bibnamedelima L.},
+           given={José\bibnamedelima Luis},
            giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=e351f3ada5e8b072be2e227ef6aa0476}{%
-           family={Costa\bibnamedelima Hamido},
-           familyi={C\bibinitperiod\bibinitdelim H\bibinitperiod},
-           given={Omar},
-           giveni={O\bibinitperiod}}}%
+        {{hash=f57031ce65b78eb7814dac48faf468be}{%
+           family={Martins},
+           familyi={M\bibinitperiod},
+           given={José\bibnamedelima Oliveira},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Coimbra, Portugal}%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature Switzerland}%
       }
       \strng{namehash}{7a7b96b0b36a943c2f39285ee6c87694}
       \strng{fullhash}{e7e8a3f068f8b8c186a6f7a37df77360}
+      \strng{fullhashraw}{e7e8a3f068f8b8c186a6f7a37df77360}
       \strng{bibnamehash}{e7e8a3f068f8b8c186a6f7a37df77360}
       \strng{authorbibnamehash}{e7e8a3f068f8b8c186a6f7a37df77360}
       \strng{authornamehash}{7a7b96b0b36a943c2f39285ee6c87694}
       \strng{authorfullhash}{e7e8a3f068f8b8c186a6f7a37df77360}
-      \strng{editorbibnamehash}{5723dcf7729a4237af7fb0eec82752ce}
+      \strng{authorfullhashraw}{e7e8a3f068f8b8c186a6f7a37df77360}
+      \strng{editorbibnamehash}{bc03d9645fc15e157e623b54e64a5fce}
       \strng{editornamehash}{04bb07da2fcb92d64201ae08707f0e74}
-      \strng{editorfullhash}{5723dcf7729a4237af7fb0eec82752ce}
+      \strng{editorfullhash}{bc03d9645fc15e157e623b54e64a5fce}
+      \strng{editorfullhashraw}{bc03d9645fc15e157e623b54e64a5fce}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{{Proceedings of the 9th International Congress on Mathematics and Computation in Music (MCM2024)}}
-      \field{title}{{Fourier Qualia Wavescapes: Hierarchical Analyses of Set Class Quality and Ambiguity}}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We introduce a novel perspective on set-class analysis combining the DFT magnitudes with the music visualisation technique of wavescapes. With such a combination, we create a visual representation of a piece's multidimensional qualia, where different colours indicate saliency in chromaticity, diadicity, triadicity, octatonicity, diatonicity, and whole-tone quality. At the centre of our methods are: 1) the formal definition of the Fourier Qualia Space (FQS), 2) its particular ordering of DFT coefficients that delineate regions linked to different musical aesthetics, and 3) the mapping of such regions into a coloured wavescape. Furthermore, we demonstrate the intrinsic capability of the FQS to express qualia ambiguity and map it into a synopsis wavescape. Finally, we showcase the application of our methods by presenting a few analytical remarks on Bach's Three-part Invention BWV 795, Debussy's Reflets dans l'eau, and Webern's Four Pieces for Violin and Piano, Op. 7, No. 1, unveiling increasingly ambiguous wavescapes.}
+      \field{booktitle}{Mathematics and {{Computation}} in {{Music}}}
+      \field{isbn}{978-3-031-60638-0}
+      \field{langid}{english}
+      \field{shorttitle}{Fourier {{Qualia Wavescapes}}}
+      \field{title}{Fourier {{Qualia Wavescapes}}: {{Hierarchical Analyses}} of~{{Set Class Quality}} and~{{Ambiguity}}}
       \field{year}{2024}
       \true{nocite}
+      \field{pages}{317\bibrangedash 329}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/978-3-031-60638-0_25
+      \endverb
+      \verb{file}
+      \verb /home/fmoss/Zotero/storage/37JEWDI7/Pereira et al. - 2024 - Fourier Qualia Wavescapes Hierarchical Analyses o.pdf
+      \endverb
+      \keyw{Fourier Qualia Space,Fourier transform,harmonic qualities,music analysis,wavescapes}
       \annotation{item}{author}{default}{4}{}{0}{me}
     \endentry
-    \entry{Seipelt2023_AnalysisMarkupHarmonies}{inbook}{}
+    \entry{Seipelt2023_AnalysisMarkupHarmonies}{inbook}{}{}
       \name{editor}{2}{}{%
         {{hash=21c4e256ced6542ada63fa616ac47b80}{%
            family={Seipelt},
@@ -322,9 +327,11 @@
       \strng{editorbibnamehash}{129378d375b4b25e622cfee5e02755f9}
       \strng{editornamehash}{129378d375b4b25e622cfee5e02755f9}
       \strng{editorfullhash}{129378d375b4b25e622cfee5e02755f9}
+      \strng{editorfullhashraw}{129378d375b4b25e622cfee5e02755f9}
       \strng{editorbbibnamehash}{7a8e9c16d22cb2266220f056633b586c}
       \strng{editorbnamehash}{7a8e9c16d22cb2266220f056633b586c}
       \strng{editorbfullhash}{7a8e9c16d22cb2266220f056633b586c}
+      \strng{editorbfullhashraw}{7a8e9c16d22cb2266220f056633b586c}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -341,7 +348,7 @@
       \range{pages}{26}
       \annotation{item}{editor}{default}{2}{}{0}{me}
     \endentry
-    \entry{Eipert2023_CorpusTroporumDataset}{dataset}{}
+    \entry{Eipert2023_CorpusTroporumDataset}{dataset}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=dfc272ac2c275fa5134e703122e15c59}{%
            family={Eipert},
@@ -361,10 +368,12 @@
       }
       \strng{namehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{fullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{fullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{bibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorbibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -397,7 +406,7 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Eipert2023_MonodiKitDataModela}{inbook}{}
+    \entry{Eipert2023_MonodiKitDataModela}{inbook}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=dfc272ac2c275fa5134e703122e15c59}{%
            family={Eipert},
@@ -427,13 +436,16 @@
       }
       \strng{namehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{fullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{fullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{bibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorbibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{editorbibnamehash}{77696942f2b7b45e14a7f7bcddc807f5}
       \strng{editornamehash}{77696942f2b7b45e14a7f7bcddc807f5}
       \strng{editorfullhash}{77696942f2b7b45e14a7f7bcddc807f5}
+      \strng{editorfullhashraw}{77696942f2b7b45e14a7f7bcddc807f5}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -470,7 +482,7 @@
       \keyw{corpus studies,data model,medieval chant,music encoding,Python}
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Moss2023_VorsichtSackgassePlaedoyer}{online}{}
+    \entry{Moss2023_VorsichtSackgassePlaedoyer}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -484,10 +496,12 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -512,7 +526,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Nakamura2023_HistoricalChangesModes}{inbook}{}
+    \entry{Nakamura2023_HistoricalChangesModes}{inbook}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=71ecf9c0bbf93c7ff4ddadb646820f26}{%
            family={Nakamura},
@@ -552,13 +566,16 @@
       }
       \strng{namehash}{6e3d6b5c8795303d367175d171d99999}
       \strng{fullhash}{d612804daa8531b88a611e492ecf77a1}
+      \strng{fullhashraw}{d612804daa8531b88a611e492ecf77a1}
       \strng{bibnamehash}{d612804daa8531b88a611e492ecf77a1}
       \strng{authorbibnamehash}{d612804daa8531b88a611e492ecf77a1}
       \strng{authornamehash}{6e3d6b5c8795303d367175d171d99999}
       \strng{authorfullhash}{d612804daa8531b88a611e492ecf77a1}
+      \strng{authorfullhashraw}{d612804daa8531b88a611e492ecf77a1}
       \strng{editorbibnamehash}{a11b28ef95d1af1e74463f8908fac8c7}
       \strng{editornamehash}{3c64c36d79cb65b58aff15909698a934}
       \strng{editorfullhash}{a11b28ef95d1af1e74463f8908fac8c7}
+      \strng{editorfullhashraw}{a11b28ef95d1af1e74463f8908fac8c7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -592,7 +609,7 @@
       \endverb
       \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
-    \entry{Bracks2022_TotoliArtLelegesan}{inbook}{}
+    \entry{Bracks2022_TotoliArtLelegesan}{inbook}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=615525bb61685addcc4bfb033a3c4270}{%
            family={Bracks},
@@ -624,13 +641,16 @@
       }
       \strng{namehash}{11770833b5f163063740247c22ca1fa5}
       \strng{fullhash}{11770833b5f163063740247c22ca1fa5}
+      \strng{fullhashraw}{11770833b5f163063740247c22ca1fa5}
       \strng{bibnamehash}{11770833b5f163063740247c22ca1fa5}
       \strng{authorbibnamehash}{11770833b5f163063740247c22ca1fa5}
       \strng{authornamehash}{11770833b5f163063740247c22ca1fa5}
       \strng{authorfullhash}{11770833b5f163063740247c22ca1fa5}
+      \strng{authorfullhashraw}{11770833b5f163063740247c22ca1fa5}
       \strng{editorbibnamehash}{8856b87f9716ebc63e2ac2c308be3d9c}
       \strng{editornamehash}{8856b87f9716ebc63e2ac2c308be3d9c}
       \strng{editorfullhash}{8856b87f9716ebc63e2ac2c308be3d9c}
+      \strng{editorfullhashraw}{8856b87f9716ebc63e2ac2c308be3d9c}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -657,7 +677,7 @@
       \keyw{and Cultures,Arts and Humanities,Computational music analysis,Digital Humanities,ethnomusicology,Ethnomusicology,Indonesia,Language Description and Documentation,Language documentation,Language endangerment,Lelegesan,Linguistics,Music,Musicology,Other Languages,Social and Behavioral Sciences,Societies,South and Southeast Asian Languages and Societies}
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Harasim2022_MidiVERTOWebApplication}{inbook}{}
+    \entry{Harasim2022_MidiVERTOWebApplication}{inbook}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=6da55031daa5da1803b5ef5b128b85a4}{%
            family={Harasim},
@@ -718,13 +738,16 @@
       }
       \strng{namehash}{662077d80a2f9a5c3cdef43330bfad50}
       \strng{fullhash}{59b6278f14665f6e3e9b9202c4e2408e}
+      \strng{fullhashraw}{59b6278f14665f6e3e9b9202c4e2408e}
       \strng{bibnamehash}{59b6278f14665f6e3e9b9202c4e2408e}
       \strng{authorbibnamehash}{59b6278f14665f6e3e9b9202c4e2408e}
       \strng{authornamehash}{662077d80a2f9a5c3cdef43330bfad50}
       \strng{authorfullhash}{59b6278f14665f6e3e9b9202c4e2408e}
+      \strng{authorfullhashraw}{59b6278f14665f6e3e9b9202c4e2408e}
       \strng{editorbibnamehash}{f80d48224cd4b2ef99743c7dcb75e259}
       \strng{editornamehash}{784a5a5a688528c98731f917196cf0a1}
       \strng{editorfullhash}{f80d48224cd4b2ef99743c7dcb75e259}
+      \strng{editorfullhashraw}{f80d48224cd4b2ef99743c7dcb75e259}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -753,7 +776,7 @@
       \keyw{Discrete Fourier transform,MIDI,Tonality,Visualization,Web application}
       \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
-    \entry{Hentschel2021_UnifiedModelChords}{inbook}{}
+    \entry{Hentschel2021_UnifiedModelChords}{inbook}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=cfbc8f6b5670f470a32ea8f6fab343f6}{%
            family={Hentschel},
@@ -806,13 +829,16 @@
       }
       \strng{namehash}{6f2097b8c92c18656bf14d98fb44f014}
       \strng{fullhash}{a320fca8f8a9536d8374e96bea9b08ea}
+      \strng{fullhashraw}{a320fca8f8a9536d8374e96bea9b08ea}
       \strng{bibnamehash}{a320fca8f8a9536d8374e96bea9b08ea}
       \strng{authorbibnamehash}{a320fca8f8a9536d8374e96bea9b08ea}
       \strng{authornamehash}{6f2097b8c92c18656bf14d98fb44f014}
       \strng{authorfullhash}{a320fca8f8a9536d8374e96bea9b08ea}
+      \strng{authorfullhashraw}{a320fca8f8a9536d8374e96bea9b08ea}
       \strng{editorbibnamehash}{410fb40aff369ee7c078750b85bcbcbd}
       \strng{editornamehash}{410fb40aff369ee7c078750b85bcbcbd}
       \strng{editorfullhash}{410fb40aff369ee7c078750b85bcbcbd}
+      \strng{editorfullhashraw}{410fb40aff369ee7c078750b85bcbcbd}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -838,7 +864,7 @@
       \keyw{mec-proceedings,mec-proceedings-2021}
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Moss2022_PhantomCurvesScientific}{inbook}{}
+    \entry{Moss2022_PhantomCurvesScientific}{inbook}{}{}
       \name{author}{3}{ul=2}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -874,13 +900,16 @@
       }
       \strng{namehash}{1cdcd4fc8e48dd536751f0de782aa86e}
       \strng{fullhash}{1cdcd4fc8e48dd536751f0de782aa86e}
+      \strng{fullhashraw}{1cdcd4fc8e48dd536751f0de782aa86e}
       \strng{bibnamehash}{1cdcd4fc8e48dd536751f0de782aa86e}
       \strng{authorbibnamehash}{1cdcd4fc8e48dd536751f0de782aa86e}
       \strng{authornamehash}{1cdcd4fc8e48dd536751f0de782aa86e}
       \strng{authorfullhash}{1cdcd4fc8e48dd536751f0de782aa86e}
+      \strng{authorfullhashraw}{1cdcd4fc8e48dd536751f0de782aa86e}
       \strng{editorbibnamehash}{a7a369936b5ad6f5101cd8ae447667e2}
       \strng{editornamehash}{a7a369936b5ad6f5101cd8ae447667e2}
       \strng{editorfullhash}{a7a369936b5ad6f5101cd8ae447667e2}
+      \strng{editorfullhashraw}{a7a369936b5ad6f5101cd8ae447667e2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -908,7 +937,7 @@
       \keyw{discrete Fourier transform,music visualization,scientific discovery,web application}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2022_19MTOMRDatasetMultimodal}{dataset}{}
+    \entry{Moss2022_19MTOMRDatasetMultimodal}{dataset}{}{}
       \name{author}{4}{ul=2}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -940,10 +969,12 @@
       }
       \strng{namehash}{84b9812fe3485005a25078d738b227f5}
       \strng{fullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{fullhashraw}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
       \strng{bibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
       \strng{authorbibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
       \strng{authornamehash}{84b9812fe3485005a25078d738b227f5}
       \strng{authorfullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{authorfullhashraw}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -976,7 +1007,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2022_ChallengingSourcesNew}{inbook}{}
+    \entry{Moss2022_ChallengingSourcesNew}{inbook}{}{}
       \name{author}{4}{ul=2}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -1025,13 +1056,16 @@
       }
       \strng{namehash}{84b9812fe3485005a25078d738b227f5}
       \strng{fullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{fullhashraw}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
       \strng{bibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
       \strng{authorbibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
       \strng{authornamehash}{84b9812fe3485005a25078d738b227f5}
       \strng{authorfullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{authorfullhashraw}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
       \strng{editorbibnamehash}{22cf6a0ee1b046f7b16c53e42ced291f}
       \strng{editornamehash}{63bb7d1196c8a553ea26318d3b598cd9}
       \strng{editorfullhash}{22cf6a0ee1b046f7b16c53e42ced291f}
+      \strng{editorfullhashraw}{22cf6a0ee1b046f7b16c53e42ced291f}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1063,7 +1097,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2022_LineFifthsCoevolution}{article}{}
+    \entry{Moss2022_LineFifthsCoevolution}{article}{}{}
       \name{author}{3}{ul=3}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -1086,10 +1120,12 @@
       }
       \strng{namehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{fullhash}{eb8460df4d783240a53ca9b4d8cba12d}
+      \strng{fullhashraw}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{bibnamehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{authorbibnamehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{authornamehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{authorfullhash}{eb8460df4d783240a53ca9b4d8cba12d}
+      \strng{authorfullhashraw}{eb8460df4d783240a53ca9b4d8cba12d}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1128,7 +1164,7 @@
       \keyw{dimensionality reduction,Line of fifths,pitch-class co-evolution,tonal-pitch classes}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Viaccoz2022_WavescapesVisualHierarchical}{article}{}
+    \entry{Viaccoz2022_WavescapesVisualHierarchical}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=663dbba6475c02d0ceb7c9203c55a2f4}{%
            family={Viaccoz},
@@ -1157,10 +1193,12 @@
       }
       \strng{namehash}{c601865e4d484f2e12bb8f663d81fda9}
       \strng{fullhash}{3a04c96e65a0c55f42366a9654046468}
+      \strng{fullhashraw}{3a04c96e65a0c55f42366a9654046468}
       \strng{bibnamehash}{3a04c96e65a0c55f42366a9654046468}
       \strng{authorbibnamehash}{3a04c96e65a0c55f42366a9654046468}
       \strng{authornamehash}{c601865e4d484f2e12bb8f663d81fda9}
       \strng{authorfullhash}{3a04c96e65a0c55f42366a9654046468}
+      \strng{authorfullhashraw}{3a04c96e65a0c55f42366a9654046468}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1188,7 +1226,7 @@
       \keyw{Discrete Fourier transform,keyscapes,music analysis,tonal hierarchy,visualization}
       \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
-    \entry{Anzuoni2021_HistoricalAnalysisHarmonic}{inbook}{}
+    \entry{Anzuoni2021_HistoricalAnalysisHarmonic}{inbook}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=354ce40452f685e3182e99dbd46c5ab7}{%
            family={Anzuoni},
@@ -1249,13 +1287,16 @@
       }
       \strng{namehash}{6fd6d4255266d6ee8fa4770715fdf15c}
       \strng{fullhash}{696494a1dfef7842a2ef15995048d2f7}
+      \strng{fullhashraw}{696494a1dfef7842a2ef15995048d2f7}
       \strng{bibnamehash}{696494a1dfef7842a2ef15995048d2f7}
       \strng{authorbibnamehash}{696494a1dfef7842a2ef15995048d2f7}
       \strng{authornamehash}{6fd6d4255266d6ee8fa4770715fdf15c}
       \strng{authorfullhash}{696494a1dfef7842a2ef15995048d2f7}
+      \strng{authorfullhashraw}{696494a1dfef7842a2ef15995048d2f7}
       \strng{editorbibnamehash}{653e3368a4a480029c1dac09d8782544}
       \strng{editornamehash}{55a10efa1790fda96340bc3d293b2cd3}
       \strng{editorfullhash}{653e3368a4a480029c1dac09d8782544}
+      \strng{editorfullhashraw}{653e3368a4a480029c1dac09d8782544}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1280,7 +1321,7 @@
       \endverb
       \annotation{item}{author}{default}{5}{}{0}{me}
     \endentry
-    \entry{Harasim2021_ExploringFoundationsTonality}{article}{}
+    \entry{Harasim2021_ExploringFoundationsTonality}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=6da55031daa5da1803b5ef5b128b85a4}{%
            family={Harasim},
@@ -1312,10 +1353,12 @@
       }
       \strng{namehash}{662077d80a2f9a5c3cdef43330bfad50}
       \strng{fullhash}{f2a74c5adb41b1309fccd279fd1984a2}
+      \strng{fullhashraw}{f2a74c5adb41b1309fccd279fd1984a2}
       \strng{bibnamehash}{f2a74c5adb41b1309fccd279fd1984a2}
       \strng{authorbibnamehash}{f2a74c5adb41b1309fccd279fd1984a2}
       \strng{authornamehash}{662077d80a2f9a5c3cdef43330bfad50}
       \strng{authorfullhash}{f2a74c5adb41b1309fccd279fd1984a2}
+      \strng{authorfullhashraw}{f2a74c5adb41b1309fccd279fd1984a2}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1345,7 +1388,7 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Hentschel2021_SemiautomatedWorkflowParadigm}{inbook}{}
+    \entry{Hentschel2021_SemiautomatedWorkflowParadigm}{inbook}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=cfbc8f6b5670f470a32ea8f6fab343f6}{%
            family={Hentschel},
@@ -1413,13 +1456,16 @@
       }
       \strng{namehash}{6f2097b8c92c18656bf14d98fb44f014}
       \strng{fullhash}{d9ea5a776cd4aa1658e71f154721382a}
+      \strng{fullhashraw}{d9ea5a776cd4aa1658e71f154721382a}
       \strng{bibnamehash}{d9ea5a776cd4aa1658e71f154721382a}
       \strng{authorbibnamehash}{d9ea5a776cd4aa1658e71f154721382a}
       \strng{authornamehash}{6f2097b8c92c18656bf14d98fb44f014}
       \strng{authorfullhash}{d9ea5a776cd4aa1658e71f154721382a}
+      \strng{authorfullhashraw}{d9ea5a776cd4aa1658e71f154721382a}
       \strng{editorbibnamehash}{c06d21e28205091aacb5fe63776d4bd7}
       \strng{editornamehash}{89ae669211f8ae5d68302f5bd6b226df}
       \strng{editorfullhash}{c06d21e28205091aacb5fe63776d4bd7}
+      \strng{editorfullhashraw}{c06d21e28205091aacb5fe63776d4bd7}
       \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1445,7 +1491,7 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Herff2021_EvidenceCognitiveTonal}{misc}{}
+    \entry{Herff2021_EvidenceCognitiveTonal}{misc}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=1626b38d1c80a84683f0a7496f70d23d}{%
            family={Herff},
@@ -1471,10 +1517,12 @@
       }
       \strng{namehash}{4a09cbbeaa7c43b8b22fa7805623a47f}
       \strng{fullhash}{34900903134b4e6fb17b8c30d5fd5144}
+      \strng{fullhashraw}{34900903134b4e6fb17b8c30d5fd5144}
       \strng{bibnamehash}{34900903134b4e6fb17b8c30d5fd5144}
       \strng{authorbibnamehash}{34900903134b4e6fb17b8c30d5fd5144}
       \strng{authornamehash}{4a09cbbeaa7c43b8b22fa7805623a47f}
       \strng{authorfullhash}{34900903134b4e6fb17b8c30d5fd5144}
+      \strng{authorfullhashraw}{34900903134b4e6fb17b8c30d5fd5144}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1503,7 +1551,7 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Moss2021_FAIROpenLinked}{article}{}
+    \entry{Moss2021_FAIROpenLinked}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -1520,10 +1568,12 @@
       }
       \strng{namehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{fullhash}{9149a3a1b56b4042276015b781fd316b}
+      \strng{fullhashraw}{9149a3a1b56b4042276015b781fd316b}
       \strng{bibnamehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{authorbibnamehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{authornamehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{authorfullhash}{9149a3a1b56b4042276015b781fd316b}
+      \strng{authorfullhashraw}{9149a3a1b56b4042276015b781fd316b}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1554,7 +1604,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2021_SpecialIssueOpen}{article}{}
+    \entry{Moss2021_SpecialIssueOpen}{article}{}{}
       \name{editor}{2}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -1571,10 +1621,12 @@
       }
       \strng{namehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{fullhash}{9149a3a1b56b4042276015b781fd316b}
+      \strng{fullhashraw}{9149a3a1b56b4042276015b781fd316b}
       \strng{bibnamehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{editorbibnamehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{editornamehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{editorfullhash}{9149a3a1b56b4042276015b781fd316b}
+      \strng{editorfullhashraw}{9149a3a1b56b4042276015b781fd316b}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1600,7 +1652,7 @@
       \endverb
       \annotation{item}{editor}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2021_DiscoveringTonalProfiles}{article}{}
+    \entry{Moss2021_DiscoveringTonalProfiles}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -1617,10 +1669,12 @@
       }
       \strng{namehash}{229fb2d3c64ed5d5489dde4698fd149d}
       \strng{fullhash}{229fb2d3c64ed5d5489dde4698fd149d}
+      \strng{fullhashraw}{229fb2d3c64ed5d5489dde4698fd149d}
       \strng{bibnamehash}{229fb2d3c64ed5d5489dde4698fd149d}
       \strng{authorbibnamehash}{229fb2d3c64ed5d5489dde4698fd149d}
       \strng{authornamehash}{229fb2d3c64ed5d5489dde4698fd149d}
       \strng{authorfullhash}{229fb2d3c64ed5d5489dde4698fd149d}
+      \strng{authorfullhashraw}{229fb2d3c64ed5d5489dde4698fd149d}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1656,7 +1710,7 @@
       \keyw{corpus studies,Latent Dirichlet Allocation,tonal pitch classes,tonality,Topic modelling}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2021_Digitizing19thCenturyMusic}{inbook}{}
+    \entry{Moss2021_Digitizing19thCenturyMusic}{inbook}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -1741,13 +1795,16 @@
       }
       \strng{namehash}{a5dea51072dc95fd1c91f639c4bf00ae}
       \strng{fullhash}{e3f56956027340bf5269a9e1bc7db930}
+      \strng{fullhashraw}{e3f56956027340bf5269a9e1bc7db930}
       \strng{bibnamehash}{e3f56956027340bf5269a9e1bc7db930}
       \strng{authorbibnamehash}{e3f56956027340bf5269a9e1bc7db930}
       \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
       \strng{authorfullhash}{e3f56956027340bf5269a9e1bc7db930}
+      \strng{authorfullhashraw}{e3f56956027340bf5269a9e1bc7db930}
       \strng{editorbibnamehash}{d6cd53e212b7bdf31846bd7c7646aa11}
       \strng{editornamehash}{0f5718ac33fa58f0570fbce8567a2696}
       \strng{editorfullhash}{d6cd53e212b7bdf31846bd7c7646aa11}
+      \strng{editorfullhashraw}{d6cd53e212b7bdf31846bd7c7646aa11}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1769,7 +1826,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Rohrmeier2021_FormalModelExtended}{inbook}{}
+    \entry{Rohrmeier2021_FormalModelExtended}{inbook}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
            family={Rohrmeier},
@@ -1825,13 +1882,16 @@
       }
       \strng{namehash}{50db2d4e5c224ce5c0140ddd0123cf15}
       \strng{fullhash}{50db2d4e5c224ce5c0140ddd0123cf15}
+      \strng{fullhashraw}{50db2d4e5c224ce5c0140ddd0123cf15}
       \strng{bibnamehash}{50db2d4e5c224ce5c0140ddd0123cf15}
       \strng{authorbibnamehash}{50db2d4e5c224ce5c0140ddd0123cf15}
       \strng{authornamehash}{50db2d4e5c224ce5c0140ddd0123cf15}
       \strng{authorfullhash}{50db2d4e5c224ce5c0140ddd0123cf15}
+      \strng{authorfullhashraw}{50db2d4e5c224ce5c0140ddd0123cf15}
       \strng{editorbibnamehash}{c06d21e28205091aacb5fe63776d4bd7}
       \strng{editornamehash}{89ae669211f8ae5d68302f5bd6b226df}
       \strng{editorfullhash}{c06d21e28205091aacb5fe63776d4bd7}
+      \strng{editorfullhashraw}{c06d21e28205091aacb5fe63776d4bd7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1850,7 +1910,7 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Lieck2020_TonalDiffusionModel}{article}{}
+    \entry{Lieck2020_TonalDiffusionModel}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=3543c37a99b858ac0072a58264686db9}{%
            family={Lieck},
@@ -1876,10 +1936,12 @@
       }
       \strng{namehash}{1c465ef6fa5a778d5e823e84b9c105c1}
       \strng{fullhash}{2a0fa7cfe9cd08d9d89a1a900ec948f7}
+      \strng{fullhashraw}{2a0fa7cfe9cd08d9d89a1a900ec948f7}
       \strng{bibnamehash}{2a0fa7cfe9cd08d9d89a1a900ec948f7}
       \strng{authorbibnamehash}{2a0fa7cfe9cd08d9d89a1a900ec948f7}
       \strng{authornamehash}{1c465ef6fa5a778d5e823e84b9c105c1}
       \strng{authorfullhash}{2a0fa7cfe9cd08d9d89a1a900ec948f7}
+      \strng{authorfullhashraw}{2a0fa7cfe9cd08d9d89a1a900ec948f7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1904,7 +1966,7 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Moss2020_ChoroSongbookCorpus}{dataset}{}
+    \entry{Moss2020_ChoroSongbookCorpus}{dataset}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -1918,10 +1980,12 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1955,7 +2019,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2020_ComputationalModelNote}{online}{}
+    \entry{Moss2020_ComputationalModelNote}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -1969,10 +2033,12 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1997,7 +2063,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2020_TracingHistoricalChanges}{online}{}
+    \entry{Moss2020_TracingHistoricalChanges}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -2011,10 +2077,12 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -2038,7 +2106,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2020_TonalPitchClassCounts}{dataset}{}
+    \entry{Moss2020_TonalPitchClassCounts}{dataset}{}{}
       \name{author}{3}{ul=3}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -2064,10 +2132,12 @@
       }
       \strng{namehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{fullhash}{eb8460df4d783240a53ca9b4d8cba12d}
+      \strng{fullhashraw}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{bibnamehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{authorbibnamehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{authornamehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{authorfullhash}{eb8460df4d783240a53ca9b4d8cba12d}
+      \strng{authorfullhashraw}{eb8460df4d783240a53ca9b4d8cba12d}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -2099,7 +2169,7 @@
       \keyw{{computational musicology,tusic theory,tonality,music,corpus}}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2020_HarmonyFormBrazilian}{article}{}
+    \entry{Moss2020_HarmonyFormBrazilian}{article}{}{}
       \name{author}{3}{ul=2}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -2122,10 +2192,12 @@
       }
       \strng{namehash}{45d49562ba85cd277e589a8dc88f3660}
       \strng{fullhash}{45d49562ba85cd277e589a8dc88f3660}
+      \strng{fullhashraw}{45d49562ba85cd277e589a8dc88f3660}
       \strng{bibnamehash}{45d49562ba85cd277e589a8dc88f3660}
       \strng{authorbibnamehash}{45d49562ba85cd277e589a8dc88f3660}
       \strng{authornamehash}{45d49562ba85cd277e589a8dc88f3660}
       \strng{authorfullhash}{45d49562ba85cd277e589a8dc88f3660}
+      \strng{authorfullhashraw}{45d49562ba85cd277e589a8dc88f3660}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2153,7 +2225,7 @@
       \keyw{Choro,corpus study,form,harmony,musical style analysis}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Landnes2019_ModelComparisonChord}{inbook}{}
+    \entry{Landnes2019_ModelComparisonChord}{inbook}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=7ef5d3ea1c8942a8fb044682f05248bd}{%
            family={Landnes},
@@ -2219,13 +2291,16 @@
       }
       \strng{namehash}{65aa8a10b20f14bf1d34d69dd841a1cc}
       \strng{fullhash}{6f671e1f9be624a66de5d7d495941a61}
+      \strng{fullhashraw}{6f671e1f9be624a66de5d7d495941a61}
       \strng{bibnamehash}{6f671e1f9be624a66de5d7d495941a61}
       \strng{authorbibnamehash}{6f671e1f9be624a66de5d7d495941a61}
       \strng{authornamehash}{65aa8a10b20f14bf1d34d69dd841a1cc}
       \strng{authorfullhash}{6f671e1f9be624a66de5d7d495941a61}
+      \strng{authorfullhashraw}{6f671e1f9be624a66de5d7d495941a61}
       \strng{editorbibnamehash}{d450555453735f0b9fab31088fd860df}
       \strng{editornamehash}{35904ff9a07fc2d815af20a967a27ef5}
       \strng{editorfullhash}{d450555453735f0b9fab31088fd860df}
+      \strng{editorfullhashraw}{d450555453735f0b9fab31088fd860df}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2247,7 +2322,7 @@
       \endverb
       \annotation{item}{author}{default}{5}{}{0}{me}
     \endentry
-    \entry{Moss2019_TransitionsTonalityModelbased}{thesis}{}
+    \entry{Moss2019_TransitionsTonalityModelbased}{thesis}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -2264,10 +2339,12 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -2290,7 +2367,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2019_Pitchplots}{dataset}{}
+    \entry{Moss2019_Pitchplots}{dataset}{}{}
       \name{author}{3}{ul=2}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -2313,10 +2390,12 @@
       }
       \strng{namehash}{5fe66e775110771843844749d8a3c9b2}
       \strng{fullhash}{5fe66e775110771843844749d8a3c9b2}
+      \strng{fullhashraw}{5fe66e775110771843844749d8a3c9b2}
       \strng{bibnamehash}{5fe66e775110771843844749d8a3c9b2}
       \strng{authorbibnamehash}{5fe66e775110771843844749d8a3c9b2}
       \strng{authornamehash}{5fe66e775110771843844749d8a3c9b2}
       \strng{authorfullhash}{5fe66e775110771843844749d8a3c9b2}
+      \strng{authorfullhashraw}{5fe66e775110771843844749d8a3c9b2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2345,7 +2424,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2019_StatisticalCharacteristicsTonal}{article}{}
+    \entry{Moss2019_StatisticalCharacteristicsTonal}{article}{}{}
       \name{author}{4}{ul=2}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -2374,10 +2453,12 @@
       }
       \strng{namehash}{d321866bb75d1b1802bc900f15eac15f}
       \strng{fullhash}{d3af601a616d300332aa54c5bbc86905}
+      \strng{fullhashraw}{d3af601a616d300332aa54c5bbc86905}
       \strng{bibnamehash}{d3af601a616d300332aa54c5bbc86905}
       \strng{authorbibnamehash}{d3af601a616d300332aa54c5bbc86905}
       \strng{authornamehash}{d321866bb75d1b1802bc900f15eac15f}
       \strng{authorfullhash}{d3af601a616d300332aa54c5bbc86905}
+      \strng{authorfullhashraw}{d3af601a616d300332aa54c5bbc86905}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2401,7 +2482,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Popescu2019_PleasantnessSensoryDissonance}{article}{}
+    \entry{Popescu2019_PleasantnessSensoryDissonance}{article}{}{}
       \name{author}{8}{}{%
         {{un=0,uniquepart=base,hash=6ad87b728cc486ceaf9beb85969aef16}{%
            family={Popescu},
@@ -2457,10 +2538,12 @@
       }
       \strng{namehash}{e7348486e85c9006122395367d688698}
       \strng{fullhash}{f75a8fae48a9fe6fe0e28c99da9fb10d}
+      \strng{fullhashraw}{f75a8fae48a9fe6fe0e28c99da9fb10d}
       \strng{bibnamehash}{f75a8fae48a9fe6fe0e28c99da9fb10d}
       \strng{authorbibnamehash}{f75a8fae48a9fe6fe0e28c99da9fb10d}
       \strng{authornamehash}{e7348486e85c9006122395367d688698}
       \strng{authorfullhash}{f75a8fae48a9fe6fe0e28c99da9fb10d}
+      \strng{authorfullhashraw}{f75a8fae48a9fe6fe0e28c99da9fb10d}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2488,7 +2571,7 @@
       \keyw{Cortex,Human behaviour}
       \annotation{item}{author}{default}{7}{}{0}{me}
     \endentry
-    \entry{Neuwirth2018_AnnotatedBeethovenCorpus}{article}{}
+    \entry{Neuwirth2018_AnnotatedBeethovenCorpus}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=ae0464b93a1404dccfd671e036398cc5}{%
            family={Neuwirth},
@@ -2520,10 +2603,12 @@
       }
       \strng{namehash}{928dbc6b50f7976a3fd945a06943bece}
       \strng{fullhash}{9b7de28ed748a92ee55a28cc19abf5de}
+      \strng{fullhashraw}{9b7de28ed748a92ee55a28cc19abf5de}
       \strng{bibnamehash}{9b7de28ed748a92ee55a28cc19abf5de}
       \strng{authorbibnamehash}{9b7de28ed748a92ee55a28cc19abf5de}
       \strng{authornamehash}{928dbc6b50f7976a3fd945a06943bece}
       \strng{authorfullhash}{9b7de28ed748a92ee55a28cc19abf5de}
+      \strng{authorfullhashraw}{9b7de28ed748a92ee55a28cc19abf5de}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2549,7 +2634,7 @@
       \keyw{beethoven,Beethoven,corpus research,Corpus research,digital musicology,Digital Musicology,ground truth,Ground truth,harmony,music,Music,music; digital musicology; corpus research; ground,symbolic music data,Symbolic Music Data}
       \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
-    \entry{Moss2017_ReviewDavidHuron}{article}{}
+    \entry{Moss2017_ReviewDavidHuron}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -2563,10 +2648,12 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -2592,7 +2679,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2014_TonalityFunctionalEquivalence}{inbook}{}
+    \entry{Moss2014_TonalityFunctionalEquivalence}{inbook}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -2623,13 +2710,16 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{editorbibnamehash}{c51480f2e88aad1fc95071ce77cb33b7}
       \strng{editornamehash}{cdedf0710500d3ee775db10c8ed6b519}
       \strng{editorfullhash}{c51480f2e88aad1fc95071ce77cb33b7}
+      \strng{editorfullhashraw}{c51480f2e88aad1fc95071ce77cb33b7}
       \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -2650,7 +2740,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2012_TheorieTonfelderNach}{thesis}{}
+    \entry{Moss2012_TheorieTonfelderNach}{thesis}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -2664,10 +2754,12 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \field{extraname}{9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -2692,7 +2784,7 @@
       \keyw{Neo-Riemannian Theory; Theorie der Tonfelder; Albert Simon; Extended Tonality}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2011_AlbertSimonsTheorie}{report}{}
+    \entry{Moss2011_AlbertSimonsTheorie}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -2706,10 +2798,12 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \field{extraname}{10}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -2734,13 +2828,8 @@
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
   \enddatalist
-<<<<<<< HEAD
   \datalist[entry]{ydnt/global//global/global/global}
     \entry{hentschelAnnotatedCorpusTonal2024}{article}{}{}
-=======
-  \datalist[entry]{ydnt/global//global/global}
-    \entry{hentschelAnnotatedCorpusTonal2024}{article}{}
->>>>>>> e9334ebacf04616888c10b32719b685dafbe22a9
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=cfbc8f6b5670f470a32ea8f6fab343f6}{%
            family={Hentschel},
@@ -2775,10 +2864,12 @@
       }
       \strng{namehash}{6f2097b8c92c18656bf14d98fb44f014}
       \strng{fullhash}{8426d6e22d65eb56e060ff7836d2f550}
+      \strng{fullhashraw}{8426d6e22d65eb56e060ff7836d2f550}
       \strng{bibnamehash}{8426d6e22d65eb56e060ff7836d2f550}
       \strng{authorbibnamehash}{8426d6e22d65eb56e060ff7836d2f550}
       \strng{authornamehash}{6f2097b8c92c18656bf14d98fb44f014}
       \strng{authorfullhash}{8426d6e22d65eb56e060ff7836d2f550}
+      \strng{authorfullhashraw}{8426d6e22d65eb56e060ff7836d2f550}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -2811,7 +2902,7 @@
       \keyw{19th century,cadence,corpora,harmony,phrase,piano}
       \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
-    \entry{mossTransatlanticTransformationsNeoRiemannian2024}{inbook}{}
+    \entry{mossTransatlanticTransformationsNeoRiemannian2024}{inbook}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -2835,13 +2926,16 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{editorbibnamehash}{bc3e039a38cf5d828a7515742dd9754f}
       \strng{editornamehash}{bc3e039a38cf5d828a7515742dd9754f}
       \strng{editorfullhash}{bc3e039a38cf5d828a7515742dd9754f}
+      \strng{editorfullhashraw}{bc3e039a38cf5d828a7515742dd9754f}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -2865,11 +2959,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-<<<<<<< HEAD
     \entry{Moss2024_ComputationalModelingInterval}{article}{}{}
-=======
-    \entry{Moss2024_ComputationalModelingInterval}{article}{}
->>>>>>> e9334ebacf04616888c10b32719b685dafbe22a9
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -2892,18 +2982,12 @@
       }
       \strng{namehash}{a5dea51072dc95fd1c91f639c4bf00ae}
       \strng{fullhash}{31934c58552d8c28a9609a26923b9ef8}
-<<<<<<< HEAD
       \strng{fullhashraw}{31934c58552d8c28a9609a26923b9ef8}
-=======
->>>>>>> e9334ebacf04616888c10b32719b685dafbe22a9
       \strng{bibnamehash}{31934c58552d8c28a9609a26923b9ef8}
       \strng{authorbibnamehash}{31934c58552d8c28a9609a26923b9ef8}
       \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
       \strng{authorfullhash}{31934c58552d8c28a9609a26923b9ef8}
-<<<<<<< HEAD
       \strng{authorfullhashraw}{31934c58552d8c28a9609a26923b9ef8}
-=======
->>>>>>> e9334ebacf04616888c10b32719b685dafbe22a9
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -2922,11 +3006,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-<<<<<<< HEAD
-    \entry{PereiraEtAl2024}{inbook}{}{}
-=======
-    \entry{PereiraEtAl2024}{inbook}{}
->>>>>>> e9334ebacf04616888c10b32719b685dafbe22a9
+    \entry{Pereira2024_FourierQualiaWavescapes}{inbook}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=16f7d66feca3afd0e1d504c7705989fb}{%
            family={Pereira},
@@ -2949,7 +3029,7 @@
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
            familyi={M\bibinitperiod},
-           given={Fabian\bibnamedelima C},
+           given={Fabian\bibnamedelima C.},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
@@ -2959,58 +3039,77 @@
            familyi={N\bibinitperiod},
            given={Thomas},
            giveni={T\bibinitperiod}}}%
-        {{hash=a55835f6260ebf9c0aff2819e945513a}{%
-           family={Oliveira\bibnamedelima Martins},
-           familyi={O\bibinitperiod\bibinitdelim M\bibinitperiod},
-           given={José},
-           giveni={J\bibinitperiod}}}%
         {{hash=265e58e6a8fe97175abff1fbcb58622c}{%
            family={Montiel},
            familyi={M\bibinitperiod},
            given={Mariana},
            giveni={M\bibinitperiod}}}%
-        {{hash=eab9261221e3e0acf81a53cd2b399eae}{%
-           family={Gómez\bibnamedelima Martín},
-           familyi={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+        {{hash=60553cc87f5961a4b792201f1e5f0f07}{%
+           family={Gómez},
+           familyi={G\bibinitperiod},
            given={Francisco},
            giveni={F\bibinitperiod}}}%
-        {{hash=8394eb50ca59114325e3fbef65e19de3}{%
+        {{hash=2b517b5c2005aa42ccbf54c66b86e376}{%
+           family={Hamido},
+           familyi={H\bibinitperiod},
+           given={Omar\bibnamedelima Costa},
+           giveni={O\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=1b68a22c35b2f0a5ef6f0cfe44500ca1}{%
            family={Besada},
            familyi={B\bibinitperiod},
-           given={José\bibnamedelima L.},
+           given={José\bibnamedelima Luis},
            giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=e351f3ada5e8b072be2e227ef6aa0476}{%
-           family={Costa\bibnamedelima Hamido},
-           familyi={C\bibinitperiod\bibinitdelim H\bibinitperiod},
-           given={Omar},
-           giveni={O\bibinitperiod}}}%
+        {{hash=f57031ce65b78eb7814dac48faf468be}{%
+           family={Martins},
+           familyi={M\bibinitperiod},
+           given={José\bibnamedelima Oliveira},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Coimbra, Portugal}%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature Switzerland}%
       }
       \strng{namehash}{7a7b96b0b36a943c2f39285ee6c87694}
       \strng{fullhash}{e7e8a3f068f8b8c186a6f7a37df77360}
+      \strng{fullhashraw}{e7e8a3f068f8b8c186a6f7a37df77360}
       \strng{bibnamehash}{e7e8a3f068f8b8c186a6f7a37df77360}
       \strng{authorbibnamehash}{e7e8a3f068f8b8c186a6f7a37df77360}
       \strng{authornamehash}{7a7b96b0b36a943c2f39285ee6c87694}
       \strng{authorfullhash}{e7e8a3f068f8b8c186a6f7a37df77360}
-      \strng{editorbibnamehash}{5723dcf7729a4237af7fb0eec82752ce}
+      \strng{authorfullhashraw}{e7e8a3f068f8b8c186a6f7a37df77360}
+      \strng{editorbibnamehash}{bc03d9645fc15e157e623b54e64a5fce}
       \strng{editornamehash}{04bb07da2fcb92d64201ae08707f0e74}
-      \strng{editorfullhash}{5723dcf7729a4237af7fb0eec82752ce}
+      \strng{editorfullhash}{bc03d9645fc15e157e623b54e64a5fce}
+      \strng{editorfullhashraw}{bc03d9645fc15e157e623b54e64a5fce}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{{Proceedings of the 9th International Congress on Mathematics and Computation in Music (MCM2024)}}
-      \field{title}{{Fourier Qualia Wavescapes: Hierarchical Analyses of Set Class Quality and Ambiguity}}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We introduce a novel perspective on set-class analysis combining the DFT magnitudes with the music visualisation technique of wavescapes. With such a combination, we create a visual representation of a piece's multidimensional qualia, where different colours indicate saliency in chromaticity, diadicity, triadicity, octatonicity, diatonicity, and whole-tone quality. At the centre of our methods are: 1) the formal definition of the Fourier Qualia Space (FQS), 2) its particular ordering of DFT coefficients that delineate regions linked to different musical aesthetics, and 3) the mapping of such regions into a coloured wavescape. Furthermore, we demonstrate the intrinsic capability of the FQS to express qualia ambiguity and map it into a synopsis wavescape. Finally, we showcase the application of our methods by presenting a few analytical remarks on Bach's Three-part Invention BWV 795, Debussy's Reflets dans l'eau, and Webern's Four Pieces for Violin and Piano, Op. 7, No. 1, unveiling increasingly ambiguous wavescapes.}
+      \field{booktitle}{Mathematics and {{Computation}} in {{Music}}}
+      \field{isbn}{978-3-031-60638-0}
+      \field{langid}{english}
+      \field{shorttitle}{Fourier {{Qualia Wavescapes}}}
+      \field{title}{Fourier {{Qualia Wavescapes}}: {{Hierarchical Analyses}} of~{{Set Class Quality}} and~{{Ambiguity}}}
       \field{year}{2024}
       \true{nocite}
+      \field{pages}{317\bibrangedash 329}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/978-3-031-60638-0_25
+      \endverb
+      \verb{file}
+      \verb /home/fmoss/Zotero/storage/37JEWDI7/Pereira et al. - 2024 - Fourier Qualia Wavescapes Hierarchical Analyses o.pdf
+      \endverb
+      \keyw{Fourier Qualia Space,Fourier transform,harmonic qualities,music analysis,wavescapes}
       \annotation{item}{author}{default}{4}{}{0}{me}
     \endentry
-    \entry{Seipelt2023_AnalysisMarkupHarmonies}{inbook}{}
+    \entry{Seipelt2023_AnalysisMarkupHarmonies}{inbook}{}{}
       \name{editor}{2}{}{%
         {{hash=21c4e256ced6542ada63fa616ac47b80}{%
            family={Seipelt},
@@ -3038,9 +3137,11 @@
       \strng{editorbibnamehash}{129378d375b4b25e622cfee5e02755f9}
       \strng{editornamehash}{129378d375b4b25e622cfee5e02755f9}
       \strng{editorfullhash}{129378d375b4b25e622cfee5e02755f9}
+      \strng{editorfullhashraw}{129378d375b4b25e622cfee5e02755f9}
       \strng{editorbbibnamehash}{7a8e9c16d22cb2266220f056633b586c}
       \strng{editorbnamehash}{7a8e9c16d22cb2266220f056633b586c}
       \strng{editorbfullhash}{7a8e9c16d22cb2266220f056633b586c}
+      \strng{editorbfullhashraw}{7a8e9c16d22cb2266220f056633b586c}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3057,7 +3158,7 @@
       \range{pages}{26}
       \annotation{item}{editor}{default}{2}{}{0}{me}
     \endentry
-    \entry{Eipert2023_CorpusTroporumDataset}{dataset}{}
+    \entry{Eipert2023_CorpusTroporumDataset}{dataset}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=dfc272ac2c275fa5134e703122e15c59}{%
            family={Eipert},
@@ -3077,10 +3178,12 @@
       }
       \strng{namehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{fullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{fullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{bibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorbibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -3113,7 +3216,7 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Eipert2023_MonodiKitDataModela}{inbook}{}
+    \entry{Eipert2023_MonodiKitDataModela}{inbook}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=dfc272ac2c275fa5134e703122e15c59}{%
            family={Eipert},
@@ -3143,13 +3246,16 @@
       }
       \strng{namehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{fullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{fullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{bibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorbibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{editorbibnamehash}{77696942f2b7b45e14a7f7bcddc807f5}
       \strng{editornamehash}{77696942f2b7b45e14a7f7bcddc807f5}
       \strng{editorfullhash}{77696942f2b7b45e14a7f7bcddc807f5}
+      \strng{editorfullhashraw}{77696942f2b7b45e14a7f7bcddc807f5}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -3186,7 +3292,7 @@
       \keyw{corpus studies,data model,medieval chant,music encoding,Python}
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Moss2023_VorsichtSackgassePlaedoyer}{online}{}
+    \entry{Moss2023_VorsichtSackgassePlaedoyer}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -3200,10 +3306,12 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -3228,7 +3336,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Nakamura2023_HistoricalChangesModes}{inbook}{}
+    \entry{Nakamura2023_HistoricalChangesModes}{inbook}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=71ecf9c0bbf93c7ff4ddadb646820f26}{%
            family={Nakamura},
@@ -3268,13 +3376,16 @@
       }
       \strng{namehash}{6e3d6b5c8795303d367175d171d99999}
       \strng{fullhash}{d612804daa8531b88a611e492ecf77a1}
+      \strng{fullhashraw}{d612804daa8531b88a611e492ecf77a1}
       \strng{bibnamehash}{d612804daa8531b88a611e492ecf77a1}
       \strng{authorbibnamehash}{d612804daa8531b88a611e492ecf77a1}
       \strng{authornamehash}{6e3d6b5c8795303d367175d171d99999}
       \strng{authorfullhash}{d612804daa8531b88a611e492ecf77a1}
+      \strng{authorfullhashraw}{d612804daa8531b88a611e492ecf77a1}
       \strng{editorbibnamehash}{a11b28ef95d1af1e74463f8908fac8c7}
       \strng{editornamehash}{3c64c36d79cb65b58aff15909698a934}
       \strng{editorfullhash}{a11b28ef95d1af1e74463f8908fac8c7}
+      \strng{editorfullhashraw}{a11b28ef95d1af1e74463f8908fac8c7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3308,7 +3419,7 @@
       \endverb
       \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
-    \entry{Bracks2022_TotoliArtLelegesan}{inbook}{}
+    \entry{Bracks2022_TotoliArtLelegesan}{inbook}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=615525bb61685addcc4bfb033a3c4270}{%
            family={Bracks},
@@ -3340,13 +3451,16 @@
       }
       \strng{namehash}{11770833b5f163063740247c22ca1fa5}
       \strng{fullhash}{11770833b5f163063740247c22ca1fa5}
+      \strng{fullhashraw}{11770833b5f163063740247c22ca1fa5}
       \strng{bibnamehash}{11770833b5f163063740247c22ca1fa5}
       \strng{authorbibnamehash}{11770833b5f163063740247c22ca1fa5}
       \strng{authornamehash}{11770833b5f163063740247c22ca1fa5}
       \strng{authorfullhash}{11770833b5f163063740247c22ca1fa5}
+      \strng{authorfullhashraw}{11770833b5f163063740247c22ca1fa5}
       \strng{editorbibnamehash}{8856b87f9716ebc63e2ac2c308be3d9c}
       \strng{editornamehash}{8856b87f9716ebc63e2ac2c308be3d9c}
       \strng{editorfullhash}{8856b87f9716ebc63e2ac2c308be3d9c}
+      \strng{editorfullhashraw}{8856b87f9716ebc63e2ac2c308be3d9c}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3373,7 +3487,7 @@
       \keyw{and Cultures,Arts and Humanities,Computational music analysis,Digital Humanities,ethnomusicology,Ethnomusicology,Indonesia,Language Description and Documentation,Language documentation,Language endangerment,Lelegesan,Linguistics,Music,Musicology,Other Languages,Social and Behavioral Sciences,Societies,South and Southeast Asian Languages and Societies}
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Harasim2022_MidiVERTOWebApplication}{inbook}{}
+    \entry{Harasim2022_MidiVERTOWebApplication}{inbook}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=6da55031daa5da1803b5ef5b128b85a4}{%
            family={Harasim},
@@ -3434,13 +3548,16 @@
       }
       \strng{namehash}{662077d80a2f9a5c3cdef43330bfad50}
       \strng{fullhash}{59b6278f14665f6e3e9b9202c4e2408e}
+      \strng{fullhashraw}{59b6278f14665f6e3e9b9202c4e2408e}
       \strng{bibnamehash}{59b6278f14665f6e3e9b9202c4e2408e}
       \strng{authorbibnamehash}{59b6278f14665f6e3e9b9202c4e2408e}
       \strng{authornamehash}{662077d80a2f9a5c3cdef43330bfad50}
       \strng{authorfullhash}{59b6278f14665f6e3e9b9202c4e2408e}
+      \strng{authorfullhashraw}{59b6278f14665f6e3e9b9202c4e2408e}
       \strng{editorbibnamehash}{f80d48224cd4b2ef99743c7dcb75e259}
       \strng{editornamehash}{784a5a5a688528c98731f917196cf0a1}
       \strng{editorfullhash}{f80d48224cd4b2ef99743c7dcb75e259}
+      \strng{editorfullhashraw}{f80d48224cd4b2ef99743c7dcb75e259}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -3469,7 +3586,7 @@
       \keyw{Discrete Fourier transform,MIDI,Tonality,Visualization,Web application}
       \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
-    \entry{Hentschel2021_UnifiedModelChords}{inbook}{}
+    \entry{Hentschel2021_UnifiedModelChords}{inbook}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=cfbc8f6b5670f470a32ea8f6fab343f6}{%
            family={Hentschel},
@@ -3522,13 +3639,16 @@
       }
       \strng{namehash}{6f2097b8c92c18656bf14d98fb44f014}
       \strng{fullhash}{a320fca8f8a9536d8374e96bea9b08ea}
+      \strng{fullhashraw}{a320fca8f8a9536d8374e96bea9b08ea}
       \strng{bibnamehash}{a320fca8f8a9536d8374e96bea9b08ea}
       \strng{authorbibnamehash}{a320fca8f8a9536d8374e96bea9b08ea}
       \strng{authornamehash}{6f2097b8c92c18656bf14d98fb44f014}
       \strng{authorfullhash}{a320fca8f8a9536d8374e96bea9b08ea}
+      \strng{authorfullhashraw}{a320fca8f8a9536d8374e96bea9b08ea}
       \strng{editorbibnamehash}{410fb40aff369ee7c078750b85bcbcbd}
       \strng{editornamehash}{410fb40aff369ee7c078750b85bcbcbd}
       \strng{editorfullhash}{410fb40aff369ee7c078750b85bcbcbd}
+      \strng{editorfullhashraw}{410fb40aff369ee7c078750b85bcbcbd}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -3554,7 +3674,7 @@
       \keyw{mec-proceedings,mec-proceedings-2021}
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Moss2022_PhantomCurvesScientific}{inbook}{}
+    \entry{Moss2022_PhantomCurvesScientific}{inbook}{}{}
       \name{author}{3}{ul=2}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -3590,13 +3710,16 @@
       }
       \strng{namehash}{1cdcd4fc8e48dd536751f0de782aa86e}
       \strng{fullhash}{1cdcd4fc8e48dd536751f0de782aa86e}
+      \strng{fullhashraw}{1cdcd4fc8e48dd536751f0de782aa86e}
       \strng{bibnamehash}{1cdcd4fc8e48dd536751f0de782aa86e}
       \strng{authorbibnamehash}{1cdcd4fc8e48dd536751f0de782aa86e}
       \strng{authornamehash}{1cdcd4fc8e48dd536751f0de782aa86e}
       \strng{authorfullhash}{1cdcd4fc8e48dd536751f0de782aa86e}
+      \strng{authorfullhashraw}{1cdcd4fc8e48dd536751f0de782aa86e}
       \strng{editorbibnamehash}{a7a369936b5ad6f5101cd8ae447667e2}
       \strng{editornamehash}{a7a369936b5ad6f5101cd8ae447667e2}
       \strng{editorfullhash}{a7a369936b5ad6f5101cd8ae447667e2}
+      \strng{editorfullhashraw}{a7a369936b5ad6f5101cd8ae447667e2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3624,7 +3747,7 @@
       \keyw{discrete Fourier transform,music visualization,scientific discovery,web application}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2022_19MTOMRDatasetMultimodal}{dataset}{}
+    \entry{Moss2022_19MTOMRDatasetMultimodal}{dataset}{}{}
       \name{author}{4}{ul=2}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -3656,10 +3779,12 @@
       }
       \strng{namehash}{84b9812fe3485005a25078d738b227f5}
       \strng{fullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{fullhashraw}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
       \strng{bibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
       \strng{authorbibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
       \strng{authornamehash}{84b9812fe3485005a25078d738b227f5}
       \strng{authorfullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{authorfullhashraw}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -3692,7 +3817,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2022_ChallengingSourcesNew}{inbook}{}
+    \entry{Moss2022_ChallengingSourcesNew}{inbook}{}{}
       \name{author}{4}{ul=2}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -3741,13 +3866,16 @@
       }
       \strng{namehash}{84b9812fe3485005a25078d738b227f5}
       \strng{fullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{fullhashraw}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
       \strng{bibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
       \strng{authorbibnamehash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
       \strng{authornamehash}{84b9812fe3485005a25078d738b227f5}
       \strng{authorfullhash}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
+      \strng{authorfullhashraw}{4a32ee2819c18a0e9a06ea4f73bbc0fc}
       \strng{editorbibnamehash}{22cf6a0ee1b046f7b16c53e42ced291f}
       \strng{editornamehash}{63bb7d1196c8a553ea26318d3b598cd9}
       \strng{editorfullhash}{22cf6a0ee1b046f7b16c53e42ced291f}
+      \strng{editorfullhashraw}{22cf6a0ee1b046f7b16c53e42ced291f}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -3779,7 +3907,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2022_LineFifthsCoevolution}{article}{}
+    \entry{Moss2022_LineFifthsCoevolution}{article}{}{}
       \name{author}{3}{ul=3}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -3802,10 +3930,12 @@
       }
       \strng{namehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{fullhash}{eb8460df4d783240a53ca9b4d8cba12d}
+      \strng{fullhashraw}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{bibnamehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{authorbibnamehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{authornamehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{authorfullhash}{eb8460df4d783240a53ca9b4d8cba12d}
+      \strng{authorfullhashraw}{eb8460df4d783240a53ca9b4d8cba12d}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -3844,7 +3974,7 @@
       \keyw{dimensionality reduction,Line of fifths,pitch-class co-evolution,tonal-pitch classes}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Viaccoz2022_WavescapesVisualHierarchical}{article}{}
+    \entry{Viaccoz2022_WavescapesVisualHierarchical}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=663dbba6475c02d0ceb7c9203c55a2f4}{%
            family={Viaccoz},
@@ -3873,10 +4003,12 @@
       }
       \strng{namehash}{c601865e4d484f2e12bb8f663d81fda9}
       \strng{fullhash}{3a04c96e65a0c55f42366a9654046468}
+      \strng{fullhashraw}{3a04c96e65a0c55f42366a9654046468}
       \strng{bibnamehash}{3a04c96e65a0c55f42366a9654046468}
       \strng{authorbibnamehash}{3a04c96e65a0c55f42366a9654046468}
       \strng{authornamehash}{c601865e4d484f2e12bb8f663d81fda9}
       \strng{authorfullhash}{3a04c96e65a0c55f42366a9654046468}
+      \strng{authorfullhashraw}{3a04c96e65a0c55f42366a9654046468}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3904,7 +4036,7 @@
       \keyw{Discrete Fourier transform,keyscapes,music analysis,tonal hierarchy,visualization}
       \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
-    \entry{Anzuoni2021_HistoricalAnalysisHarmonic}{inbook}{}
+    \entry{Anzuoni2021_HistoricalAnalysisHarmonic}{inbook}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=354ce40452f685e3182e99dbd46c5ab7}{%
            family={Anzuoni},
@@ -3965,13 +4097,16 @@
       }
       \strng{namehash}{6fd6d4255266d6ee8fa4770715fdf15c}
       \strng{fullhash}{696494a1dfef7842a2ef15995048d2f7}
+      \strng{fullhashraw}{696494a1dfef7842a2ef15995048d2f7}
       \strng{bibnamehash}{696494a1dfef7842a2ef15995048d2f7}
       \strng{authorbibnamehash}{696494a1dfef7842a2ef15995048d2f7}
       \strng{authornamehash}{6fd6d4255266d6ee8fa4770715fdf15c}
       \strng{authorfullhash}{696494a1dfef7842a2ef15995048d2f7}
+      \strng{authorfullhashraw}{696494a1dfef7842a2ef15995048d2f7}
       \strng{editorbibnamehash}{653e3368a4a480029c1dac09d8782544}
       \strng{editornamehash}{55a10efa1790fda96340bc3d293b2cd3}
       \strng{editorfullhash}{653e3368a4a480029c1dac09d8782544}
+      \strng{editorfullhashraw}{653e3368a4a480029c1dac09d8782544}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3996,7 +4131,7 @@
       \endverb
       \annotation{item}{author}{default}{5}{}{0}{me}
     \endentry
-    \entry{Harasim2021_ExploringFoundationsTonality}{article}{}
+    \entry{Harasim2021_ExploringFoundationsTonality}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=6da55031daa5da1803b5ef5b128b85a4}{%
            family={Harasim},
@@ -4028,10 +4163,12 @@
       }
       \strng{namehash}{662077d80a2f9a5c3cdef43330bfad50}
       \strng{fullhash}{f2a74c5adb41b1309fccd279fd1984a2}
+      \strng{fullhashraw}{f2a74c5adb41b1309fccd279fd1984a2}
       \strng{bibnamehash}{f2a74c5adb41b1309fccd279fd1984a2}
       \strng{authorbibnamehash}{f2a74c5adb41b1309fccd279fd1984a2}
       \strng{authornamehash}{662077d80a2f9a5c3cdef43330bfad50}
       \strng{authorfullhash}{f2a74c5adb41b1309fccd279fd1984a2}
+      \strng{authorfullhashraw}{f2a74c5adb41b1309fccd279fd1984a2}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -4061,7 +4198,7 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Hentschel2021_SemiautomatedWorkflowParadigm}{inbook}{}
+    \entry{Hentschel2021_SemiautomatedWorkflowParadigm}{inbook}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=cfbc8f6b5670f470a32ea8f6fab343f6}{%
            family={Hentschel},
@@ -4129,13 +4266,16 @@
       }
       \strng{namehash}{6f2097b8c92c18656bf14d98fb44f014}
       \strng{fullhash}{d9ea5a776cd4aa1658e71f154721382a}
+      \strng{fullhashraw}{d9ea5a776cd4aa1658e71f154721382a}
       \strng{bibnamehash}{d9ea5a776cd4aa1658e71f154721382a}
       \strng{authorbibnamehash}{d9ea5a776cd4aa1658e71f154721382a}
       \strng{authornamehash}{6f2097b8c92c18656bf14d98fb44f014}
       \strng{authorfullhash}{d9ea5a776cd4aa1658e71f154721382a}
+      \strng{authorfullhashraw}{d9ea5a776cd4aa1658e71f154721382a}
       \strng{editorbibnamehash}{c06d21e28205091aacb5fe63776d4bd7}
       \strng{editornamehash}{89ae669211f8ae5d68302f5bd6b226df}
       \strng{editorfullhash}{c06d21e28205091aacb5fe63776d4bd7}
+      \strng{editorfullhashraw}{c06d21e28205091aacb5fe63776d4bd7}
       \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -4161,7 +4301,7 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Herff2021_EvidenceCognitiveTonal}{misc}{}
+    \entry{Herff2021_EvidenceCognitiveTonal}{misc}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=1626b38d1c80a84683f0a7496f70d23d}{%
            family={Herff},
@@ -4187,10 +4327,12 @@
       }
       \strng{namehash}{4a09cbbeaa7c43b8b22fa7805623a47f}
       \strng{fullhash}{34900903134b4e6fb17b8c30d5fd5144}
+      \strng{fullhashraw}{34900903134b4e6fb17b8c30d5fd5144}
       \strng{bibnamehash}{34900903134b4e6fb17b8c30d5fd5144}
       \strng{authorbibnamehash}{34900903134b4e6fb17b8c30d5fd5144}
       \strng{authornamehash}{4a09cbbeaa7c43b8b22fa7805623a47f}
       \strng{authorfullhash}{34900903134b4e6fb17b8c30d5fd5144}
+      \strng{authorfullhashraw}{34900903134b4e6fb17b8c30d5fd5144}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -4219,7 +4361,7 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Moss2021_Digitizing19thCenturyMusic}{inbook}{}
+    \entry{Moss2021_Digitizing19thCenturyMusic}{inbook}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -4304,13 +4446,16 @@
       }
       \strng{namehash}{a5dea51072dc95fd1c91f639c4bf00ae}
       \strng{fullhash}{e3f56956027340bf5269a9e1bc7db930}
+      \strng{fullhashraw}{e3f56956027340bf5269a9e1bc7db930}
       \strng{bibnamehash}{e3f56956027340bf5269a9e1bc7db930}
       \strng{authorbibnamehash}{e3f56956027340bf5269a9e1bc7db930}
       \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
       \strng{authorfullhash}{e3f56956027340bf5269a9e1bc7db930}
+      \strng{authorfullhashraw}{e3f56956027340bf5269a9e1bc7db930}
       \strng{editorbibnamehash}{d6cd53e212b7bdf31846bd7c7646aa11}
       \strng{editornamehash}{0f5718ac33fa58f0570fbce8567a2696}
       \strng{editorfullhash}{d6cd53e212b7bdf31846bd7c7646aa11}
+      \strng{editorfullhashraw}{d6cd53e212b7bdf31846bd7c7646aa11}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -4332,7 +4477,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2021_FAIROpenLinked}{article}{}
+    \entry{Moss2021_FAIROpenLinked}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -4349,10 +4494,12 @@
       }
       \strng{namehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{fullhash}{9149a3a1b56b4042276015b781fd316b}
+      \strng{fullhashraw}{9149a3a1b56b4042276015b781fd316b}
       \strng{bibnamehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{authorbibnamehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{authornamehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{authorfullhash}{9149a3a1b56b4042276015b781fd316b}
+      \strng{authorfullhashraw}{9149a3a1b56b4042276015b781fd316b}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -4383,7 +4530,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2021_SpecialIssueOpen}{article}{}
+    \entry{Moss2021_SpecialIssueOpen}{article}{}{}
       \name{editor}{2}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -4400,10 +4547,12 @@
       }
       \strng{namehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{fullhash}{9149a3a1b56b4042276015b781fd316b}
+      \strng{fullhashraw}{9149a3a1b56b4042276015b781fd316b}
       \strng{bibnamehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{editorbibnamehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{editornamehash}{9149a3a1b56b4042276015b781fd316b}
       \strng{editorfullhash}{9149a3a1b56b4042276015b781fd316b}
+      \strng{editorfullhashraw}{9149a3a1b56b4042276015b781fd316b}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -4429,7 +4578,7 @@
       \endverb
       \annotation{item}{editor}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2021_DiscoveringTonalProfiles}{article}{}
+    \entry{Moss2021_DiscoveringTonalProfiles}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -4446,10 +4595,12 @@
       }
       \strng{namehash}{229fb2d3c64ed5d5489dde4698fd149d}
       \strng{fullhash}{229fb2d3c64ed5d5489dde4698fd149d}
+      \strng{fullhashraw}{229fb2d3c64ed5d5489dde4698fd149d}
       \strng{bibnamehash}{229fb2d3c64ed5d5489dde4698fd149d}
       \strng{authorbibnamehash}{229fb2d3c64ed5d5489dde4698fd149d}
       \strng{authornamehash}{229fb2d3c64ed5d5489dde4698fd149d}
       \strng{authorfullhash}{229fb2d3c64ed5d5489dde4698fd149d}
+      \strng{authorfullhashraw}{229fb2d3c64ed5d5489dde4698fd149d}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -4485,7 +4636,7 @@
       \keyw{corpus studies,Latent Dirichlet Allocation,tonal pitch classes,tonality,Topic modelling}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Rohrmeier2021_FormalModelExtended}{inbook}{}
+    \entry{Rohrmeier2021_FormalModelExtended}{inbook}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
            family={Rohrmeier},
@@ -4541,13 +4692,16 @@
       }
       \strng{namehash}{50db2d4e5c224ce5c0140ddd0123cf15}
       \strng{fullhash}{50db2d4e5c224ce5c0140ddd0123cf15}
+      \strng{fullhashraw}{50db2d4e5c224ce5c0140ddd0123cf15}
       \strng{bibnamehash}{50db2d4e5c224ce5c0140ddd0123cf15}
       \strng{authorbibnamehash}{50db2d4e5c224ce5c0140ddd0123cf15}
       \strng{authornamehash}{50db2d4e5c224ce5c0140ddd0123cf15}
       \strng{authorfullhash}{50db2d4e5c224ce5c0140ddd0123cf15}
+      \strng{authorfullhashraw}{50db2d4e5c224ce5c0140ddd0123cf15}
       \strng{editorbibnamehash}{c06d21e28205091aacb5fe63776d4bd7}
       \strng{editornamehash}{89ae669211f8ae5d68302f5bd6b226df}
       \strng{editorfullhash}{c06d21e28205091aacb5fe63776d4bd7}
+      \strng{editorfullhashraw}{c06d21e28205091aacb5fe63776d4bd7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -4566,7 +4720,7 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Lieck2020_TonalDiffusionModel}{article}{}
+    \entry{Lieck2020_TonalDiffusionModel}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=3543c37a99b858ac0072a58264686db9}{%
            family={Lieck},
@@ -4592,10 +4746,12 @@
       }
       \strng{namehash}{1c465ef6fa5a778d5e823e84b9c105c1}
       \strng{fullhash}{2a0fa7cfe9cd08d9d89a1a900ec948f7}
+      \strng{fullhashraw}{2a0fa7cfe9cd08d9d89a1a900ec948f7}
       \strng{bibnamehash}{2a0fa7cfe9cd08d9d89a1a900ec948f7}
       \strng{authorbibnamehash}{2a0fa7cfe9cd08d9d89a1a900ec948f7}
       \strng{authornamehash}{1c465ef6fa5a778d5e823e84b9c105c1}
       \strng{authorfullhash}{2a0fa7cfe9cd08d9d89a1a900ec948f7}
+      \strng{authorfullhashraw}{2a0fa7cfe9cd08d9d89a1a900ec948f7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -4620,7 +4776,7 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{Moss2020_ChoroSongbookCorpus}{dataset}{}
+    \entry{Moss2020_ChoroSongbookCorpus}{dataset}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -4634,10 +4790,12 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -4671,7 +4829,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2020_ComputationalModelNote}{online}{}
+    \entry{Moss2020_ComputationalModelNote}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -4685,10 +4843,12 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -4713,7 +4873,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2020_TracingHistoricalChanges}{online}{}
+    \entry{Moss2020_TracingHistoricalChanges}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -4727,10 +4887,12 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -4754,7 +4916,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2020_TonalPitchClassCounts}{dataset}{}
+    \entry{Moss2020_TonalPitchClassCounts}{dataset}{}{}
       \name{author}{3}{ul=3}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -4780,10 +4942,12 @@
       }
       \strng{namehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{fullhash}{eb8460df4d783240a53ca9b4d8cba12d}
+      \strng{fullhashraw}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{bibnamehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{authorbibnamehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{authornamehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{authorfullhash}{eb8460df4d783240a53ca9b4d8cba12d}
+      \strng{authorfullhashraw}{eb8460df4d783240a53ca9b4d8cba12d}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -4815,7 +4979,7 @@
       \keyw{{computational musicology,tusic theory,tonality,music,corpus}}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2020_HarmonyFormBrazilian}{article}{}
+    \entry{Moss2020_HarmonyFormBrazilian}{article}{}{}
       \name{author}{3}{ul=2}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -4838,10 +5002,12 @@
       }
       \strng{namehash}{45d49562ba85cd277e589a8dc88f3660}
       \strng{fullhash}{45d49562ba85cd277e589a8dc88f3660}
+      \strng{fullhashraw}{45d49562ba85cd277e589a8dc88f3660}
       \strng{bibnamehash}{45d49562ba85cd277e589a8dc88f3660}
       \strng{authorbibnamehash}{45d49562ba85cd277e589a8dc88f3660}
       \strng{authornamehash}{45d49562ba85cd277e589a8dc88f3660}
       \strng{authorfullhash}{45d49562ba85cd277e589a8dc88f3660}
+      \strng{authorfullhashraw}{45d49562ba85cd277e589a8dc88f3660}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -4869,7 +5035,7 @@
       \keyw{Choro,corpus study,form,harmony,musical style analysis}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Landnes2019_ModelComparisonChord}{inbook}{}
+    \entry{Landnes2019_ModelComparisonChord}{inbook}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=7ef5d3ea1c8942a8fb044682f05248bd}{%
            family={Landnes},
@@ -4935,13 +5101,16 @@
       }
       \strng{namehash}{65aa8a10b20f14bf1d34d69dd841a1cc}
       \strng{fullhash}{6f671e1f9be624a66de5d7d495941a61}
+      \strng{fullhashraw}{6f671e1f9be624a66de5d7d495941a61}
       \strng{bibnamehash}{6f671e1f9be624a66de5d7d495941a61}
       \strng{authorbibnamehash}{6f671e1f9be624a66de5d7d495941a61}
       \strng{authornamehash}{65aa8a10b20f14bf1d34d69dd841a1cc}
       \strng{authorfullhash}{6f671e1f9be624a66de5d7d495941a61}
+      \strng{authorfullhashraw}{6f671e1f9be624a66de5d7d495941a61}
       \strng{editorbibnamehash}{d450555453735f0b9fab31088fd860df}
       \strng{editornamehash}{35904ff9a07fc2d815af20a967a27ef5}
       \strng{editorfullhash}{d450555453735f0b9fab31088fd860df}
+      \strng{editorfullhashraw}{d450555453735f0b9fab31088fd860df}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -4963,7 +5132,7 @@
       \endverb
       \annotation{item}{author}{default}{5}{}{0}{me}
     \endentry
-    \entry{Moss2019_TransitionsTonalityModelbased}{thesis}{}
+    \entry{Moss2019_TransitionsTonalityModelbased}{thesis}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -4980,10 +5149,12 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -5006,7 +5177,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2019_Pitchplots}{dataset}{}
+    \entry{Moss2019_Pitchplots}{dataset}{}{}
       \name{author}{3}{ul=2}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -5029,10 +5200,12 @@
       }
       \strng{namehash}{5fe66e775110771843844749d8a3c9b2}
       \strng{fullhash}{5fe66e775110771843844749d8a3c9b2}
+      \strng{fullhashraw}{5fe66e775110771843844749d8a3c9b2}
       \strng{bibnamehash}{5fe66e775110771843844749d8a3c9b2}
       \strng{authorbibnamehash}{5fe66e775110771843844749d8a3c9b2}
       \strng{authornamehash}{5fe66e775110771843844749d8a3c9b2}
       \strng{authorfullhash}{5fe66e775110771843844749d8a3c9b2}
+      \strng{authorfullhashraw}{5fe66e775110771843844749d8a3c9b2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -5061,7 +5234,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2019_StatisticalCharacteristicsTonal}{article}{}
+    \entry{Moss2019_StatisticalCharacteristicsTonal}{article}{}{}
       \name{author}{4}{ul=2}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -5090,10 +5263,12 @@
       }
       \strng{namehash}{d321866bb75d1b1802bc900f15eac15f}
       \strng{fullhash}{d3af601a616d300332aa54c5bbc86905}
+      \strng{fullhashraw}{d3af601a616d300332aa54c5bbc86905}
       \strng{bibnamehash}{d3af601a616d300332aa54c5bbc86905}
       \strng{authorbibnamehash}{d3af601a616d300332aa54c5bbc86905}
       \strng{authornamehash}{d321866bb75d1b1802bc900f15eac15f}
       \strng{authorfullhash}{d3af601a616d300332aa54c5bbc86905}
+      \strng{authorfullhashraw}{d3af601a616d300332aa54c5bbc86905}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -5117,7 +5292,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Popescu2019_PleasantnessSensoryDissonance}{article}{}
+    \entry{Popescu2019_PleasantnessSensoryDissonance}{article}{}{}
       \name{author}{8}{}{%
         {{un=0,uniquepart=base,hash=6ad87b728cc486ceaf9beb85969aef16}{%
            family={Popescu},
@@ -5173,10 +5348,12 @@
       }
       \strng{namehash}{e7348486e85c9006122395367d688698}
       \strng{fullhash}{f75a8fae48a9fe6fe0e28c99da9fb10d}
+      \strng{fullhashraw}{f75a8fae48a9fe6fe0e28c99da9fb10d}
       \strng{bibnamehash}{f75a8fae48a9fe6fe0e28c99da9fb10d}
       \strng{authorbibnamehash}{f75a8fae48a9fe6fe0e28c99da9fb10d}
       \strng{authornamehash}{e7348486e85c9006122395367d688698}
       \strng{authorfullhash}{f75a8fae48a9fe6fe0e28c99da9fb10d}
+      \strng{authorfullhashraw}{f75a8fae48a9fe6fe0e28c99da9fb10d}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -5204,7 +5381,7 @@
       \keyw{Cortex,Human behaviour}
       \annotation{item}{author}{default}{7}{}{0}{me}
     \endentry
-    \entry{Neuwirth2018_AnnotatedBeethovenCorpus}{article}{}
+    \entry{Neuwirth2018_AnnotatedBeethovenCorpus}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=ae0464b93a1404dccfd671e036398cc5}{%
            family={Neuwirth},
@@ -5236,10 +5413,12 @@
       }
       \strng{namehash}{928dbc6b50f7976a3fd945a06943bece}
       \strng{fullhash}{9b7de28ed748a92ee55a28cc19abf5de}
+      \strng{fullhashraw}{9b7de28ed748a92ee55a28cc19abf5de}
       \strng{bibnamehash}{9b7de28ed748a92ee55a28cc19abf5de}
       \strng{authorbibnamehash}{9b7de28ed748a92ee55a28cc19abf5de}
       \strng{authornamehash}{928dbc6b50f7976a3fd945a06943bece}
       \strng{authorfullhash}{9b7de28ed748a92ee55a28cc19abf5de}
+      \strng{authorfullhashraw}{9b7de28ed748a92ee55a28cc19abf5de}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -5265,7 +5444,7 @@
       \keyw{beethoven,Beethoven,corpus research,Corpus research,digital musicology,Digital Musicology,ground truth,Ground truth,harmony,music,Music,music; digital musicology; corpus research; ground,symbolic music data,Symbolic Music Data}
       \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
-    \entry{Moss2017_ReviewDavidHuron}{article}{}
+    \entry{Moss2017_ReviewDavidHuron}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -5279,10 +5458,12 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -5308,7 +5489,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2014_TonalityFunctionalEquivalence}{inbook}{}
+    \entry{Moss2014_TonalityFunctionalEquivalence}{inbook}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -5339,13 +5520,16 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{editorbibnamehash}{c51480f2e88aad1fc95071ce77cb33b7}
       \strng{editornamehash}{cdedf0710500d3ee775db10c8ed6b519}
       \strng{editorfullhash}{c51480f2e88aad1fc95071ce77cb33b7}
+      \strng{editorfullhashraw}{c51480f2e88aad1fc95071ce77cb33b7}
       \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -5366,7 +5550,7 @@
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2012_TheorieTonfelderNach}{thesis}{}
+    \entry{Moss2012_TheorieTonfelderNach}{thesis}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -5380,10 +5564,12 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \field{extraname}{9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -5408,7 +5594,7 @@
       \keyw{Neo-Riemannian Theory; Theorie der Tonfelder; Albert Simon; Extended Tonality}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
-    \entry{Moss2011_AlbertSimonsTheorie}{report}{}
+    \entry{Moss2011_AlbertSimonsTheorie}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
@@ -5422,10 +5608,12 @@
       }
       \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
       \field{extraname}{10}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
