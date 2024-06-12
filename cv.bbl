@@ -299,6 +299,61 @@
       \keyw{Fourier Qualia Space,Fourier transform,harmonic qualities,music analysis,wavescapes}
       \annotation{item}{author}{default}{4}{}{0}{me}
     \endentry
+    \entry{Youngblood2024_HistoryMusicApproaches}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0ef7c9dffe719294e5144c4972eb9a4b}{%
+           family={Youngblood},
+           familyi={Y\bibinitperiod},
+           given={Mason},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=cc33d4c89dedff9d403a16c15ce071be}{%
+           family={Ravignani},
+           familyi={R\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{fullhash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{fullhashraw}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{bibnamehash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{authorbibnamehash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{authornamehash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{authorfullhash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{authorfullhashraw}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{editorbibnamehash}{cc33d4c89dedff9d403a16c15ce071be}
+      \strng{editornamehash}{cc33d4c89dedff9d403a16c15ce071be}
+      \strng{editorfullhash}{cc33d4c89dedff9d403a16c15ce071be}
+      \strng{editorfullhashraw}{cc33d4c89dedff9d403a16c15ce071be}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {{Biology}} of {{Music}}: {{Interdisciplinary Insights}}}
+      \field{langid}{english}
+      \field{series}{Music as {{Art}} and {{Science}}}
+      \field{title}{The History of Music: Approaches from Cultural Evolution and Musicology}
+      \field{year}{2024}
+      \true{nocite}
+      \annotation{part}{author}{default}{}{n}{0}{me}
+    \endentry
     \entry{Seipelt2023_AnalysisMarkupHarmonies}{inbook}{}{}
       \name{editor}{2}{}{%
         {{hash=21c4e256ced6542ada63fa616ac47b80}{%
@@ -3108,6 +3163,61 @@
       \endverb
       \keyw{Fourier Qualia Space,Fourier transform,harmonic qualities,music analysis,wavescapes}
       \annotation{item}{author}{default}{4}{}{0}{me}
+    \endentry
+    \entry{Youngblood2024_HistoryMusicApproaches}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0ef7c9dffe719294e5144c4972eb9a4b}{%
+           family={Youngblood},
+           familyi={Y\bibinitperiod},
+           given={Mason},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=cc33d4c89dedff9d403a16c15ce071be}{%
+           family={Ravignani},
+           familyi={R\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{fullhash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{fullhashraw}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{bibnamehash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{authorbibnamehash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{authornamehash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{authorfullhash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{authorfullhashraw}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{editorbibnamehash}{cc33d4c89dedff9d403a16c15ce071be}
+      \strng{editornamehash}{cc33d4c89dedff9d403a16c15ce071be}
+      \strng{editorfullhash}{cc33d4c89dedff9d403a16c15ce071be}
+      \strng{editorfullhashraw}{cc33d4c89dedff9d403a16c15ce071be}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {{Biology}} of {{Music}}: {{Interdisciplinary Insights}}}
+      \field{langid}{english}
+      \field{series}{Music as {{Art}} and {{Science}}}
+      \field{title}{The History of Music: Approaches from Cultural Evolution and Musicology}
+      \field{year}{2024}
+      \true{nocite}
+      \annotation{part}{author}{default}{}{n}{0}{me}
     \endentry
     \entry{Seipelt2023_AnalysisMarkupHarmonies}{inbook}{}{}
       \name{editor}{2}{}{%
