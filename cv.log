@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.28)  29 JUN 2024 15:38
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.28)  29 JUN 2024 23:51
  restricted system commands enabled.
 **cv.tex biber cv lualatex cv.tex
 (./cv.tex
@@ -1918,11 +1918,6 @@ L3 programming layer <2024-03-14>
  ***********
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 34CD4BD0F7368416CD23065F8859BCC9;4000.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'cv.run.xml'.
 
 \openout1 = cv.run.xml
@@ -1942,7 +1937,7 @@ Here is how much of LuaTeX's memory you used:
  67 fonts using 14558447 bytes
  79i,13n,116p,2252b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (9 pages, 115780 bytes).
+Output written on cv.pdf (9 pages, 115828 bytes).
 
 PDF statistics: 352 PDF objects out of 1000 (max. 8388607)
  323 compressed objects within 4 object streams
