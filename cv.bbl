@@ -92,6 +92,46 @@
       \keyw{19th century,cadence,corpora,harmony,phrase,piano}
       \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
+    \entry{Moss2024_CODAMUS}{book}{}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {PubPub}%
+      }
+      \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{editorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{editornamehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{editorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{editorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Computational and Digital Approaches to Music Scholarship}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://codamus.pubpub.org/
+      \endverb
+      \verb{url}
+      \verb https://codamus.pubpub.org/
+      \endverb
+      \annotation{item}{editor}{default}{1}{}{0}{me}
+    \endentry
     \entry{mossTransatlanticTransformationsNeoRiemannian2024}{inbook}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
@@ -126,9 +166,10 @@
       \strng{editornamehash}{bc3e039a38cf5d828a7515742dd9754f}
       \strng{editorfullhash}{bc3e039a38cf5d828a7515742dd9754f}
       \strng{editorfullhashraw}{bc3e039a38cf5d828a7515742dd9754f}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -502,7 +543,7 @@
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1986,7 +2027,7 @@
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -2039,7 +2080,7 @@
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -2083,7 +2124,7 @@
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{3}
@@ -2345,7 +2386,7 @@
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2654,7 +2695,7 @@
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2720,7 +2761,7 @@
       \strng{editornamehash}{cdedf0710500d3ee775db10c8ed6b519}
       \strng{editorfullhash}{c51480f2e88aad1fc95071ce77cb33b7}
       \strng{editorfullhashraw}{c51480f2e88aad1fc95071ce77cb33b7}
-      \field{extraname}{8}
+      \field{extraname}{9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2760,7 +2801,7 @@
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{9}
+      \field{extraname}{10}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2804,7 +2845,7 @@
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{10}
+      \field{extraname}{11}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2902,6 +2943,46 @@
       \keyw{19th century,cadence,corpora,harmony,phrase,piano}
       \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
+    \entry{Moss2024_CODAMUS}{book}{}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {PubPub}%
+      }
+      \strng{namehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{fullhashraw}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{bibnamehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{editorbibnamehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{editornamehash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{editorfullhash}{ceeb25ba116874e69a0d91df2df39044}
+      \strng{editorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Computational and Digital Approaches to Music Scholarship}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://codamus.pubpub.org/
+      \endverb
+      \verb{url}
+      \verb https://codamus.pubpub.org/
+      \endverb
+      \annotation{item}{editor}{default}{1}{}{0}{me}
+    \endentry
     \entry{mossTransatlanticTransformationsNeoRiemannian2024}{inbook}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
@@ -2936,9 +3017,10 @@
       \strng{editornamehash}{bc3e039a38cf5d828a7515742dd9754f}
       \strng{editorfullhash}{bc3e039a38cf5d828a7515742dd9754f}
       \strng{editorfullhashraw}{bc3e039a38cf5d828a7515742dd9754f}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -3312,7 +3394,7 @@
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -4796,7 +4878,7 @@
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -4849,7 +4931,7 @@
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -4893,7 +4975,7 @@
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{3}
@@ -5155,7 +5237,7 @@
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -5464,7 +5546,7 @@
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -5530,7 +5612,7 @@
       \strng{editornamehash}{cdedf0710500d3ee775db10c8ed6b519}
       \strng{editorfullhash}{c51480f2e88aad1fc95071ce77cb33b7}
       \strng{editorfullhashraw}{c51480f2e88aad1fc95071ce77cb33b7}
-      \field{extraname}{8}
+      \field{extraname}{9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -5570,7 +5652,7 @@
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{9}
+      \field{extraname}{10}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -5614,7 +5696,7 @@
       \strng{authornamehash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhash}{ceeb25ba116874e69a0d91df2df39044}
       \strng{authorfullhashraw}{ceeb25ba116874e69a0d91df2df39044}
-      \field{extraname}{10}
+      \field{extraname}{11}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
