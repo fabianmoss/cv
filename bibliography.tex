@@ -25,26 +25,27 @@
 \begin{multicols}{2}
 
 \printbibliography[%
-  type=article,
   title={Journal articles},
+  type=article,
   notcategory={editedbyme}, % categories defined in preamble
   notcategory={reviews}, % categories defined in preamble
+  notcategory={preprints}, % categories defined in preamble
   heading=subbibliography%
 ]
 
 % needed to list inproceedings, 
 % but lists also everything with an editor (->APA)
 \printbibliography[%
-  type={inbook},
   title={Conference papers},
+  type={inbook},
   heading=subbibliography,
   notcategory={mychapters},
   notcategory={editedbyme}
 ]
 
 \printbibliography[%
-  category={editedbyme},  % categories defined in preamble
   title={Edited volumes}, % books and 
+  category={editedbyme},  % categories defined in preamble
   heading=subbibliography
 ]
 
@@ -55,38 +56,38 @@
 ]
 
 \printbibliography[%
-  category={reviews},  % categories defined in preamble
   title={Book reviews}, % books and 
+  category={reviews},  % categories defined in preamble
   heading=subbibliography
 ]
 
 \printbibliography[%
-  type=report,
   title={Reports},
+  type=report,
   heading=subbibliography,
   %notcategory={editedbyme}, % categories defined in preamble
   %notcategory={reviews} % categories defined in preamble
 ]
 
 \printbibliography[%
-  type=dataset,
   title={Data sets},
+  type=dataset,
   heading=subbibliography
 ]
 
 \printbibliography[%
-  type=online,
   title={Blog posts},
+  type=online,
   heading=subbibliography,
   category=blog
 ]
 
-% \printbibliography[%
-%   type=misc,
-%   title={Preprints},
-%   heading=subbibliography,
-%   category=preprints
-% ]
+\printbibliography[%
+  title={Preprints},
+  % type=misc,
+  heading=subbibliography,
+  category=preprints
+]
 
 \printbibliography[%
   type=thesis,
