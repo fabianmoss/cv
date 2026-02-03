@@ -86,6 +86,12 @@
 \newcommand{\inv}{\textcolor{color2}{$\mathbf{^i}$}}
 \newcommand{\OA}{\textcolor{color2}{\textbf{*}}}
 
+
+% Allow LaTeX more flexibility with spacing
+\sloppy
+\emergencystretch=1em   % Allow extra stretch to avoid underfull boxes
+\hfuzz=2pt             % Ignore overfull hboxes under 2pt
+
 %----------------------------------------------------------------------------------------
 %	NAME AND CONTACT INFORMATION SECTION
 %----------------------------------------------------------------------------------------
@@ -95,7 +101,8 @@
 
 % All information in this block is optional, comment out any lines you don't need
 \title{Curriculum Vitae}
-% \address{Chemin de Renens 18}{CH-1004 Lausanne}
+\address{Assistant Professor for Digital Music Philology and Music Theory}{%
+  Julius-Maximilians-Universität Würzburg}
 % \mobile{(+41) 78 700 8485}
 % \phone{(000) 111 1112}
 %\fax{(000) 111 1113}
