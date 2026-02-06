@@ -73,11 +73,36 @@
     backend=biber,
     style=apa,
     sorting=ddnt,
-    maxbibnames=999,
-    minbibnames=999
 ]{biblatex}
 \addbibresource{bibliography.bib}
 \addbibresource{talks.bib}
+
+%NOTE: Hack to show ALL authors despite APA
+\makeatletter
+\DeclareNameFormat{apaauthor}{%
+  \ifcase\value{uniquename}%
+    \usebibmacro{name:family-given}%
+      {\namepartfamily}%
+      {\namepartgiveni}%
+      {\namepartprefix}%
+      {\namepartsuffix}%
+  \or
+    \usebibmacro{name:family-given}%
+      {\namepartfamily}%
+      {\namepartgiven}%
+      {\namepartprefix}%
+      {\namepartsuffix}%
+  \or
+    \usebibmacro{name:family-given}%
+      {\namepartfamily}%
+      {\namepartgiven}%
+      {\namepartprefix}%
+      {\namepartsuffix}%
+  \fi
+  \usebibmacro{name:andothers}}
+
+\makeatother
+%NOTE: END Bib Hack
 
 % add manual bib categories
 \input{bibcategories.tex}
