@@ -26,11 +26,11 @@
 %	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
 %----------------------------------------------------------------------------------------
 
-\documentclass[10pt,a4paper]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+\documentclass[10pt,a4paper]{moderncv}
 % \nopagenumbers{} % suppress page numbers
 
-\moderncvstyle{banking} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
-\moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+\moderncvstyle{banking}
+\moderncvcolor{blue}
 % \moderncvicons{awesome}
 \usepackage{multicol}
 \usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
@@ -74,8 +74,8 @@
     style=apa,
     sorting=ddnt,
 ]{biblatex}
-\addbibresource{bibliography.bib}
-\addbibresource{talks.bib}
+\addbibresource{../bib/bibliography.bib}
+\addbibresource{../bib/talks.bib}
 
 %NOTE: Hack to show ALL authors despite APA
 \makeatletter
@@ -104,7 +104,7 @@
 %NOTE: END Bib Hack
 
 % add manual bib categories
-\input{bibcategories.tex}
+\input{../bib/bibcategories.tex}
 
 % Special commands for publications list
 \newcommand{\inv}{\textcolor{color2}{$\mathbf{^i}$}}

@@ -1,0 +1,65 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[1] Config.pm:311> INFO - Logfile is '/home/fmoss/GitHub/fabianmoss/cv/build/cv.blg'
+[146] biber:340> INFO - === Fr Feb 27, 2026, 08:43:05
+[172] Biber.pm:420> INFO - Reading '/home/fmoss/GitHub/fabianmoss/cv/build/cv.bcf'
+[308] Biber.pm:991> INFO - Using all citekeys in bib section 0
+[340] Biber.pm:4463> INFO - Processing section 0
+[354] Biber.pm:4654> INFO - Looking for bibtex file '../bib/bibliography.bib' for section 0
+[365] bibtex.pm:1713> INFO - LaTeX decoding ...
+[541] bibtex.pm:1519> INFO - Found BibTeX data source '../bib/bibliography.bib'
+[1526] Biber.pm:4654> INFO - Looking for bibtex file '../bib/talks.bib' for section 0
+[1533] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1644] bibtex.pm:1519> INFO - Found BibTeX data source '../bib/talks.bib'
+[2900] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2900] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2900] Biber.pm:4283> INFO - Sorting list 'ddnt/apasortcite//global/global/global' of type 'entry' with template 'ddnt' and locale 'en-US'
+[2900] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[3491] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[3491] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[3492] Biber.pm:4283> INFO - Sorting list 'ddnt/global//global/global/global' of type 'entry' with template 'ddnt' and locale 'en-US'
+[3492] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[3780] bbl.pm:676> INFO - Writing '/home/fmoss/GitHub/fabianmoss/cv/build/cv.bbl' with encoding 'UTF-8'
+[4157] bbl.pm:779> INFO - Output to /home/fmoss/GitHub/fabianmoss/cv/build/cv.bbl
+[4158] Biber.pm:131> WARN - legacy year field 'in press' in entry 'YoungbloodMoss2025' is not an integer - this will probably not sort properly.
+[4158] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_5QsX/f4d088b3f9f145b5c3058da33afd57d4_628835.utf8, line 69, warning: 2292 characters of junk seen at toplevel
+[4158] Biber.pm:131> WARN - Duplicate entry key: 'Hentschel2021_UnifiedModelChords' in file '../bib/talks.bib', skipping ...
+[4158] Biber.pm:131> WARN - legacy year field '2023-10-04/2023-10-07' in entry 'Moss2023_KorpusforschungUndDigitale' is not an integer - this will probably not sort properly.
+[4158] Biber.pm:131> WARN - legacy year field '2023-09-04/2023-09-08' in entry 'Roeder2023_MusicTextInterlinkingChallenge' is not an integer - this will probably not sort properly.
+[4158] Biber.pm:131> WARN - legacy year field '2023-02-05/2023-02-09' in entry 'Arthur2023_DecodingMusicalStructure' is not an integer - this will probably not sort properly.
+[4159] Biber.pm:131> WARN - legacy year field '2024-09-11/2024-09-14' in entry 'Eipert2024_DigitalPathsHistory' is not an integer - this will probably not sort properly.
+[4159] Biber.pm:131> WARN - legacy year field '2022-06-14/2022-06-17' in entry 'Bracks2022_TotolisArtLelegesan' is not an integer - this will probably not sort properly.
+[4159] Biber.pm:131> WARN - legacy year field '2024-10-17/2024-10-18' in entry 'Hofmann2024_MetricalIrregularitiesPolymetric' is not an integer - this will probably not sort properly.
+[4159] Biber.pm:131> WARN - legacy year field '2022-09-29/2022-10-01' in entry 'Koster2022_HarmonischeDualismusUnd' is not an integer - this will probably not sort properly.
+[4159] Biber.pm:131> WARN - legacy year field '2024-06-18/2024-06-21' in entry 'Pereira2024_FourierQualiaWavescapesa' is not an integer - this will probably not sort properly.
+[4159] Biber.pm:131> WARN - legacy year field '2021-11-17/2021-11-19' in entry 'Moss2021_Digitizinga19thcenturymusictheorydebateforcomputationalAnalysis' is not an integer - this will probably not sort properly.
+[4159] Biber.pm:131> WARN - legacy year field '2020-12-08/2020-12-12' in entry 'Moss2020_ImportanceModelingComputational' is not an integer - this will probably not sort properly.
+[4159] Biber.pm:131> WARN - legacy year field '2023-11-09/2023-11-12' in entry 'Yust2023_AnimatedHarmonicAnalysis' is not an integer - this will probably not sort properly.
+[4160] Biber.pm:131> WARN - legacy year field 'York, UK [online]' in entry 'MossYorkUK[online]_DataDrivenMusicHistory' is not an integer - this will probably not sort properly.
+[4160] Biber.pm:131> WARN - legacy year field '2021-03-06/2021-03-07' in entry 'Moss2021_DiscoveringLineFifths' is not an integer - this will probably not sort properly.
+[4160] Biber.pm:131> WARN - legacy year field '2022-10-20/2022-10-22' in entry 'Moss2022_LearningMachineLearninga' is not an integer - this will probably not sort properly.
+[4160] Biber.pm:131> WARN - legacy year field '2019-07-01/2019-07-04' in entry 'Moss2019_TracingHistoryTonality' is not an integer - this will probably not sort properly.
+[4160] Biber.pm:131> WARN - legacy year field '2024-09-09/2024-09-11' in entry 'Moss2024_CrossculturalModelingEvolution' is not an integer - this will probably not sort properly.
+[4160] Biber.pm:131> WARN - legacy year field '2024-06-27/2024-06-29' in entry 'Eipert2024_MedievalChantLineages' is not an integer - this will probably not sort properly.
+[4160] Biber.pm:131> WARN - legacy year field '2025-03-17/2025-03-19' in entry 'Moss2025_DataCollectingMusicala' is not an integer - this will probably not sort properly.
+[4160] Biber.pm:131> WARN - legacy year field '2021-07-28/2021-07-31' in entry 'Moss2021_ModelingPerceivedTonal' is not an integer - this will probably not sort properly.
+[4160] Biber.pm:131> WARN - legacy year field '2021-09-28/2021-10-01' in entry 'Hentschel2021_EntwicklungTonalenSprache' is not an integer - this will probably not sort properly.
+[4160] Biber.pm:131> WARN - legacy year field '2023-11-13/2023-11-17' in entry 'Nakamura2023_HistoricalChangesModesb' is not an integer - this will probably not sort properly.
+[4160] Biber.pm:131> WARN - legacy year field '2025-06-03/2025-06-06' in entry 'Nachtwey2025_BarsDistributionDifferences' is not an integer - this will probably not sort properly.
+[4160] Biber.pm:131> WARN - legacy year field '2022-06-14/2022-06-17' in entry 'Meng2022_RevisitingTongYun' is not an integer - this will probably not sort properly.
+[4161] Biber.pm:131> WARN - legacy year field '2024-06-27/2024-06-29' in entry 'Hofmann2024_EncodingPolymetersMetric' is not an integer - this will probably not sort properly.
+[4161] Biber.pm:131> WARN - legacy year field '2024-07-06/2024-07-09' in entry 'Polykarpidis2024_EchosModeClassification' is not an integer - this will probably not sort properly.
+[4161] Biber.pm:131> WARN - legacy year field '2023-09-22/2023-09-24' in entry 'Moss2023_StarPlotsNeue' is not an integer - this will probably not sort properly.
+[4161] Biber.pm:131> WARN - legacy year field '2020-10-01/2020-10-04' in entry 'Moss2020_AnalyzingMusicalPieces' is not an integer - this will probably not sort properly.
+[4161] Biber.pm:131> WARN - legacy year field '2025-06-03/2025-06-06' in entry 'Stickler2025_MinimalPublishingModel' is not an integer - this will probably not sort properly.
+[4161] Biber.pm:131> WARN - legacy year field '2021-11-24/2021-11-25' in entry 'Moss2021_ScienceMusic' is not an integer - this will probably not sort properly.
+[4161] Biber.pm:131> WARN - legacy year field '2022-08-22/2022-08-26' in entry 'Moss2022_ReadingMusicTheory' is not an integer - this will probably not sort properly.
+[4161] Biber.pm:131> WARN - legacy year field '2022-06-21/2022-06-24' in entry 'Harasim2022_MidiVERTOWebApplicationa' is not an integer - this will probably not sort properly.
+[4161] Biber.pm:131> WARN - legacy year field '2024-12-04/2024-12-06' in entry 'Moss2024_ModelingEvolutionHarmonya' is not an integer - this will probably not sort properly.
+[4161] Biber.pm:131> WARN - legacy year field '2024-07-06/2024-07-09' in entry 'Eipert2024_ReconstructingFormationTrope' is not an integer - this will probably not sort properly.
+[4161] Biber.pm:131> WARN - legacy year field '2021-07-28/2021-07-31' in entry 'Moss2021_IndividualPerceptionDiatonic' is not an integer - this will probably not sort properly.
+[4161] Biber.pm:131> WARN - legacy year field '2024-09-11/2024-09-14' in entry 'Hofmann2024_ZeitgemassPolyphonZur' is not an integer - this will probably not sort properly.
+[4161] Biber.pm:131> WARN - legacy year field '2021-10-01/2021-10-03' in entry 'Moss2021_PolytonalityEmergenceTone' is not an integer - this will probably not sort properly.
+[4162] Biber.pm:131> WARN - legacy year field '2023-10-04/2023-10-07' in entry 'Eipert2023_OutsideUseScales' is not an integer - this will probably not sort properly.
+[4162] Biber.pm:131> WARN - legacy year field '2024-09-11/2024-09-14' in entry 'Nachtwey2024_DigitaleKorpusbildungMusikforschung' is not an integer - this will probably not sort properly.
+[4162] Biber.pm:131> WARN - legacy year field '2023-07-24/2023-07-28' in entry 'Eipert2023_SystemTropeElements' is not an integer - this will probably not sort properly.
+[4162] Biber.pm:133> INFO - WARNINGS: 42

@@ -1,11 +1,11 @@
 default:
-    latexmk -pdflua cv.tex
+    TEXINPUTS=../templates//: latexmk -pdflua -output-directory=../build cv.tex
 
 clean:
-    latexmk -C
+    latexmk -C ../build/cv
 
 watch:
-    latexmk -pdflua -pvc cv.tex
+    TEXINPUTS=../templates//: latexmk -pdflua -pvc -output-directory=../build cv.tex
 
 open:
-    evince cv.pdf
+    evince ../build/cv.pdf
