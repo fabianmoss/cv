@@ -8,4 +8,4 @@ watch:
     latexmk -pdflua -pvc cv.tex
 
 open:
-    xdg-open cv.pdf
+    evince cv.pdf
