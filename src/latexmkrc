@@ -1,0 +1,5 @@
+if ($^O eq 'linux') {
+    $pdf_previewer = 'evince %S';
+} elsif ($^O eq 'MSWin32') {
+    $pdf_previewer = 'start "" %S';
+}
