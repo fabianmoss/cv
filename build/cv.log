@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.12.3)  2 MAR 2026 09:17
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.12.3)  4 MAR 2026 14:27
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -1599,7 +1599,8 @@ Package biblatex Info: ... and expl3
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 ))
-(/home/fmoss/GitHub/fabianmoss/cv/build/../bib/bibcategories.tex)
+(/home/fmoss/GitHub/fabianmoss/applications_grants/20260313_HAVI/cv/build/../bi
+b/bibcategories.tex)
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
 
@@ -1712,7 +1713,8 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 149.
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 149.
 
-(/home/fmoss/GitHub/fabianmoss/cv/build/cv.aux)
+(/home/fmoss/GitHub/fabianmoss/applications_grants/20260313_HAVI/cv/build/cv.au
+x)
 \openout1 = cv.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 149.
@@ -1735,8 +1737,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 149.
 LaTeX Font Info:    ... okay on input line 149.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 149.
 LaTeX Font Info:    ... okay on input line 149.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count457
 \scratchdimen=\dimen178
@@ -1849,27 +1850,26 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'cv.bbl' found.
 
-(/home/fmoss/GitHub/fabianmoss/cv/build/cv.bbl)
+(/home/fmoss/GitHub/fabianmoss/applications_grants/20260313_HAVI/cv/build/cv.bb
+l)
 Package biblatex Info: Reference section=0 on input line 149.
 Package biblatex Info: Reference segment=0 on input line 149.
 Package hyperref Info: Link coloring ON on input line 149.
 
-(/home/fmoss/GitHub/fabianmoss/cv/build/cv.out)
-(/home/fmoss/GitHub/fabianmoss/cv/build/cv.out)
+(/home/fmoss/GitHub/fabianmoss/applications_grants/20260313_HAVI/cv/build/cv.ou
+t)
+(/home/fmoss/GitHub/fabianmoss/applications_grants/20260313_HAVI/cv/build/cv.ou
+t)
 \@outlinefile=\write4
 
 \openout4 = cv.out
-\pagenumberwidth=\skip116
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 149.
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
 (Font)              scaled to size 24.88pt on input line 177.
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/n' will be
 (Font)              scaled to size 24.88pt on input line 177.
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
 (Font)              scaled to size 14.4pt on input line 177.
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-mvs.cfg
+ (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
@@ -1920,6 +1920,8 @@ LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/n' will be
 (Font)              scaled to size 14.4pt on input line 5.
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/n' will be
 (Font)              scaled to size 10.0pt on input line 12.
+LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 12.
 ) (./education.tex) (./service.tex
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 3.
@@ -1947,11 +1949,6 @@ Underfull \hbox (badness 10000) detected at line 17
  []
 
 
-
-[1
-
-{/home/fmoss/.texlive2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 33.
 
@@ -1962,91 +1959,13 @@ Underfull \hbox (badness 10000) detected at line 33
 
 ) (./organization.tex
 
+[1
 
-Overfull \hbox (1.02602pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋉/[][]󰋈󰋉[][] 
- []
-
-[2]) (./funding.tex
-
-LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 3.
-
-
-Underfull \hbox (badness 10000) detected at line 3
-\TU/AlegreyaSans(0)/m/n/7 .
- []
-
+{/home/fmoss/.texlive2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
+(./funding.tex
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 5.
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/it' will be
-(Font)              scaled to size 10.0pt on input line 6.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 11.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 11.
-
-LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 44.
-
-
-Underfull \hbox (badness 10000) detected at line 44
-\TU/AlegreyaSans(0)/m/n/7 .
- []
-
-) (./teaching.tex
-
-[3]) (./supervision.tex
-
-LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 3.
-
-
-Underfull \hbox (badness 10000) detected at line 3
-\TU/AlegreyaSans(0)/m/n/7 .
- []
-
-
-LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 16.
-
-
-Underfull \hbox (badness 10000) detected at line 16
-\TU/AlegreyaSans(0)/m/n/7 .
- []
-
-
-LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 28.
-
-
-Underfull \hbox (badness 10000) detected at line 28
-\TU/AlegreyaSans(0)/m/n/7 .
- []
-
-
-LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 38.
-
-
-Underfull \hbox (badness 10000) detected at line 38
-\TU/AlegreyaSans(0)/m/n/7 .
- []
-
-) (./media.tex
-
-
-Overfull \hbox (1.04561pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋋/[][]󰋈󰋉[][] 
- []
-
-[4]) (./skills.tex)
-
-[5] (./bibliography.tex
-Underfull \hbox (badness 10000) in paragraph at lines 200--8
-
- []
-
+) (./bibliography.tex
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 27.
@@ -2057,17 +1976,6 @@ Underfull \hbox (badness 10000) detected at line 34
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--34
-\TU/AlegreyaSans(0)/m/n/10 Wavescapes: A vi-sual hi-er-ar-chi-cal anal-y-sis of tonal-ity
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--34
-\TU/AlegreyaSans(0)/m/n/10 us-ing the dis-crete Fourier trans-form. \TU/Alegrey
-aSans(0)/m/it/10 Mu-si-cae Sci-en-tiae\TU/AlegreyaSans(0)/m/n/10 ,
- []
-
-
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 38.
 
@@ -2076,14 +1984,6 @@ Underfull \hbox (badness 10000) detected at line 44
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-
-Overfull \hbox (0.8202pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋍/[][]󰋈󰋉[][] 
- []
-
-[6
-
-]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 46.
@@ -2094,59 +1994,31 @@ Underfull \hbox (badness 10000) detected at line 50
  []
 
 
-LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 52.
+LaTeX Warning: Empty bibliography on input line 52.
 
 
-Underfull \hbox (badness 10000) detected at line 56
-\TU/AlegreyaSans(0)/m/n/7 .
- []
+LaTeX Warning: Empty bibliography on input line 58.
 
 
-LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 58.
+Package biblatex Warning: Type 'report' not found on input line 63.
 
 
-Underfull \hbox (badness 10000) detected at line 62
-\TU/AlegreyaSans(0)/m/n/7 .
- []
+LaTeX Warning: Empty bibliography on input line 63.
 
 
-LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 63.
+Package biblatex Warning: Type 'dataset' not found on input line 71.
 
 
-Underfull \hbox (badness 10000) detected at line 69
-\TU/AlegreyaSans(0)/m/n/7 .
- []
+LaTeX Warning: Empty bibliography on input line 71.
 
 
-LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 71.
+Package biblatex Warning: Type 'online' not found on input line 77.
 
 
-Underfull \hbox (badness 10000) detected at line 75
-\TU/AlegreyaSans(0)/m/n/7 .
- []
-
-[7]
-
-LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 77.
+LaTeX Warning: Empty bibliography on input line 77.
 
 
-Underfull \hbox (badness 10000) detected at line 82
-\TU/AlegreyaSans(0)/m/n/7 .
- []
-
-
-LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 84.
-
-
-Underfull \hbox (badness 10000) detected at line 89
-\TU/AlegreyaSans(0)/m/n/7 .
- []
+LaTeX Warning: Empty bibliography on input line 84.
 
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
@@ -2157,111 +2029,17 @@ Underfull \hbox (badness 10000) detected at line 95
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-) (./talks.tex
-
-LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 9.
 
 
-Underfull \hbox (badness 10000) detected at line 9
-\TU/AlegreyaSans(0)/m/n/7 .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--10
-[]\TU/AlegreyaSans(0)/b/n/10 Moss, F. C. \TU/AlegreyaSans(0)/m/n/10 & Roeder, T.
- \TU/AlegreyaSans(0)/m/it/10 Auf-bau einer of-fe-nen dig-i-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--10
-\TU/AlegreyaSans(0)/m/it/10 deutschsprachi-gen Raum an-hand von Beispie-len aus dem 
-󰋈󰋐.
- []
-
-
-Underfull \hbox (badness 5985) in paragraph at lines 10--10
-\TU/AlegreyaSans(0)/m/it/10 Jahrhun-dert (DigiMusTh)\TU/AlegreyaSans(0)/m/n/10 
-. Ab-schlussvorstel-lung der Text+-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--14
-\TU/AlegreyaSans(0)/m/n/10 an der Berlin-Brandenburgischen Akademie der Wis-
- []
-
-
-Overfull \hbox (0.87901pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋏/[][]󰋈󰋉[][] 
- []
-
-[8]
-
-LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 66.
-
-
-Underfull \hbox (badness 10000) detected at line 66
-\TU/AlegreyaSans(0)/m/n/7 .
- []
-
-
-Overfull \hbox (0.8202pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋐/[][]󰋈󰋉[][] 
- []
-
-[9]
-Underfull \hbox (badness 5231) in paragraph at lines 116--116
-\TU/AlegreyaSans(0)/m/it/10 Diskur-s-anal-yse\TU/AlegreyaSans(0)/m/n/10 . Jahres
-ta-gung der Gesellscha󰀙t für Musik-
- []
-
-
-Overfull \hbox (4.96559pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋈󰋇/[][]󰋈󰋉[][] 
- []
-
-[10]
-Overfull \hbox (3.1722pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋈󰋈/[][]󰋈󰋉[][] 
- []
-
-[11]
-
-LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 174.
-
-
-Underfull \hbox (badness 10000) detected at line 174
-\TU/AlegreyaSans(0)/m/n/7 .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--175
-[]\TU/AlegreyaSans(0)/b/n/10 Moss, F. C.\TU/AlegreyaSans(0)/m/n/10 , \TU/Alegre
-yaSans(0)/m/it/10 Musik und Math-e-matik -- Wie passt das
- []
-
-
-Underfull \hbox (badness 6978) in paragraph at lines 175--175
-\TU/AlegreyaSans(0)/m/n/10 Universität Würzburg, 󰋍 Novem-ber 󰋇󰋅󰋇
-󰋉. [][]$https://www.
- []
-
-)
-
-
-Overfull \hbox (4.49521pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋈󰋉/[][]󰋈󰋉[][] 
- []
-
-[12] (/home/fmoss/GitHub/fabianmoss/cv/build/cv.aux)
+[2])
+(/home/fmoss/GitHub/fabianmoss/applications_grants/20260313_HAVI/cv/build/cv.au
+x)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: 3292EFE14DF6D29A29E19F2C6022C07A;4285.
+(rerunfilecheck)             Checksum: FD58CB3D308EC80CB7AB69C9FAA1EFEE;1779.
 Package logreq Info: Writing requests to 'cv.run.xml'.
 
 \openout1 = cv.run.xml
@@ -2272,27 +2050,26 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 25680 strings out of 475512
- 195585,2373549 words of node,token memory allocated
- 1149 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 6 kern, 1 penalty, 3 glyph, 49
- attribute, 92 glue_spec, 49 attribute_list, 1 write, 38 pdf_action nodes
-   avail lists: 1:3,2:2933,3:1263,4:448,5:2951,6:116,7:16235,8:119,9:890,10:24,1
-1:1305
- 48054 multiletter control sequences out of 65536+600000
- 74 fonts using 15316775 bytes
- 79i,13n,109p,2227b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-BoldI
-talic.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/Alegreya
-Sans-Italic.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf
-></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regu
-lar.otf></usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSa
-ns-Bold.otf></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.
-pfb>
-Output written on cv.pdf (12 pages, 139295 bytes).
+ 25208 strings out of 475512
+ 195585,1977958 words of node,token memory allocated
+ 879 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 5 kern, 1 penalty, 1 margin_ke
+rn, 4 glyph, 21 attribute, 91 glue_spec, 21 attribute_list, 2 write, 11 pdf_acti
+on nodes
+   avail lists: 1:4,2:1888,3:1174,4:397,5:2344,6:98,7:16415,8:51,9:758,10:21,11:
+1276
+ 47678 multiletter control sequences out of 65536+600000
+ 67 fonts using 14558447 bytes
+ 79i,12n,109p,1197b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Itali
+c.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/sha
+re/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></
+usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.ot
+f></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on cv.pdf (2 pages, 58158 bytes).
 
-PDF statistics: 443 PDF objects out of 1000 (max. 8388607)
- 407 compressed objects within 5 object streams
- 102 named destinations out of 1000 (max. 131072)
- 273 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 152 PDF objects out of 1000 (max. 8388607)
+ 133 compressed objects within 2 object streams
+ 31 named destinations out of 1000 (max. 131072)
+ 105 words of extra memory for PDF output out of 10000 (max. 100000000)
 
