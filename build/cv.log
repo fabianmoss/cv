@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.12.3)  13 MAR 2026 11:41
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.12.3)  17 MAR 2026 10:58
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -2282,7 +2282,7 @@ Here is how much of LuaTeX's memory you used:
  1149 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 6 kern, 1 penalty, 3 glyph, 49
  attribute, 92 glue_spec, 49 attribute_list, 1 write, 38 pdf_action nodes
-   avail lists: 1:5,2:2934,3:1263,4:448,5:2951,6:117,7:16235,8:119,9:868,10:24,1
+   avail lists: 1:3,2:2933,3:1263,4:448,5:2951,6:117,7:16235,8:119,9:868,10:24,1
 1:1305
  48051 multiletter control sequences out of 65536+600000
  74 fonts using 15316775 bytes
