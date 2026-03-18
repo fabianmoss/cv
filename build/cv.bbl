@@ -515,6 +515,7 @@
       \strng{authornamehash}{8f1bcb919db82b3cc175e9ea01cd2721}
       \strng{authorfullhash}{8f1bcb919db82b3cc175e9ea01cd2721}
       \strng{authorfullhashraw}{8f1bcb919db82b3cc175e9ea01cd2721}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1793,6 +1794,112 @@
       \verb{doi}
       \verb 10.5334/tismir.298
       \endverb
+      \annotation{item}{author}{default}{2}{}{0}{me}
+    \endentry
+    \entry{HofmannMoss2026}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=34fcb7dda15324e57b2df8e43bc4b7ba}{%
+           family={Hofmann},
+           familyi={H\bibinitperiod},
+           given={Lucas},
+           giveni={L\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=64e389a9591a82ee653934ac855e4c5d}{%
+           family={Neumann},
+           familyi={N\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Thessaloniki, Greece}%
+      }
+      \list{publisher}{1}{%
+        {ACM, New York, NY}%
+      }
+      \strng{namehash}{c1bb62a576f45ae9dcef07d192011aa5}
+      \strng{fullhash}{c1bb62a576f45ae9dcef07d192011aa5}
+      \strng{fullhashraw}{c1bb62a576f45ae9dcef07d192011aa5}
+      \strng{bibnamehash}{c1bb62a576f45ae9dcef07d192011aa5}
+      \strng{authorbibnamehash}{c1bb62a576f45ae9dcef07d192011aa5}
+      \strng{authornamehash}{c1bb62a576f45ae9dcef07d192011aa5}
+      \strng{authorfullhash}{c1bb62a576f45ae9dcef07d192011aa5}
+      \strng{authorfullhashraw}{c1bb62a576f45ae9dcef07d192011aa5}
+      \strng{editorbibnamehash}{64e389a9591a82ee653934ac855e4c5d}
+      \strng{editornamehash}{64e389a9591a82ee653934ac855e4c5d}
+      \strng{editorfullhash}{64e389a9591a82ee653934ac855e4c5d}
+      \strng{editorfullhashraw}{64e389a9591a82ee653934ac855e4c5d}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 13th International Conference on Digital Libraries for Musicology}
+      \field{title}{{Encoding polymeter: A corpus of Hugo Distler's «Der~Jahrkreis»~op.~5 in different symbolic formats}}
+      \field{year}{2026}
+      \true{nocite}
+      \annotation{item}{author}{default}{2}{}{0}{me}
+    \endentry
+    \entry{WindholzMoss2026}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0c434eb97198036147c7fd5d27dccfd7}{%
+           family={Orsini\bibnamedelima Windholz},
+           familyi={O\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Mauro},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=64e389a9591a82ee653934ac855e4c5d}{%
+           family={Neumann},
+           familyi={N\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Thessaloniki, Greece}%
+      }
+      \list{publisher}{1}{%
+        {ACM, New York, NY}%
+      }
+      \strng{namehash}{f97b5f18bcb699004a4ebec82d5dcd9b}
+      \strng{fullhash}{f97b5f18bcb699004a4ebec82d5dcd9b}
+      \strng{fullhashraw}{f97b5f18bcb699004a4ebec82d5dcd9b}
+      \strng{bibnamehash}{f97b5f18bcb699004a4ebec82d5dcd9b}
+      \strng{authorbibnamehash}{f97b5f18bcb699004a4ebec82d5dcd9b}
+      \strng{authornamehash}{f97b5f18bcb699004a4ebec82d5dcd9b}
+      \strng{authorfullhash}{f97b5f18bcb699004a4ebec82d5dcd9b}
+      \strng{authorfullhashraw}{f97b5f18bcb699004a4ebec82d5dcd9b}
+      \strng{editorbibnamehash}{64e389a9591a82ee653934ac855e4c5d}
+      \strng{editornamehash}{64e389a9591a82ee653934ac855e4c5d}
+      \strng{editorfullhash}{64e389a9591a82ee653934ac855e4c5d}
+      \strng{editorfullhashraw}{64e389a9591a82ee653934ac855e4c5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 13th International Conference on Digital Libraries for Musicology}
+      \field{title}{Mapping the space of harmonic cadences between Brazilian choro, jazz and Anglophone popular music}
+      \field{year}{2026}
+      \true{nocite}
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{ignestiDevelopingDigitalPreservation2026}{report}{}{}
@@ -8149,6 +8256,7 @@
       \strng{authornamehash}{8f1bcb919db82b3cc175e9ea01cd2721}
       \strng{authorfullhash}{8f1bcb919db82b3cc175e9ea01cd2721}
       \strng{authorfullhashraw}{8f1bcb919db82b3cc175e9ea01cd2721}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -9427,6 +9535,112 @@
       \verb{doi}
       \verb 10.5334/tismir.298
       \endverb
+      \annotation{item}{author}{default}{2}{}{0}{me}
+    \endentry
+    \entry{HofmannMoss2026}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=34fcb7dda15324e57b2df8e43bc4b7ba}{%
+           family={Hofmann},
+           familyi={H\bibinitperiod},
+           given={Lucas},
+           giveni={L\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=64e389a9591a82ee653934ac855e4c5d}{%
+           family={Neumann},
+           familyi={N\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Thessaloniki, Greece}%
+      }
+      \list{publisher}{1}{%
+        {ACM, New York, NY}%
+      }
+      \strng{namehash}{c1bb62a576f45ae9dcef07d192011aa5}
+      \strng{fullhash}{c1bb62a576f45ae9dcef07d192011aa5}
+      \strng{fullhashraw}{c1bb62a576f45ae9dcef07d192011aa5}
+      \strng{bibnamehash}{c1bb62a576f45ae9dcef07d192011aa5}
+      \strng{authorbibnamehash}{c1bb62a576f45ae9dcef07d192011aa5}
+      \strng{authornamehash}{c1bb62a576f45ae9dcef07d192011aa5}
+      \strng{authorfullhash}{c1bb62a576f45ae9dcef07d192011aa5}
+      \strng{authorfullhashraw}{c1bb62a576f45ae9dcef07d192011aa5}
+      \strng{editorbibnamehash}{64e389a9591a82ee653934ac855e4c5d}
+      \strng{editornamehash}{64e389a9591a82ee653934ac855e4c5d}
+      \strng{editorfullhash}{64e389a9591a82ee653934ac855e4c5d}
+      \strng{editorfullhashraw}{64e389a9591a82ee653934ac855e4c5d}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 13th International Conference on Digital Libraries for Musicology}
+      \field{title}{{Encoding polymeter: A corpus of Hugo Distler's «Der~Jahrkreis»~op.~5 in different symbolic formats}}
+      \field{year}{2026}
+      \true{nocite}
+      \annotation{item}{author}{default}{2}{}{0}{me}
+    \endentry
+    \entry{WindholzMoss2026}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0c434eb97198036147c7fd5d27dccfd7}{%
+           family={Orsini\bibnamedelima Windholz},
+           familyi={O\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Mauro},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=64e389a9591a82ee653934ac855e4c5d}{%
+           family={Neumann},
+           familyi={N\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Thessaloniki, Greece}%
+      }
+      \list{publisher}{1}{%
+        {ACM, New York, NY}%
+      }
+      \strng{namehash}{f97b5f18bcb699004a4ebec82d5dcd9b}
+      \strng{fullhash}{f97b5f18bcb699004a4ebec82d5dcd9b}
+      \strng{fullhashraw}{f97b5f18bcb699004a4ebec82d5dcd9b}
+      \strng{bibnamehash}{f97b5f18bcb699004a4ebec82d5dcd9b}
+      \strng{authorbibnamehash}{f97b5f18bcb699004a4ebec82d5dcd9b}
+      \strng{authornamehash}{f97b5f18bcb699004a4ebec82d5dcd9b}
+      \strng{authorfullhash}{f97b5f18bcb699004a4ebec82d5dcd9b}
+      \strng{authorfullhashraw}{f97b5f18bcb699004a4ebec82d5dcd9b}
+      \strng{editorbibnamehash}{64e389a9591a82ee653934ac855e4c5d}
+      \strng{editornamehash}{64e389a9591a82ee653934ac855e4c5d}
+      \strng{editorfullhash}{64e389a9591a82ee653934ac855e4c5d}
+      \strng{editorfullhashraw}{64e389a9591a82ee653934ac855e4c5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 13th International Conference on Digital Libraries for Musicology}
+      \field{title}{Mapping the space of harmonic cadences between Brazilian choro, jazz and Anglophone popular music}
+      \field{year}{2026}
+      \true{nocite}
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{ignestiDevelopingDigitalPreservation2026}{report}{}{}
