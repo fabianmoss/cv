@@ -1,9 +1,9 @@
-This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2025.9.2)  18 MAR 2026 07:21
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.3.18)  19 MAR 2026 11:29
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-08-13>
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
 Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
 Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended collection.
@@ -39,7 +39,7 @@ Document Class: moderncv 2012/10/31 v1.2.0 modern curriculum vitae and letter do
 (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 luaotfload | db : Font names database loaded from /home/fmoss/.TinyTeX/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count273
 ) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
@@ -50,7 +50,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: luatex.def on input line 274.
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/graphics-def/luatex.def
-File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
+File: luatex.def 2025/09/29 v1.2f Graphics/color driver for luatex
 ) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
@@ -62,7 +62,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 ) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 116.
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -151,34 +151,35 @@ LaTeX Info: Redefining \addtolength on input line 87.
 ) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/xargs/xargs.sty
 Package: xargs 2008/03/22 v1.1  extended macro definitions  (mpg)
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+Package: xkeyval 2025/11/04 v2.10 package option processing (HA)
  (/home/fmoss/.TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/home/fmoss/.TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks19
 \XKV@tempa@toks=\toks20
+\XKV@tempb@toks=\toks21
 )
 \XKV@depth=\count277
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 \xargs@max=\count278
-\xargs@toksa=\toks21
-\xargs@toksb=\toks22
+\xargs@toksa=\toks22
+\xargs@toksb=\toks23
 ) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2025/07/09 v3.2b Micro-typographical refinements (RS)
-\MT@toks=\toks23
+Package: microtype 2026/03/01 v3.2d Micro-typographical refinements (RS)
+\MT@toks=\toks24
 \MT@tempbox=\box53
 \MT@count=\count279
-LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
-LaTeX Info: Redefining \leftprotrusion on input line 1088.
-\MT@prot@toks=\toks24
-LaTeX Info: Redefining \rightprotrusion on input line 1107.
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1084.
+LaTeX Info: Redefining \leftprotrusion on input line 1085.
+\MT@prot@toks=\toks25
+LaTeX Info: Redefining \rightprotrusion on input line 1104.
 LaTeX Info: Redefining \textls on input line 1449.
 \MT@outer@kern=\dimen151
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
 \MT@listname@count=\count280
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/microtype/microtype-luatex.def
-File: microtype-luatex.def 2025/07/09 v3.2b Definitions specific to luatex (RS)
-Lua module: microtype 2025/07/09 v3.2b microtype module.
+File: microtype-luatex.def 2026/03/01 v3.2d Definitions specific to luatex (RS)
+Lua module: microtype 2026/03/01 v3.2d microtype module.
 Module microtype Info: overwriting function `keepligature' on input line 63
 LaTeX Info: Redefining \lsstyle on input line 779.
 LaTeX Info: Redefining \lslig on input line 779.
@@ -186,7 +187,7 @@ LaTeX Info: Redefining \lslig on input line 779.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2025/07/09 v3.2b microtype main configuration file (RS)
+File: microtype.cfg 2026/03/01 v3.2d microtype main configuration file (RS)
 )
 LaTeX Info: Redefining \microtypesetup on input line 3065.
 ) (../templates/moderncvcompatibility.sty
@@ -197,6 +198,15 @@ Package: suffix 2006/07/15 1.5a Variant command support
 \bibindent=\skip67
  (../templates/tweaklist.sty)) (../templates/styles/moderncvstylebanking.sty
 Package: moderncvstylebanking 2012/10/31 v1.2.0 modern curriculum vitae and letter style scheme: banking
+ (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/tex-gyre/tgpagella.sty
+Package: tgpagella 2009/09/27 v1.2 TeX Gyre Pagella as default roman family
+ (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (/home/fmoss/.TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)))
 \maketitlebox=\box54
 \maketitletempbox=\box55
 \maketitlewidth=\skip68
@@ -208,12 +218,7 @@ Package: moderncvstylebanking 2012/10/31 v1.2.0 modern curriculum vitae and lett
 \doubleitemcolumnwidth=\skip74
 \listitemsymbolwidth=\skip75
 LaTeX Font Info:    Trying to load font information for U+mvs on input line 139.
-LaTeX Font Info:    No file Umvs.fd. on input line 139.
-
-
-LaTeX Font Warning: Font shape `U/mvs/m/n' undefined
-(Font)              using `U/cmr/m/n' instead on input line 139.
-
+ (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/marvosym/umvs.fd)
 \listitemmaincolumnwidth=\skip76
 \listdoubleitemmaincolumnwidth=\skip77
 \cvitemwithcommentmainbox=\box56
@@ -222,7 +227,7 @@ LaTeX Font Warning: Font shape `U/mvs/m/n' undefined
 ) (../templates/colors/moderncvcolorblue.sty
 Package: moderncvcolorblue 2012/10/31 v1.2.0 modern curriculum vitae and letter color scheme: blue
 ) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2025/05/25 v2.0a multicolumn formatting (FMi)
+Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \c@tracingmulticols=\count281
 \mult@box=\box57
 \multicol@leftmargin=\dimen152
@@ -292,19 +297,19 @@ Package: multicol 2025/05/25 v2.0a multicolumn formatting (FMi)
 \mc@col@check@num=\count290
 \g__mc_curr_col_int=\count291
 ) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/lipsum/lipsum.sty (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2025-08-13 L3 programming layer (loader) 
+Package: expl3 2026-01-19 L3 programming layer (loader) 
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2025-06-09 L3 backend support: PDF output (LuaTeX)
+File: l3backend-luatex.def 2025-10-09 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count292
 Inserting `l3color' in `luaotfload.parse_color'.))
-Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count293
 \l__lipsum_a_int=\count294
 \l__lipsum_b_int=\count295
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
+Package: geometry 2026/03/07 v6.0 Page Geometry
  (/home/fmoss/.TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (/home/fmoss/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
@@ -321,7 +326,7 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layoutheight=\dimen166
 \Gm@layouthoffset=\dimen167
 \Gm@layoutvoffset=\dimen168
-\Gm@dimlist=\toks25
+\Gm@dimlist=\toks26
 ) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/hanging/hanging.sty
 Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
 \h@ngcommawd=\skip82
@@ -333,7 +338,7 @@ Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
 \h@ngcolonwd=\skip88
 \h@ngscolonwd=\skip89
 ) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2025/06/16 v2.17y AMS math features
+Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip90
 
 For additional information on amsmath, use the `?' option.
@@ -341,7 +346,7 @@ For additional information on amsmath, use the `?' option.
 Package: amstext 2024/11/17 v2.01 AMS text
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks26
+\@emptytoks=\toks27
 \ex@=\dimen169
 )) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
@@ -379,31 +384,34 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \dotsspace@=\muskip18
 \c@parentequation=\count306
 \dspbrk@lvl=\count307
-\tag@help=\toks27
+\tag@help=\toks28
 \row@=\count308
 \column@=\count309
 \maxfields@=\count310
-\andhelp@=\toks28
+\andhelp@=\toks29
 \eqnshift@=\dimen172
 \alignsep@=\dimen173
 \tagshift@=\dimen174
 \tagwidth@=\dimen175
 \totwidth@=\dimen176
 \lineht@=\dimen177
-\@envbody=\toks29
+\@envbody=\toks30
 \multlinegap=\skip91
 \multlinetaggap=\skip92
-\mathdisplay@stack=\toks30
-LaTeX Info: Redefining \[ on input line 2949.
-LaTeX Info: Redefining \] on input line 2950.
+\mathdisplay@stack=\toks31
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
 ) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
-) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2024-08-16 L3 Experimental document command parser
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+qpl on input line 116.
+ (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/tex-gyre/t1qpl.fd
+File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
+)) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
 )
-Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
-Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_script_int=\count311
 \l__fontspec_language_int=\count312
 \l__fontspec_strnum_int=\count313
@@ -419,7 +427,7 @@ Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
 \l__fontspec_tmpb_dim=\dimen179
 \l__fontspec_tmpc_dim=\dimen180
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 ) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/alegreya/AlegreyaSans.sty
 Package: AlegreyaSans 2022/09/14 (Bob Tennent) Supports AlegreyaSans fonts for all LaTeX engines. 
  (/home/fmoss/.TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
@@ -1154,18 +1162,12 @@ Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
  (/home/fmoss/.TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (/home/fmoss/.TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks31
-) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/logreq/logreq.sty
+\pdftexcmds@toks=\toks32
+) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count322
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/logreq/logreq.def
@@ -1395,7 +1397,7 @@ Package biblatex Info: Redefining '\smartcite'.
 Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
-Lua function BLTXAPAifInParensTF = 29)
+Lua function BLTXAPAifInParensTF = 31)
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/biblatex/biblatex.cfg
@@ -1405,13 +1407,13 @@ Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
-(biblatex)             2025-08-13 L3 programming layer (loader) 
+(biblatex)             2026-01-19 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
 )) (/home/fmoss/GitHub/fabianmoss/cv/build/../bib/bibcategories.tex) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
  (/home/fmoss/.TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ) (/home/fmoss/.TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
@@ -1419,7 +1421,7 @@ Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 ) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 ) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/home/fmoss/.TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
@@ -1433,24 +1435,24 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 \Hy@linkcounter=\count459
 \Hy@pagecounter=\count460
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
 ) (/home/fmoss/.TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count461
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Option `unicode' set `true' on input line 4066.
-Package hyperref Info: Hyper figures OFF on input line 4195.
-Package hyperref Info: Link nesting OFF on input line 4200.
-Package hyperref Info: Hyper index ON on input line 4203.
-Package hyperref Info: Plain pages OFF on input line 4210.
-Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Option `unicode' set `true' on input line 4072.
+Package hyperref Info: Hyper figures OFF on input line 4201.
+Package hyperref Info: Link nesting OFF on input line 4206.
+Package hyperref Info: Hyper index ON on input line 4209.
+Package hyperref Info: Plain pages OFF on input line 4216.
+Package hyperref Info: Backreferencing OFF on input line 4221.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4462.
+Package hyperref Info: Bookmarks ON on input line 4468.
 \c@Hy@tempcnt=\count462
-LaTeX Info: Redefining \url on input line 4801.
+LaTeX Info: Redefining \url on input line 4807.
 \XeTeXLinkMargin=\dimen182
  (/home/fmoss/.TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -1460,20 +1462,20 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 \Fld@menulength=\count463
 \Field@Width=\dimen183
 \Fld@charsize=\dimen184
-Package hyperref Info: Hyper figures OFF on input line 6078.
-Package hyperref Info: Link nesting OFF on input line 6083.
-Package hyperref Info: Hyper index ON on input line 6086.
-Package hyperref Info: backreferencing OFF on input line 6093.
-Package hyperref Info: Link coloring OFF on input line 6098.
-Package hyperref Info: Link coloring with OCG OFF on input line 6103.
-Package hyperref Info: PDF/A mode OFF on input line 6108.
+Package hyperref Info: Hyper figures OFF on input line 6084.
+Package hyperref Info: Link nesting OFF on input line 6089.
+Package hyperref Info: Hyper index ON on input line 6092.
+Package hyperref Info: backreferencing OFF on input line 6099.
+Package hyperref Info: Link coloring OFF on input line 6104.
+Package hyperref Info: Link coloring with OCG OFF on input line 6109.
+Package hyperref Info: PDF/A mode OFF on input line 6114.
 \Hy@abspage=\count464
 \c@Item=\count465
 \c@Hfootnote=\count466
 )
 Package hyperref Info: Driver (autodetected): hluatex.
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/hyperref/hluatex.def
-File: hluatex.def 2025-07-12 v7.01o Hyperref driver for luaTeX
+File: hluatex.def 2026-01-29 v7.01p Hyperref driver for luaTeX
 \Fld@listcount=\count467
 \c@bookmark@seq@number=\count468
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
@@ -1633,10 +1635,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmr' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-Missing character: There is no Í (U+00CD) in font cmr12!
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 177.
-(/home/fmoss/.TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
+ (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 177.
@@ -1693,13 +1693,9 @@ Underfull \hbox (badness 10000) detected at line 17
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-
-
 [1
 
-{/home/fmoss/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-Missing character: There is no Í (U+00CD) in font cmr12!
-]
+{/home/fmoss/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 33.
@@ -1721,8 +1717,6 @@ Underfull \hbox (badness 10000) detected at line 3
 
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 5.
-
-
 
 Overfull \hbox (1.02602pt too wide) has occurred while \output is active
 []|\TU/AlegreyaSans(0)/m/it/10 󰋉/[][]󰋈󰋉[][] 
@@ -1748,15 +1742,7 @@ Underfull \hbox (badness 10000) detected at line 43
 ) (./teaching.tex
 Overfull \vbox (1.4658pt too high) has occurred while \output is active []
 
-
-
-
-
-
-
-
-
-[3]) (./supervision.tex
+ [3]) (./supervision.tex
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 3.
@@ -1794,17 +1780,11 @@ Underfull \hbox (badness 10000) detected at line 39
  []
 
 ) (./media.tex
-
-
 Overfull \hbox (1.04561pt too wide) has occurred while \output is active
 []|\TU/AlegreyaSans(0)/m/it/10 󰋋/[][]󰋈󰋉[][] 
  []
 
-[4]) (./skills.tex)
-
-[5]
-Missing character: There is no Í (U+00CD) in font cmr12!
-(./bibliography.tex
+[4]) (./skills.tex) [5] (./bibliography.tex
 Underfull \hbox (badness 10000) in paragraph at lines 200--8
 
  []
@@ -1838,20 +1818,12 @@ Underfull \hbox (badness 10000) detected at line 44
  []
 
 
-
-
-
-
-
-
 Overfull \hbox (0.8202pt too wide) has occurred while \output is active
 []|\TU/AlegreyaSans(0)/m/it/10 󰋍/[][]󰋈󰋉[][] 
  []
 
 [6
 
-
-Missing character: There is no Í (U+00CD) in font cmr12!
 ]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
@@ -1888,12 +1860,6 @@ LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 Underfull \hbox (badness 10000) detected at line 69
 \TU/AlegreyaSans(0)/m/n/7 .
  []
-
-
-
-
-
-
 
 [7]
 
@@ -1932,12 +1898,6 @@ Underfull \hbox (badness 10000) detected at line 95
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-
-
-
-
-
-
 ) (./talks.tex
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
@@ -1969,12 +1929,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--14
  []
 
 
-
-
-
-
-
-
 Overfull \hbox (0.87901pt too wide) has occurred while \output is active
 []|\TU/AlegreyaSans(0)/m/it/10 󰋏/[][]󰋈󰋉[][] 
  []
@@ -1990,12 +1944,6 @@ Underfull \hbox (badness 10000) detected at line 66
  []
 
 
-
-
-
-
-
-
 Overfull \hbox (0.8202pt too wide) has occurred while \output is active
 []|\TU/AlegreyaSans(0)/m/it/10 󰋐/[][]󰋈󰋉[][] 
  []
@@ -2006,23 +1954,11 @@ Underfull \hbox (badness 5231) in paragraph at lines 117--117
  []
 
 
-
-
-
-
-
-
 Overfull \hbox (4.96559pt too wide) has occurred while \output is active
 []|\TU/AlegreyaSans(0)/m/it/10 󰋈󰋇/[][]󰋈󰋉[][] 
  []
 
 [10]
-
-
-
-
-
-
 Overfull \hbox (3.1722pt too wide) has occurred while \output is active
 []|\TU/AlegreyaSans(0)/m/it/10 󰋈󰋈/[][]󰋈󰋉[][] 
  []
@@ -2047,28 +1983,16 @@ Underfull \hbox (badness 6978) in paragraph at lines 176--176
 \TU/AlegreyaSans(0)/m/n/10 Universität Würzburg, 󰋍 Novem-ber 󰋇󰋅󰋇󰋉. [][]$https://www.
  []
 
-
-
-
-
-
-
 )
-
-
 Overfull \hbox (4.49521pt too wide) has occurred while \output is active
 []|\TU/AlegreyaSans(0)/m/it/10 󰋈󰋉/[][]󰋈󰋉[][] 
  []
 
 [12] (/home/fmoss/GitHub/fabianmoss/cv/build/cv.aux)
  ***********
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-08-13>
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
  ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 3292EFE14DF6D29A29E19F2C6022C07A;4285.
 Package logreq Info: Writing requests to 'cv.run.xml'.
@@ -2081,19 +2005,19 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 25331 strings out of 470117
+ 25435 strings out of 476076
  195585,1977958 words of node,token memory allocated
  1149 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 6 kern, 1 penalty, 3 glyph, 49 attribute, 92 glue_spec, 49 attribute_list, 1 write, 38 pdf_action nodes
-   avail lists: 1:7,2:2944,3:1368,4:481,5:2941,6:117,7:16218,8:119,9:868,10:24,11:1303
- 53122 multiletter control sequences out of 65536+600000
- 73 fonts using 15193447 bytes
+   avail lists: 1:5,2:2964,3:1368,4:481,5:2941,6:118,7:16516,8:119,9:868,10:24,11:1303
+ 47257 multiletter control sequences out of 65536+600000
+ 74 fonts using 15322215 bytes
  73i,13n,109p,1778b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-BoldItalic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on cv.pdf (12 pages, 134482 bytes).
+</usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-BoldItalic.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Italic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Bold.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on cv.pdf (12 pages, 136476 bytes).
 
-PDF statistics: 446 PDF objects out of 1000 (max. 8388607)
- 410 compressed objects within 5 object streams
- 104 named destinations out of 1000 (max. 131072)
+PDF statistics: 448 PDF objects out of 1000 (max. 8388607)
+ 412 compressed objects within 5 object streams
+ 105 named destinations out of 1000 (max. 1048576)
  273 words of extra memory for PDF output out of 10000 (max. 100000000)
 
