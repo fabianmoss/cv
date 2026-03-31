@@ -233,3 +233,9 @@ INPUT ./supervision.tex
 INPUT ./media.tex
 INPUT ./skills.tex
 INPUT ./bibliography.tex
+INPUT ./talks.tex
+INPUT /home/fmoss/GitHub/fabianmoss/cv/build/cv.aux
+INPUT /home/fmoss/GitHub/fabianmoss/cv/build/cv.out
+INPUT /home/fmoss/GitHub/fabianmoss/cv/build/cv.run.xml
+OUTPUT /home/fmoss/GitHub/fabianmoss/cv/build/cv.run.xml
+INPUT /home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb
