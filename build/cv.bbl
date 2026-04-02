@@ -1438,6 +1438,48 @@
       \field{year}{2023-11-13/2023-11-17}
       \true{nocite}
     \endentry
+    \entry{WindholzSearsMoss2026}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0c434eb97198036147c7fd5d27dccfd7}{%
+           family={Orsini\bibnamedelima Windholz},
+           familyi={O\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Mauro},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e7267ca7a7a9c2c9471b688f9077af2}{%
+           family={Sears},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aa7890987251877c875e4656eac9df83}
+      \strng{fullhash}{492fe2fc7f9a25062dd3717d7107ca49}
+      \strng{fullhashraw}{492fe2fc7f9a25062dd3717d7107ca49}
+      \strng{bibnamehash}{492fe2fc7f9a25062dd3717d7107ca49}
+      \strng{authorbibnamehash}{492fe2fc7f9a25062dd3717d7107ca49}
+      \strng{authornamehash}{aa7890987251877c875e4656eac9df83}
+      \strng{authorfullhash}{492fe2fc7f9a25062dd3717d7107ca49}
+      \strng{authorfullhashraw}{492fe2fc7f9a25062dd3717d7107ca49}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brazilian Journal of Music and Mathematics}
+      \field{title}{Harmonic patterns in Brazilian choro, Western classical, and Anglophone popular music: a data-driven comparison}
+      \field{year}{accepted}
+      \true{nocite}
+      \annotation{item}{author}{default}{3}{}{0}{me}
+    \endentry
     \entry{Pereira2024_FourierQualiaWavescapesa}{unpublished}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=7927692806ac2b02a2f70cc0849355fb}{%
@@ -9178,6 +9220,48 @@
       \field{title}{Historical {{Changes}} of {{Modes}} and Their {{Substructure Modeled}} as {{Pitch Distributions}} in {{Plainchant}} from the 1100s to the 1500s}
       \field{year}{2023-11-13/2023-11-17}
       \true{nocite}
+    \endentry
+    \entry{WindholzSearsMoss2026}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0c434eb97198036147c7fd5d27dccfd7}{%
+           family={Orsini\bibnamedelima Windholz},
+           familyi={O\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Mauro},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e7267ca7a7a9c2c9471b688f9077af2}{%
+           family={Sears},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aa7890987251877c875e4656eac9df83}
+      \strng{fullhash}{492fe2fc7f9a25062dd3717d7107ca49}
+      \strng{fullhashraw}{492fe2fc7f9a25062dd3717d7107ca49}
+      \strng{bibnamehash}{492fe2fc7f9a25062dd3717d7107ca49}
+      \strng{authorbibnamehash}{492fe2fc7f9a25062dd3717d7107ca49}
+      \strng{authornamehash}{aa7890987251877c875e4656eac9df83}
+      \strng{authorfullhash}{492fe2fc7f9a25062dd3717d7107ca49}
+      \strng{authorfullhashraw}{492fe2fc7f9a25062dd3717d7107ca49}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brazilian Journal of Music and Mathematics}
+      \field{title}{Harmonic patterns in Brazilian choro, Western classical, and Anglophone popular music: a data-driven comparison}
+      \field{year}{accepted}
+      \true{nocite}
+      \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
     \entry{Pereira2024_FourierQualiaWavescapesa}{unpublished}{}{}
       \name{author}{4}{}{%
