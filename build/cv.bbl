@@ -1475,7 +1475,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Brazilian Journal of Music and Mathematics}
-      \field{title}{Harmonic patterns in Brazilian choro, Western classical, and Anglophone popular music: a data-driven comparison}
+      \field{title}{{Harmonic patterns in Brazilian choro, Western classical, and Anglophone popular music: a data-driven comparison}}
       \field{year}{accepted}
       \true{nocite}
       \annotation{item}{author}{default}{3}{}{0}{me}
@@ -9258,7 +9258,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Brazilian Journal of Music and Mathematics}
-      \field{title}{Harmonic patterns in Brazilian choro, Western classical, and Anglophone popular music: a data-driven comparison}
+      \field{title}{{Harmonic patterns in Brazilian choro, Western classical, and Anglophone popular music: a data-driven comparison}}
       \field{year}{accepted}
       \true{nocite}
       \annotation{item}{author}{default}{3}{}{0}{me}

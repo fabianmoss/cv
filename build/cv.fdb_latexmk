@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber /home/fmoss/GitHub/fabianmoss/cv/build/cv"] 1775116304.25204 "/home/fmoss/GitHub/fabianmoss/cv/build/cv.bcf" "/home/fmoss/GitHub/fabianmoss/cv/build/cv.bbl" "/home/fmoss/GitHub/fabianmoss/cv/build/cv" 1775116315.35547 0
-  "../bib/bibliography.bib" 1775116303.3608 74127 88e2043ca500145070fd91debd1818e3 ""
+["biber /home/fmoss/GitHub/fabianmoss/cv/build/cv"] 1775286438.78992 "/home/fmoss/GitHub/fabianmoss/cv/build/cv.bcf" "/home/fmoss/GitHub/fabianmoss/cv/build/cv.bbl" "/home/fmoss/GitHub/fabianmoss/cv/build/cv" 1775286447.01583 0
+  "../bib/bibliography.bib" 1775286437.28438 74129 c81356aa28a215f946e2e84f5755c343 ""
   "../bib/talks.bib" 1772439409.30126 27561 e6270228a277f2d2bbb28fb8b0980c7b ""
-  "/home/fmoss/GitHub/fabianmoss/cv/build/cv.bcf" 1775116315.19285 134151 dc580a2bbf683e129d2bf56789ca5160 "lualatex"
+  "/home/fmoss/GitHub/fabianmoss/cv/build/cv.bcf" 1775286446.84341 134151 dc580a2bbf683e129d2bf56789ca5160 "lualatex"
   (generated)
   "/home/fmoss/GitHub/fabianmoss/cv/build/cv.bbl"
   "/home/fmoss/GitHub/fabianmoss/cv/build/cv.blg"
   (rewritten before read)
-["lualatex"] 1775116312.16475 "cv.tex" "/home/fmoss/GitHub/fabianmoss/cv/build/cv.pdf" "cv" 1775116315.3557 0
+["lualatex"] 1775286443.60393 "cv.tex" "/home/fmoss/GitHub/fabianmoss/cv/build/cv.pdf" "cv" 1775286447.01608 0
   "../templates/colors/moderncvcolorblue.sty" 1772439409.31226 1008 2fe1f5a9be8e49fa632e9d3e67a21195 ""
   "../templates/moderncv.cls" 1772439409.31226 17336 3fc5baca190df02118468cc2c8220837 ""
   "../templates/moderncvcompatibility.sty" 1772439409.31226 3398 356ff0626d1912510390575078c99133 ""
@@ -211,10 +211,10 @@
   "/home/fmoss/.TinyTeX/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1773829194.95609 165061 434c8de36bc396e193c42442e58b3774 ""
   "/home/fmoss/.TinyTeX/texmf-var/web2c/luahbtex/lualatex.fmt" 1773829097 5657866 fe0a5a086cebe704da93eca55a35964c ""
   "/home/fmoss/GitHub/fabianmoss/cv/build/../bib/bibcategories.tex" 1772439409.29865 1076 b1c83c48f57d8326519a0a5ed7d9a188 ""
-  "/home/fmoss/GitHub/fabianmoss/cv/build/cv.aux" 1775116315.18985 11356 78aca9f60a06d616c6ddfa759f78a80b "lualatex"
-  "/home/fmoss/GitHub/fabianmoss/cv/build/cv.bbl" 1775116305.64581 708702 5f78e9aed17c5794b4a49e5142cb13d8 "biber /home/fmoss/GitHub/fabianmoss/cv/build/cv"
-  "/home/fmoss/GitHub/fabianmoss/cv/build/cv.out" 1775116315.19085 4285 3292efe14df6d29a29e19f2c6022c07a "lualatex"
-  "/home/fmoss/GitHub/fabianmoss/cv/build/cv.run.xml" 1775116315.19456 2493 6329040a220661f73a3541e69349daf1 "lualatex"
+  "/home/fmoss/GitHub/fabianmoss/cv/build/cv.aux" 1775286446.84041 11356 10719722d04ba89f5e2de608d38c999b "lualatex"
+  "/home/fmoss/GitHub/fabianmoss/cv/build/cv.bbl" 1775286440.20739 708706 e2a1e874985250bb33a5ddc8ed059b06 "biber /home/fmoss/GitHub/fabianmoss/cv/build/cv"
+  "/home/fmoss/GitHub/fabianmoss/cv/build/cv.out" 1775286446.84141 4285 3292efe14df6d29a29e19f2c6022c07a "lualatex"
+  "/home/fmoss/GitHub/fabianmoss/cv/build/cv.run.xml" 1775286446.84511 2493 6329040a220661f73a3541e69349daf1 "lualatex"
   "/usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Bold.otf" 1546006199 190152 7920d1bdd0376deb8e7b5500b9984eb9 ""
   "/usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-BoldItalic.otf" 1546006199 203508 5aa931cd64fa5b06ea73c91c31898bc8 ""
   "/usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Italic.otf" 1546006199 201708 fd5ae994767cff001955fa08293180d7 ""
