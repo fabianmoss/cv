@@ -1838,6 +1838,52 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
+    \entry{EipertFinkensiepMoss2026}{inbook}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=dfc272ac2c275fa5134e703122e15c59}{%
+           family={Eipert},
+           familyi={E\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=171275a917b0d3bc7583ce95db8c6663}{%
+           family={Finkensiep},
+           familyi={F\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Abu Dhabi, UAE}%
+      }
+      \strng{namehash}{4fdacfa9c674f71e59685e7b362249f2}
+      \strng{fullhash}{c87a3344ffc72a939974ddbb74683ad0}
+      \strng{fullhashraw}{c87a3344ffc72a939974ddbb74683ad0}
+      \strng{bibnamehash}{c87a3344ffc72a939974ddbb74683ad0}
+      \strng{authorbibnamehash}{c87a3344ffc72a939974ddbb74683ad0}
+      \strng{authornamehash}{4fdacfa9c674f71e59685e7b362249f2}
+      \strng{authorfullhash}{c87a3344ffc72a939974ddbb74683ad0}
+      \strng{authorfullhashraw}{c87a3344ffc72a939974ddbb74683ad0}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 27th International Society for Music Information Retrieval Conference}}
+      \field{title}{Modeling Mode in Monophonic Medieval Melodies}
+      \field{year}{2026}
+      \true{nocite}
+      \annotation{item}{author}{default}{3}{}{0}{me}
+    \endentry
     \entry{HofmannMoss2026}{inbook}{}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=34fcb7dda15324e57b2df8e43bc4b7ba}{%
@@ -2850,7 +2896,7 @@
       \strng{authornamehash}{4fdacfa9c674f71e59685e7b362249f2}
       \strng{authorfullhash}{192b7d0a3cdb2d16f4f7162456089e35}
       \strng{authorfullhashraw}{192b7d0a3cdb2d16f4f7162456089e35}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3476,7 +3522,7 @@
       \strng{authornamehash}{4fdacfa9c674f71e59685e7b362249f2}
       \strng{authorfullhash}{72a2c635610a38d6038308d81368448e}
       \strng{authorfullhashraw}{72a2c635610a38d6038308d81368448e}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -9577,6 +9623,52 @@
       \verb 2015
       \endverb
     \endentry
+    \entry{EipertFinkensiepMoss2026}{inbook}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=dfc272ac2c275fa5134e703122e15c59}{%
+           family={Eipert},
+           familyi={E\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=171275a917b0d3bc7583ce95db8c6663}{%
+           family={Finkensiep},
+           familyi={F\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Abu Dhabi, UAE}%
+      }
+      \strng{namehash}{4fdacfa9c674f71e59685e7b362249f2}
+      \strng{fullhash}{c87a3344ffc72a939974ddbb74683ad0}
+      \strng{fullhashraw}{c87a3344ffc72a939974ddbb74683ad0}
+      \strng{bibnamehash}{c87a3344ffc72a939974ddbb74683ad0}
+      \strng{authorbibnamehash}{c87a3344ffc72a939974ddbb74683ad0}
+      \strng{authornamehash}{4fdacfa9c674f71e59685e7b362249f2}
+      \strng{authorfullhash}{c87a3344ffc72a939974ddbb74683ad0}
+      \strng{authorfullhashraw}{c87a3344ffc72a939974ddbb74683ad0}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 27th International Society for Music Information Retrieval Conference}}
+      \field{title}{Modeling Mode in Monophonic Medieval Melodies}
+      \field{year}{2026}
+      \true{nocite}
+      \annotation{item}{author}{default}{3}{}{0}{me}
+    \endentry
     \entry{Eipert2026_InferringCommunitiesMedieval}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=dfc272ac2c275fa5134e703122e15c59}{%
@@ -10633,7 +10725,7 @@
       \strng{authornamehash}{4fdacfa9c674f71e59685e7b362249f2}
       \strng{authorfullhash}{192b7d0a3cdb2d16f4f7162456089e35}
       \strng{authorfullhashraw}{192b7d0a3cdb2d16f4f7162456089e35}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -11259,7 +11351,7 @@
       \strng{authornamehash}{4fdacfa9c674f71e59685e7b362249f2}
       \strng{authorfullhash}{72a2c635610a38d6038308d81368448e}
       \strng{authorfullhashraw}{72a2c635610a38d6038308d81368448e}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}

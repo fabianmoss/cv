@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.3.18)  14 APR 2026 09:22
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.3.18)  14 APR 2026 11:22
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -2002,19 +2002,19 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 25435 strings out of 476076
+ 25441 strings out of 476076
  195585,1977958 words of node,token memory allocated
  1149 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 6 kern, 1 penalty, 3 glyph, 49 attribute, 92 glue_spec, 49 attribute_list, 1 write, 38 pdf_action nodes
-   avail lists: 1:6,2:2923,3:1482,4:505,5:2945,6:117,7:16296,8:119,9:868,10:25,11:1314
- 47257 multiletter control sequences out of 65536+600000
+   avail lists: 1:6,2:2977,3:1506,4:509,5:2943,6:117,7:16597,8:119,9:868,10:25,11:1311
+ 47262 multiletter control sequences out of 65536+600000
  74 fonts using 15322215 bytes
  73i,13n,109p,1778b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-BoldItalic.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Italic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Bold.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (12 pages, 137238 bytes).
+Output written on cv.pdf (12 pages, 137494 bytes).
 
-PDF statistics: 447 PDF objects out of 1000 (max. 8388607)
- 411 compressed objects within 5 object streams
- 105 named destinations out of 1000 (max. 1048576)
+PDF statistics: 448 PDF objects out of 1000 (max. 8388607)
+ 412 compressed objects within 5 object streams
+ 106 named destinations out of 1000 (max. 1048576)
  273 words of extra memory for PDF output out of 10000 (max. 100000000)
 
