@@ -1713,6 +1713,9 @@
       \field{title}{The history of music: approaches from cultural evolution and musicology}
       \field{year}{in press}
       \true{nocite}
+      \verb{doi}
+      \verb 10.1093/9780197775097.003.0010
+      \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{Yust2023_AnimatedHarmonicAnalysis}{unpublished}{}{}
@@ -9496,6 +9499,9 @@
       \field{title}{The history of music: approaches from cultural evolution and musicology}
       \field{year}{in press}
       \true{nocite}
+      \verb{doi}
+      \verb 10.1093/9780197775097.003.0010
+      \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{Yust2023_AnimatedHarmonicAnalysis}{unpublished}{}{}
