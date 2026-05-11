@@ -1713,6 +1713,8 @@
       \field{title}{The history of music: approaches from cultural evolution and musicology}
       \field{year}{in press}
       \true{nocite}
+      \field{pages}{130\bibrangedash 142}
+      \range{pages}{13}
       \verb{doi}
       \verb 10.1093/9780197775097.003.0010
       \endverb
@@ -9499,6 +9501,8 @@
       \field{title}{The history of music: approaches from cultural evolution and musicology}
       \field{year}{in press}
       \true{nocite}
+      \field{pages}{130\bibrangedash 142}
+      \range{pages}{13}
       \verb{doi}
       \verb 10.1093/9780197775097.003.0010
       \endverb
