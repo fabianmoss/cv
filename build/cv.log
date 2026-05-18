@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.3.18)  15 MAY 2026 10:14
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.3.18)  18 MAY 2026 07:26
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -2006,12 +2006,12 @@ Here is how much of LuaTeX's memory you used:
  195590,1977958 words of node,token memory allocated
  1159 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 6 kern, 1 penalty, 3 glyph, 50 attribute, 92 glue_spec, 50 attribute_list, 1 write, 39 pdf_action nodes
-   avail lists: 1:4,2:2941,3:1506,4:509,5:2954,6:120,7:16578,8:119,9:868,10:26,11:1285
+   avail lists: 1:4,2:2941,3:1506,4:509,5:2944,6:120,7:16578,8:119,9:868,10:26,11:1303
  47257 multiletter control sequences out of 65536+600000
  74 fonts using 15322215 bytes
  73i,13n,109p,1778b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-BoldItalic.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Italic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Bold.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (12 pages, 138662 bytes).
+Output written on cv.pdf (12 pages, 138914 bytes).
 
 PDF statistics: 449 PDF objects out of 1000 (max. 8388607)
  413 compressed objects within 5 object streams
