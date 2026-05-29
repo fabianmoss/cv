@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.28)  21 MAY 2026 07:57
-=======
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.3.18)  21 MAY 2026 13:35
->>>>>>> 364c2467dc1b257b99c376ef70aaa792f761f946
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.28)  29 MAY 2026 08:00
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -1768,28 +1764,15 @@ Underfull \hbox (badness 10000) detected at line 7
 
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-<<<<<<< HEAD
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 29.
-
-
-Underfull \hbox (badness 10000) detected at line 29
-=======
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 19.
 
 
 Underfull \hbox (badness 10000) detected at line 19
->>>>>>> 364c2467dc1b257b99c376ef70aaa792f761f946
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-<<<<<<< HEAD
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 40.
-
-
-Underfull \hbox (badness 10000) detected at line 40
-=======
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 33.
 
 
@@ -1803,7 +1786,6 @@ LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 
 
 Underfull \hbox (badness 10000) detected at line 44
->>>>>>> 364c2467dc1b257b99c376ef70aaa792f761f946
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
@@ -1967,7 +1949,7 @@ Overfull \hbox (4.96559pt too wide) has occurred while \output is active
  []
 
 [10]
-Underfull \hbox (badness 5231) in paragraph at lines 119--119
+Underfull \hbox (badness 5231) in paragraph at lines 123--123
 \TU/AlegreyaSans(0)/m/it/10 Diskur-s-anal-yse\TU/AlegreyaSans(0)/m/n/10 . Jahresta-gung der Gesellscha󰀙t für Musik-
  []
 
@@ -1979,20 +1961,20 @@ Overfull \hbox (3.1722pt too wide) has occurred while \output is active
 [11]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 177.
+(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 181.
 
 
-Underfull \hbox (badness 10000) detected at line 177
+Underfull \hbox (badness 10000) detected at line 181
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--178
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
 []\TU/AlegreyaSans(0)/b/n/10 Moss, F. C.\TU/AlegreyaSans(0)/m/n/10 , \TU/AlegreyaSans(0)/m/it/10 Musik und Math-e-matik -- Wie passt das
  []
 
 
-Underfull \hbox (badness 6978) in paragraph at lines 178--178
+Underfull \hbox (badness 6978) in paragraph at lines 182--182
 \TU/AlegreyaSans(0)/m/n/10 Universität Würzburg, 󰋍 Novem-ber 󰋇󰋅󰋇󰋉. [][]$https://www.
  []
 
@@ -2018,37 +2000,19 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
-<<<<<<< HEAD
- 25185 strings out of 476435
+ 25187 strings out of 476435
  195584,2373549 words of node,token memory allocated
  1150 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 6 kern, 1 penalty, 3 glyph, 49 attribute, 91 glue_spec, 49 attribute_list, 1 write, 39 pdf_action nodes
-   avail lists: 1:8,2:2897,3:1228,4:425,5:2949,6:120,7:16393,8:119,9:868,10:26,11:1279
- 46653 multiletter control sequences out of 65536+600000
+   avail lists: 1:8,2:2897,3:1228,4:425,5:2996,6:120,7:16393,8:119,9:868,10:26,11:1282
+ 46654 multiletter control sequences out of 65536+600000
  74 fonts using 15316775 bytes
  79i,13n,116p,1778b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-BoldItalic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (12 pages, 143806 bytes).
-
-PDF statistics: 449 PDF objects out of 1000 (max. 8388607)
- 413 compressed objects within 5 object streams
- 105 named destinations out of 1000 (max. 131072)
- 273 words of extra memory for PDF output out of 10000 (max. 100000000)
-=======
- 25437 strings out of 476076
- 195590,1977958 words of node,token memory allocated
- 1159 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 6 kern, 1 penalty, 3 glyph, 50 attribute, 92 glue_spec, 50 attribute_list, 1 write, 39 pdf_action nodes
-   avail lists: 1:4,2:2941,3:1506,4:509,5:2944,6:120,7:16578,8:119,9:868,10:26,11:1303
- 47258 multiletter control sequences out of 65536+600000
- 74 fonts using 15322215 bytes
- 73i,13n,109p,1778b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-BoldItalic.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Italic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Bold.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (12 pages, 139286 bytes).
+Output written on cv.pdf (12 pages, 145184 bytes).
 
 PDF statistics: 454 PDF objects out of 1000 (max. 8388607)
  418 compressed objects within 5 object streams
- 106 named destinations out of 1000 (max. 1048576)
+ 106 named destinations out of 1000 (max. 131072)
  281 words of extra memory for PDF output out of 10000 (max. 100000000)
->>>>>>> 364c2467dc1b257b99c376ef70aaa792f761f946
 
