@@ -1467,6 +1467,7 @@
       \strng{authornamehash}{aa7890987251877c875e4656eac9df83}
       \strng{authorfullhash}{492fe2fc7f9a25062dd3717d7107ca49}
       \strng{authorfullhashraw}{492fe2fc7f9a25062dd3717d7107ca49}
+      \field{extraname}{1}
       \field{sortinit}{a}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -1948,6 +1949,57 @@
       \field{year}{2026}
       \true{nocite}
       \annotation{item}{author}{default}{2}{}{0}{me}
+    \endentry
+    \entry{WindholzSearsMoss2026data}{dataset}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0c434eb97198036147c7fd5d27dccfd7}{%
+           family={Orsini\bibnamedelima Windholz},
+           familyi={O\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Mauro},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=254917315c92ff8b9b0cc247e1845152}{%
+           family={Sears},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelimb R.\bibnamedelimi W.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {OSF}%
+      }
+      \strng{namehash}{aa7890987251877c875e4656eac9df83}
+      \strng{fullhash}{51b8a771e4f0de000461eade7165bdcb}
+      \strng{fullhashraw}{51b8a771e4f0de000461eade7165bdcb}
+      \strng{bibnamehash}{51b8a771e4f0de000461eade7165bdcb}
+      \strng{authorbibnamehash}{51b8a771e4f0de000461eade7165bdcb}
+      \strng{authornamehash}{aa7890987251877c875e4656eac9df83}
+      \strng{authorfullhash}{51b8a771e4f0de000461eade7165bdcb}
+      \strng{authorfullhashraw}{51b8a771e4f0de000461eade7165bdcb}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Harmonic Patterns in Brazilian Choro}
+      \field{year}{2026}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://osf.io/wdbhg/
+      \endverb
+      \verb{url}
+      \verb https://osf.io/wdbhg/
+      \endverb
+      \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
     \entry{ignestiDevelopingDigitalPreservation2026}{report}{}{}
       \name{author}{6}{}{%
@@ -9255,6 +9307,7 @@
       \strng{authornamehash}{aa7890987251877c875e4656eac9df83}
       \strng{authorfullhash}{492fe2fc7f9a25062dd3717d7107ca49}
       \strng{authorfullhashraw}{492fe2fc7f9a25062dd3717d7107ca49}
+      \field{extraname}{1}
       \field{sortinit}{a}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -9736,6 +9789,57 @@
       \field{year}{2026}
       \true{nocite}
       \annotation{item}{author}{default}{2}{}{0}{me}
+    \endentry
+    \entry{WindholzSearsMoss2026data}{dataset}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0c434eb97198036147c7fd5d27dccfd7}{%
+           family={Orsini\bibnamedelima Windholz},
+           familyi={O\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Mauro},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=254917315c92ff8b9b0cc247e1845152}{%
+           family={Sears},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelimb R.\bibnamedelimi W.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {OSF}%
+      }
+      \strng{namehash}{aa7890987251877c875e4656eac9df83}
+      \strng{fullhash}{51b8a771e4f0de000461eade7165bdcb}
+      \strng{fullhashraw}{51b8a771e4f0de000461eade7165bdcb}
+      \strng{bibnamehash}{51b8a771e4f0de000461eade7165bdcb}
+      \strng{authorbibnamehash}{51b8a771e4f0de000461eade7165bdcb}
+      \strng{authornamehash}{aa7890987251877c875e4656eac9df83}
+      \strng{authorfullhash}{51b8a771e4f0de000461eade7165bdcb}
+      \strng{authorfullhashraw}{51b8a771e4f0de000461eade7165bdcb}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Harmonic Patterns in Brazilian Choro}
+      \field{year}{2026}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://osf.io/wdbhg/
+      \endverb
+      \verb{url}
+      \verb https://osf.io/wdbhg/
+      \endverb
+      \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
     \entry{ignestiDevelopingDigitalPreservation2026}{report}{}{}
       \name{author}{6}{}{%
