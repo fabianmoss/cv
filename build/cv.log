@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.28)  12 JUN 2026 17:49
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.28)  17 JUN 2026 08:59
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -1949,7 +1949,7 @@ Overfull \hbox (4.96559pt too wide) has occurred while \output is active
  []
 
 [10]
-Underfull \hbox (badness 5231) in paragraph at lines 123--123
+Underfull \hbox (badness 5231) in paragraph at lines 124--124
 \TU/AlegreyaSans(0)/m/it/10 Diskur-s-anal-yse\TU/AlegreyaSans(0)/m/n/10 . Jahresta-gung der Gesellscha󰀙t für Musik-
  []
 
@@ -1961,20 +1961,20 @@ Overfull \hbox (3.1722pt too wide) has occurred while \output is active
 [11]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 181.
+(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 182.
 
 
-Underfull \hbox (badness 10000) detected at line 181
+Underfull \hbox (badness 10000) detected at line 182
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--182
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
 []\TU/AlegreyaSans(0)/b/n/10 Moss, F. C.\TU/AlegreyaSans(0)/m/n/10 , \TU/AlegreyaSans(0)/m/it/10 Musik und Math-e-matik -- Wie passt das
  []
 
 
-Underfull \hbox (badness 6978) in paragraph at lines 182--182
+Underfull \hbox (badness 6978) in paragraph at lines 183--183
 \TU/AlegreyaSans(0)/m/n/10 Universität Würzburg, 󰋍 Novem-ber 󰋇󰋅󰋇󰋉. [][]$https://www.
  []
 
@@ -2004,12 +2004,12 @@ Here is how much of LuaTeX's memory you used:
  195584,2373549 words of node,token memory allocated
  1150 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 6 kern, 1 penalty, 3 glyph, 49 attribute, 91 glue_spec, 49 attribute_list, 1 write, 39 pdf_action nodes
-   avail lists: 1:8,2:2898,3:1228,4:435,5:2949,6:120,7:16393,8:119,9:868,10:26,11:1279
+   avail lists: 1:8,2:2898,3:1228,4:435,5:3053,6:120,7:17112,8:119,9:868,10:26,11:1330
  46659 multiletter control sequences out of 65536+600000
  74 fonts using 15316775 bytes
  79i,13n,116p,1778b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-BoldItalic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (12 pages, 144691 bytes).
+Output written on cv.pdf (12 pages, 145990 bytes).
 
 PDF statistics: 456 PDF objects out of 1000 (max. 8388607)
  420 compressed objects within 5 object streams
