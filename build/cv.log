@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.28)  17 JUN 2026 09:12
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.28)  25 JUN 2026 10:21
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -2000,17 +2000,17 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 Here is how much of LuaTeX's memory you used:
  25193 strings out of 476435
  195584,2373549 words of node,token memory allocated
- 1150 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 6 kern, 1 penalty, 3 glyph, 49 attribute, 91 glue_spec, 49 attribute_list, 1 write, 39 pdf_action nodes
-   avail lists: 1:8,2:2898,3:1228,4:435,5:3053,6:120,7:17112,8:119,9:868,10:26,11:1330
+ 1160 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 6 kern, 1 penalty, 3 glyph, 50 attribute, 91 glue_spec, 50 attribute_list, 1 write, 40 pdf_action nodes
+   avail lists: 1:8,2:2898,3:1228,4:437,5:3053,6:119,7:17112,8:119,9:868,10:26,11:1330
  46659 multiletter control sequences out of 65536+600000
  74 fonts using 15316775 bytes
  79i,13n,116p,1778b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-BoldItalic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (12 pages, 146312 bytes).
+Output written on cv.pdf (12 pages, 146510 bytes).
 
-PDF statistics: 456 PDF objects out of 1000 (max. 8388607)
- 420 compressed objects within 5 object streams
+PDF statistics: 458 PDF objects out of 1000 (max. 8388607)
+ 422 compressed objects within 5 object streams
  107 named destinations out of 1000 (max. 131072)
  281 words of extra memory for PDF output out of 10000 (max. 100000000)
 
