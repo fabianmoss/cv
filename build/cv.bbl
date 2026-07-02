@@ -1852,6 +1852,9 @@
       \field{title}{{Encoding polymeter: A corpus of Hugo Distler's «Der~Jahrkreis»~op.~5 in different symbolic formats}}
       \field{year}{2026}
       \true{nocite}
+      \verb{doi}
+      \verb 10.1145/3815723.3815729
+      \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{WindholzMoss2026}{inbook}{}{}
@@ -1905,6 +1908,9 @@
       \field{title}{Mapping the space of harmonic cadences between Brazilian choro, jazz and Anglophone popular music}
       \field{year}{2026}
       \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1145/3815723.3815724
+      \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{WindholzSearsMoss2026}{article}{}{}
@@ -9697,6 +9703,9 @@
       \field{title}{{Encoding polymeter: A corpus of Hugo Distler's «Der~Jahrkreis»~op.~5 in different symbolic formats}}
       \field{year}{2026}
       \true{nocite}
+      \verb{doi}
+      \verb 10.1145/3815723.3815729
+      \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{WindholzMoss2026}{inbook}{}{}
@@ -9750,6 +9759,9 @@
       \field{title}{Mapping the space of harmonic cadences between Brazilian choro, jazz and Anglophone popular music}
       \field{year}{2026}
       \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1145/3815723.3815724
+      \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{WindholzSearsMoss2026}{article}{}{}
