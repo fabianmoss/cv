@@ -1825,6 +1825,7 @@
       \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -1841,6 +1842,64 @@
       \verb{doi}
       \verb 10.5334/tismir.298
       \endverb
+      \annotation{item}{author}{default}{2}{}{0}{me}
+    \endentry
+    \entry{EipertMoss_TowardsGenerativeModel}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=dfc272ac2c275fa5134e703122e15c59}{%
+           family={Eipert},
+           familyi={E\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=61ee36988f36cc6b1a432760891e628b}{%
+           family={Rimaz},
+           familyi={R\bibinitperiod},
+           given={Loris},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3ef0336995c60b27ee7c761559fb997d}{%
+           family={Rochat},
+           familyi={R\bibinitperiod},
+           given={Yannick},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lausanne, Switzerland}%
+      }
+      \strng{namehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{fullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{fullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{bibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorbibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{editorbibnamehash}{91d911c6246331878925d2304da853d8}
+      \strng{editornamehash}{91d911c6246331878925d2304da853d8}
+      \strng{editorfullhash}{91d911c6246331878925d2304da853d8}
+      \strng{editorfullhashraw}{91d911c6246331878925d2304da853d8}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the Workshop on Computational Methods in the Humanities 2026 (COMHUM 2026)}}
+      \field{title}{Towards a Generative Model of Medieval Chant}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \true{nocite}
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{HofmannMoss2026}{inbook}{}{}
@@ -3767,7 +3826,7 @@
       \strng{editornamehash}{77696942f2b7b45e14a7f7bcddc807f5}
       \strng{editorfullhash}{77696942f2b7b45e14a7f7bcddc807f5}
       \strng{editorfullhashraw}{77696942f2b7b45e14a7f7bcddc807f5}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -3914,7 +3973,7 @@
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -4508,7 +4567,7 @@
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -4548,7 +4607,7 @@
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -9723,6 +9782,7 @@
       \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -9739,6 +9799,64 @@
       \verb{doi}
       \verb 10.5334/tismir.298
       \endverb
+      \annotation{item}{author}{default}{2}{}{0}{me}
+    \endentry
+    \entry{EipertMoss_TowardsGenerativeModel}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=dfc272ac2c275fa5134e703122e15c59}{%
+           family={Eipert},
+           familyi={E\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=61ee36988f36cc6b1a432760891e628b}{%
+           family={Rimaz},
+           familyi={R\bibinitperiod},
+           given={Loris},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3ef0336995c60b27ee7c761559fb997d}{%
+           family={Rochat},
+           familyi={R\bibinitperiod},
+           given={Yannick},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lausanne, Switzerland}%
+      }
+      \strng{namehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{fullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{fullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{bibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorbibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{editorbibnamehash}{91d911c6246331878925d2304da853d8}
+      \strng{editornamehash}{91d911c6246331878925d2304da853d8}
+      \strng{editorfullhash}{91d911c6246331878925d2304da853d8}
+      \strng{editorfullhashraw}{91d911c6246331878925d2304da853d8}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the Workshop on Computational Methods in the Humanities 2026 (COMHUM 2026)}}
+      \field{title}{Towards a Generative Model of Medieval Chant}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \true{nocite}
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{HofmannMoss2026}{inbook}{}{}
@@ -11665,7 +11783,7 @@
       \strng{editornamehash}{77696942f2b7b45e14a7f7bcddc807f5}
       \strng{editorfullhash}{77696942f2b7b45e14a7f7bcddc807f5}
       \strng{editorfullhashraw}{77696942f2b7b45e14a7f7bcddc807f5}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -11812,7 +11930,7 @@
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -12406,7 +12524,7 @@
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -12446,7 +12564,7 @@
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
