@@ -1395,6 +1395,48 @@
       \field{year}{2024-09-11/2024-09-14}
       \true{nocite}
     \endentry
+    \entry{NachtweyPlaksinMoss}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fe409e935b50db23e19e62e39bb2562f}{%
+           family={Nachtwey},
+           familyi={N\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2238403837cb27fc9ebe3e3259ebab8}{%
+           family={Plaksin},
+           familyi={P\bibinitperiod},
+           given={Anna\bibnamedelimb Viktoria\bibnamedelima Katrin},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a16eee59ab2bd6e1605a4f181776a372}
+      \strng{fullhash}{4f2f805a210e487d5c2dcc9d638b3b00}
+      \strng{fullhashraw}{4f2f805a210e487d5c2dcc9d638b3b00}
+      \strng{bibnamehash}{4f2f805a210e487d5c2dcc9d638b3b00}
+      \strng{authorbibnamehash}{4f2f805a210e487d5c2dcc9d638b3b00}
+      \strng{authornamehash}{a16eee59ab2bd6e1605a4f181776a372}
+      \strng{authorfullhash}{4f2f805a210e487d5c2dcc9d638b3b00}
+      \strng{authorfullhashraw}{4f2f805a210e487d5c2dcc9d638b3b00}
+      \field{extraname}{1}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Music \& Science}
+      \field{title}{{Beyond Bars: Distribution of Edit Operations in Historical Prints}}
+      \field{year}{accepted}
+      \true{nocite}
+      \annotation{item}{author}{default}{2}{}{0}{me}
+    \endentry
     \entry{Nakamura2023_HistoricalChangesModesb}{unpublished}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=31f26335c74ad2cd32daedefb327617b}{%
@@ -2351,6 +2393,7 @@
       \strng{authornamehash}{a16eee59ab2bd6e1605a4f181776a372}
       \strng{authorfullhash}{d71324f253cef377fbedaa8bb38d4b45}
       \strng{authorfullhashraw}{d71324f253cef377fbedaa8bb38d4b45}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -9250,6 +9293,48 @@
       \field{year}{2024-09-11/2024-09-14}
       \true{nocite}
     \endentry
+    \entry{NachtweyPlaksinMoss}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fe409e935b50db23e19e62e39bb2562f}{%
+           family={Nachtwey},
+           familyi={N\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2238403837cb27fc9ebe3e3259ebab8}{%
+           family={Plaksin},
+           familyi={P\bibinitperiod},
+           given={Anna\bibnamedelimb Viktoria\bibnamedelima Katrin},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a16eee59ab2bd6e1605a4f181776a372}
+      \strng{fullhash}{4f2f805a210e487d5c2dcc9d638b3b00}
+      \strng{fullhashraw}{4f2f805a210e487d5c2dcc9d638b3b00}
+      \strng{bibnamehash}{4f2f805a210e487d5c2dcc9d638b3b00}
+      \strng{authorbibnamehash}{4f2f805a210e487d5c2dcc9d638b3b00}
+      \strng{authornamehash}{a16eee59ab2bd6e1605a4f181776a372}
+      \strng{authorfullhash}{4f2f805a210e487d5c2dcc9d638b3b00}
+      \strng{authorfullhashraw}{4f2f805a210e487d5c2dcc9d638b3b00}
+      \field{extraname}{1}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Music \& Science}
+      \field{title}{{Beyond Bars: Distribution of Edit Operations in Historical Prints}}
+      \field{year}{accepted}
+      \true{nocite}
+      \annotation{item}{author}{default}{2}{}{0}{me}
+    \endentry
     \entry{Nakamura2023_HistoricalChangesModesb}{unpublished}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=31f26335c74ad2cd32daedefb327617b}{%
@@ -10206,6 +10291,7 @@
       \strng{authornamehash}{a16eee59ab2bd6e1605a4f181776a372}
       \strng{authorfullhash}{d71324f253cef377fbedaa8bb38d4b45}
       \strng{authorfullhashraw}{d71324f253cef377fbedaa8bb38d4b45}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
