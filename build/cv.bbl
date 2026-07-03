@@ -1852,6 +1852,8 @@
       \field{title}{{Encoding polymeter: A corpus of Hugo Distler's «Der~Jahrkreis»~op.~5 in different symbolic formats}}
       \field{year}{2026}
       \true{nocite}
+      \field{pages}{47\bibrangedash 55}
+      \range{pages}{9}
       \verb{doi}
       \verb 10.1145/3815723.3815729
       \endverb
@@ -1908,6 +1910,8 @@
       \field{title}{Mapping the space of harmonic cadences between Brazilian choro, jazz and Anglophone popular music}
       \field{year}{2026}
       \true{nocite}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
       \verb{doi}
       \verb https://doi.org/10.1145/3815723.3815724
       \endverb
@@ -9703,6 +9707,8 @@
       \field{title}{{Encoding polymeter: A corpus of Hugo Distler's «Der~Jahrkreis»~op.~5 in different symbolic formats}}
       \field{year}{2026}
       \true{nocite}
+      \field{pages}{47\bibrangedash 55}
+      \range{pages}{9}
       \verb{doi}
       \verb 10.1145/3815723.3815729
       \endverb
@@ -9759,6 +9765,8 @@
       \field{title}{Mapping the space of harmonic cadences between Brazilian choro, jazz and Anglophone popular music}
       \field{year}{2026}
       \true{nocite}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
       \verb{doi}
       \verb https://doi.org/10.1145/3815723.3815724
       \endverb

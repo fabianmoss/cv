@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.28)  2 JUL 2026 07:01
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.28)  3 JUL 2026 09:38
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -1709,12 +1709,7 @@ Underfull \hbox (badness 10000) detected at line 34
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-) (./organization.tex
-Overfull \hbox (1.02602pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋉/[][]󰋈󰋉[][] 
- []
-
-[2]) (./funding.tex
+) (./organization.tex) (./funding.tex
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 3.
@@ -1726,12 +1721,19 @@ Underfull \hbox (badness 10000) detected at line 3
 
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 5.
+
+Overfull \hbox (1.02602pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋉/[][]󰋈󰋉[][] 
+ []
+
+[2]
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/it' will be
 (Font)              scaled to size 10.0pt on input line 7.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 12.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 12.
+
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 44.
@@ -1787,12 +1789,12 @@ Underfull \hbox (badness 10000) detected at line 44
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-
+) (./media.tex
 Overfull \hbox (1.04561pt too wide) has occurred while \output is active
 []|\TU/AlegreyaSans(0)/m/it/10 󰋋/[][]󰋈󰋉[][] 
  []
 
-[4]) (./media.tex) (./skills.tex) [5] (./bibliography.tex
+[4]) (./skills.tex) [5] (./bibliography.tex
 Underfull \hbox (badness 10000) in paragraph at lines 200--8
 
  []
@@ -2000,17 +2002,17 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 Here is how much of LuaTeX's memory you used:
  25193 strings out of 476435
  195584,2373549 words of node,token memory allocated
- 1160 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 6 kern, 1 penalty, 3 glyph, 50 attribute, 91 glue_spec, 50 attribute_list, 1 write, 40 pdf_action nodes
-   avail lists: 1:8,2:2932,3:1256,4:450,5:3107,6:120,7:17866,8:119,9:868,10:26,11:1346
+ 1170 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 6 kern, 1 penalty, 3 glyph, 51 attribute, 91 glue_spec, 51 attribute_list, 1 write, 41 pdf_action nodes
+   avail lists: 1:8,2:2932,3:1256,4:450,5:3107,6:122,7:17866,8:119,9:868,10:26,11:1346
  46659 multiletter control sequences out of 65536+600000
  74 fonts using 15316775 bytes
  79i,13n,116p,1778b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-BoldItalic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (12 pages, 146598 bytes).
+Output written on cv.pdf (12 pages, 146328 bytes).
 
-PDF statistics: 460 PDF objects out of 1000 (max. 8388607)
- 424 compressed objects within 5 object streams
+PDF statistics: 461 PDF objects out of 1000 (max. 8388607)
+ 425 compressed objects within 5 object streams
  107 named destinations out of 1000 (max. 131072)
  281 words of extra memory for PDF output out of 10000 (max. 100000000)
 
