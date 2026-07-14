@@ -1403,27 +1403,27 @@
            given={Adrian},
            giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
-           family={Moss},
-           familyi={M\bibinitperiod},
-           given={Fabian\bibnamedelima C},
-           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
         {{un=0,uniquepart=base,hash=c2238403837cb27fc9ebe3e3259ebab8}{%
            family={Plaksin},
            familyi={P\bibinitperiod},
            given={Anna\bibnamedelimb Viktoria\bibnamedelima Katrin},
            giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim K\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{a16eee59ab2bd6e1605a4f181776a372}
-      \strng{fullhash}{4f2f805a210e487d5c2dcc9d638b3b00}
-      \strng{fullhashraw}{4f2f805a210e487d5c2dcc9d638b3b00}
-      \strng{bibnamehash}{4f2f805a210e487d5c2dcc9d638b3b00}
-      \strng{authorbibnamehash}{4f2f805a210e487d5c2dcc9d638b3b00}
+      \strng{fullhash}{d71324f253cef377fbedaa8bb38d4b45}
+      \strng{fullhashraw}{d71324f253cef377fbedaa8bb38d4b45}
+      \strng{bibnamehash}{d71324f253cef377fbedaa8bb38d4b45}
+      \strng{authorbibnamehash}{d71324f253cef377fbedaa8bb38d4b45}
       \strng{authornamehash}{a16eee59ab2bd6e1605a4f181776a372}
-      \strng{authorfullhash}{4f2f805a210e487d5c2dcc9d638b3b00}
-      \strng{authorfullhashraw}{4f2f805a210e487d5c2dcc9d638b3b00}
+      \strng{authorfullhash}{d71324f253cef377fbedaa8bb38d4b45}
+      \strng{authorfullhashraw}{d71324f253cef377fbedaa8bb38d4b45}
       \field{extraname}{1}
       \field{sortinit}{a}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
@@ -1435,7 +1435,10 @@
       \field{title}{{Beyond Bars: Distribution of Edit Operations in Historical Prints}}
       \field{year}{accepted}
       \true{nocite}
-      \annotation{item}{author}{default}{2}{}{0}{me}
+      \verb{doi}
+      \verb 10.1177/20592043261470534
+      \endverb
+      \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
     \entry{Nakamura2023_HistoricalChangesModesb}{unpublished}{}{}
       \name{author}{3}{}{%
@@ -9360,27 +9363,27 @@
            given={Adrian},
            giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
-           family={Moss},
-           familyi={M\bibinitperiod},
-           given={Fabian\bibnamedelima C},
-           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
         {{un=0,uniquepart=base,hash=c2238403837cb27fc9ebe3e3259ebab8}{%
            family={Plaksin},
            familyi={P\bibinitperiod},
            given={Anna\bibnamedelimb Viktoria\bibnamedelima Katrin},
            giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim K\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{a16eee59ab2bd6e1605a4f181776a372}
-      \strng{fullhash}{4f2f805a210e487d5c2dcc9d638b3b00}
-      \strng{fullhashraw}{4f2f805a210e487d5c2dcc9d638b3b00}
-      \strng{bibnamehash}{4f2f805a210e487d5c2dcc9d638b3b00}
-      \strng{authorbibnamehash}{4f2f805a210e487d5c2dcc9d638b3b00}
+      \strng{fullhash}{d71324f253cef377fbedaa8bb38d4b45}
+      \strng{fullhashraw}{d71324f253cef377fbedaa8bb38d4b45}
+      \strng{bibnamehash}{d71324f253cef377fbedaa8bb38d4b45}
+      \strng{authorbibnamehash}{d71324f253cef377fbedaa8bb38d4b45}
       \strng{authornamehash}{a16eee59ab2bd6e1605a4f181776a372}
-      \strng{authorfullhash}{4f2f805a210e487d5c2dcc9d638b3b00}
-      \strng{authorfullhashraw}{4f2f805a210e487d5c2dcc9d638b3b00}
+      \strng{authorfullhash}{d71324f253cef377fbedaa8bb38d4b45}
+      \strng{authorfullhashraw}{d71324f253cef377fbedaa8bb38d4b45}
       \field{extraname}{1}
       \field{sortinit}{a}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
@@ -9392,7 +9395,10 @@
       \field{title}{{Beyond Bars: Distribution of Edit Operations in Historical Prints}}
       \field{year}{accepted}
       \true{nocite}
-      \annotation{item}{author}{default}{2}{}{0}{me}
+      \verb{doi}
+      \verb 10.1177/20592043261470534
+      \endverb
+      \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
     \entry{Nakamura2023_HistoricalChangesModesb}{unpublished}{}{}
       \name{author}{3}{}{%
