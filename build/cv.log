@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.3.18)  3 AUG 2026 11:31
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.3.18)  3 AUG 2026 11:35
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -1705,12 +1705,12 @@ Underfull \hbox (badness 10000) detected at line 34
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-) (./organization.tex) (./funding.tex
+) (./organization.tex
 Overfull \hbox (1.02602pt too wide) has occurred while \output is active
 []|\TU/AlegreyaSans(0)/m/it/10 󰋉/[][]󰋈󰋉[][] 
  []
 
-[2]
+[2]) (./funding.tex
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 3.
@@ -1775,6 +1775,12 @@ Underfull \hbox (badness 10000) detected at line 37
  []
 
 
+Overfull \hbox (1.04561pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋋/[][]󰋈󰋉[][] 
+ []
+
+[4]
+
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 48.
 
@@ -1783,12 +1789,7 @@ Underfull \hbox (badness 10000) detected at line 48
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-
-Overfull \hbox (1.04561pt too wide) has occurred while \output is active
-[]|\TU/AlegreyaSans(0)/m/it/10 󰋋/[][]󰋈󰋉[][] 
- []
-
-[4]) (./media.tex) (./skills.tex) [5] (./bibliography.tex
+) (./media.tex) (./skills.tex) [5] (./bibliography.tex
 Underfull \hbox (badness 10000) in paragraph at lines 200--8
 
  []
@@ -2001,9 +2002,9 @@ Here is how much of LuaTeX's memory you used:
    avail lists: 1:4,2:3134,3:1802,4:628,5:4363,6:121,7:25286,8:119,9:868,10:26,11:1924
  47273 multiletter control sequences out of 65536+600000
  74 fonts using 15322215 bytes
- 73i,13n,109p,1778b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,12n,109p,1778b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-BoldItalic.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Italic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Bold.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (12 pages, 143162 bytes).
+Output written on cv.pdf (12 pages, 143838 bytes).
 
 PDF statistics: 465 PDF objects out of 1000 (max. 8388607)
  429 compressed objects within 5 object streams
