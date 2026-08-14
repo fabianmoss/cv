@@ -397,6 +397,54 @@
       \field{year}{2024-07-06/2024-07-09}
       \true{nocite}
     \endentry
+    \entry{Guan_Chromaticity2026}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=186606ae055ab4d05189846251dae6c5}{%
+           family={Guan},
+           familyi={G\bibinitperiod},
+           given={Xinyi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfbc8f6b5670f470a32ea8f6fab343f6}{%
+           family={Hentschel},
+           familyi={H\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6f3c100da28e0321b5f5b1b742234fc4}
+      \strng{fullhash}{de0651e7b3f484656c0f1c013e69739a}
+      \strng{fullhashraw}{de0651e7b3f484656c0f1c013e69739a}
+      \strng{bibnamehash}{de0651e7b3f484656c0f1c013e69739a}
+      \strng{authorbibnamehash}{de0651e7b3f484656c0f1c013e69739a}
+      \strng{authornamehash}{6f3c100da28e0321b5f5b1b742234fc4}
+      \strng{authorfullhash}{de0651e7b3f484656c0f1c013e69739a}
+      \strng{authorfullhashraw}{de0651e7b3f484656c0f1c013e69739a}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Humanities and Social Sciences Communications}
+      \field{title}{Studying the Diachronic Development of Chromaticism and Dissonance in Western Music over Three Centuries}
+      \field{year}{accepted}
+      \true{nocite}
+      \annotation{item}{author}{default}{3}{}{0}{me}
+    \endentry
     \entry{Harasim2022_MidiVERTOWebApplicationa}{unpublished}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=ecd27d17db5fbff23798855d2dfee9c2}{%
@@ -8356,6 +8404,54 @@
       \field{title}{Reconstructing the {{Formation}} of {{Trope Traditions}} through {{Network Models}}}
       \field{year}{2024-07-06/2024-07-09}
       \true{nocite}
+    \endentry
+    \entry{Guan_Chromaticity2026}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=186606ae055ab4d05189846251dae6c5}{%
+           family={Guan},
+           familyi={G\bibinitperiod},
+           given={Xinyi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfbc8f6b5670f470a32ea8f6fab343f6}{%
+           family={Hentschel},
+           familyi={H\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6f3c100da28e0321b5f5b1b742234fc4}
+      \strng{fullhash}{de0651e7b3f484656c0f1c013e69739a}
+      \strng{fullhashraw}{de0651e7b3f484656c0f1c013e69739a}
+      \strng{bibnamehash}{de0651e7b3f484656c0f1c013e69739a}
+      \strng{authorbibnamehash}{de0651e7b3f484656c0f1c013e69739a}
+      \strng{authornamehash}{6f3c100da28e0321b5f5b1b742234fc4}
+      \strng{authorfullhash}{de0651e7b3f484656c0f1c013e69739a}
+      \strng{authorfullhashraw}{de0651e7b3f484656c0f1c013e69739a}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Humanities and Social Sciences Communications}
+      \field{title}{Studying the Diachronic Development of Chromaticism and Dissonance in Western Music over Three Centuries}
+      \field{year}{accepted}
+      \true{nocite}
+      \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
     \entry{Harasim2022_MidiVERTOWebApplicationa}{unpublished}{}{}
       \name{author}{3}{}{%
