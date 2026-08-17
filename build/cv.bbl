@@ -2168,6 +2168,187 @@
       \endverb
       \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
+    \entry{ahrendtMusicologyEuropeanPartnerships2026}{report}{}{}
+      \name{author}{20}{}{%
+        {{un=0,uniquepart=base,hash=93994c781610b33a49dbc41bd141cbca}{%
+           family={Ahrendt},
+           familyi={A\bibinitperiod},
+           given={Rebekah},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82b0390fe89cff818b88cf6d5df361dc}{%
+           family={Arjmand},
+           familyi={A\bibinitperiod},
+           given={Ailin},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4e657e49bdcf2ecc0253b6765f41e03}{%
+           family={Bebak},
+           familyi={B\bibinitperiod},
+           given={Marek},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1656f612e4be912e48b7e1dd45cac54b}{%
+           family={Bellia},
+           familyi={B\bibinitperiod},
+           given={Angela},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=923ffa104a0e085315f1a87d650bf3a0}{%
+           family={Caussé},
+           familyi={C\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3879183f219d7b095dee65d41099625a}{%
+           family={Cavicchi},
+           familyi={C\bibinitperiod},
+           given={Camilla},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b50d0a66d9625ae78aa874bc3b17b99a}{%
+           family={Dolce},
+           familyi={D\bibinitperiod},
+           given={Brianne},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e1b7caaa00d02cdf5e4e90d5166c10f1}{%
+           family={Filippi},
+           familyi={F\bibinitperiod},
+           given={Daniele\bibnamedelima V.},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e422282abf0d8ec25c5f5b44d3915459}{%
+           family={Gasch},
+           familyi={G\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2fb35f73f8e936cf2168a0b60f01a5bb}{%
+           family={Guido},
+           familyi={G\bibinitperiod},
+           given={Massimiliano},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6e1b2e5d4529613f264cc3df190f68f}{%
+           family={Hamhuis},
+           familyi={H\bibinitperiod},
+           given={Sonja},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4d495e02d7eb54663f8f22ac8c28165}{%
+           family={Holland},
+           familyi={H\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5dd0980694650714e36aa05381fff403}{%
+           family={Levaux},
+           familyi={L\bibinitperiod},
+           given={Christophe},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=530b88bc0c4518a7a26f4972f923228d}{%
+           family={Moreda\bibnamedelima Rodriguez},
+           familyi={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64e389a9591a82ee653934ac855e4c5d}{%
+           family={Neumann},
+           familyi={N\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7a369936b5ad6f5101cd8ae447667e2}{%
+           family={Pugin},
+           familyi={P\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70605f71a6ccc8f2203741f1887369cc}{%
+           family={Rossi\bibnamedelima Rognoni},
+           familyi={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Gabriele},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=707a1455ca3bdc98b60edc7e133d73db}{%
+           family={Scuderi},
+           familyi={S\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8185eb43fb0be5c0f6c6db29bc6047a0}{%
+           family={Vendrix},
+           familyi={V\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=8185eb43fb0be5c0f6c6db29bc6047a0}{%
+           family={Vendrix},
+           familyi={V\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+        {{hash=93994c781610b33a49dbc41bd141cbca}{%
+           family={Ahrendt},
+           familyi={A\bibinitperiod},
+           given={Rebekah},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tours}%
+      }
+      \list{publisher}{1}{%
+        {Zenodo}%
+      }
+      \strng{namehash}{79953de7060a1215fba0cb8b9c1f3741}
+      \strng{fullhash}{467c171393ba5a78b868d141bdf4cf64}
+      \strng{fullhashraw}{467c171393ba5a78b868d141bdf4cf64}
+      \strng{bibnamehash}{467c171393ba5a78b868d141bdf4cf64}
+      \strng{authorbibnamehash}{467c171393ba5a78b868d141bdf4cf64}
+      \strng{authornamehash}{79953de7060a1215fba0cb8b9c1f3741}
+      \strng{authorfullhash}{467c171393ba5a78b868d141bdf4cf64}
+      \strng{authorfullhashraw}{467c171393ba5a78b868d141bdf4cf64}
+      \strng{editorbibnamehash}{6d8455b09663f59cf34ec64a3a0ba52a}
+      \strng{editornamehash}{6d8455b09663f59cf34ec64a3a0ba52a}
+      \strng{editorfullhash}{6d8455b09663f59cf34ec64a3a0ba52a}
+      \strng{editorfullhashraw}{6d8455b09663f59cf34ec64a3a0ba52a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This report examines how musicology can position itself within European research and innovation partnerships, shifting the focus from research infrastructures to long-term agenda-setting, consortium-building, and strategic visibility. It concentrates on two especially relevant frameworks, Resilient Cultural Heritage and Virtual Worlds, where musicology's work with manuscripts, instruments, sound archives, repertoires, places, practices, and communities connects tangible, intangible, and digital heritage. Its central argument is that the field is under-positioned rather than under-qualified: musicology already holds the methodological, documentary, and interpretive expertise needed to contribute to climate resilience, heritage preservation, social cohesion, immersive environments, digital twins, sound-space reconstruction, and culturally responsible virtual mediation. The report therefore identifies pathways through which musicological knowledge can become legible to European partners, funders, policy actors, cultural institutions, and technology developers without requiring disciplinary reinvention. It argues for a more collective and strategic translation of musicological expertise into partnership vocabularies, open standards, FAIR data practices, co-creation models, sustainability frameworks, and policy-relevant forms of research collaboration.}
+      \field{journaltitle}{EarlyMuse COST Action}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{shorttitle}{Musicology and {{European Partnerships}}}
+      \field{title}{Musicology and {{European Partnerships}}: {{Resilient Cultural Heritage}} and {{Virtual Worlds}}}
+      \field{urlday}{17}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.21166833
+      \endverb
+      \verb{file}
+      \verb /home/fmoss/Zotero/storage/57JWC6FL/Ahrendt et al. - 2026 - Musicology and European Partnerships Resilient Cultural Heritage and Virtual Worlds.pdf
+      \endverb
+      \keyw{Cultural heritage,Musicology,Resilient heritage,Virtual Reality}
+      \annotation{item}{author}{default}{15}{}{0}{me}
+    \endentry
     \entry{ignestiDevelopingDigitalPreservation2026}{report}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=a73804ff3457e02c1659a0c8f96adc3c}{%
@@ -10175,6 +10356,187 @@
       \verb https://osf.io/wdbhg/
       \endverb
       \annotation{item}{author}{default}{3}{}{0}{me}
+    \endentry
+    \entry{ahrendtMusicologyEuropeanPartnerships2026}{report}{}{}
+      \name{author}{20}{}{%
+        {{un=0,uniquepart=base,hash=93994c781610b33a49dbc41bd141cbca}{%
+           family={Ahrendt},
+           familyi={A\bibinitperiod},
+           given={Rebekah},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82b0390fe89cff818b88cf6d5df361dc}{%
+           family={Arjmand},
+           familyi={A\bibinitperiod},
+           given={Ailin},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4e657e49bdcf2ecc0253b6765f41e03}{%
+           family={Bebak},
+           familyi={B\bibinitperiod},
+           given={Marek},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1656f612e4be912e48b7e1dd45cac54b}{%
+           family={Bellia},
+           familyi={B\bibinitperiod},
+           given={Angela},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=923ffa104a0e085315f1a87d650bf3a0}{%
+           family={Caussé},
+           familyi={C\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3879183f219d7b095dee65d41099625a}{%
+           family={Cavicchi},
+           familyi={C\bibinitperiod},
+           given={Camilla},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b50d0a66d9625ae78aa874bc3b17b99a}{%
+           family={Dolce},
+           familyi={D\bibinitperiod},
+           given={Brianne},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e1b7caaa00d02cdf5e4e90d5166c10f1}{%
+           family={Filippi},
+           familyi={F\bibinitperiod},
+           given={Daniele\bibnamedelima V.},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e422282abf0d8ec25c5f5b44d3915459}{%
+           family={Gasch},
+           familyi={G\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2fb35f73f8e936cf2168a0b60f01a5bb}{%
+           family={Guido},
+           familyi={G\bibinitperiod},
+           given={Massimiliano},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6e1b2e5d4529613f264cc3df190f68f}{%
+           family={Hamhuis},
+           familyi={H\bibinitperiod},
+           given={Sonja},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4d495e02d7eb54663f8f22ac8c28165}{%
+           family={Holland},
+           familyi={H\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5dd0980694650714e36aa05381fff403}{%
+           family={Levaux},
+           familyi={L\bibinitperiod},
+           given={Christophe},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=530b88bc0c4518a7a26f4972f923228d}{%
+           family={Moreda\bibnamedelima Rodriguez},
+           familyi={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64e389a9591a82ee653934ac855e4c5d}{%
+           family={Neumann},
+           familyi={N\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7a369936b5ad6f5101cd8ae447667e2}{%
+           family={Pugin},
+           familyi={P\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70605f71a6ccc8f2203741f1887369cc}{%
+           family={Rossi\bibnamedelima Rognoni},
+           familyi={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Gabriele},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=707a1455ca3bdc98b60edc7e133d73db}{%
+           family={Scuderi},
+           familyi={S\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8185eb43fb0be5c0f6c6db29bc6047a0}{%
+           family={Vendrix},
+           familyi={V\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=8185eb43fb0be5c0f6c6db29bc6047a0}{%
+           family={Vendrix},
+           familyi={V\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+        {{hash=93994c781610b33a49dbc41bd141cbca}{%
+           family={Ahrendt},
+           familyi={A\bibinitperiod},
+           given={Rebekah},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tours}%
+      }
+      \list{publisher}{1}{%
+        {Zenodo}%
+      }
+      \strng{namehash}{79953de7060a1215fba0cb8b9c1f3741}
+      \strng{fullhash}{467c171393ba5a78b868d141bdf4cf64}
+      \strng{fullhashraw}{467c171393ba5a78b868d141bdf4cf64}
+      \strng{bibnamehash}{467c171393ba5a78b868d141bdf4cf64}
+      \strng{authorbibnamehash}{467c171393ba5a78b868d141bdf4cf64}
+      \strng{authornamehash}{79953de7060a1215fba0cb8b9c1f3741}
+      \strng{authorfullhash}{467c171393ba5a78b868d141bdf4cf64}
+      \strng{authorfullhashraw}{467c171393ba5a78b868d141bdf4cf64}
+      \strng{editorbibnamehash}{6d8455b09663f59cf34ec64a3a0ba52a}
+      \strng{editornamehash}{6d8455b09663f59cf34ec64a3a0ba52a}
+      \strng{editorfullhash}{6d8455b09663f59cf34ec64a3a0ba52a}
+      \strng{editorfullhashraw}{6d8455b09663f59cf34ec64a3a0ba52a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This report examines how musicology can position itself within European research and innovation partnerships, shifting the focus from research infrastructures to long-term agenda-setting, consortium-building, and strategic visibility. It concentrates on two especially relevant frameworks, Resilient Cultural Heritage and Virtual Worlds, where musicology's work with manuscripts, instruments, sound archives, repertoires, places, practices, and communities connects tangible, intangible, and digital heritage. Its central argument is that the field is under-positioned rather than under-qualified: musicology already holds the methodological, documentary, and interpretive expertise needed to contribute to climate resilience, heritage preservation, social cohesion, immersive environments, digital twins, sound-space reconstruction, and culturally responsible virtual mediation. The report therefore identifies pathways through which musicological knowledge can become legible to European partners, funders, policy actors, cultural institutions, and technology developers without requiring disciplinary reinvention. It argues for a more collective and strategic translation of musicological expertise into partnership vocabularies, open standards, FAIR data practices, co-creation models, sustainability frameworks, and policy-relevant forms of research collaboration.}
+      \field{journaltitle}{EarlyMuse COST Action}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{shorttitle}{Musicology and {{European Partnerships}}}
+      \field{title}{Musicology and {{European Partnerships}}: {{Resilient Cultural Heritage}} and {{Virtual Worlds}}}
+      \field{urlday}{17}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.21166833
+      \endverb
+      \verb{file}
+      \verb /home/fmoss/Zotero/storage/57JWC6FL/Ahrendt et al. - 2026 - Musicology and European Partnerships Resilient Cultural Heritage and Virtual Worlds.pdf
+      \endverb
+      \keyw{Cultural heritage,Musicology,Resilient heritage,Virtual Reality}
+      \annotation{item}{author}{default}{15}{}{0}{me}
     \endentry
     \entry{ignestiDevelopingDigitalPreservation2026}{report}{}{}
       \name{author}{6}{}{%
