@@ -658,6 +658,54 @@
       \field{year}{2024-06-27/2024-06-29}
       \true{nocite}
     \endentry
+    \entry{KeuppKlingerRoederMoss2026}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8c91898eb82041e76c6530c6ac703e0a}{%
+           family={Keupp},
+           familyi={K\bibinitperiod},
+           given={Corinna},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90537dab231df95b614d02b4d1a39b4f}{%
+           family={Klinger},
+           familyi={K\bibinitperiod},
+           given={Jana},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5b56989dee50093bc0f061aebce0cd4}{%
+           family={Roeder},
+           familyi={R\bibinitperiod},
+           given={Torsten},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{16cf35868c3244ea0fc39eea7ece50ef}
+      \strng{fullhash}{ae3a4a4764aaf116f7f509a4e71478bb}
+      \strng{fullhashraw}{ae3a4a4764aaf116f7f509a4e71478bb}
+      \strng{bibnamehash}{ae3a4a4764aaf116f7f509a4e71478bb}
+      \strng{authorbibnamehash}{ae3a4a4764aaf116f7f509a4e71478bb}
+      \strng{authornamehash}{16cf35868c3244ea0fc39eea7ece50ef}
+      \strng{authorfullhash}{ae3a4a4764aaf116f7f509a4e71478bb}
+      \strng{authorfullhashraw}{ae3a4a4764aaf116f7f509a4e71478bb}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Code4lib Journal}
+      \field{title}{{DigiMusTh: Using pre-built tools for a static, multimodal text collection}}
+      \field{year}{accepted}
+      \true{nocite}
+      \annotation{item}{author}{default}{4}{}{0}{me}
+    \endentry
     \entry{Koster2022_HarmonischeDualismusUnd}{unpublished}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=7a3e84a15924df4a1daf375606efce43}{%
@@ -8846,6 +8894,54 @@
       \field{title}{Encoding Polymeters and Metric Irregularities in Selected Motets from {{Hugo Distler}}'s {{Der Jahrkreis}} Op. 5 Using Different Music Encoding Formats}
       \field{year}{2024-06-27/2024-06-29}
       \true{nocite}
+    \endentry
+    \entry{KeuppKlingerRoederMoss2026}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8c91898eb82041e76c6530c6ac703e0a}{%
+           family={Keupp},
+           familyi={K\bibinitperiod},
+           given={Corinna},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90537dab231df95b614d02b4d1a39b4f}{%
+           family={Klinger},
+           familyi={K\bibinitperiod},
+           given={Jana},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5b56989dee50093bc0f061aebce0cd4}{%
+           family={Roeder},
+           familyi={R\bibinitperiod},
+           given={Torsten},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{16cf35868c3244ea0fc39eea7ece50ef}
+      \strng{fullhash}{ae3a4a4764aaf116f7f509a4e71478bb}
+      \strng{fullhashraw}{ae3a4a4764aaf116f7f509a4e71478bb}
+      \strng{bibnamehash}{ae3a4a4764aaf116f7f509a4e71478bb}
+      \strng{authorbibnamehash}{ae3a4a4764aaf116f7f509a4e71478bb}
+      \strng{authornamehash}{16cf35868c3244ea0fc39eea7ece50ef}
+      \strng{authorfullhash}{ae3a4a4764aaf116f7f509a4e71478bb}
+      \strng{authorfullhashraw}{ae3a4a4764aaf116f7f509a4e71478bb}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Code4lib Journal}
+      \field{title}{{DigiMusTh: Using pre-built tools for a static, multimodal text collection}}
+      \field{year}{accepted}
+      \true{nocite}
+      \annotation{item}{author}{default}{4}{}{0}{me}
     \endentry
     \entry{Koster2022_HarmonischeDualismusUnd}{unpublished}{}{}
       \name{author}{2}{}{%
