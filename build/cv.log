@@ -1,9 +1,9 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.8.6)  18 AUG 2026 07:21
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.8.7)  20 AUG 2026 18:20
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
 LaTeX2e <2026-06-01>
-L3 programming layer <2026-07-20>
+L3 programming layer <2026-06-18>
 Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
 Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended collection.
@@ -218,7 +218,12 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 \doubleitemcolumnwidth=\skip74
 \listitemsymbolwidth=\skip75
 LaTeX Font Info:    Trying to load font information for U+mvs on input line 139.
- (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/marvosym/umvs.fd)
+LaTeX Font Info:    No file Umvs.fd. on input line 139.
+
+
+LaTeX Font Warning: Font shape `U/mvs/m/n' undefined
+(Font)              using `U/cmr/m/n' instead on input line 139.
+
 \listitemmaincolumnwidth=\skip76
 \listdoubleitemmaincolumnwidth=\skip77
 \cvitemwithcommentmainbox=\box56
@@ -297,9 +302,9 @@ Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \mc@col@check@num=\count291
 \g__mc_curr_col_int=\count292
 ) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/lipsum/lipsum.sty (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2026-07-20 L3 programming layer (loader) 
+Package: expl3 2026-06-18 L3 programming layer (loader) 
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2026-07-20 L3 backend support: PDF output (LuaTeX)
+File: l3backend-luatex.def 2026-02-18 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count293
 Inserting `l3color' in `luaotfload.parse_color'.))
 Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
@@ -1407,7 +1412,7 @@ Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
-(biblatex)             2026-07-20 L3 programming layer (loader) 
+(biblatex)             2026-06-18 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
@@ -1632,8 +1637,10 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmr' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+
+Missing character: There is no Í (U+00CD) in font cmr12!
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 177.
- (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
+(/home/fmoss/.TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 177.
@@ -1694,7 +1701,9 @@ Underfull \hbox (badness 10000) detected at line 18
 
 [1
 
-{/home/fmoss/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{/home/fmoss/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+Missing character: There is no Í (U+00CD) in font cmr12!
+]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 34.
@@ -1778,7 +1787,9 @@ Underfull \hbox (badness 10000) detected at line 48
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-) (./media.tex) (./skills.tex) [5] (./bibliography.tex
+) (./media.tex) (./skills.tex) [5]
+Missing character: There is no Í (U+00CD) in font cmr12!
+(./bibliography.tex
 Underfull \hbox (badness 10000) in paragraph at lines 200--8
 
  []
@@ -1813,6 +1824,8 @@ Underfull \hbox (badness 10000) detected at line 44
 
 [6
 
+
+Missing character: There is no Í (U+00CD) in font cmr12!
 ]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
@@ -1940,8 +1953,12 @@ Underfull \hbox (badness 6978) in paragraph at lines 184--184
 [12]) (/home/fmoss/GitHub/fabianmoss/cv/build/cv.aux)
  ***********
 LaTeX2e <2026-06-01>
-L3 programming layer <2026-07-20>
+L3 programming layer <2026-06-18>
  ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 57986E21B0B54651824C635890424FED;4831.
 Package logreq Info: Writing requests to 'cv.run.xml'.
@@ -1954,16 +1971,16 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 25505 strings out of 475695
+ 25502 strings out of 475704
  305617,2373549 words of node,token memory allocated
  1195 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 6 kern, 1 penalty, 3 glyph, 55 attribute, 91 glue_spec, 55 attribute_list, 2 write, 42 pdf_action nodes
-   avail lists: 1:9,2:2937,3:2197,4:697,5:5139,6:120,7:29482,8:119,9:850,10:25,11:2276
- 47691 multiletter control sequences out of 65536+600000
- 74 fonts using 15322215 bytes
+   avail lists: 1:7,2:2938,3:2197,4:697,5:5139,6:120,7:29482,8:119,9:850,10:25,11:2276
+ 47684 multiletter control sequences out of 65536+600000
+ 74 fonts using 15276135 bytes
  73i,11n,109p,1778b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-BoldItalic.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Italic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Bold.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (12 pages, 144694 bytes).
+</home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-BoldItalic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on cv.pdf (12 pages, 143390 bytes).
 
 PDF statistics: 455 PDF objects out of 1000 (max. 8388607)
  419 compressed objects within 5 object streams
