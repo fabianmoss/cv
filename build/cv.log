@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.8.21)  31 AUG 2026 08:28
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.8.21)  2 SEP 2026 13:15
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -1617,6 +1617,9 @@ Package hyperref Info: Link coloring ON on input line 149.
 \@outlinefile=\write4
 
 \openout4 = cv.out
+\pagenumberwidth=\skip116
+LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 149.
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
 (Font)              scaled to size 24.88pt on input line 177.
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/n' will be
@@ -1664,8 +1667,6 @@ LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/n' will be
 (Font)              scaled to size 14.4pt on input line 5.
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/n' will be
 (Font)              scaled to size 10.0pt on input line 12.
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 12.
 ) (./education.tex) (./service.tex
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 3.
@@ -1704,7 +1705,12 @@ Underfull \hbox (badness 10000) detected at line 34
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-) (./organization.tex [2]) (./funding.tex
+) (./organization.tex
+Overfull \hbox (1.03821pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋉/[][]󰋈󰋊[][] 
+ []
+
+[2]) (./funding.tex
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 3.
@@ -1768,6 +1774,11 @@ Underfull \hbox (badness 10000) detected at line 37
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
+
+Overfull \hbox (1.0578pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋋/[][]󰋈󰋊[][] 
+ []
+
 [4]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
@@ -1809,6 +1820,11 @@ LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 
 Underfull \hbox (badness 10000) detected at line 44
 \TU/AlegreyaSans(0)/m/n/7 .
+ []
+
+
+Overfull \hbox (0.8324pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋍/[][]󰋈󰋊[][] 
  []
 
 [6
@@ -1902,7 +1918,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--16
 \TU/AlegreyaSans(0)/m/n/10 an der Berlin-Brandenburgischen Akademie der Wis-
  []
 
-[8] [9]
+
+Overfull \hbox (0.8912pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋏/[][]󰋈󰋊[][] 
+ []
+
+[8]
+Overfull \hbox (0.8324pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋐/[][]󰋈󰋊[][] 
+ []
+
+[9]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 68.
@@ -1912,9 +1938,19 @@ Underfull \hbox (badness 10000) detected at line 68
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
+
+Overfull \hbox (4.97778pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋈󰋇/[][]󰋈󰋊[][] 
+ []
+
 [10]
 Underfull \hbox (badness 5231) in paragraph at lines 124--124
 \TU/AlegreyaSans(0)/m/it/10 Diskur-s-anal-yse\TU/AlegreyaSans(0)/m/n/10 . Jahresta-gung der Gesellscha󰀙t für Musik-
+ []
+
+
+Overfull \hbox (3.18439pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋈󰋈/[][]󰋈󰋊[][] 
  []
 
 [11]
@@ -1937,7 +1973,17 @@ Underfull \hbox (badness 6978) in paragraph at lines 184--184
 \TU/AlegreyaSans(0)/m/n/10 Universität Würzburg, 󰋍 Novem-ber 󰋇󰋅󰋇󰋉. [][]$https://www.
  []
 
-[12]) (/home/fmoss/GitHub/fabianmoss/cv/build/cv.aux)
+
+Overfull \hbox (4.5074pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋈󰋉/[][]󰋈󰋊[][] 
+ []
+
+[12])
+Overfull \hbox (3.90959pt too wide) has occurred while \output is active
+[]|\TU/AlegreyaSans(0)/m/it/10 󰋈󰋊/[][]󰋈󰋊[][] 
+ []
+
+[13] (/home/fmoss/GitHub/fabianmoss/cv/build/cv.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-08-10>
@@ -1954,19 +2000,19 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 25512 strings out of 475635
- 305617,2373549 words of node,token memory allocated
- 1205 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 6 kern, 1 penalty, 3 glyph, 56 attribute, 91 glue_spec, 56 attribute_list, 2 write, 43 pdf_action nodes
-   avail lists: 1:7,2:2937,3:2197,4:697,5:5139,6:120,7:29482,8:119,9:850,10:25,11:2276
- 47758 multiletter control sequences out of 65536+600000
+ 25514 strings out of 475635
+ 244481,2373549 words of node,token memory allocated
+ 1203 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 6 kern, 1 penalty, 3 glyph, 55 attribute, 92 glue_spec, 55 attribute_list, 1 write, 43 pdf_action nodes
+   avail lists: 1:11,2:2961,3:2198,4:697,5:3477,6:120,7:24702,8:119,9:868,10:25,11:1296
+ 47759 multiletter control sequences out of 65536+600000
  74 fonts using 15322215 bytes
- 73i,11n,109p,1778b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,12n,109p,1778b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-BoldItalic.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Italic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Bold.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (12 pages, 144843 bytes).
+Output written on cv.pdf (13 pages, 146606 bytes).
 
-PDF statistics: 457 PDF objects out of 1000 (max. 8388607)
- 421 compressed objects within 5 object streams
- 112 named destinations out of 1000 (max. 1048576)
+PDF statistics: 479 PDF objects out of 1000 (max. 8388607)
+ 441 compressed objects within 5 object streams
+ 113 named destinations out of 1000 (max. 1048576)
  281 words of extra memory for PDF output out of 10000 (max. 100000000)
 
