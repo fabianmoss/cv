@@ -1670,62 +1670,6 @@
       \field{year}{2025-06-03/2025-06-06}
       \true{nocite}
     \endentry
-    \entry{YoungbloodMoss2025}{inbook}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=0ef7c9dffe719294e5144c4972eb9a4b}{%
-           family={Youngblood},
-           familyi={Y\bibinitperiod},
-           given={Mason},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
-           family={Moss},
-           familyi={M\bibinitperiod},
-           given={Fabian\bibnamedelima C},
-           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=cc33d4c89dedff9d403a16c15ce071be}{%
-           family={Ravignani},
-           familyi={R\bibinitperiod},
-           given={Andrea},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{e1919f7fa7224f9a62e964b29ca76245}
-      \strng{fullhash}{e1919f7fa7224f9a62e964b29ca76245}
-      \strng{fullhashraw}{e1919f7fa7224f9a62e964b29ca76245}
-      \strng{bibnamehash}{e1919f7fa7224f9a62e964b29ca76245}
-      \strng{authorbibnamehash}{e1919f7fa7224f9a62e964b29ca76245}
-      \strng{authornamehash}{e1919f7fa7224f9a62e964b29ca76245}
-      \strng{authorfullhash}{e1919f7fa7224f9a62e964b29ca76245}
-      \strng{authorfullhashraw}{e1919f7fa7224f9a62e964b29ca76245}
-      \strng{editorbibnamehash}{cc33d4c89dedff9d403a16c15ce071be}
-      \strng{editornamehash}{cc33d4c89dedff9d403a16c15ce071be}
-      \strng{editorfullhash}{cc33d4c89dedff9d403a16c15ce071be}
-      \strng{editorfullhashraw}{cc33d4c89dedff9d403a16c15ce071be}
-      \field{sortinit}{i}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{{The Biology of Music: Interdisciplinary Insights}}
-      \field{chapter}{6}
-      \field{title}{The history of music: approaches from cultural evolution and musicology}
-      \field{year}{in press}
-      \true{nocite}
-      \field{pages}{130\bibrangedash 142}
-      \range{pages}{13}
-      \verb{doi}
-      \verb 10.1093/9780197775097.003.0010
-      \endverb
-      \annotation{item}{author}{default}{2}{}{0}{me}
-    \endentry
     \entry{Yust2023_AnimatedHarmonicAnalysis}{unpublished}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=1a4181182118ab87db10a11e4efa6607}{%
@@ -1901,7 +1845,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{{Proceedings of the Workshop on Computational Methods in the Humanities 2026 (COMHUM 2026)}}
+      \field{booktitle}{{Workshop on Computational Methods in the Humanities 2026 (COMHUM 2026)}}
+      \field{howpublished}{\url{https://wp.unil.ch/llist/files/2026/09/towards_a_generative_model_of_medieval_chant.pdf}}
       \field{title}{Towards a Generative Model of Medieval Chant}
       \field{year}{2026}
       \field{dateera}{ce}
@@ -2219,6 +2164,62 @@
       \verb https://osf.io/wdbhg/
       \endverb
       \annotation{item}{author}{default}{3}{}{0}{me}
+    \endentry
+    \entry{YoungbloodMoss2025}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0ef7c9dffe719294e5144c4972eb9a4b}{%
+           family={Youngblood},
+           familyi={Y\bibinitperiod},
+           given={Mason},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=cc33d4c89dedff9d403a16c15ce071be}{%
+           family={Ravignani},
+           familyi={R\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{fullhash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{fullhashraw}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{bibnamehash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{authorbibnamehash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{authornamehash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{authorfullhash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{authorfullhashraw}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{editorbibnamehash}{cc33d4c89dedff9d403a16c15ce071be}
+      \strng{editornamehash}{cc33d4c89dedff9d403a16c15ce071be}
+      \strng{editorfullhash}{cc33d4c89dedff9d403a16c15ce071be}
+      \strng{editorfullhashraw}{cc33d4c89dedff9d403a16c15ce071be}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{The Biology of Music: Interdisciplinary Insights}}
+      \field{chapter}{6}
+      \field{title}{The history of music: approaches from cultural evolution and musicology}
+      \field{year}{2026}
+      \true{nocite}
+      \field{pages}{130\bibrangedash 142}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1093/9780197775097.003.0010
+      \endverb
+      \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{ahrendtMusicologyEuropeanPartnerships2026}{report}{}{}
       \name{author}{20}{}{%
@@ -9911,62 +9912,6 @@
       \field{year}{2025-06-03/2025-06-06}
       \true{nocite}
     \endentry
-    \entry{YoungbloodMoss2025}{inbook}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=0ef7c9dffe719294e5144c4972eb9a4b}{%
-           family={Youngblood},
-           familyi={Y\bibinitperiod},
-           given={Mason},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
-           family={Moss},
-           familyi={M\bibinitperiod},
-           given={Fabian\bibnamedelima C},
-           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=cc33d4c89dedff9d403a16c15ce071be}{%
-           family={Ravignani},
-           familyi={R\bibinitperiod},
-           given={Andrea},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{e1919f7fa7224f9a62e964b29ca76245}
-      \strng{fullhash}{e1919f7fa7224f9a62e964b29ca76245}
-      \strng{fullhashraw}{e1919f7fa7224f9a62e964b29ca76245}
-      \strng{bibnamehash}{e1919f7fa7224f9a62e964b29ca76245}
-      \strng{authorbibnamehash}{e1919f7fa7224f9a62e964b29ca76245}
-      \strng{authornamehash}{e1919f7fa7224f9a62e964b29ca76245}
-      \strng{authorfullhash}{e1919f7fa7224f9a62e964b29ca76245}
-      \strng{authorfullhashraw}{e1919f7fa7224f9a62e964b29ca76245}
-      \strng{editorbibnamehash}{cc33d4c89dedff9d403a16c15ce071be}
-      \strng{editornamehash}{cc33d4c89dedff9d403a16c15ce071be}
-      \strng{editorfullhash}{cc33d4c89dedff9d403a16c15ce071be}
-      \strng{editorfullhashraw}{cc33d4c89dedff9d403a16c15ce071be}
-      \field{sortinit}{i}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{{The Biology of Music: Interdisciplinary Insights}}
-      \field{chapter}{6}
-      \field{title}{The history of music: approaches from cultural evolution and musicology}
-      \field{year}{in press}
-      \true{nocite}
-      \field{pages}{130\bibrangedash 142}
-      \range{pages}{13}
-      \verb{doi}
-      \verb 10.1093/9780197775097.003.0010
-      \endverb
-      \annotation{item}{author}{default}{2}{}{0}{me}
-    \endentry
     \entry{Yust2023_AnimatedHarmonicAnalysis}{unpublished}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=1a4181182118ab87db10a11e4efa6607}{%
@@ -10142,7 +10087,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{{Proceedings of the Workshop on Computational Methods in the Humanities 2026 (COMHUM 2026)}}
+      \field{booktitle}{{Workshop on Computational Methods in the Humanities 2026 (COMHUM 2026)}}
+      \field{howpublished}{\url{https://wp.unil.ch/llist/files/2026/09/towards_a_generative_model_of_medieval_chant.pdf}}
       \field{title}{Towards a Generative Model of Medieval Chant}
       \field{year}{2026}
       \field{dateera}{ce}
@@ -10460,6 +10406,62 @@
       \verb https://osf.io/wdbhg/
       \endverb
       \annotation{item}{author}{default}{3}{}{0}{me}
+    \endentry
+    \entry{YoungbloodMoss2025}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0ef7c9dffe719294e5144c4972eb9a4b}{%
+           family={Youngblood},
+           familyi={Y\bibinitperiod},
+           given={Mason},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=cc33d4c89dedff9d403a16c15ce071be}{%
+           family={Ravignani},
+           familyi={R\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{fullhash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{fullhashraw}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{bibnamehash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{authorbibnamehash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{authornamehash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{authorfullhash}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{authorfullhashraw}{e1919f7fa7224f9a62e964b29ca76245}
+      \strng{editorbibnamehash}{cc33d4c89dedff9d403a16c15ce071be}
+      \strng{editornamehash}{cc33d4c89dedff9d403a16c15ce071be}
+      \strng{editorfullhash}{cc33d4c89dedff9d403a16c15ce071be}
+      \strng{editorfullhashraw}{cc33d4c89dedff9d403a16c15ce071be}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{The Biology of Music: Interdisciplinary Insights}}
+      \field{chapter}{6}
+      \field{title}{The history of music: approaches from cultural evolution and musicology}
+      \field{year}{2026}
+      \true{nocite}
+      \field{pages}{130\bibrangedash 142}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1093/9780197775097.003.0010
+      \endverb
+      \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{ahrendtMusicologyEuropeanPartnerships2026}{report}{}{}
       \name{author}{20}{}{%
