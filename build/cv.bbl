@@ -221,6 +221,68 @@
       \field{year}{2024-09-11/2024-09-14}
       \true{nocite}
     \endentry
+    \entry{Eipert_Phylogeny}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=dfc272ac2c275fa5134e703122e15c59}{%
+           family={Eipert},
+           familyi={E\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=5ac6a94b3283bf5b8b239a44b2ccb001}{%
+           family={De\bibnamedelima Luca},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Elsa},
+           giveni={E\bibinitperiod}}}%
+        {{hash=8e9a80015ab6dfe6833f82cc33816366}{%
+           family={Lacoste},
+           familyi={L\bibinitperiod},
+           given={Debra},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8858b5d6240819dba73d4154082c6066}{%
+           family={Thomae\bibnamedelima Elias},
+           familyi={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Martha},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Brepols}%
+      }
+      \strng{namehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{fullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{fullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{bibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorbibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{editorbibnamehash}{58c3dc4a40758a9666fd1635cf8785e4}
+      \strng{editornamehash}{821286cf95b7cb717698c5834b9169bd}
+      \strng{editorfullhash}{58c3dc4a40758a9666fd1635cf8785e4}
+      \strng{editorfullhashraw}{58c3dc4a40758a9666fd1635cf8785e4}
+      \field{extraname}{2}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Shaping Early Music Research in the Digital Era: Case Studies on Plainchant}}
+      \field{series}{Musicalia Antiquitatis \& Medii Aevi (MUSAM)}
+      \field{title}{{From JPEG to Tree: Analysis of Melodic Variants in the Graduale Synopticum Edition}}
+      \field{year}{accepted}
+      \true{nocite}
+      \annotation{item}{author}{default}{2}{}{0}{me}
+    \endentry
     \entry{Eipert2023_SystemTropeElements}{unpublished}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=dfc272ac2c275fa5134e703122e15c59}{%
@@ -247,7 +309,7 @@
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1772,7 +1834,7 @@
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -1836,7 +1898,7 @@
       \strng{editornamehash}{91d911c6246331878925d2304da853d8}
       \strng{editorfullhash}{91d911c6246331878925d2304da853d8}
       \strng{editorfullhashraw}{91d911c6246331878925d2304da853d8}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -4111,7 +4173,7 @@
       \strng{editornamehash}{77696942f2b7b45e14a7f7bcddc807f5}
       \strng{editorfullhash}{77696942f2b7b45e14a7f7bcddc807f5}
       \strng{editorfullhashraw}{77696942f2b7b45e14a7f7bcddc807f5}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -4258,7 +4320,7 @@
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -4852,7 +4914,7 @@
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -4892,7 +4954,7 @@
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
-      \field{extraname}{8}
+      \field{extraname}{9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -8557,6 +8619,68 @@
       \field{year}{2024-09-11/2024-09-14}
       \true{nocite}
     \endentry
+    \entry{Eipert_Phylogeny}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=dfc272ac2c275fa5134e703122e15c59}{%
+           family={Eipert},
+           familyi={E\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=5ac6a94b3283bf5b8b239a44b2ccb001}{%
+           family={De\bibnamedelima Luca},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Elsa},
+           giveni={E\bibinitperiod}}}%
+        {{hash=8e9a80015ab6dfe6833f82cc33816366}{%
+           family={Lacoste},
+           familyi={L\bibinitperiod},
+           given={Debra},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8858b5d6240819dba73d4154082c6066}{%
+           family={Thomae\bibnamedelima Elias},
+           familyi={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Martha},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Brepols}%
+      }
+      \strng{namehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{fullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{fullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{bibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorbibnamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
+      \strng{editorbibnamehash}{58c3dc4a40758a9666fd1635cf8785e4}
+      \strng{editornamehash}{821286cf95b7cb717698c5834b9169bd}
+      \strng{editorfullhash}{58c3dc4a40758a9666fd1635cf8785e4}
+      \strng{editorfullhashraw}{58c3dc4a40758a9666fd1635cf8785e4}
+      \field{extraname}{2}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Shaping Early Music Research in the Digital Era: Case Studies on Plainchant}}
+      \field{series}{Musicalia Antiquitatis \& Medii Aevi (MUSAM)}
+      \field{title}{{From JPEG to Tree: Analysis of Melodic Variants in the Graduale Synopticum Edition}}
+      \field{year}{accepted}
+      \true{nocite}
+      \annotation{item}{author}{default}{2}{}{0}{me}
+    \endentry
     \entry{Eipert2023_SystemTropeElements}{unpublished}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=dfc272ac2c275fa5134e703122e15c59}{%
@@ -8583,7 +8707,7 @@
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -10014,7 +10138,7 @@
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -10078,7 +10202,7 @@
       \strng{editornamehash}{91d911c6246331878925d2304da853d8}
       \strng{editorfullhash}{91d911c6246331878925d2304da853d8}
       \strng{editorfullhashraw}{91d911c6246331878925d2304da853d8}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -12353,7 +12477,7 @@
       \strng{editornamehash}{77696942f2b7b45e14a7f7bcddc807f5}
       \strng{editorfullhash}{77696942f2b7b45e14a7f7bcddc807f5}
       \strng{editorfullhashraw}{77696942f2b7b45e14a7f7bcddc807f5}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -12500,7 +12624,7 @@
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -13094,7 +13218,7 @@
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -13134,7 +13258,7 @@
       \strng{authornamehash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhash}{aa507910b422ed6b2e83f4e892f4bcb3}
       \strng{authorfullhashraw}{aa507910b422ed6b2e83f4e892f4bcb3}
-      \field{extraname}{8}
+      \field{extraname}{9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
