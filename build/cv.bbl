@@ -789,16 +789,58 @@
       \strng{authornamehash}{b1c6c659acb2372d6a987ba1a76b51d7}
       \strng{authorfullhash}{8acdd163362b6204e14ffd0b897ba982}
       \strng{authorfullhashraw}{8acdd163362b6204e14ffd0b897ba982}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Revisiting {{Tong Yun San Gong}} Theory in {{Chinese}} Music: A Corpus Study of {{Chinese}} Folksongs}
       \field{year}{2022-06-14/2022-06-17}
       \true{nocite}
+    \endentry
+    \entry{Meng_MnS_Diao}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=31d5b30645243915087895c7aa8af55c}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Shuxin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{294b792e1471f7823ee6fb9bc552e6e7}
+      \strng{fullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{fullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{bibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authorbibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authornamehash}{294b792e1471f7823ee6fb9bc552e6e7}
+      \strng{authorfullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authorfullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \field{extraname}{2}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Music \& Science}
+      \field{title}{{\emph{Tong Yun San Gon} Theory: Corpus Evidence for the Distinctions among Three Chinese Heptatonic \emph{Diao}}}
+      \field{year}{accepted}
+      \true{nocite}
+      \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{Moss2020_AnalyzingMusicalPieces}{unpublished}{}{}
       \name{author}{1}{}{%
@@ -9865,16 +9907,58 @@
       \strng{authornamehash}{b1c6c659acb2372d6a987ba1a76b51d7}
       \strng{authorfullhash}{8acdd163362b6204e14ffd0b897ba982}
       \strng{authorfullhashraw}{8acdd163362b6204e14ffd0b897ba982}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Revisiting {{Tong Yun San Gong}} Theory in {{Chinese}} Music: A Corpus Study of {{Chinese}} Folksongs}
       \field{year}{2022-06-14/2022-06-17}
       \true{nocite}
+    \endentry
+    \entry{Meng_MnS_Diao}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=31d5b30645243915087895c7aa8af55c}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Shuxin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{294b792e1471f7823ee6fb9bc552e6e7}
+      \strng{fullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{fullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{bibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authorbibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authornamehash}{294b792e1471f7823ee6fb9bc552e6e7}
+      \strng{authorfullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authorfullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \field{extraname}{2}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Music \& Science}
+      \field{title}{{\emph{Tong Yun San Gon} Theory: Corpus Evidence for the Distinctions among Three Chinese Heptatonic \emph{Diao}}}
+      \field{year}{accepted}
+      \true{nocite}
+      \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{Moss2020_AnalyzingMusicalPieces}{unpublished}{}{}
       \name{author}{1}{}{%
