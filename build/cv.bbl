@@ -2838,57 +2838,6 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{MengMossRohrmeier2026}{dataset}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=31d5b30645243915087895c7aa8af55c}{%
-           family={Meng},
-           familyi={M\bibinitperiod},
-           given={Shuxin},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
-           family={Moss},
-           familyi={M\bibinitperiod},
-           given={Fabian\bibnamedelima C},
-           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
-           family={Rohrmeier},
-           familyi={R\bibinitperiod},
-           given={Martin},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {GitHub}%
-      }
-      \strng{namehash}{294b792e1471f7823ee6fb9bc552e6e7}
-      \strng{fullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{fullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{bibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{authorbibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{authornamehash}{294b792e1471f7823ee6fb9bc552e6e7}
-      \strng{authorfullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{authorfullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{\emph{Tong Yun San Gong}: data and code}
-      \field{year}{2026}
-      \field{dateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://github.com/DCMLab/chinese_heptatonic_diao
-      \endverb
-      \verb{url}
-      \verb https://github.com/DCMLab/chinese_heptatonic_diao
-      \endverb
-      \annotation{item}{author}{default}{2}{}{0}{me}
-    \endentry
     \entry{NachtweyPlaksinMoss}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=fe409e935b50db23e19e62e39bb2562f}{%
@@ -3403,6 +3352,60 @@
       \verb /home/fmoss/Zotero/storage/TDTVMHFQ/Ignesti et al. - 2026 - Developing digital preservation, edition, and analysis of sources of medieval monophony and its theo.pdf
       \endverb
       \annotation{item}{author}{default}{5}{}{0}{me}
+    \endentry
+    \entry{meng_2026}{dataset}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=31d5b30645243915087895c7aa8af55c}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Shuxin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5666f8ed875e4f2178209bf08ee48ea7}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={Martin\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Zenodo}%
+      }
+      \strng{namehash}{294b792e1471f7823ee6fb9bc552e6e7}
+      \strng{fullhash}{76cacda4091f0894237022c8e01d81f4}
+      \strng{fullhashraw}{76cacda4091f0894237022c8e01d81f4}
+      \strng{bibnamehash}{76cacda4091f0894237022c8e01d81f4}
+      \strng{authorbibnamehash}{76cacda4091f0894237022c8e01d81f4}
+      \strng{authornamehash}{294b792e1471f7823ee6fb9bc552e6e7}
+      \strng{authorfullhash}{76cacda4091f0894237022c8e01d81f4}
+      \strng{authorfullhashraw}{76cacda4091f0894237022c8e01d81f4}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{{Diao Annotations for Heptatonic Pieces in the Chinese Collection of the Essen Folksong Database}}
+      \field{year}{2026}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.14607710
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.14607710
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.14607710
+      \endverb
+      \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{HajicMossUnseenSpecies}{inbook}{}{}
       \name{author}{2}{}{%
@@ -12007,57 +12010,6 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{MengMossRohrmeier2026}{dataset}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=31d5b30645243915087895c7aa8af55c}{%
-           family={Meng},
-           familyi={M\bibinitperiod},
-           given={Shuxin},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
-           family={Moss},
-           familyi={M\bibinitperiod},
-           given={Fabian\bibnamedelima C},
-           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
-           family={Rohrmeier},
-           familyi={R\bibinitperiod},
-           given={Martin},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {GitHub}%
-      }
-      \strng{namehash}{294b792e1471f7823ee6fb9bc552e6e7}
-      \strng{fullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{fullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{bibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{authorbibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{authornamehash}{294b792e1471f7823ee6fb9bc552e6e7}
-      \strng{authorfullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{authorfullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{\emph{Tong Yun San Gong}: data and code}
-      \field{year}{2026}
-      \field{dateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://github.com/DCMLab/chinese_heptatonic_diao
-      \endverb
-      \verb{url}
-      \verb https://github.com/DCMLab/chinese_heptatonic_diao
-      \endverb
-      \annotation{item}{author}{default}{2}{}{0}{me}
-    \endentry
     \entry{NachtweyPlaksinMoss}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=fe409e935b50db23e19e62e39bb2562f}{%
@@ -12572,6 +12524,60 @@
       \verb /home/fmoss/Zotero/storage/TDTVMHFQ/Ignesti et al. - 2026 - Developing digital preservation, edition, and analysis of sources of medieval monophony and its theo.pdf
       \endverb
       \annotation{item}{author}{default}{5}{}{0}{me}
+    \endentry
+    \entry{meng_2026}{dataset}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=31d5b30645243915087895c7aa8af55c}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Shuxin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5666f8ed875e4f2178209bf08ee48ea7}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={Martin\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Zenodo}%
+      }
+      \strng{namehash}{294b792e1471f7823ee6fb9bc552e6e7}
+      \strng{fullhash}{76cacda4091f0894237022c8e01d81f4}
+      \strng{fullhashraw}{76cacda4091f0894237022c8e01d81f4}
+      \strng{bibnamehash}{76cacda4091f0894237022c8e01d81f4}
+      \strng{authorbibnamehash}{76cacda4091f0894237022c8e01d81f4}
+      \strng{authornamehash}{294b792e1471f7823ee6fb9bc552e6e7}
+      \strng{authorfullhash}{76cacda4091f0894237022c8e01d81f4}
+      \strng{authorfullhashraw}{76cacda4091f0894237022c8e01d81f4}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{{Diao Annotations for Heptatonic Pieces in the Chinese Collection of the Essen Folksong Database}}
+      \field{year}{2026}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.14607710
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.14607710
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.14607710
+      \endverb
+      \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{HajicMossUnseenSpecies}{inbook}{}{}
       \name{author}{2}{}{%
