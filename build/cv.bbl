@@ -2838,6 +2838,57 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
+    \entry{MengMossRohrmeier2026}{dataset}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=31d5b30645243915087895c7aa8af55c}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Shuxin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {GitHub}%
+      }
+      \strng{namehash}{294b792e1471f7823ee6fb9bc552e6e7}
+      \strng{fullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{fullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{bibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authorbibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authornamehash}{294b792e1471f7823ee6fb9bc552e6e7}
+      \strng{authorfullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authorfullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{\emph{Tong Yun San Gong}: data and code}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/DCMLab/chinese_heptatonic_diao
+      \endverb
+      \verb{url}
+      \verb https://github.com/DCMLab/chinese_heptatonic_diao
+      \endverb
+      \annotation{item}{author}{default}{2}{}{0}{me}
+    \endentry
     \entry{NachtweyPlaksinMoss}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=fe409e935b50db23e19e62e39bb2562f}{%
@@ -11953,6 +12004,57 @@
       \range{pages}{9}
       \verb{doi}
       \verb 10.1145/3815723.3815729
+      \endverb
+      \annotation{item}{author}{default}{2}{}{0}{me}
+    \endentry
+    \entry{MengMossRohrmeier2026}{dataset}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=31d5b30645243915087895c7aa8af55c}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Shuxin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {GitHub}%
+      }
+      \strng{namehash}{294b792e1471f7823ee6fb9bc552e6e7}
+      \strng{fullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{fullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{bibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authorbibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authornamehash}{294b792e1471f7823ee6fb9bc552e6e7}
+      \strng{authorfullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authorfullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{\emph{Tong Yun San Gong}: data and code}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/DCMLab/chinese_heptatonic_diao
+      \endverb
+      \verb{url}
+      \verb https://github.com/DCMLab/chinese_heptatonic_diao
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
