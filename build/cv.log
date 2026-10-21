@@ -1,9 +1,9 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.8.21)  12 OCT 2026 13:23
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.10.1)  21 OCT 2026 13:22
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
 LaTeX2e <2026-06-01>
-L3 programming layer <2026-08-10>
+L3 programming layer <2026-09-09>
 Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
 Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended collection.
@@ -218,7 +218,12 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 \doubleitemcolumnwidth=\skip74
 \listitemsymbolwidth=\skip75
 LaTeX Font Info:    Trying to load font information for U+mvs on input line 139.
- (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/marvosym/umvs.fd)
+LaTeX Font Info:    No file Umvs.fd. on input line 139.
+
+
+LaTeX Font Warning: Font shape `U/mvs/m/n' undefined
+(Font)              using `U/cmr/m/n' instead on input line 139.
+
 \listitemmaincolumnwidth=\skip76
 \listdoubleitemmaincolumnwidth=\skip77
 \cvitemwithcommentmainbox=\box56
@@ -297,9 +302,9 @@ Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \mc@col@check@num=\count291
 \g__mc_curr_col_int=\count292
 ) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/lipsum/lipsum.sty (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2026-08-10 L3 programming layer (loader) 
+Package: expl3 2026-09-09 L3 programming layer (loader) 
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2026-07-20 L3 backend support: PDF output (LuaTeX)
+File: l3backend-luatex.def 2026-02-18 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count293
 Inserting `l3color' in `luaotfload.parse_color'.))
 Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
@@ -1155,7 +1160,7 @@ Package fontspec Info:
 (fontspec)             <->s*[1]"[AlegreyaSans-MediumItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+lnum;+smcp;"
 
 ) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2026/08/13 v3.22 programmable bibliographies (PK/MW)
+Package: biblatex 2026/09/24 v3.22a programmable bibliographies (PK/MW)
  (/home/fmoss/.TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
  (/home/fmoss/.TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
@@ -1231,7 +1236,7 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/biblatex/blx-dm.def
-File: blx-dm.def 2026/08/13 v3.22 biblatex datamodel (PK/MW)
+File: blx-dm.def 2026/09/24 v3.22a biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'apa.dbx' found.
@@ -1338,12 +1343,12 @@ Package biblatex Info: ... file 'blx-unicode.def' found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2026/08/13 v3.22 biblatex compatibility (PK/MW)
+File: blx-compat.def 2026/09/24 v3.22a biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/biblatex/biblatex.def
-File: biblatex.def 2026/08/13 v3.22 biblatex compatibility (PK/MW)
+File: biblatex.def 2026/09/24 v3.22a biblatex compatibility (PK/MW)
 \c@textcitecount=\count448
 \c@textcitetotal=\count449
 \c@textcitemaxnames=\count450
@@ -1365,7 +1370,7 @@ File: apa.bbx 2025/08/27 v9.20 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2026/08/13 v3.22 biblatex bibliography style (PK/MW)
+File: standard.bbx 2026/09/24 v3.22a biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count457
 \c@bbx:relatedtotal=\count458
 )
@@ -1405,13 +1410,13 @@ Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
-(biblatex)             2026-08-10 L3 programming layer (loader) 
+(biblatex)             2026-09-09 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2025-10-09 L3 Experimental document command parser
 )
-Package: blx-case-expl3 2026/08/13 v3.22 expl3 case changing code for biblatex
+Package: blx-case-expl3 2026/09/24 v3.22a expl3 case changing code for biblatex
 )) (/home/fmoss/GitHub/fabianmoss/cv/build/../bib/bibcategories.tex) (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2026-06-17 v7.01r Hypertext links for LaTeX
  (/home/fmoss/.TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
@@ -1586,7 +1591,7 @@ File: english-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2026/08/13 v3.22 biblatex localization (PK/MW)
+File: english.lbx 2026/09/24 v3.22a biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
 Package biblatex Info: ... file 'american-apa.lbx' found.
@@ -1595,11 +1600,11 @@ File: american-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/biblatex/lbx/american.lbx
-File: american.lbx 2026/08/13 v3.22 biblatex localization (PK/MW)
+File: american.lbx 2026/09/24 v3.22a biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2026/08/13 v3.22 biblatex localization (PK/MW)
+File: english.lbx 2026/09/24 v3.22a biblatex localization (PK/MW)
 ))))
 Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
@@ -1635,8 +1640,10 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmr' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+
+Missing character: There is no Í (U+00CD) in font cmr12!
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 177.
- (/home/fmoss/.TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
+(/home/fmoss/.TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 177.
@@ -1695,7 +1702,9 @@ Underfull \hbox (badness 10000) detected at line 18
 
 [1
 
-{/home/fmoss/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{/home/fmoss/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+Missing character: There is no Í (U+00CD) in font cmr12!
+]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
 (Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 34.
@@ -1789,7 +1798,9 @@ Underfull \hbox (badness 10000) detected at line 48
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
-) (./media.tex) (./skills.tex) [5] (./bibliography.tex
+) (./media.tex) (./skills.tex) [5]
+Missing character: There is no Í (U+00CD) in font cmr12!
+(./bibliography.tex
 Underfull \hbox (badness 10000) in paragraph at lines 200--8
 
  []
@@ -1829,6 +1840,8 @@ Overfull \hbox (0.8324pt too wide) has occurred while \output is active
 
 [6
 
+
+Missing character: There is no Í (U+00CD) in font cmr12!
 ]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
@@ -1944,7 +1957,7 @@ Overfull \hbox (4.97778pt too wide) has occurred while \output is active
  []
 
 [10]
-Underfull \hbox (badness 5231) in paragraph at lines 125--125
+Underfull \hbox (badness 5231) in paragraph at lines 126--126
 \TU/AlegreyaSans(0)/m/it/10 Diskur-s-anal-yse\TU/AlegreyaSans(0)/m/n/10 . Jahresta-gung der Gesellscha󰀙t für Musik-
  []
 
@@ -1961,20 +1974,20 @@ Overfull \hbox (4.5074pt too wide) has occurred while \output is active
 [12]
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSans(0)/sb/n' undefined
-(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 183.
+(Font)              using `TU/AlegreyaSans(0)/b/n' instead on input line 184.
 
 
-Underfull \hbox (badness 10000) detected at line 183
+Underfull \hbox (badness 10000) detected at line 184
 \TU/AlegreyaSans(0)/m/n/7 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--185
+Underfull \hbox (badness 10000) in paragraph at lines 186--186
 []\TU/AlegreyaSans(0)/b/n/10 Moss, F. C.\TU/AlegreyaSans(0)/m/n/10 , \TU/AlegreyaSans(0)/m/it/10 Musik und Math-e-matik -- Wie passt das
  []
 
 
-Underfull \hbox (badness 6978) in paragraph at lines 185--185
+Underfull \hbox (badness 6978) in paragraph at lines 186--186
 \TU/AlegreyaSans(0)/m/n/10 Universität Würzburg, 󰋍 Novem-ber 󰋇󰋅󰋇󰋉. [][]$https://www.
  []
 
@@ -1986,8 +1999,12 @@ Overfull \hbox (3.90959pt too wide) has occurred while \output is active
 [13] (/home/fmoss/GitHub/fabianmoss/cv/build/cv.aux)
  ***********
 LaTeX2e <2026-06-01>
-L3 programming layer <2026-08-10>
+L3 programming layer <2026-09-09>
  ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 57986E21B0B54651824C635890424FED;4831.
 Package logreq Info: Writing requests to 'cv.run.xml'.
@@ -2000,16 +2017,16 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 25607 strings out of 475635
+ 25603 strings out of 475604
  195583,2373549 words of node,token memory allocated
  1233 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 6 kern, 1 penalty, 3 glyph, 58 attribute, 92 glue_spec, 58 attribute_list, 1 write, 46 pdf_action nodes
-   avail lists: 1:10,2:3017,3:1491,4:444,5:2942,6:118,7:16296,8:119,9:868,10:25,11:1305
- 47849 multiletter control sequences out of 65536+600000
- 74 fonts using 15322215 bytes
+   avail lists: 1:10,2:3017,3:1491,4:444,5:2959,6:118,7:16296,8:119,9:868,10:25,11:1302
+ 47881 multiletter control sequences out of 65536+600000
+ 74 fonts using 15276135 bytes
  73i,13n,109p,2661b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-BoldItalic.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Italic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Regular.otf></usr/share/fonts/opentype/alegreya-sans/AlegreyaSans-Bold.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (13 pages, 151135 bytes).
+</home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-BoldItalic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on cv.pdf (13 pages, 150121 bytes).
 
 PDF statistics: 487 PDF objects out of 1000 (max. 8388607)
  449 compressed objects within 5 object streams
