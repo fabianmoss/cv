@@ -976,7 +976,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Music \& Science}
-      \field{title}{{\emph{Tong Yun San Gon} Theory: Corpus Evidence for the Distinctions among Three Chinese Heptatonic \emph{Diao}}}
+      \field{title}{{\emph{Tong Yun San Gong} Theory: Corpus Evidence for the Distinctions among Three Chinese Heptatonic \emph{Diao}}}
       \field{year}{accepted}
       \true{nocite}
       \annotation{item}{author}{default}{2}{}{0}{me}
@@ -3006,7 +3006,6 @@
       \strng{authornamehash}{a16eee59ab2bd6e1605a4f181776a372}
       \strng{authorfullhash}{4f2f805a210e487d5c2dcc9d638b3b00}
       \strng{authorfullhashraw}{4f2f805a210e487d5c2dcc9d638b3b00}
-      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3776,51 +3775,6 @@
       \verb https://anthology.ach.org/volumes/vol0003/the-rest-is-silence-leveraging-unseen-species-for/
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
-    \endentry
-    \entry{NachtweyPlaksinMoss2025}{article}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=fe409e935b50db23e19e62e39bb2562f}{%
-           family={Nachtwey},
-           familyi={N\bibinitperiod},
-           given={Adrian},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c2238403837cb27fc9ebe3e3259ebab8}{%
-           family={Plaksin},
-           familyi={P\bibinitperiod},
-           given={Anna\bibnamedelimb Viktoria\bibnamedelima Katrin},
-           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
-           family={Moss},
-           familyi={M\bibinitperiod},
-           given={Fabian\bibnamedelima C},
-           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{a16eee59ab2bd6e1605a4f181776a372}
-      \strng{fullhash}{d71324f253cef377fbedaa8bb38d4b45}
-      \strng{fullhashraw}{d71324f253cef377fbedaa8bb38d4b45}
-      \strng{bibnamehash}{d71324f253cef377fbedaa8bb38d4b45}
-      \strng{authorbibnamehash}{d71324f253cef377fbedaa8bb38d4b45}
-      \strng{authornamehash}{a16eee59ab2bd6e1605a4f181776a372}
-      \strng{authorfullhash}{d71324f253cef377fbedaa8bb38d4b45}
-      \strng{authorfullhashraw}{d71324f253cef377fbedaa8bb38d4b45}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{arXiv}
-      \field{title}{{Beyond Bars: Distribution of Edit Operations in Historical Prints}}
-      \field{year}{2025}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.48550/arXiv.2509.12786
-      \endverb
-      \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
     \entry{mossRoederKlinger2025}{report}{}{}
       \name{author}{5}{ul=2}{%
@@ -10287,7 +10241,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Music \& Science}
-      \field{title}{{\emph{Tong Yun San Gon} Theory: Corpus Evidence for the Distinctions among Three Chinese Heptatonic \emph{Diao}}}
+      \field{title}{{\emph{Tong Yun San Gong} Theory: Corpus Evidence for the Distinctions among Three Chinese Heptatonic \emph{Diao}}}
       \field{year}{accepted}
       \true{nocite}
       \annotation{item}{author}{default}{2}{}{0}{me}
@@ -12317,7 +12271,6 @@
       \strng{authornamehash}{a16eee59ab2bd6e1605a4f181776a372}
       \strng{authorfullhash}{4f2f805a210e487d5c2dcc9d638b3b00}
       \strng{authorfullhashraw}{4f2f805a210e487d5c2dcc9d638b3b00}
-      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -13087,51 +13040,6 @@
       \verb https://anthology.ach.org/volumes/vol0003/the-rest-is-silence-leveraging-unseen-species-for/
       \endverb
       \annotation{item}{author}{default}{1}{}{0}{me}
-    \endentry
-    \entry{NachtweyPlaksinMoss2025}{article}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=fe409e935b50db23e19e62e39bb2562f}{%
-           family={Nachtwey},
-           familyi={N\bibinitperiod},
-           given={Adrian},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c2238403837cb27fc9ebe3e3259ebab8}{%
-           family={Plaksin},
-           familyi={P\bibinitperiod},
-           given={Anna\bibnamedelimb Viktoria\bibnamedelima Katrin},
-           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
-           family={Moss},
-           familyi={M\bibinitperiod},
-           given={Fabian\bibnamedelima C},
-           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{a16eee59ab2bd6e1605a4f181776a372}
-      \strng{fullhash}{d71324f253cef377fbedaa8bb38d4b45}
-      \strng{fullhashraw}{d71324f253cef377fbedaa8bb38d4b45}
-      \strng{bibnamehash}{d71324f253cef377fbedaa8bb38d4b45}
-      \strng{authorbibnamehash}{d71324f253cef377fbedaa8bb38d4b45}
-      \strng{authornamehash}{a16eee59ab2bd6e1605a4f181776a372}
-      \strng{authorfullhash}{d71324f253cef377fbedaa8bb38d4b45}
-      \strng{authorfullhashraw}{d71324f253cef377fbedaa8bb38d4b45}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{arXiv}
-      \field{title}{{Beyond Bars: Distribution of Edit Operations in Historical Prints}}
-      \field{year}{2025}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.48550/arXiv.2509.12786
-      \endverb
-      \annotation{item}{author}{default}{3}{}{0}{me}
     \endentry
     \entry{mossRoederKlinger2025}{report}{}{}
       \name{author}{5}{ul=2}{%
