@@ -277,10 +277,14 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{{Shaping Early Music Research in the Digital Era: Case Studies on Plainchant}}
+      \field{isbn}{978-2-503-62932-2}
       \field{series}{Musicalia Antiquitatis \& Medii Aevi (MUSAM)}
       \field{title}{{From JPEG to Tree: Analysis of Melodic Variants in the Graduale Synopticum Edition}}
       \field{year}{accepted}
       \true{nocite}
+      \verb{doi}
+      \verb 10.1484M.MUSAM-EB.5.158344
+      \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{Eipert2023_SystemTropeElements}{unpublished}{}{}
@@ -9821,10 +9825,14 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{{Shaping Early Music Research in the Digital Era: Case Studies on Plainchant}}
+      \field{isbn}{978-2-503-62932-2}
       \field{series}{Musicalia Antiquitatis \& Medii Aevi (MUSAM)}
       \field{title}{{From JPEG to Tree: Analysis of Melodic Variants in the Graduale Synopticum Edition}}
       \field{year}{accepted}
       \true{nocite}
+      \verb{doi}
+      \verb 10.1484M.MUSAM-EB.5.158344
+      \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{Eipert2023_SystemTropeElements}{unpublished}{}{}
