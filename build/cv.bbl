@@ -1658,6 +1658,78 @@
       \field{year}{2021-07-28/2021-07-31}
       \true{nocite}
     \endentry
+    \entry{MossMcLeodFrieler}{inbook}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cbef11680ce6124dbe9d8aba9b46e92}{%
+           family={McLeod},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d1d049701544a2a289c891f0e55d099}{%
+           family={Frieler},
+           familyi={F\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=7b55aeae36d7b2932a00a5b2612b4aac}{%
+           family={Acquavella-Rauch},
+           familyi={A\bibinithyphendelim R\bibinitperiod},
+           given={Stefanie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=632646a4a8f58d32e9152673965c8a87}{%
+           family={Martensen},
+           familyi={M\bibinitperiod},
+           given={Karin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=0d3b1b9697f741c71ab81f965b01d055}{%
+           family={Ried},
+           familyi={R\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod}}}%
+        {{hash=eda4c218a2cc7348b47bc980ecc4a52f}{%
+           family={Schüler},
+           familyi={S\bibinitperiod},
+           given={Nico},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Laaber}%
+      }
+      \strng{namehash}{a5dea51072dc95fd1c91f639c4bf00ae}
+      \strng{fullhash}{4523075decc5c8d5f72df18a6cecf38f}
+      \strng{fullhashraw}{4523075decc5c8d5f72df18a6cecf38f}
+      \strng{bibnamehash}{4523075decc5c8d5f72df18a6cecf38f}
+      \strng{authorbibnamehash}{4523075decc5c8d5f72df18a6cecf38f}
+      \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
+      \strng{authorfullhash}{4523075decc5c8d5f72df18a6cecf38f}
+      \strng{authorfullhashraw}{4523075decc5c8d5f72df18a6cecf38f}
+      \strng{editorbibnamehash}{5c912785104fafaaf56422b8527ca597}
+      \strng{editornamehash}{9751ffc67ce8c85b084cd0aabe6ff332}
+      \strng{editorfullhash}{5c912785104fafaaf56422b8527ca597}
+      \strng{editorfullhashraw}{5c912785104fafaaf56422b8527ca597}
+      \field{extraname}{4}
+      \field{sortinit}{i}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Kompendium Digitale Musikforschung}}
+      \field{title}{{Music Information Retrieval und Computational Musicology}}
+      \field{year}{in preparation}
+      \true{nocite}
+      \annotation{item}{author}{default}{1}{}{0}{me}
+    \endentry
     \entry{Nachtwey2025_BarsDistributionDifferences}{unpublished}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a3b9846321268d8b2ad8f886b514d019}{%
@@ -4685,7 +4757,7 @@
       \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
       \strng{authorfullhash}{31934c58552d8c28a9609a26923b9ef8}
       \strng{authorfullhashraw}{31934c58552d8c28a9609a26923b9ef8}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -6800,7 +6872,7 @@
       \strng{editornamehash}{0f5718ac33fa58f0570fbce8567a2696}
       \strng{editorfullhash}{d6cd53e212b7bdf31846bd7c7646aa11}
       \strng{editorfullhashraw}{d6cd53e212b7bdf31846bd7c7646aa11}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -8253,7 +8325,7 @@
       \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
       \strng{authorfullhash}{44bbfba56b0fdb2bd5455b7722ceb08a}
       \strng{authorfullhashraw}{44bbfba56b0fdb2bd5455b7722ceb08a}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -10854,6 +10926,78 @@
       \field{title}{Digitizinga19th-Centurymusictheorydebateforcomputational Analysis}
       \field{year}{2021-11-17/2021-11-19}
       \true{nocite}
+    \endentry
+    \entry{MossMcLeodFrieler}{inbook}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cbef11680ce6124dbe9d8aba9b46e92}{%
+           family={McLeod},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d1d049701544a2a289c891f0e55d099}{%
+           family={Frieler},
+           familyi={F\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=7b55aeae36d7b2932a00a5b2612b4aac}{%
+           family={Acquavella-Rauch},
+           familyi={A\bibinithyphendelim R\bibinitperiod},
+           given={Stefanie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=632646a4a8f58d32e9152673965c8a87}{%
+           family={Martensen},
+           familyi={M\bibinitperiod},
+           given={Karin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=0d3b1b9697f741c71ab81f965b01d055}{%
+           family={Ried},
+           familyi={R\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod}}}%
+        {{hash=eda4c218a2cc7348b47bc980ecc4a52f}{%
+           family={Schüler},
+           familyi={S\bibinitperiod},
+           given={Nico},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Laaber}%
+      }
+      \strng{namehash}{a5dea51072dc95fd1c91f639c4bf00ae}
+      \strng{fullhash}{4523075decc5c8d5f72df18a6cecf38f}
+      \strng{fullhashraw}{4523075decc5c8d5f72df18a6cecf38f}
+      \strng{bibnamehash}{4523075decc5c8d5f72df18a6cecf38f}
+      \strng{authorbibnamehash}{4523075decc5c8d5f72df18a6cecf38f}
+      \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
+      \strng{authorfullhash}{4523075decc5c8d5f72df18a6cecf38f}
+      \strng{authorfullhashraw}{4523075decc5c8d5f72df18a6cecf38f}
+      \strng{editorbibnamehash}{5c912785104fafaaf56422b8527ca597}
+      \strng{editornamehash}{9751ffc67ce8c85b084cd0aabe6ff332}
+      \strng{editorfullhash}{5c912785104fafaaf56422b8527ca597}
+      \strng{editorfullhashraw}{5c912785104fafaaf56422b8527ca597}
+      \field{extraname}{4}
+      \field{sortinit}{i}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Kompendium Digitale Musikforschung}}
+      \field{title}{{Music Information Retrieval und Computational Musicology}}
+      \field{year}{in preparation}
+      \true{nocite}
+      \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
     \entry{Moss2022_ReadingMusicTheory}{unpublished}{}{}
       \name{author}{2}{}{%
@@ -13918,7 +14062,7 @@
       \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
       \strng{authorfullhash}{31934c58552d8c28a9609a26923b9ef8}
       \strng{authorfullhashraw}{31934c58552d8c28a9609a26923b9ef8}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -16065,7 +16209,7 @@
       \strng{editornamehash}{0f5718ac33fa58f0570fbce8567a2696}
       \strng{editorfullhash}{d6cd53e212b7bdf31846bd7c7646aa11}
       \strng{editorfullhashraw}{d6cd53e212b7bdf31846bd7c7646aa11}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -17564,7 +17708,7 @@
       \strng{authornamehash}{a5dea51072dc95fd1c91f639c4bf00ae}
       \strng{authorfullhash}{44bbfba56b0fdb2bd5455b7722ceb08a}
       \strng{authorfullhashraw}{44bbfba56b0fdb2bd5455b7722ceb08a}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
