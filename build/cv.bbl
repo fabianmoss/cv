@@ -1689,7 +1689,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{{Kompendium Digitale Musikforschung}}
-      \field{title}{{Music Information Retrieval und Computational Musicology}}
+      \field{title}{{Music Information Retrieval and Computational Musicology}}
       \field{year}{in preparation}
       \true{nocite}
       \annotation{item}{author}{default}{1}{}{0}{me}
@@ -10966,7 +10966,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{{Kompendium Digitale Musikforschung}}
-      \field{title}{{Music Information Retrieval und Computational Musicology}}
+      \field{title}{{Music Information Retrieval and Computational Musicology}}
       \field{year}{in preparation}
       \true{nocite}
       \annotation{item}{author}{default}{1}{}{0}{me}
