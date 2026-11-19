@@ -2074,6 +2074,80 @@
       \verb 2015
       \endverb
     \endentry
+    \entry{EerolaEtAl2027}{book}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=f4044260c57473e5384a7b04e75aa89e}{%
+           family={Eerola},
+           familyi={E\bibinitperiod},
+           given={Tuomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69bd1d7ec28abd8ae995c68e8cd4b2b0}{%
+           family={Devaney},
+           familyi={D\bibinitperiod},
+           given={Johanna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd7841be9535131b994cd0cfea71caf4}{%
+           family={Hartmann},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fdae87cad6eeb39b72cfdb074d296c7b}{%
+           family={Herremans},
+           familyi={H\bibinitperiod},
+           given={Dorien},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e17194e9241f34d421884f41096c0bc0}{%
+           family={Stupacher},
+           familyi={S\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ef091a0bef812d0a1716c9eb95c5518}{%
+           family={{van der Walle}},
+           familyi={v\bibinitperiod},
+           given={Hazel},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {GitHub Pages}%
+      }
+      \strng{namehash}{c3b2d775b5c29d520d99a4c2fbf95e73}
+      \strng{fullhash}{ec54b4f2eb3617ca196d1e8c86d882b5}
+      \strng{fullhashraw}{ec54b4f2eb3617ca196d1e8c86d882b5}
+      \strng{bibnamehash}{ec54b4f2eb3617ca196d1e8c86d882b5}
+      \strng{authorbibnamehash}{ec54b4f2eb3617ca196d1e8c86d882b5}
+      \strng{authornamehash}{c3b2d775b5c29d520d99a4c2fbf95e73}
+      \strng{authorfullhash}{ec54b4f2eb3617ca196d1e8c86d882b5}
+      \strng{authorfullhashraw}{ec54b4f2eb3617ca196d1e8c86d882b5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Open {{Research}} for {{Music}}: {{A Guide}} for {{Open Research Practices}} for {{Music Researchers}}}
+      \field{year}{2027}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://orm-guide.github.io/guide/
+      \endverb
+      \verb{url}
+      \verb https://orm-guide.github.io/guide/
+      \endverb
+      \annotation{item}{author}{default}{5}{}{0}{me}
+    \endentry
     \entry{ahrendtCOSTActionEarlyMuse2026}{report}{}{}
       \name{author}{120}{ul=2}{%
         {{un=0,uniquepart=base,hash=93994c781610b33a49dbc41bd141cbca}{%
@@ -11482,6 +11556,80 @@
       \verb{url}
       \verb 2015
       \endverb
+    \endentry
+    \entry{EerolaEtAl2027}{book}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=f4044260c57473e5384a7b04e75aa89e}{%
+           family={Eerola},
+           familyi={E\bibinitperiod},
+           given={Tuomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69bd1d7ec28abd8ae995c68e8cd4b2b0}{%
+           family={Devaney},
+           familyi={D\bibinitperiod},
+           given={Johanna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd7841be9535131b994cd0cfea71caf4}{%
+           family={Hartmann},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fdae87cad6eeb39b72cfdb074d296c7b}{%
+           family={Herremans},
+           familyi={H\bibinitperiod},
+           given={Dorien},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e17194e9241f34d421884f41096c0bc0}{%
+           family={Stupacher},
+           familyi={S\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ef091a0bef812d0a1716c9eb95c5518}{%
+           family={{van der Walle}},
+           familyi={v\bibinitperiod},
+           given={Hazel},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {GitHub Pages}%
+      }
+      \strng{namehash}{c3b2d775b5c29d520d99a4c2fbf95e73}
+      \strng{fullhash}{ec54b4f2eb3617ca196d1e8c86d882b5}
+      \strng{fullhashraw}{ec54b4f2eb3617ca196d1e8c86d882b5}
+      \strng{bibnamehash}{ec54b4f2eb3617ca196d1e8c86d882b5}
+      \strng{authorbibnamehash}{ec54b4f2eb3617ca196d1e8c86d882b5}
+      \strng{authornamehash}{c3b2d775b5c29d520d99a4c2fbf95e73}
+      \strng{authorfullhash}{ec54b4f2eb3617ca196d1e8c86d882b5}
+      \strng{authorfullhashraw}{ec54b4f2eb3617ca196d1e8c86d882b5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Open {{Research}} for {{Music}}: {{A Guide}} for {{Open Research Practices}} for {{Music Researchers}}}
+      \field{year}{2027}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://orm-guide.github.io/guide/
+      \endverb
+      \verb{url}
+      \verb https://orm-guide.github.io/guide/
+      \endverb
+      \annotation{item}{author}{default}{5}{}{0}{me}
     \endentry
     \entry{ahrendtCOSTActionEarlyMuse2026}{report}{}{}
       \name{author}{120}{ul=2}{%
