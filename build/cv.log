@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.10.1)  19 NOV 2026 13:16
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.10.1)  19 NOV 2026 13:37
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -2016,12 +2016,12 @@ Here is how much of LuaTeX's memory you used:
  195583,2373549 words of node,token memory allocated
  1243 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 6 kern, 1 penalty, 3 glyph, 59 attribute, 92 glue_spec, 59 attribute_list, 1 write, 47 pdf_action nodes
-   avail lists: 1:10,2:3125,3:1444,4:448,5:2960,6:116,7:17098,8:119,9:868,10:25,11:1289
+   avail lists: 1:10,2:3147,3:1459,4:452,5:2962,6:117,7:17382,8:119,9:868,10:25,11:1290
  47900 multiletter control sequences out of 65536+600000
  74 fonts using 15276135 bytes
  73i,12n,109p,2661b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-BoldItalic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Italic.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-Bold.otf></home/fmoss/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on cv.pdf (13 pages, 151975 bytes).
+Output written on cv.pdf (13 pages, 152166 bytes).
 
 PDF statistics: 490 PDF objects out of 1000 (max. 8388607)
  452 compressed objects within 5 object streams
