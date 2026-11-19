@@ -944,7 +944,7 @@
       \true{nocite}
     \endentry
     \entry{Meng_Cross-Cultural-Perception}{article}{}{}
-      \name{author}{4}{ul=2}{%
+      \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=31d5b30645243915087895c7aa8af55c}{%
            family={Meng},
            familyi={M\bibinitperiod},
@@ -970,14 +970,15 @@
            giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{98f6b41b043a9b59d43b3701eaf0af63}
+      \strng{namehash}{294b792e1471f7823ee6fb9bc552e6e7}
       \strng{fullhash}{25a42acd020eea640f19bba0e9508efb}
       \strng{fullhashraw}{25a42acd020eea640f19bba0e9508efb}
       \strng{bibnamehash}{25a42acd020eea640f19bba0e9508efb}
       \strng{authorbibnamehash}{25a42acd020eea640f19bba0e9508efb}
-      \strng{authornamehash}{98f6b41b043a9b59d43b3701eaf0af63}
+      \strng{authornamehash}{294b792e1471f7823ee6fb9bc552e6e7}
       \strng{authorfullhash}{25a42acd020eea640f19bba0e9508efb}
       \strng{authorfullhashraw}{25a42acd020eea640f19bba0e9508efb}
+      \field{extraname}{2}
       \field{sortinit}{a}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -989,47 +990,6 @@
       \field{year}{accepted}
       \true{nocite}
       \annotation{item}{author}{default}{3}{}{0}{me}
-    \endentry
-    \entry{Meng_MnS_Diao}{article}{}{}
-      \name{author}{3}{ul=3}{%
-        {{un=0,uniquepart=base,hash=31d5b30645243915087895c7aa8af55c}{%
-           family={Meng},
-           familyi={M\bibinitperiod},
-           given={Shuxin},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
-           family={Moss},
-           familyi={M\bibinitperiod},
-           given={Fabian\bibnamedelima C.},
-           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
-           family={Rohrmeier},
-           familyi={R\bibinitperiod},
-           given={Martin},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{fullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{fullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{bibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{authorbibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{authornamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{authorfullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{authorfullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \field{sortinit}{a}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Music \& Science}
-      \field{title}{{\emph{Tong Yun San Gong} Theory: Corpus Evidence for the Distinctions among Three Chinese Heptatonic \emph{Diao}}}
-      \field{year}{accepted}
-      \true{nocite}
-      \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{Moss2020_AnalyzingMusicalPieces}{unpublished}{}{}
       \name{author}{1}{}{%
@@ -3099,6 +3059,51 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
+    \entry{Meng_MnS_Diao}{article}{}{}
+      \name{author}{3}{ul=3}{%
+        {{un=0,uniquepart=base,hash=31d5b30645243915087895c7aa8af55c}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Shuxin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=7c7184e67456bd174f134b9beeda1a47}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{fullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{fullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{bibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authorbibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authornamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authorfullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authorfullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Music \& Science}
+      \field{title}{{\emph{Tong Yun San Gong} Theory: Corpus Evidence for the Distinctions among Three Chinese Heptatonic \emph{Diao}}}
+      \field{volume}{9}
+      \field{year}{2026}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1177/20592043261500932
+      \endverb
+      \annotation{item}{author}{default}{2}{}{0}{me}
+    \endentry
     \entry{NachtweyPlaksinMoss}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=fe409e935b50db23e19e62e39bb2562f}{%
@@ -3614,7 +3619,7 @@
       \annotation{item}{author}{default}{5}{}{0}{me}
     \endentry
     \entry{meng_2026}{dataset}{}{}
-      \name{author}{3}{}{%
+      \name{author}{3}{ul=3}{%
         {{un=0,uniquepart=base,hash=31d5b30645243915087895c7aa8af55c}{%
            family={Meng},
            familyi={M\bibinitperiod},
@@ -3627,25 +3632,24 @@
            given={Fabian\bibnamedelima C.},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=5666f8ed875e4f2178209bf08ee48ea7}{%
+        {{un=1,uniquepart=given,hash=5666f8ed875e4f2178209bf08ee48ea7}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={Martin\bibnamedelima A.},
            giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{publisher}{1}{%
         {Zenodo}%
       }
-      \strng{namehash}{294b792e1471f7823ee6fb9bc552e6e7}
+      \strng{namehash}{76cacda4091f0894237022c8e01d81f4}
       \strng{fullhash}{76cacda4091f0894237022c8e01d81f4}
       \strng{fullhashraw}{76cacda4091f0894237022c8e01d81f4}
       \strng{bibnamehash}{76cacda4091f0894237022c8e01d81f4}
       \strng{authorbibnamehash}{76cacda4091f0894237022c8e01d81f4}
-      \strng{authornamehash}{294b792e1471f7823ee6fb9bc552e6e7}
+      \strng{authornamehash}{76cacda4091f0894237022c8e01d81f4}
       \strng{authorfullhash}{76cacda4091f0894237022c8e01d81f4}
       \strng{authorfullhashraw}{76cacda4091f0894237022c8e01d81f4}
-      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -5918,12 +5922,12 @@
            given={Markus},
            giveni={M\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+        {{un=1,uniquepart=given,hash=7c7184e67456bd174f134b9beeda1a47}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={Martin},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \strng{namehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{fullhash}{eb8460df4d783240a53ca9b4d8cba12d}
@@ -6905,12 +6909,12 @@
     \endentry
     \entry{Rohrmeier2021_FormalModelExtended}{inbook}{}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+        {{un=1,uniquepart=given,hash=7c7184e67456bd174f134b9beeda1a47}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={Martin},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
            familyi={M\bibinitperiod},
@@ -7082,12 +7086,12 @@
            given={Fabian\bibnamedelima C},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
+        {{un=1,uniquepart=given,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={M},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{location}{1}{%
         {Montreux, Switzerland}%
@@ -7324,12 +7328,12 @@
            given={Fabian\bibnamedelima C.},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+        {{un=1,uniquepart=given,hash=7c7184e67456bd174f134b9beeda1a47}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={Martin},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \strng{namehash}{229fb2d3c64ed5d5489dde4698fd149d}
       \strng{fullhash}{229fb2d3c64ed5d5489dde4698fd149d}
@@ -7446,12 +7450,12 @@
            given={Markus},
            giveni={M\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+        {{un=1,uniquepart=given,hash=7c7184e67456bd174f134b9beeda1a47}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={Martin},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{publisher}{1}{%
         {Zenodo}%
@@ -8655,12 +8659,12 @@
            given={Fabian\bibnamedelima C},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
+        {{un=1,uniquepart=given,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={M},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{location}{1}{%
         {Strasbourg, France}%
@@ -8693,12 +8697,12 @@
            given={Fabian\bibnamedelima C},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
+        {{un=1,uniquepart=given,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={M},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=aadc18df5eee0d8c592609a382245cab}{%
            family={Bravo},
            familyi={B\bibinitperiod},
@@ -9040,12 +9044,12 @@
            given={Fabian\bibnamedelima C},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
+        {{un=1,uniquepart=given,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={M},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{location}{2}{%
         {Massachusetts Institute of Technology, Department of Brain}%
@@ -9080,12 +9084,12 @@
            given={Fabian\bibnamedelima C},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
+        {{un=1,uniquepart=given,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={M},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{location}{1}{%
         {Helsinki, Finland}%
@@ -9119,12 +9123,12 @@
            given={Fabian\bibnamedelima C},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
+        {{un=1,uniquepart=given,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={M},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{location}{2}{%
         {Massachusetts Institute of Technology, Department of Linguistics}%
@@ -9159,12 +9163,12 @@
            given={Fabian\bibnamedelima C},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
+        {{un=1,uniquepart=given,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={M},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{location}{2}{%
         {Massachusetts Institute of Technology, Department of Linguistics}%
@@ -10331,7 +10335,7 @@
       \true{nocite}
     \endentry
     \entry{Meng_Cross-Cultural-Perception}{article}{}{}
-      \name{author}{4}{ul=2}{%
+      \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=31d5b30645243915087895c7aa8af55c}{%
            family={Meng},
            familyi={M\bibinitperiod},
@@ -10357,14 +10361,15 @@
            giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{98f6b41b043a9b59d43b3701eaf0af63}
+      \strng{namehash}{294b792e1471f7823ee6fb9bc552e6e7}
       \strng{fullhash}{25a42acd020eea640f19bba0e9508efb}
       \strng{fullhashraw}{25a42acd020eea640f19bba0e9508efb}
       \strng{bibnamehash}{25a42acd020eea640f19bba0e9508efb}
       \strng{authorbibnamehash}{25a42acd020eea640f19bba0e9508efb}
-      \strng{authornamehash}{98f6b41b043a9b59d43b3701eaf0af63}
+      \strng{authornamehash}{294b792e1471f7823ee6fb9bc552e6e7}
       \strng{authorfullhash}{25a42acd020eea640f19bba0e9508efb}
       \strng{authorfullhashraw}{25a42acd020eea640f19bba0e9508efb}
+      \field{extraname}{2}
       \field{sortinit}{a}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -10376,47 +10381,6 @@
       \field{year}{accepted}
       \true{nocite}
       \annotation{item}{author}{default}{3}{}{0}{me}
-    \endentry
-    \entry{Meng_MnS_Diao}{article}{}{}
-      \name{author}{3}{ul=3}{%
-        {{un=0,uniquepart=base,hash=31d5b30645243915087895c7aa8af55c}{%
-           family={Meng},
-           familyi={M\bibinitperiod},
-           given={Shuxin},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
-           family={Moss},
-           familyi={M\bibinitperiod},
-           given={Fabian\bibnamedelima C.},
-           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
-           family={Rohrmeier},
-           familyi={R\bibinitperiod},
-           given={Martin},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{fullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{fullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{bibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{authorbibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{authornamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{authorfullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \strng{authorfullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
-      \field{sortinit}{a}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Music \& Science}
-      \field{title}{{\emph{Tong Yun San Gong} Theory: Corpus Evidence for the Distinctions among Three Chinese Heptatonic \emph{Diao}}}
-      \field{year}{accepted}
-      \true{nocite}
-      \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{Moss2020_AnalyzingMusicalPieces}{unpublished}{}{}
       \name{author}{1}{}{%
@@ -12486,6 +12450,51 @@
       \endverb
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
+    \entry{Meng_MnS_Diao}{article}{}{}
+      \name{author}{3}{ul=3}{%
+        {{un=0,uniquepart=base,hash=31d5b30645243915087895c7aa8af55c}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Shuxin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Fabian\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=7c7184e67456bd174f134b9beeda1a47}{%
+           family={Rohrmeier},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{fullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{fullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{bibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authorbibnamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authornamehash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authorfullhash}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \strng{authorfullhashraw}{2c9db02a8337a5b3536ab6a40a11c3bd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Music \& Science}
+      \field{title}{{\emph{Tong Yun San Gong} Theory: Corpus Evidence for the Distinctions among Three Chinese Heptatonic \emph{Diao}}}
+      \field{volume}{9}
+      \field{year}{2026}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1177/20592043261500932
+      \endverb
+      \annotation{item}{author}{default}{2}{}{0}{me}
+    \endentry
     \entry{NachtweyPlaksinMoss}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=fe409e935b50db23e19e62e39bb2562f}{%
@@ -13001,7 +13010,7 @@
       \annotation{item}{author}{default}{5}{}{0}{me}
     \endentry
     \entry{meng_2026}{dataset}{}{}
-      \name{author}{3}{}{%
+      \name{author}{3}{ul=3}{%
         {{un=0,uniquepart=base,hash=31d5b30645243915087895c7aa8af55c}{%
            family={Meng},
            familyi={M\bibinitperiod},
@@ -13014,25 +13023,24 @@
            given={Fabian\bibnamedelima C.},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=5666f8ed875e4f2178209bf08ee48ea7}{%
+        {{un=1,uniquepart=given,hash=5666f8ed875e4f2178209bf08ee48ea7}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={Martin\bibnamedelima A.},
            giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{publisher}{1}{%
         {Zenodo}%
       }
-      \strng{namehash}{294b792e1471f7823ee6fb9bc552e6e7}
+      \strng{namehash}{76cacda4091f0894237022c8e01d81f4}
       \strng{fullhash}{76cacda4091f0894237022c8e01d81f4}
       \strng{fullhashraw}{76cacda4091f0894237022c8e01d81f4}
       \strng{bibnamehash}{76cacda4091f0894237022c8e01d81f4}
       \strng{authorbibnamehash}{76cacda4091f0894237022c8e01d81f4}
-      \strng{authornamehash}{294b792e1471f7823ee6fb9bc552e6e7}
+      \strng{authornamehash}{76cacda4091f0894237022c8e01d81f4}
       \strng{authorfullhash}{76cacda4091f0894237022c8e01d81f4}
       \strng{authorfullhashraw}{76cacda4091f0894237022c8e01d81f4}
-      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -15305,12 +15313,12 @@
            given={Markus},
            giveni={M\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+        {{un=1,uniquepart=given,hash=7c7184e67456bd174f134b9beeda1a47}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={Martin},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \strng{namehash}{eb8460df4d783240a53ca9b4d8cba12d}
       \strng{fullhash}{eb8460df4d783240a53ca9b4d8cba12d}
@@ -16292,12 +16300,12 @@
     \endentry
     \entry{Rohrmeier2021_FormalModelExtended}{inbook}{}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+        {{un=1,uniquepart=given,hash=7c7184e67456bd174f134b9beeda1a47}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={Martin},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=ceeb25ba116874e69a0d91df2df39044}{%
            family={Moss},
            familyi={M\bibinitperiod},
@@ -16469,12 +16477,12 @@
            given={Fabian\bibnamedelima C},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
+        {{un=1,uniquepart=given,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={M},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{location}{1}{%
         {Montreux, Switzerland}%
@@ -16711,12 +16719,12 @@
            given={Fabian\bibnamedelima C.},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+        {{un=1,uniquepart=given,hash=7c7184e67456bd174f134b9beeda1a47}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={Martin},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \strng{namehash}{229fb2d3c64ed5d5489dde4698fd149d}
       \strng{fullhash}{229fb2d3c64ed5d5489dde4698fd149d}
@@ -16833,12 +16841,12 @@
            given={Markus},
            giveni={M\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=7c7184e67456bd174f134b9beeda1a47}{%
+        {{un=1,uniquepart=given,hash=7c7184e67456bd174f134b9beeda1a47}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={Martin},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{publisher}{1}{%
         {Zenodo}%
@@ -18042,12 +18050,12 @@
            given={Fabian\bibnamedelima C},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
+        {{un=1,uniquepart=given,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={M},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{location}{1}{%
         {Strasbourg, France}%
@@ -18080,12 +18088,12 @@
            given={Fabian\bibnamedelima C},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
+        {{un=1,uniquepart=given,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={M},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=aadc18df5eee0d8c592609a382245cab}{%
            family={Bravo},
            familyi={B\bibinitperiod},
@@ -18427,12 +18435,12 @@
            given={Fabian\bibnamedelima C},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
+        {{un=1,uniquepart=given,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={M},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{location}{2}{%
         {Massachusetts Institute of Technology, Department of Brain}%
@@ -18467,12 +18475,12 @@
            given={Fabian\bibnamedelima C},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
+        {{un=1,uniquepart=given,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={M},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{location}{1}{%
         {Helsinki, Finland}%
@@ -18506,12 +18514,12 @@
            given={Fabian\bibnamedelima C},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
+        {{un=1,uniquepart=given,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={M},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{location}{2}{%
         {Massachusetts Institute of Technology, Department of Linguistics}%
@@ -18546,12 +18554,12 @@
            given={Fabian\bibnamedelima C},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
+        {{un=1,uniquepart=given,hash=b7b21d8d26858dc23819cb7a929e80f7}{%
            family={Rohrmeier},
            familyi={R\bibinitperiod},
            given={M},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{location}{2}{%
         {Massachusetts Institute of Technology, Department of Linguistics}%
